@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight, faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { Tooltip } from "react-tooltip";
-import characterWordsData from "./data/characterData.json";
+import characterWordsData from "./data/characterdata.json";
 import wordSentimentList from "./data/wordssentiment.json";
 import CharacterSentimentChart from "./components/CharacterSentimentChart";
 
