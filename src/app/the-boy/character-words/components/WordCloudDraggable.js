@@ -28,7 +28,7 @@ const WordCloud = ({ data }) => {
       .size([width, height])
       .words(
         data.map((d) => ({
-          text: d.name,
+          text: d.word,
           size: d.value + 10,
           value: d.value,
           category: d.category,
@@ -78,7 +78,7 @@ const WordCloud = ({ data }) => {
         })
         .style("fill", function (d) {
           // Find the original data item that corresponds to this word
-          const originalDataItem = data.find((item) => item.name === d.text);
+          const originalDataItem = data.find((item) => item.word === d.text);
 
           // Apply the color scale to this data item's category
           return colorScale(originalDataItem.category);
