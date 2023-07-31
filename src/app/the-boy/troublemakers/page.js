@@ -89,7 +89,7 @@ const conflictSituations = [
   },
 ];
 const characterTypeData = [
-  { character: "Dahl", charType: "Children" },
+  { character: "Boy", charType: "Children" },
   { character: "Thwaites", charType: "Children" },
   { character: "Mom", charType: "Adult" },
   { character: "Dad", charType: "Adult" },
@@ -180,23 +180,21 @@ export default function Home() {
             <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
               The Boy
             </span>
-            <h1 className="text-2xl pb-2">
-              Who created the most trouble - children or adult?
+            <h1 className="text-xl pb-2">
+              Who do you think is most responsible for all the trouble in this
+              book?
             </h1>
-            <p>
-              Go through the table and select which character is responsible for
-              trouble in the situation mentioned.
-            </p>
           </div>
           <div className="overflow-auto h-[70vh]">
             <table className="w-full table-auto">
               <thead className="border-b-2 sticky top-0 border-gray-300">
                 <tr className="bg-gray-100">
                   <th className="text-left p-2 border-r border-b-2 border-gray-300">
-                    Situation
+                    Scene
                   </th>
                   <th className="text-left p-2 border-b-2 border-gray-300">
-                    Select who to blame
+                    In each scene below, decide who you think is most
+                    responsible.
                   </th>
                 </tr>
               </thead>
@@ -241,7 +239,7 @@ export default function Home() {
 
         <div className="w-1/2 bg-slate-100 overflow-auto px-24 py-24">
           <div className="py-4">
-            <h1 className="text-2xl">Create the chart to find out!</h1>
+            <h1 className="text-2xl">This chart reflects your responses</h1>
           </div>
 
           <ConflictBarChart data={characterData} />
