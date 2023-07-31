@@ -1,6 +1,7 @@
 "use client";
 
-import WordCloudComponent from "./components/WordCloudDraggable";
+import WordCloudDraggable from "../../utils/charts/WordCloudDraggable";
+import { filterWordCloudData } from "@/app/utils/functions/general-functions";
 
 export default function Home() {
   const data = [
@@ -15,11 +16,17 @@ export default function Home() {
     { word: "Rice", category: "Grain", value: 25 },
     { word: "Wheat", category: "Grain", value: 18 },
   ];
+
+  const wordsToRemove = ["Apple"];
+  const categoriesToRemove = [];
   return (
     <main>
       <div className="h-screen flex overflow-hidden bg-gray-100">
         <div className="h-full w-full">
-          <WordCloudComponent data={data} />
+          <WordCloudDraggable
+            data={filterWordCloudData(data, wordsToRemove, categoriesToRemove)}
+            wordScaleOffset={15}
+          />
         </div>
       </div>
     </main>

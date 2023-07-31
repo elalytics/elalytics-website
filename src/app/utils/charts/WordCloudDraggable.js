@@ -3,8 +3,45 @@ import * as d3 from "d3";
 import d3Cloud from "d3-cloud";
 import { Tooltip } from "react-tooltip";
 
-const WordCloud = ({ data }) => {
+function findMaxMin(data) {
+  var minimum = data.reduce(
+    (min, p) => (p.value < min ? p.value : min),
+    data[0].value
+  );
+  var maximum = data.reduce(
+    (max, p) => (p.value > max ? p.value : max),
+    data[0].value
+  );
+
+  return { max: maximum, min: minimum };
+}
+
+function selectWordScale(minMaxValues, type) {
+  if (type === "linear") {
+    const wordScaleLinear = d3
+      .scaleLinear()
+      .domain([minMaxValues.min, minMaxValues.max])
+      .range([10, 100]);
+    return wordScaleLinear;
+  } else if (type === "log") {
+    const wordScaleLog = d3
+      .scaleLog()
+      .domain([minMaxValues.min, minMaxValues.max])
+      .range([10, 100]);
+    return wordScaleLog;
+  }
+}
+
+const WordCloudDraggable = ({ data, wordSizeMultiplier, scaleType }) => {
   const [tooltip, showTooltip] = useState(true);
+
+  const minMax = findMaxMin(data);
+
+  const wordScale = selectWordScale(
+    minMax,
+    scaleType === undefined ? "linear" : scaleType
+  );
+
   // Categories in our dataset
   const categories = Array.from(new Set(data.map((item) => item.category)));
 
@@ -24,12 +61,18 @@ const WordCloud = ({ data }) => {
     const width = parent.offsetWidth;
     const height = parent.offsetHeight < 500 ? 500 : parent.offsetHeight;
 
+    svg
+      .append("rect")
+      .attr("width", "100%")
+      .attr("height", "100%")
+      .attr("fill", "white");
+
     const layout = d3Cloud()
       .size([width, height])
       .words(
         data.map((d) => ({
           text: d.word,
-          size: d.value + 10,
+          size: wordScale(d.value) * wordSizeMultiplier,
           value: d.value,
           category: d.category,
         }))
@@ -110,7 +153,7 @@ const WordCloud = ({ data }) => {
     const legendDiv = d3
       .select(svgRef.current.parentNode) // select the parent node of the SVG.
       .append("div")
-      .attr("class", "legend flex justify-center flex-wrap"); // apply a class for styling.
+      .attr("class", "legend flex justify-center flex-wrap py-4 bg-stone-200"); // apply a class for styling.
 
     // Append an item in the legend for each category
     const legendItems = legendDiv
@@ -155,4 +198,4 @@ const WordCloud = ({ data }) => {
   );
 };
 
-export default WordCloud;
+export default WordCloudDraggable;
