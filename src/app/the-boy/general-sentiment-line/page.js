@@ -25,7 +25,7 @@ export default function Home() {
           </span>
           <h1 className="text-3xl font-bold ">Sentiment Line</h1>
         </div>
-        <div className="h-full mx-60">
+        <div className="h-full max-w-5xl m-auto">
           <SentimentLineChartWithGeography
             data={convertChapterSentimentDataForLineChart(data)}
             label="Sentiment"
