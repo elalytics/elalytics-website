@@ -15,6 +15,10 @@ export default function Home() {
             Boy
           </span>
           <h1 className="text-3xl font-bold ">Top 100 Words in the book</h1>
+          <p>
+            Drag the words to different positions and see if you can find any
+            new insights!
+          </p>
         </div>
         <div className="h-full w-screen">
           <WordCloudDraggable

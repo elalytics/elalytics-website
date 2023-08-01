@@ -18,6 +18,10 @@ export default function Home() {
           <h1 className="text-3xl font-bold ">
             Top Words Associated With Main Characters
           </h1>
+          <p>
+            Drag the words to different positions and see if you can find any
+            new insights!
+          </p>
         </div>
         <div className="h-full w-screen">
           <WordCloudDraggable
