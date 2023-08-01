@@ -1,0 +1,122 @@
+[
+  {
+    "possessive": "father",
+    "poss_count": 7,
+    "agents": "said",
+    "age_count": 16,
+    "patient": "asked",
+    "pat_count": 5
+  },
+  {
+    "possessive": "face",
+    "poss_count": 7,
+    "agents": "do",
+    "age_count": 6,
+    "patient": "tell",
+    "pat_count": 4
+  },
+  {
+    "possessive": "box",
+    "poss_count": 4,
+    "agents": "had",
+    "age_count": 5,
+    "patient": "GOING",
+    "pat_count": 3
+  },
+  {
+    "possessive": "frog",
+    "poss_count": 3,
+    "agents": "Adapted",
+    "age_count": 5,
+    "patient": "watching",
+    "pat_count": 3
+  },
+  {
+    "possessive": "desk",
+    "poss_count": 3,
+    "agents": "sat",
+    "age_count": 4,
+    "patient": "asking",
+    "pat_count": 3
+  },
+  {
+    "possessive": "head",
+    "poss_count": 3,
+    "agents": "asked",
+    "age_count": 4,
+    "patient": "calling",
+    "pat_count": 3
+  },
+  {
+    "possessive": "nose",
+    "poss_count": 3,
+    "agents": "died",
+    "age_count": 4,
+    "patient": "baffled",
+    "pat_count": 2
+  },
+  {
+    "possessive": "study",
+    "poss_count": 3,
+    "agents": "began",
+    "age_count": 3,
+    "patient": "ask",
+    "pat_count": 2
+  },
+  {
+    "possessive": "back",
+    "poss_count": 3,
+    "agents": "\u2019m",
+    "age_count": 3,
+    "patient": "shrieked",
+    "pat_count": 2
+  },
+  {
+    "possessive": "trousers",
+    "poss_count": 2,
+    "agents": "wanted",
+    "age_count": 3,
+    "patient": "include",
+    "pat_count": 2
+  },
+  {
+    "possessive": "seat",
+    "poss_count": 2,
+    "agents": "gave",
+    "age_count": 3,
+    "patient": "trying",
+    "pat_count": 1
+  },
+  {
+    "possessive": "appendix",
+    "poss_count": 2,
+    "agents": "tell",
+    "age_count": 3,
+    "patient": "admired",
+    "pat_count": 1
+  },
+  {
+    "possessive": "surgery",
+    "poss_count": 2,
+    "agents": "got",
+    "age_count": 3,
+    "patient": "Take",
+    "pat_count": 1
+  },
+  {
+    "possessive": "mouth",
+    "poss_count": 2,
+    "agents": "turn",
+    "age_count": 3,
+    "patient": "famished",
+    "pat_count": 1
+  },
+  {
+    "possessive": "flat",
+    "poss_count": 2,
+    "agents": "done",
+    "age_count": 2,
+    "patient": "Ask",
+    "pat_count": 1
+  }
+]

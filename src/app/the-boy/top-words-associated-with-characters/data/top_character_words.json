@@ -1,0 +1,227 @@
+[
+  {
+    "word": "father",
+    "category": "Possession",
+    "value": 7
+  },
+  {
+    "word": "said",
+    "category": "Agent Verb",
+    "value": 16
+  },
+  {
+    "word": "asked",
+    "category": "Patient Verb",
+    "value": 5
+  },
+  {
+    "word": "face",
+    "category": "Possession",
+    "value": 7
+  },
+  {
+    "word": "do",
+    "category": "Agent Verb",
+    "value": 6
+  },
+  {
+    "word": "tell",
+    "category": "Patient Verb",
+    "value": 4
+  },
+  {
+    "word": "box",
+    "category": "Possession",
+    "value": 4
+  },
+  {
+    "word": "had",
+    "category": "Agent Verb",
+    "value": 5
+  },
+  {
+    "word": "GOING",
+    "category": "Patient Verb",
+    "value": 3
+  },
+  {
+    "word": "frog",
+    "category": "Possession",
+    "value": 3
+  },
+  {
+    "word": "Adapted",
+    "category": "Agent Verb",
+    "value": 5
+  },
+  {
+    "word": "watching",
+    "category": "Patient Verb",
+    "value": 3
+  },
+  {
+    "word": "desk",
+    "category": "Possession",
+    "value": 3
+  },
+  {
+    "word": "sat",
+    "category": "Agent Verb",
+    "value": 4
+  },
+  {
+    "word": "asking",
+    "category": "Patient Verb",
+    "value": 3
+  },
+  {
+    "word": "head",
+    "category": "Possession",
+    "value": 3
+  },
+  {
+    "word": "asked",
+    "category": "Agent Verb",
+    "value": 4
+  },
+  {
+    "word": "calling",
+    "category": "Patient Verb",
+    "value": 3
+  },
+  {
+    "word": "nose",
+    "category": "Possession",
+    "value": 3
+  },
+  {
+    "word": "died",
+    "category": "Agent Verb",
+    "value": 4
+  },
+  {
+    "word": "baffled",
+    "category": "Patient Verb",
+    "value": 2
+  },
+  {
+    "word": "study",
+    "category": "Possession",
+    "value": 3
+  },
+  {
+    "word": "began",
+    "category": "Agent Verb",
+    "value": 3
+  },
+  {
+    "word": "ask",
+    "category": "Patient Verb",
+    "value": 2
+  },
+  {
+    "word": "back",
+    "category": "Possession",
+    "value": 3
+  },
+  {
+    "word": "’m",
+    "category": "Agent Verb",
+    "value": 3
+  },
+  {
+    "word": "shrieked",
+    "category": "Patient Verb",
+    "value": 2
+  },
+  {
+    "word": "trousers",
+    "category": "Possession",
+    "value": 2
+  },
+  {
+    "word": "wanted",
+    "category": "Agent Verb",
+    "value": 3
+  },
+  {
+    "word": "include",
+    "category": "Patient Verb",
+    "value": 2
+  },
+  {
+    "word": "seat",
+    "category": "Possession",
+    "value": 2
+  },
+  {
+    "word": "gave",
+    "category": "Agent Verb",
+    "value": 3
+  },
+  {
+    "word": "trying",
+    "category": "Patient Verb",
+    "value": 1
+  },
+  {
+    "word": "appendix",
+    "category": "Possession",
+    "value": 2
+  },
+  {
+    "word": "tell",
+    "category": "Agent Verb",
+    "value": 3
+  },
+  {
+    "word": "admired",
+    "category": "Patient Verb",
+    "value": 1
+  },
+  {
+    "word": "surgery",
+    "category": "Possession",
+    "value": 2
+  },
+  {
+    "word": "got",
+    "category": "Agent Verb",
+    "value": 3
+  },
+  {
+    "word": "Take",
+    "category": "Patient Verb",
+    "value": 1
+  },
+  {
+    "word": "mouth",
+    "category": "Possession",
+    "value": 2
+  },
+  {
+    "word": "turn",
+    "category": "Agent Verb",
+    "value": 3
+  },
+  {
+    "word": "famished",
+    "category": "Patient Verb",
+    "value": 1
+  },
+  {
+    "word": "flat",
+    "category": "Possession",
+    "value": 2
+  },
+  {
+    "word": "done",
+    "category": "Agent Verb",
+    "value": 2
+  },
+  {
+    "word": "Ask",
+    "category": "Patient Verb",
+    "value": 1
+  }
+]
