@@ -1,0 +1,482 @@
+[
+  {
+    "word": "said",
+    "character": "Boy",
+    "count": 63,
+    "rank": 15,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "asked",
+    "character": "Boy",
+    "count": 33,
+    "rank": 14,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "know",
+    "character": "Boy",
+    "count": 17,
+    "rank": 13,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "whispered",
+    "character": "Boy",
+    "count": 15,
+    "rank": 12,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "think",
+    "character": "Boy",
+    "count": 13,
+    "rank": 11,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "looked",
+    "character": "Boy",
+    "count": 12,
+    "rank": 10,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "put",
+    "character": "Boy",
+    "count": 9,
+    "rank": 9,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "head",
+    "character": "Boy",
+    "count": 9,
+    "rank": 8,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "pulled",
+    "character": "Boy",
+    "count": 8,
+    "rank": 7,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "took",
+    "character": "Boy",
+    "count": 8,
+    "rank": 6,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "stood",
+    "character": "Boy",
+    "count": 8,
+    "rank": 5,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "face",
+    "character": "Boy",
+    "count": 8,
+    "rank": 4,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "eyes",
+    "character": "Boy",
+    "count": 7,
+    "rank": 3,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "hand",
+    "character": "Boy",
+    "count": 6,
+    "rank": 2,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "told",
+    "character": "Boy",
+    "count": 6,
+    "rank": 1,
+    "type": "patient_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "said",
+    "character": "Mom",
+    "count": 22,
+    "rank": 15,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "asked",
+    "character": "Mom",
+    "count": 17,
+    "rank": 14,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "face",
+    "character": "Mom",
+    "count": 17,
+    "rank": 13,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "eyes",
+    "character": "Mom",
+    "count": 15,
+    "rank": 12,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "arms",
+    "character": "Mom",
+    "count": 9,
+    "rank": 11,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "started",
+    "character": "Mom",
+    "count": 8,
+    "rank": 10,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "looked",
+    "character": "Mom",
+    "count": 8,
+    "rank": 9,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "leg",
+    "character": "Mom",
+    "count": 8,
+    "rank": 8,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "want",
+    "character": "Mom",
+    "count": 8,
+    "rank": 7,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "wailed",
+    "character": "Mom",
+    "count": 7,
+    "rank": 6,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "screamed",
+    "character": "Mom",
+    "count": 7,
+    "rank": 5,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "whined",
+    "character": "Mom",
+    "count": 6,
+    "rank": 4,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "head",
+    "character": "Mom",
+    "count": 6,
+    "rank": 3,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "pushed",
+    "character": "Mom",
+    "count": 5,
+    "rank": 2,
+    "type": "patient_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "asked",
+    "character": "Mom",
+    "count": 5,
+    "rank": 1,
+    "type": "patient_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "said",
+    "character": "Mr. Coombes",
+    "count": 14,
+    "rank": 15,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "eyes",
+    "character": "Mr. Coombes",
+    "count": 8,
+    "rank": 14,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "know",
+    "character": "Mr. Coombes",
+    "count": 8,
+    "rank": 13,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "looked",
+    "character": "Mr. Coombes",
+    "count": 7,
+    "rank": 12,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "arms",
+    "character": "Mr. Coombes",
+    "count": 6,
+    "rank": 11,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "used",
+    "character": "Mr. Coombes",
+    "count": 6,
+    "rank": 10,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "got",
+    "character": "Mr. Coombes",
+    "count": 6,
+    "rank": 9,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "call",
+    "character": "Mr. Coombes",
+    "count": 5,
+    "rank": 8,
+    "type": "patient_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "made",
+    "character": "Mr. Coombes",
+    "count": 5,
+    "rank": 7,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "knows",
+    "character": "Mr. Coombes",
+    "count": 5,
+    "rank": 6,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "daughters",
+    "character": "Mr. Coombes",
+    "count": 4,
+    "rank": 5,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "hated",
+    "character": "Mr. Coombes",
+    "count": 4,
+    "rank": 4,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "going",
+    "character": "Mr. Coombes",
+    "count": 4,
+    "rank": 3,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "transform",
+    "character": "Mr. Coombes",
+    "count": 4,
+    "rank": 2,
+    "type": "patient_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "telling",
+    "character": "Mr. Coombes",
+    "count": 4,
+    "rank": 1,
+    "type": "patient_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "said",
+    "character": "Headmaster",
+    "count": 47,
+    "rank": 15,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "asked",
+    "character": "Headmaster",
+    "count": 24,
+    "rank": 14,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "whispered",
+    "character": "Headmaster",
+    "count": 14,
+    "rank": 13,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "continued",
+    "character": "Headmaster",
+    "count": 6,
+    "rank": 12,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "eyes",
+    "character": "Headmaster",
+    "count": 6,
+    "rank": 11,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "looked",
+    "character": "Headmaster",
+    "count": 5,
+    "rank": 10,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "pulled",
+    "character": "Headmaster",
+    "count": 5,
+    "rank": 9,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "think",
+    "character": "Headmaster",
+    "count": 5,
+    "rank": 8,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "began",
+    "character": "Headmaster",
+    "count": 5,
+    "rank": 7,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "arm",
+    "character": "Headmaster",
+    "count": 5,
+    "rank": 6,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "twin",
+    "character": "Headmaster",
+    "count": 5,
+    "rank": 5,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "seat",
+    "character": "Headmaster",
+    "count": 5,
+    "rank": 4,
+    "type": "poss",
+    "gender": "she/her"
+  },
+  {
+    "word": "sat",
+    "character": "Headmaster",
+    "count": 4,
+    "rank": 3,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "put",
+    "character": "Headmaster",
+    "count": 4,
+    "rank": 2,
+    "type": "agent_v",
+    "gender": "she/her"
+  },
+  {
+    "word": "head",
+    "character": "Headmaster",
+    "count": 4,
+    "rank": 1,
+    "type": "poss",
+    "gender": "she/her"
+  }
+]
