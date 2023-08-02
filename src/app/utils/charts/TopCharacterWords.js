@@ -14,7 +14,7 @@ export default function TopCharacterWords({ data }) {
   useEffect(() => {
     const svg = d3.select(chartRef.current);
     const parent = svg.node().parentNode;
-    const margin = { top: 80, right: 40, bottom: 0, left: 40 };
+    const margin = { top: 60, right: 40, bottom: 10, left: 40 };
     const width = parent.offsetWidth;
     const height = parent.offsetHeight < 500 ? 500 : parent.offsetHeight;
 
