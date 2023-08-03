@@ -29,9 +29,11 @@ export default function Home() {
     <main>
       <div className="h-screen overflow-x-hidden bg-gray-100">
         <div className="my-8 text-center max-w-3xl m-auto">
-          <h1 className="text-3xl font-bold ">Identifying Author's Style</h1>
+          <h1 className="text-3xl font-bold ">
+            Identifying Author&apos;s Style
+          </h1>
           <p>
-            Drag the words to corresponding author's box to categorize them
+            Drag the words to corresponding author&apos;s box to categorize them
             based on their style. After categorizing all the words, you will be
             able to see how many words you got right.
           </p>
