@@ -25,6 +25,8 @@
     "react": "18.2.0",
     "react-beautiful-dnd": "^13.1.1",
     "react-d3-cloud": "^1.0.6",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "18.2.0",
     "react-draggable": "^4.4.5",
     "react-tooltip": "^5.18.0",
