@@ -1,482 +1,482 @@
 [
   {
-    "word": "said",
-    "character": "Boy",
-    "count": 63,
-    "rank": 15,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "asked",
-    "character": "Boy",
-    "count": 33,
-    "rank": 14,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "know",
-    "character": "Boy",
-    "count": 17,
-    "rank": 13,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "whispered",
-    "character": "Boy",
-    "count": 15,
-    "rank": 12,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "think",
-    "character": "Boy",
-    "count": 13,
-    "rank": 11,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "looked",
-    "character": "Boy",
-    "count": 12,
-    "rank": 10,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "put",
-    "character": "Boy",
-    "count": 9,
-    "rank": 9,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "head",
-    "character": "Boy",
-    "count": 9,
-    "rank": 8,
+    "word": "mother",
+    "character": "I (Boy)",
+    "rank": "1",
+    "count": 76,
     "type": "poss",
-    "gender": "she/her"
+    "gender": "male"
   },
   {
-    "word": "pulled",
-    "character": "Boy",
-    "count": 8,
-    "rank": 7,
-    "type": "agent_v",
-    "gender": "she/her"
+    "word": "remember",
+    "character": "I (Boy)",
+    "rank": "2",
+    "count": 26,
+    "type": "agent",
+    "gender": "male"
   },
   {
-    "word": "took",
-    "character": "Boy",
-    "count": 8,
-    "rank": 6,
-    "type": "agent_v",
-    "gender": "she/her"
+    "word": "had",
+    "character": "I (Boy)",
+    "rank": "3",
+    "count": 25,
+    "type": "agent",
+    "gender": "male"
   },
   {
-    "word": "stood",
-    "character": "Boy",
-    "count": 8,
-    "rank": 5,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "face",
-    "character": "Boy",
-    "count": 8,
-    "rank": 4,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "eyes",
-    "character": "Boy",
-    "count": 7,
-    "rank": 3,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "hand",
-    "character": "Boy",
-    "count": 6,
-    "rank": 2,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "told",
-    "character": "Boy",
-    "count": 6,
-    "rank": 1,
-    "type": "patient_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "said",
-    "character": "Mom",
+    "word": "have",
+    "character": "I (Boy)",
+    "rank": "4",
     "count": 22,
-    "rank": 15,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "asked",
-    "character": "Mom",
-    "count": 17,
-    "rank": 14,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "face",
-    "character": "Mom",
-    "count": 17,
-    "rank": 13,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "eyes",
-    "character": "Mom",
-    "count": 15,
-    "rank": 12,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "arms",
-    "character": "Mom",
-    "count": 9,
-    "rank": 11,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "started",
-    "character": "Mom",
-    "count": 8,
-    "rank": 10,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "looked",
-    "character": "Mom",
-    "count": 8,
-    "rank": 9,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "leg",
-    "character": "Mom",
-    "count": 8,
-    "rank": 8,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "want",
-    "character": "Mom",
-    "count": 8,
-    "rank": 7,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "wailed",
-    "character": "Mom",
-    "count": 7,
-    "rank": 6,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "screamed",
-    "character": "Mom",
-    "count": 7,
-    "rank": 5,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "whined",
-    "character": "Mom",
-    "count": 6,
-    "rank": 4,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "head",
-    "character": "Mom",
-    "count": 6,
-    "rank": 3,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "pushed",
-    "character": "Mom",
-    "count": 5,
-    "rank": 2,
-    "type": "patient_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "asked",
-    "character": "Mom",
-    "count": 5,
-    "rank": 1,
-    "type": "patient_v",
-    "gender": "she/her"
+    "type": "agent",
+    "gender": "male"
   },
   {
     "word": "said",
-    "character": "Mr. Coombes",
-    "count": 14,
-    "rank": 15,
-    "type": "agent_v",
-    "gender": "she/her"
+    "character": "I (Boy)",
+    "rank": "5",
+    "count": 21,
+    "type": "agent",
+    "gender": "male"
   },
   {
-    "word": "eyes",
-    "character": "Mr. Coombes",
-    "count": 8,
-    "rank": 14,
+    "word": "father",
+    "character": "I (Boy)",
+    "rank": "6",
+    "count": 18,
     "type": "poss",
-    "gender": "she/her"
+    "gender": "male"
   },
   {
-    "word": "know",
-    "character": "Mr. Coombes",
-    "count": 8,
-    "rank": 13,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "looked",
-    "character": "Mr. Coombes",
-    "count": 7,
-    "rank": 12,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "arms",
-    "character": "Mr. Coombes",
-    "count": 6,
-    "rank": 11,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "used",
-    "character": "Mr. Coombes",
-    "count": 6,
-    "rank": 10,
-    "type": "agent_v",
-    "gender": "she/her"
+    "word": "saw",
+    "character": "I (Boy)",
+    "rank": "7",
+    "count": 17,
+    "type": "agent",
+    "gender": "male"
   },
   {
     "word": "got",
-    "character": "Mr. Coombes",
-    "count": 6,
-    "rank": 9,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "call",
-    "character": "Mr. Coombes",
-    "count": 5,
-    "rank": 8,
-    "type": "patient_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "made",
-    "character": "Mr. Coombes",
-    "count": 5,
-    "rank": 7,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "knows",
-    "character": "Mr. Coombes",
-    "count": 5,
-    "rank": 6,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "daughters",
-    "character": "Mr. Coombes",
-    "count": 4,
-    "rank": 5,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "hated",
-    "character": "Mr. Coombes",
-    "count": 4,
-    "rank": 4,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "going",
-    "character": "Mr. Coombes",
-    "count": 4,
-    "rank": 3,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "transform",
-    "character": "Mr. Coombes",
-    "count": 4,
-    "rank": 2,
-    "type": "patient_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "telling",
-    "character": "Mr. Coombes",
-    "count": 4,
-    "rank": 1,
-    "type": "patient_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "said",
-    "character": "Headmaster",
-    "count": 47,
-    "rank": 15,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "asked",
-    "character": "Headmaster",
-    "count": 24,
-    "rank": 14,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "whispered",
-    "character": "Headmaster",
-    "count": 14,
-    "rank": 13,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "continued",
-    "character": "Headmaster",
-    "count": 6,
-    "rank": 12,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "eyes",
-    "character": "Headmaster",
-    "count": 6,
-    "rank": 11,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "looked",
-    "character": "Headmaster",
-    "count": 5,
-    "rank": 10,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "pulled",
-    "character": "Headmaster",
-    "count": 5,
-    "rank": 9,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "think",
-    "character": "Headmaster",
-    "count": 5,
-    "rank": 8,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "began",
-    "character": "Headmaster",
-    "count": 5,
-    "rank": 7,
-    "type": "agent_v",
-    "gender": "she/her"
-  },
-  {
-    "word": "arm",
-    "character": "Headmaster",
-    "count": 5,
-    "rank": 6,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "twin",
-    "character": "Headmaster",
-    "count": 5,
-    "rank": 5,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "seat",
-    "character": "Headmaster",
-    "count": 5,
-    "rank": 4,
-    "type": "poss",
-    "gender": "she/her"
-  },
-  {
-    "word": "sat",
-    "character": "Headmaster",
-    "count": 4,
-    "rank": 3,
-    "type": "agent_v",
-    "gender": "she/her"
+    "character": "I (Boy)",
+    "rank": "8",
+    "count": 17,
+    "type": "agent",
+    "gender": "male"
   },
   {
     "word": "put",
-    "character": "Headmaster",
+    "character": "I (Boy)",
+    "rank": "9",
+    "count": 16,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "mouth",
+    "character": "I (Boy)",
+    "rank": "10",
+    "count": 15,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "went",
+    "character": "I (Boy)",
+    "rank": "11",
+    "count": 14,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "knew",
+    "character": "I (Boy)",
+    "rank": "12",
+    "count": 14,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "term",
+    "character": "I (Boy)",
+    "rank": "13",
+    "count": 13,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "go",
+    "character": "I (Boy)",
+    "rank": "14",
+    "count": 13,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "did",
+    "character": "I (Boy)",
+    "rank": "15",
+    "count": 13,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "said",
+    "character": "Mother",
+    "rank": "1",
+    "count": 31,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "had",
+    "character": "Mother",
+    "rank": "2",
+    "count": 5,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "husband",
+    "character": "Mother",
+    "rank": "3",
     "count": 4,
-    "rank": 2,
-    "type": "agent_v",
-    "gender": "she/her"
+    "type": "poss",
+    "gender": "female"
+  },
+  {
+    "word": "knew",
+    "character": "Mother",
+    "rank": "4",
+    "count": 4,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "asked",
+    "character": "Mother",
+    "rank": "5",
+    "count": 4,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "went",
+    "character": "Mother",
+    "rank": "6",
+    "count": 4,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "hand",
+    "character": "Mother",
+    "rank": "7",
+    "count": 3,
+    "type": "poss",
+    "gender": "female"
+  },
+  {
+    "word": "did",
+    "character": "Mother",
+    "rank": "8",
+    "count": 3,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "cried",
+    "character": "Mother",
+    "rank": "9",
+    "count": 3,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "going",
+    "character": "Mother",
+    "rank": "10",
+    "count": 3,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "took",
+    "character": "Mother",
+    "rank": "11",
+    "count": 3,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "told",
+    "character": "Mother",
+    "rank": "12",
+    "count": 3,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "child",
+    "character": "Mother",
+    "rank": "13",
+    "count": 2,
+    "type": "poss",
+    "gender": "female"
+  },
+  {
+    "word": "son",
+    "character": "Mother",
+    "rank": "14",
+    "count": 2,
+    "type": "poss",
+    "gender": "female"
+  },
+  {
+    "word": "have",
+    "character": "Mother",
+    "rank": "15",
+    "count": 2,
+    "type": "agent",
+    "gender": "female"
+  },
+  {
+    "word": "said",
+    "character": "Mr Coombes",
+    "rank": "1",
+    "count": 8,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "turn",
+    "character": "Mr Coombes",
+    "rank": "2",
+    "count": 3,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "led",
+    "character": "Mr Coombes",
+    "rank": "3",
+    "count": 3,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "told",
+    "character": "Mr Coombes",
+    "rank": "4",
+    "count": 3,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "revenge",
+    "character": "Mr Coombes",
+    "rank": "5",
+    "count": 2,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "face",
+    "character": "Mr Coombes",
+    "rank": "6",
+    "count": 2,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "eyes",
+    "character": "Mr Coombes",
+    "rank": "7",
+    "count": 2,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "voice",
+    "character": "Mr Coombes",
+    "rank": "8",
+    "count": 2,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "proceeded",
+    "character": "Mr Coombes",
+    "rank": "9",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "had",
+    "character": "Mr Coombes",
+    "rank": "10",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "looking",
+    "character": "Mr Coombes",
+    "rank": "11",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "saying",
+    "character": "Mr Coombes",
+    "rank": "12",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "seemed",
+    "character": "Mr Coombes",
+    "rank": "13",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "muttering",
+    "character": "Mr Coombes",
+    "rank": "14",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "made",
+    "character": "Mr Coombes",
+    "rank": "15",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
   },
   {
     "word": "head",
-    "character": "Headmaster",
+    "character": "Captain Hardcastle",
+    "rank": "1",
     "count": 4,
-    "rank": 1,
     "type": "poss",
-    "gender": "she/her"
+    "gender": "male"
+  },
+  {
+    "word": "had",
+    "character": "Captain Hardcastle",
+    "rank": "2",
+    "count": 4,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "face",
+    "character": "Captain Hardcastle",
+    "rank": "3",
+    "count": 3,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "says",
+    "character": "Captain Hardcastle",
+    "rank": "4",
+    "count": 3,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "screamed",
+    "character": "Captain Hardcastle",
+    "rank": "5",
+    "count": 3,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "saw",
+    "character": "Captain Hardcastle",
+    "rank": "6",
+    "count": 3,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "moustache",
+    "character": "Captain Hardcastle",
+    "rank": "7",
+    "count": 2,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "eyes",
+    "character": "Captain Hardcastle",
+    "rank": "8",
+    "count": 2,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "trousers",
+    "character": "Captain Hardcastle",
+    "rank": "9",
+    "count": 2,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "bed",
+    "character": "Captain Hardcastle",
+    "rank": "10",
+    "count": 2,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "look",
+    "character": "Captain Hardcastle",
+    "rank": "11",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "felt",
+    "character": "Captain Hardcastle",
+    "rank": "12",
+    "count": 2,
+    "type": "agent",
+    "gender": "male"
+  },
+  {
+    "word": "nose",
+    "character": "Captain Hardcastle",
+    "rank": "13",
+    "count": 1,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "grunts",
+    "character": "Captain Hardcastle",
+    "rank": "14",
+    "count": 1,
+    "type": "poss",
+    "gender": "male"
+  },
+  {
+    "word": "feet",
+    "character": "Captain Hardcastle",
+    "rank": "15",
+    "count": 1,
+    "type": "poss",
+    "gender": "male"
   }
 ]

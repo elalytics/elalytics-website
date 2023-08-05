@@ -1,6 +1,6 @@
 "use client";
 
-import TopCharacterWords from "@/app/utils/charts/TopCharacterWords";
+import TopCharacterWordsBoy from "./components/TopCharacterWords";
 import data from "./data/top_char_words.json";
 
 export default function Home() {
@@ -16,13 +16,9 @@ export default function Home() {
           <h1 className="text-3xl font-bold ">
             Top 15 Words Associated With Main Characters
           </h1>
-          <p>
-            Drag the words to different positions and see if you can find any
-            new insights!
-          </p>
         </div>
         <div className="h-full w-screen">
-          <TopCharacterWords data={data} />
+          <TopCharacterWordsBoy data={data} />
         </div>
       </div>
     </main>

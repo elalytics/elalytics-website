@@ -39,6 +39,13 @@ const SentimentLineChartWithGeography = (props) => {
           plugins: {
             annotation: {
               annotations: {
+                line1: {
+                  type: "line",
+                  yMin: 0,
+                  yMax: 0,
+                  borderColor: "rgb(0,0,0)",
+                  borderWidth: 2,
+                },
                 label1: {
                   type: "label",
                   xValue: 1,
@@ -112,6 +119,19 @@ const SentimentLineChartWithGeography = (props) => {
               title: {
                 display: true,
                 text: props.label,
+              },
+              ticks: {
+                font: { size: 26 },
+                callback: function (label, index, labels) {
+                  switch (label) {
+                    case 0:
+                      return "😐";
+                    case -0.04:
+                      return "😞";
+                    case 0.16:
+                      return "😊";
+                  }
+                },
               },
             },
           },
