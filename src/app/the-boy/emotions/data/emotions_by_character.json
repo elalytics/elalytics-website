@@ -1,0 +1,42 @@
+{
+  "Mother": {
+    "anger": 6,
+    "disgust": 2,
+    "fear": 4,
+    "joy": 5,
+    "sadness": 1,
+    "surprise": 4
+  },
+  "Boy": {
+    "anger": 8,
+    "disgust": 6,
+    "fear": 14,
+    "joy": 8,
+    "sadness": 12,
+    "surprise": 10
+  },
+  "Headmaster": {
+    "anger": 4,
+    "disgust": 0,
+    "fear": 8,
+    "joy": 3,
+    "sadness": 1,
+    "surprise": 3
+  },
+  "Coombes": {
+    "anger": 5,
+    "disgust": 2,
+    "fear": 2,
+    "joy": 2,
+    "sadness": 4,
+    "surprise": 1
+  },
+  "Hardcastle": {
+    "anger": 5,
+    "disgust": 0,
+    "fear": 1,
+    "joy": 1,
+    "sadness": 0,
+    "surprise": 0
+  }
+}
