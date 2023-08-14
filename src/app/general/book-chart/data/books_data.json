@@ -1,0 +1,23 @@
+{
+  "the-boy": {
+    "title": "Ricky the rock that couldn't roll",
+    "pages": 28,
+    "chapters": 17,
+    "segments": 6,
+    "cover_image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515336580i/37848130.jpg"
+  },
+  "enemy-pie": {
+    "title": "Enemy Pie",
+    "pages": 40,
+    "chapters": 24,
+    "segments": 6,
+    "cover_image": "https://prodimage.images-bn.com/pimages/9780811827782_p0_v1_s1200x630.jpg"
+  },
+  "emmanuels-dream": {
+    "title": "Emmanuel's Dream",
+    "pages": 40,
+    "chapters": 24,
+    "segments": 6,
+    "cover_image": "https://images.squarespace-cdn.com/content/v1/5dd694e176794f2214f20f31/1592092579420-A0N2LY3ID2ERHCQK4H8S/Emmanuel%27s+Dream+Mentor+Text+%284%29.png"
+  }
+}

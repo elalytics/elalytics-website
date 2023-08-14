@@ -28,10 +28,6 @@ export default function TopCharacterWordsBoy({ data }) {
       .range([margin.left, width - margin.right])
       .padding(1);
 
-    console.log("X:", x("I (Boy)"));
-
-    console.log("Recomputed bandwidth:", x.bandwidth());
-
     const xAxis = (g) =>
       g
         .attr("transform", `translate(0,30)`)
