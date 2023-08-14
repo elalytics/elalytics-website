@@ -35,7 +35,7 @@ export default function Histogram({ maxCount, requiredSegments, type }) {
     const parent = svg.node().parentNode;
     const margin = { top: 0, right: 40, bottom: 60, left: 40 };
     const width = parent.offsetWidth;
-    const height = parent.offsetHeight < 600 ? 600 : parent.offsetHeight;
+    const height = parent.offsetHeight;
 
     const xScale = d3
       .scaleBand()
@@ -96,7 +96,7 @@ export default function Histogram({ maxCount, requiredSegments, type }) {
   }, [data]);
 
   return (
-    <div>
+    <div className="h-full">
       <svg ref={chartRef}></svg>
     </div>
   );

@@ -26,17 +26,17 @@ export default function Home() {
   return (
     <main>
       <div className="h-screen overflow-x-hidden bg-gray-100">
-        <div className="my-8 text-center">
+        <div className="h-[50px] mt-[20px] text-center">
           <h1 className="text-3xl font-bold ">Book Chart</h1>
         </div>
         {book === null ? (
           <BookGrid books={data} onClick={handleBookClick} />
         ) : (
-          <div className="text-center">
+          <div className="text-center h-[calc(100vh-70px)]">
             <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
               {bookTitle}
             </span>
-            <div className="h-full w-screen">
+            <div className="h-[calc(100%-10%)] w-screen">
               <Histogram
                 maxCount={histogramCount}
                 requiredSegments={histogramSegments}

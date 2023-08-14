@@ -33,7 +33,7 @@ const BookGrid = ({ books, onClick }) => {
               alt={book.title}
               className="mb-2 rounded-t w-full h-32 object-cover"
             />
-            <p className="text-center">{book.title}</p>
+            <p className="text-center truncate">{book.title}</p>
           </div>
         ))}
       </div>
