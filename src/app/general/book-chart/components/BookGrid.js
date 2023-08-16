@@ -13,7 +13,7 @@ const BookGrid = ({ onClick }) => {
     setIsLoading(true); // Set loading to true when search starts
     try {
       const response = await fetch(
-        `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=9&key=AIzaSyB0T4MHs9EA0onOdjdgLZupOYywrMZD_Gk`
+        `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=15&key=AIzaSyB0T4MHs9EA0onOdjdgLZupOYywrMZD_Gk`
       );
       const data = await response.json();
       const filteredBooks = data.items.filter(
@@ -63,7 +63,7 @@ const BookGrid = ({ onClick }) => {
         </button>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mx-auto max-w-4xl m-auto my-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mx-auto max-w-4xl m-auto my-8 mb-24">
         {isLoading ? (
           <div className="col-span-full">
             <p className="text-center mx-auto my-auto">Loading...</p>
