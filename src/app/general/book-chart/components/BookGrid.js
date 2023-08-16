@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Tooltip } from "react-tooltip";
 
 const BookGrid = ({ onClick }) => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -39,6 +40,11 @@ const BookGrid = ({ onClick }) => {
 
   return (
     <div className="w-full">
+      {/* <Tooltip
+        id="book-info"
+        clickable={true}
+        style={{ fontSize: "0.8em", maxWidth: "400px", zIndex: "999999" }}
+      /> */}
       <div className="text-center m-auto">
         <input
           className="p-4 border text-xl m-4 w-full max-w-2xl rounded shadow-lg flex-grow"
@@ -56,11 +62,16 @@ const BookGrid = ({ onClick }) => {
           Search Book
         </button>
       </div>
-      <div className="flex flex-wrap justify-around max-w-4xl m-auto my-8">
+
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mx-auto max-w-4xl m-auto my-8">
         {isLoading ? (
-          <p>Loading...</p> // Display loading message when search is in progress
+          <div className="col-span-full">
+            <p className="text-center mx-auto my-auto">Loading...</p>
+          </div>
         ) : books.length === 0 && hasSearched ? (
-          <p>No books available</p>
+          <div className="col-span-full">
+            <p className="text-center mx-auto my-auto">No books available</p>
+          </div>
         ) : (
           books.map((book, index) => (
             <div
@@ -69,6 +80,12 @@ const BookGrid = ({ onClick }) => {
               onClick={() =>
                 onClick(book.volumeInfo.title, book.volumeInfo.pageCount)
               }
+              data-tooltip-id="book-info"
+              data-tooltip-html={`<div class="max-h-[200px] overflow-y-scroll"><p class="text-lg">${
+                book.volumeInfo.title
+              }</p><p>${
+                book.volumeInfo.description || "No description available"
+              }</p></div>`}
             >
               <img
                 src={

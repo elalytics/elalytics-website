@@ -1,7 +1,7 @@
 "use client";
 
 import Histogram from "./components/Histogram";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import data from "./data/books_data.json";
 import BookGrid from "./components/BookGrid";
 
@@ -24,9 +24,10 @@ export default function Home() {
         <div className="h-[50px] mt-[20px] text-center">
           <h1 className="text-3xl font-bold ">Book Chart</h1>
         </div>
-        {book === null ? (
+        <div className={`${book === null ? "block" : "hidden"}`}>
           <BookGrid books={data} onClick={handleBookClick} />
-        ) : (
+        </div>
+        <div className={`${book !== null ? "block" : "hidden"}`}>
           <div className="text-center w-90 h-[calc(100vh-70px)]">
             <button
               onClick={() => {
@@ -47,7 +48,7 @@ export default function Home() {
               />
             </div>
           </div>
-        )}
+        </div>
       </div>
     </main>
   );
