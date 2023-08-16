@@ -9,19 +9,14 @@ export default function Home() {
   const [book, setBook] = useState(null);
   const [bookTitle, setBookTitle] = useState("Test Book");
   const [histogramCount, setHistogramCount] = useState(1);
-  const [histogramSegments, setHistogramSegments] = useState(1);
+  const [histogramSegments, setHistogramSegments] = useState(6);
   const [histogramLabelType, setHistogramLabelType] = useState("Pages");
 
-  const handleBookClick = (bookKey) => {
-    setBook(bookKey);
+  const handleBookClick = (bookTitle, bookPageCount) => {
+    setBook(bookTitle);
+    setBookTitle(bookTitle);
+    setHistogramCount(bookPageCount);
   };
-  useEffect(() => {
-    if (book === null) return;
-    setBookTitle(data[book].title);
-    setHistogramCount(data[book].pages);
-    setHistogramSegments(data[book].segments);
-    setHistogramLabelType("Pages");
-  }, [book]);
 
   return (
     <main>
@@ -32,7 +27,15 @@ export default function Home() {
         {book === null ? (
           <BookGrid books={data} onClick={handleBookClick} />
         ) : (
-          <div className="text-center h-[calc(100vh-70px)]">
+          <div className="text-center w-90 h-[calc(100vh-70px)]">
+            <button
+              onClick={() => {
+                setBook(null);
+              }}
+              className="absolute left-10 px-4 py-1 bg-blue-500 hover:bg-blue-700 rounded text-white inline-block mb-1 text-sm font-bold"
+            >
+              Back
+            </button>
             <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
               {bookTitle}
             </span>
