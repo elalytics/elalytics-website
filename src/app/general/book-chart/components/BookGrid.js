@@ -1,5 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
 import React, { useState, useEffect } from "react";
-import { Tooltip } from "react-tooltip";
 
 const BookGrid = ({ onClick }) => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -13,7 +13,7 @@ const BookGrid = ({ onClick }) => {
     setIsLoading(true); // Set loading to true when search starts
     try {
       const response = await fetch(
-        `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=15&key=AIzaSyB0T4MHs9EA0onOdjdgLZupOYywrMZD_Gk`
+        `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=9&key=AIzaSyB0T4MHs9EA0onOdjdgLZupOYywrMZD_Gk`
       );
       const data = await response.json();
       const filteredBooks = data.items.filter(
@@ -40,16 +40,11 @@ const BookGrid = ({ onClick }) => {
 
   return (
     <div className="w-full">
-      {/* <Tooltip
-        id="book-info"
-        clickable={true}
-        style={{ fontSize: "0.8em", maxWidth: "400px", zIndex: "999999" }}
-      /> */}
       <div className="text-center m-auto">
         <input
           className="p-4 border text-xl m-4 w-full max-w-2xl rounded shadow-lg flex-grow"
           type="text"
-          placeholder="Search for a book.. (e.g. Harry Potter, Rowling)"
+          placeholder="Search for a book.. (e.g. Wonder by Palacio)"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           onKeyPress={handleKeyPress}
@@ -62,8 +57,7 @@ const BookGrid = ({ onClick }) => {
           Search Book
         </button>
       </div>
-
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mx-auto max-w-4xl m-auto my-8 mb-24">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mx-auto max-w-4xl m-auto my-8">
         {isLoading ? (
           <div className="col-span-full">
             <p className="text-center mx-auto my-auto">Loading...</p>
@@ -80,12 +74,6 @@ const BookGrid = ({ onClick }) => {
               onClick={() =>
                 onClick(book.volumeInfo.title, book.volumeInfo.pageCount)
               }
-              data-tooltip-id="book-info"
-              data-tooltip-html={`<div class="max-h-[200px] overflow-y-scroll"><p class="text-lg">${
-                book.volumeInfo.title
-              }</p><p>${
-                book.volumeInfo.description || "No description available"
-              }</p></div>`}
             >
               <img
                 src={
@@ -106,6 +94,53 @@ const BookGrid = ({ onClick }) => {
             </div>
           ))
         )}
+      </div>
+      {hasSearched && !isLoading && (
+        <div className="mb-24">
+          <BookInput onClick={onClick} />
+        </div>
+      )}
+    </div>
+  );
+};
+
+const BookInput = ({ onClick }) => {
+  const [bookName, setBookName] = useState("");
+  const [pageCount, setPageCount] = useState("");
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    onClick(bookName, pageCount);
+  };
+
+  return (
+    <div className="border border-gray-400 rounded p-4 max-w-xl m-auto">
+      <h2 className="text-xl text-center">
+        Not able to find the book? Create chart manually!
+      </h2>
+      <div className="flex justify-center items-center">
+        <form onSubmit={handleSubmit} className="text-center m-auto">
+          <input
+            type="text"
+            placeholder="Book Name"
+            value={bookName}
+            onChange={(e) => setBookName(e.target.value)}
+            className="p-2 border m-2 w-full max-w-[400px] rounded shadow-lg flex-grow"
+          />
+          <input
+            type="number"
+            placeholder="Page Count"
+            value={pageCount}
+            onChange={(e) => setPageCount(e.target.value)}
+            className="p-2 border m-2 w-full max-w-[400px] rounded shadow-lg flex-grow"
+          />
+          <button
+            type="submit"
+            className="bg-blue-500 block m-auto text-white mt-2 rounded py-2 px-4 hover:bg-blue-600"
+          >
+            Create Chart
+          </button>
+        </form>
       </div>
     </div>
   );
