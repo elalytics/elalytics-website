@@ -3,26 +3,19 @@ import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
 
 function convertEmotionsDataToHeatMap(a) {
-  const colors = {
-    fear: "red",
-    curiosity: "blue",
-    shame: "yellow",
-    disappointment: "green",
-    relief: "purple",
-  };
-
   const labels = Object.keys(a["1"].emotionalStates).map(
     (e) => e.charAt(0).toUpperCase() + e.slice(1)
   );
 
   const datasets = Object.entries(a).map(([key, entry]) => {
     const emotionalStates = entry.emotionalStates;
+    const colors = { true: "#4B88A2", false: "#D3D4D9" };
     const backgroundColor = Object.entries(emotionalStates).map(
-      ([emotion, state]) => (state ? colors[emotion] : "transparent")
+      ([emotion, state]) => colors[state]
     );
 
     return {
-      label: `Line ${key}`,
+      label: `${entry.text}`,
       data: Array(5).fill(1),
       backgroundColor: backgroundColor,
     };
@@ -57,17 +50,25 @@ const HeatMap = (props) => {
         data: chartData,
         options: {
           indexAxis: "y",
-          scale: {
-            ticks: {
-              precision: 0,
-            },
-          },
+
           plugins: {
             annotation: {
               annotations: {},
             },
             legend: {
               display: false, // whether to display the legend
+            },
+            tooltip: {
+              callbacks: {
+                title: function (tooltipItem, data) {
+                  // return the title for the tooltip
+                  return "Line " + (tooltipItem[0].datasetIndex + 1);
+                },
+                label: function (tooltipItem, data) {
+                  // return the label for the tooltip
+                  return tooltipItem.dataset.label;
+                },
+              },
             },
           },
           scales: {
@@ -76,12 +77,18 @@ const HeatMap = (props) => {
             },
             x: {
               stacked: true,
+              title: {
+                display: true,
+                text: "Lines",
+              },
+              max: chartData.datasets.length,
             },
           },
           responsive: true,
         },
       });
     }
+    console.log(chartData);
   }, [chartContainer, chartData]);
 
   if (props.data === undefined || props.data === null) {
