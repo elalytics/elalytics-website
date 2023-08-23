@@ -81,7 +81,7 @@ const HeatMap = (props) => {
                 display: true,
                 text: "Lines",
               },
-              max: chartData.datasets.length,
+              max: chartData?.datasets.length,
             },
           },
           responsive: true,
