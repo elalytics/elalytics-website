@@ -2,6 +2,7 @@
 
 import data from "./data/elevator_conflict.json";
 import LineChart from "./components/LineChart";
+import { conflictDefinition } from "@/app/general/definitions";
 
 function convertFormat(data) {
   let result = [];
@@ -24,6 +25,7 @@ export default function App() {
             The Elevator
           </span>
           <h1 className="text-3xl font-bold ">Conflict Chart</h1>
+          <p className="max-w-5xl m-auto px-10">{conflictDefinition}</p>
         </div>
         <div className="h-full max-w-5xl m-auto">
           <LineChart
