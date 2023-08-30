@@ -59,6 +59,7 @@ const HeatMap = (props) => {
               display: false, // whether to display the legend
             },
             tooltip: {
+              enabled: props.showTooltip,
               callbacks: {
                 title: function (tooltipItem, data) {
                   // return the title for the tooltip
@@ -74,12 +75,44 @@ const HeatMap = (props) => {
           scales: {
             y: {
               stacked: true,
+              ticks: {
+                color: (c) => {
+                  let showOnly = props.showOnlyYLabels || [];
+                  if (!props.yLabel) {
+                    return "transparent";
+                  } else if (
+                    showOnly.length === 0 ||
+                    showOnly.includes(c["tick"]["label"])
+                  ) {
+                    return "black";
+                  } else {
+                    return "transparent";
+                  }
+                },
+              },
             },
+
             x: {
               stacked: true,
+              ticks: {
+                color: (c) => {
+                  console.log(c);
+                  let showOnly = props.showOnlyXLabels || [];
+                  if (!props.xLabel) {
+                    return "transparent";
+                  } else if (
+                    showOnly.length === 0 ||
+                    showOnly.includes(c["tick"]["label"])
+                  ) {
+                    return "black";
+                  } else {
+                    return "transparent";
+                  }
+                },
+              },
               title: {
                 display: true,
-                text: "Lines",
+                text: props.xLabel ? props.xLabelTitle : "",
               },
               max: chartData?.datasets.length,
             },
@@ -88,7 +121,6 @@ const HeatMap = (props) => {
         },
       });
     }
-    console.log(chartData);
   }, [chartContainer, chartData]);
 
   if (props.data === undefined || props.data === null) {
