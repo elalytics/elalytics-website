@@ -1,8 +1,9 @@
 "use client";
 
 import data from "./data/elevator_conflict_with_sentences.json";
-import LineChart from "./components/LineChart";
-import { conflictDefinition } from "@/app/general/definitions";
+import ConflictLineChart from "@/app/utils/charts/ConflictLineChart";
+
+import { conflictDefinition } from "@/app/utils/charts/ConflictLineChart";
 
 function convertFormat(originalObj) {
   const result = [];
@@ -36,11 +37,11 @@ export default function App() {
           <p className="max-w-5xl m-auto px-10">{conflictDefinition}</p>
         </div>
         <div className="h-full max-w-5xl m-auto">
-          <LineChart
-            data={convertFormat(data)}
+          <ConflictLineChart
+            sourceData={convertFormat(data)}
             showTooltip={true}
             yLabel="Conflict"
-            xLabel="Paragraphs"
+            xLabel="Paragraph"
           />
         </div>
       </div>

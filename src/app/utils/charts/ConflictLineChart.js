@@ -3,7 +3,12 @@ import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
 import annotationPlugin from "chartjs-plugin-annotation";
 
-const LineChart = (props) => {
+export const conflictDefinition =
+  "The conflict score is calculated by breaking each paragraph down into sentences. Every sentence gets a computed 'negativity' and 'intensity' score, and then this is averaged to give each paragraph a conflict score, with the idea being the more negative and intense the emotions in a paragraph are, the higher the conflict is. A higher score == more conflict.";
+
+//sourceData format: [{key: "1", value: 0.5, tooltip: "This is an example tooltip"}]
+
+const ConflictLineChart = ({ sourceData, showTooltip, xLabel, yLabel }) => {
   const [chartData, setChartData] = useState();
   const chartContainer = useRef(null);
   const chartInstance = useRef(null);
@@ -12,18 +17,18 @@ const LineChart = (props) => {
 
   useEffect(() => {
     let data = {
-      labels: props.data.map((item) => item.key),
+      labels: sourceData.map((item) => item.key),
       datasets: [
         {
-          label: props.data.map((item) => item.key),
-          data: props.data.map((item) => item.value),
-          toolTip: props.data.map((item) => item.tooltip),
+          label: sourceData.map((item) => item.key),
+          data: sourceData.map((item) => item.value),
+          toolTip: sourceData.map((item) => item.tooltip),
           cubicInterpolationMode: "monotone",
         },
       ],
     };
     setChartData(data);
-  }, [props.data]);
+  }, [sourceData]);
 
   useEffect(() => {
     if (chartContainer && chartContainer.current) {
@@ -42,15 +47,15 @@ const LineChart = (props) => {
               annotations: {},
             },
             tooltip: {
-              enabled: props.showTooltip,
+              enabled: showTooltip !== undefined ? showTooltip : true,
               callbacks: {
                 title: function (context) {
-                  let title = "Paragraph " + context[0].label;
+                  let title = xLabel + " " + context[0].label;
                   return title;
                 },
                 label: function (context) {
                   let index = context.dataIndex;
-                  return context.dataset.toolTip[index];
+                  return context.dataset.toolTip[index] || context.formattedValue;
                 },
               },
             },
@@ -63,14 +68,14 @@ const LineChart = (props) => {
               grace: "5%",
               title: {
                 display: true,
-                text: props.yLabel,
+                text: yLabel,
               },
             },
             x: {
               grace: "5%",
               title: {
                 display: true,
-                text: props.xLabel,
+                text: xLabel,
               },
             },
           },
@@ -91,4 +96,4 @@ const LineChart = (props) => {
   );
 };
 
-export default LineChart;
+export default ConflictLineChart;
