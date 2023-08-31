@@ -1,14 +1,22 @@
 "use client";
 
-import data from "./data/elevator_conflict.json";
+import data from "./data/elevator_conflict_with_sentences.json";
 import LineChart from "./components/LineChart";
 import { conflictDefinition } from "@/app/general/definitions";
 
-function convertFormat(data) {
-  let result = [];
-  for (let key in data) {
-    result.push({ key: `${key}`, value: data[key] });
+function convertFormat(originalObj) {
+  const result = [];
+
+  // Loop through each key-value pair in the original object
+  for (const key in originalObj) {
+    // Extract the float value and the string sentence from the value array
+    let [value, tooltip] = originalObj[key];
+    tooltip = "Exemplar: " + tooltip;
+
+    // Create a new object and push it to the result array
+    result.push({ key, value, tooltip });
   }
+
   return result;
 }
 
@@ -30,6 +38,7 @@ export default function App() {
         <div className="h-full max-w-5xl m-auto">
           <LineChart
             data={convertFormat(data)}
+            showTooltip={true}
             yLabel="Conflict"
             xLabel="Paragraphs"
           />

@@ -30,6 +30,7 @@ export default function App() {
         <div className="h-full max-w-5xl m-auto">
           <LineChart
             data={convertFormat(data)}
+            showTooltip={true}
             yLabel="Conflict"
             xLabel="Paragraphs"
           />

@@ -15,8 +15,9 @@ const LineChart = (props) => {
       labels: props.data.map((item) => item.key),
       datasets: [
         {
-          label: props.label,
+          label: props.data.map((item) => item.key),
           data: props.data.map((item) => item.value),
+          toolTip: props.data.map((item) => item.tooltip),
           cubicInterpolationMode: "monotone",
         },
       ],
@@ -39,6 +40,19 @@ const LineChart = (props) => {
           plugins: {
             annotation: {
               annotations: {},
+            },
+            tooltip: {
+              enabled: props.showTooltip,
+              callbacks: {
+                title: function (context) {
+                  let title = "Paragraph " + context[0].label;
+                  return title;
+                },
+                label: function (context) {
+                  let index = context.dataIndex;
+                  return context.dataset.toolTip[index];
+                },
+              },
             },
             legend: {
               display: false, // whether to display the legend
