@@ -1,7 +1,7 @@
 import App from "./WorkingFile";
 
 export const metadata = {
-  title: "Conflict Chart | The Elevator | Elalytics",
+  title: "Suspense Chart | Lottery | Elalytics",
 };
 
 export default function Home() {

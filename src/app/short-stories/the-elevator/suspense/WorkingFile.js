@@ -12,7 +12,7 @@ function convertFormat(originalObj) {
   for (const key in originalObj) {
     // Extract the float value and the string sentence from the value array
     let [value, tooltip] = originalObj[key];
-    tooltip = "Exemplar: " + tooltip;
+    tooltip = tooltip;
 
     // Create a new object and push it to the result array
     result.push({ key, value, tooltip });
@@ -33,14 +33,22 @@ export default function App() {
           <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
             The Elevator
           </span>
-          <h1 className="text-3xl font-bold ">Conflict Chart</h1>
-          <p className="max-w-5xl m-auto px-10">{conflictDefinition}</p>
+          <h1 className="text-3xl font-bold ">Suspense Chart</h1>
+          <p className="max-w-5xl m-auto px-10">
+            The suspense score is calculated by breaking each paragraph down
+            into sentences. Every sentence gets a computed
+            &apos;negativity&apos; and &apos;intensity&apos; score, and then
+            this is averaged to give each paragraph a suspense score, with the
+            idea being the more negative and intense the emotions in a paragraph
+            are, the higher the suspense is. A higher score == more suspense.
+          </p>
         </div>
         <div className="h-full max-w-5xl m-auto">
           <ConflictLineChart
             sourceData={convertFormat(data)}
             showTooltip={true}
-            yLabel="Conflict"
+            note="Click on the datapoint to see the paragraph text."
+            yLabel="Suspense"
             xLabel="Paragraph"
           />
         </div>
