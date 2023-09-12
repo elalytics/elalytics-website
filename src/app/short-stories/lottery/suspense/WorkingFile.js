@@ -1,8 +1,7 @@
 "use client";
 
 import data from "./data/letter_conflict_with_sentences.json";
-import ConflictLineChart from "@/app/utils/charts/ConflictLineChart";
-import { conflictDefinition } from "@/app/utils/charts/ConflictLineChart";
+import SentimentLineChart from "@/app/utils/charts/SentimentLineChart";
 
 function convertFormat(originalObj) {
   const result = [];
@@ -43,7 +42,7 @@ export default function App() {
           </p>
         </div>
         <div className="h-full max-w-5xl m-auto">
-          <ConflictLineChart
+          <SentimentLineChart
             sourceData={convertFormat(data)}
             showTooltip={true}
             note="Click on the datapoint to see the paragraph text."

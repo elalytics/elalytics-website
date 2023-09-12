@@ -1,0 +1,44 @@
+## Sentiment Line Chart
+
+import SentimentLineChart from "../../../app/utils/charts/SentimentLineChart.js";
+import data from "./source-data/sentiment-line-chart-data.json";
+import Layout from "../../Layout.js";
+
+<Layout>
+Sentiment Line chart can be used for showing the sentiment values computed for a range.
+
+### Example
+
+<SentimentLineChart
+  sourceData={data}
+  showTooltip={true}
+  note="Click on the datapoint to see the paragraph text."
+  xLabel="Paragraph"
+  yLabel="Suspense"
+/>
+
+### Usage
+
+```javascript
+import SentimentLineChart from "@/app/utils/charts/SentimentLineChart";
+
+<SentimentLineChart
+  sourceData={data}
+  showTooltip={true}
+  note="Click on the datapoint to see the paragraph text."
+  xLabel="Paragraph"
+  yLabel="Suspense"
+/>;
+```
+
+#### Data Format
+
+```javascript
+[
+  { key: "Key 1", value: 8, tooltip: "Tooltip 1" },
+  { key: "Key 2", value: 10, tooltip: "Tooltip 2" },
+  //add more data here
+];
+```
+
+</Layout>

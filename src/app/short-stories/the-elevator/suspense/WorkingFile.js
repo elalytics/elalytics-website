@@ -1,9 +1,9 @@
 "use client";
 
 import data from "./data/elevator_conflict_with_sentences.json";
-import ConflictLineChart from "@/app/utils/charts/ConflictLineChart";
+import ConflictLineChart from "@/app/utils/charts/SentimentLineChart";
 
-import { conflictDefinition } from "@/app/utils/charts/ConflictLineChart";
+import { conflictDefinition } from "@/app/utils/charts/SentimentLineChart";
 
 function convertFormat(originalObj) {
   const result = [];
@@ -17,7 +17,7 @@ function convertFormat(originalObj) {
     // Create a new object and push it to the result array
     result.push({ key, value, tooltip });
   }
-
+  console.log(result);
   return result;
 }
 
@@ -33,7 +33,7 @@ export default function App() {
           <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
             The Elevator
           </span>
-          <h1 className="text-3xl font-bold ">Suspense Chart</h1>
+          <h1 className="text-3xl font-bold">Suspense Chart</h1>
           <p className="max-w-5xl m-auto px-10">
             The suspense score is calculated by breaking each paragraph down
             into sentences. Every sentence gets a computed
