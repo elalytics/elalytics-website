@@ -23,7 +23,7 @@ const SentimentLineChart = ({
     text: "Hello hello",
   });
   const [isHoveringTooltip, setIsHoveringTooltip] = useState(false);
-
+  console.log("sourceData", sourceData);
   const canvasBackgroundColor = {
     id: "canvasBackgroundColor",
     beforeDraw: (chart) => {
@@ -42,9 +42,9 @@ const SentimentLineChart = ({
 
       const normalizedMaxVal = normalize(maxVal);
       const normalizedMinVal = normalize(minVal);
-      console.log(normalizedMaxVal, normalizedMinVal);
-      gradient.addColorStop(1, `rgba(240, 160, 160, ${normalizedMaxVal})`);
-      gradient.addColorStop(0, `rgba(255, 160, 160, ${normalizedMinVal})`);
+
+      gradient.addColorStop(1, `rgba(255, 100, 100, ${normalizedMaxVal})`);
+      gradient.addColorStop(0, `rgba(255, 100, 100, 0)`);
       ctx.save();
       ctx.globalCompositeOperation = "destination-over";
       ctx.fillStyle = gradient;
@@ -76,6 +76,7 @@ const SentimentLineChart = ({
   }, [sourceData]);
 
   useEffect(() => {
+    console.log("chartData", chartData);
     if (chartContainer && chartContainer.current) {
       const myChartRef = chartContainer.current.getContext("2d");
       if (chartInstance.current) {
