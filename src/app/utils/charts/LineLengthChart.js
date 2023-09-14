@@ -3,7 +3,6 @@ import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
 import annotationPlugin from "chartjs-plugin-annotation";
 import chroma from "chroma-js";
-import { Tooltip } from "react-tooltip";
 
 const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
   const [chartData, setChartData] = useState();
@@ -12,7 +11,6 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
   const chartInstance = useRef(null);
   Chart.register(annotationPlugin);
   useEffect(() => {
-    console.log("Effect Test", sourceData);
     let numberOfWordsInEachLine = (() => {
       let result = [];
       sourceData.forEach((item) => {
@@ -55,7 +53,7 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
           });
         }
       });
-      console.log("result", result);
+
       return result;
     })();
     const createSequentialArray = (length) => {
@@ -100,7 +98,6 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
         xMin = xMax;
       }
 
-      console.log("annotations", annotations);
       return annotations;
     }
 
@@ -109,11 +106,11 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
     let numberOfLines = createSequentialArray(numberOfWordsInEachLine.length);
 
     let data = {
-      labels: numberOfLines,
+      labels: [...numberOfLines, null],
       datasets: [
         {
-          label: numberOfLines,
-          data: numberOfWordsInEachLine,
+          label: [...numberOfLines, null],
+          data: [...numberOfWordsInEachLine, null],
           toolTip: lines,
           cubicInterpolationMode: "monotone",
         },
