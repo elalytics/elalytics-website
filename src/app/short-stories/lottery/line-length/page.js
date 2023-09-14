@@ -1,7 +1,7 @@
 import App from "./WorkingFile";
 
 export const metadata = {
-  title: "Line Length Chart | The Elevator | Elalytics",
+  title: "Line Length Chart | Lottery | Elalytics",
 };
 
 export default function Home() {
