@@ -44,7 +44,7 @@ export default function App() {
       <div className="h-screen overflow-x-hidden bg-gray-100">
         <div className="my-8 text-center">
           <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
-            The Wife's Story
+            The Wife&apos;s Story
           </span>
           <h1 className="text-3xl font-bold">Line Length Chart</h1>
         </div>
