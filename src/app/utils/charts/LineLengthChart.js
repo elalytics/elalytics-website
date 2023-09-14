@@ -49,7 +49,6 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
       let result = [];
       sourceData.forEach((item) => {
         if (Array.isArray(item.lines)) {
-          console.log("item", item);
           result.push({
             sentimentScore: item.sentimentScore,
             lines: item.lines.length,
@@ -87,14 +86,14 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
           xMax,
           yMin: 0,
           yMax: "max",
-          backgroundColor: color,
+          backgroundColor: "rgba(255, 255, 255, 0.1)",
         };
 
         annotations[textName] = {
           type: "label",
           position: "top",
-          content: `${i + 1}`,
-          xValue: xMin,
+          content: `P${i + 1}`,
+          xValue: xMin + 2,
           yValue: maxYValue, // set yValue to the maximum lines value
         };
 
