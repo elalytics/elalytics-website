@@ -168,6 +168,10 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
               beginAtZero: true,
               title: {
                 display: true,
+                font: {
+                  size: "20px",
+                  weight: "bold",
+                },
                 text: yLabel,
               },
             },
@@ -175,6 +179,10 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
               grace: "5%",
               title: {
                 display: true,
+                font: {
+                  size: "20px",
+                  weight: "bold",
+                },
                 text: xLabel,
               },
             },
