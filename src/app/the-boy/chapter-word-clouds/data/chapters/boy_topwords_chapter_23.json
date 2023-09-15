@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 41.0,
+        "translation": "I"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 18.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "Carleton",
+        "category": "PROPN",
+        "value": 16.0,
+        "translation": "carlet\u00f3n"
+    },
+    {
+        "word": "dust",
+        "category": "VERB",
+        "value": 13.0,
+        "translation": "polvo"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 13.0,
+        "translation": "decir"
+    },
+    {
+        "word": "study",
+        "category": "NOUN",
+        "value": 10.0,
+        "translation": "estudiar"
+    },
+    {
+        "word": "clean",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "limpio"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 7.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "Fags",
+        "category": "PROPN",
+        "value": 7.0,
+        "translation": "maricones"
+    },
+    {
+        "word": "House",
+        "category": "PROPN",
+        "value": 7.0,
+        "translation": "Casa"
+    },
+    {
+        "word": "Boazer",
+        "category": "PROPN",
+        "value": 7.0,
+        "translation": "Boazer"
+    },
+    {
+        "word": "much",
+        "category": "ADV",
+        "value": 7.0,
+        "translation": "mucho"
+    },
+    {
+        "word": "Wilberforce",
+        "category": "PROPN",
+        "value": 7.0,
+        "translation": "Wilberforce"
+    },
+    {
+        "word": "seat",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "asiento"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 5.0,
+        "translation": "'s"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "tres"
+    },
+    {
+        "word": "long",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "largo"
+    },
+    {
+        "word": "bog",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "jard\u00edn"
+    },
+    {
+        "word": "white",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "blanco"
+    },
+    {
+        "word": "room",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "finger",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "dedo"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "usar"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "mean",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "significar"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "studyholder",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "titular del estudio"
+    },
+    {
+        "word": "warm",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "c\u00e1lido"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "cold",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "fr\u00edo"
+    },
+    {
+        "word": "every",
+        "category": "DET",
+        "value": 4.0,
+        "translation": "cada"
+    },
+    {
+        "word": "stand",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "pararse"
+    },
+    {
+        "word": "sit",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "sentarse"
+    },
+    {
+        "word": "lavatory",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "lavabo"
+    },
+    {
+        "word": "always",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "siempre"
+    },
+    {
+        "word": "run",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "correr"
+    },
+    {
+        "word": "hold",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "sostener"
+    },
+    {
+        "word": "face",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "rostro"
+    },
+    {
+        "word": "fag",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "sujeto"
+    },
+    {
+        "word": "last",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "\u00faltimo"
+    },
+    {
+        "word": "shall",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "deber\u00e1"
+    },
+    {
+        "word": "change",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "cambiar"
+    },
+    {
+        "word": "Fag",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Sujeto"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "ir"
+    },
+    {
+        "word": "ag",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "en"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "uno"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "saber"
+    },
+    {
+        "word": "winter",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "invierno"
+    },
+    {
+        "word": "trouser",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "pantal\u00f3n"
+    },
+    {
+        "word": "want",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "desear"
+    },
+    {
+        "word": "first",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "primero"
+    },
+    {
+        "word": "morning",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "ma\u00f1ana"
+    },
+    {
+        "word": "nose",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "nariz"
+    },
+    {
+        "word": "Repton",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "rept\u00f3n"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "desk",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "escritorio"
+    },
+    {
+        "word": "back",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "Sunday",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Domingo"
+    },
+    {
+        "word": "length",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "longitud"
+    },
+    {
+        "word": "head",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "tilt",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "inclinaci\u00f3n"
+    },
+    {
+        "word": "drop",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "gota"
+    },
+    {
+        "word": "Fa",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Pero"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "right",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "bien"
+    },
+    {
+        "word": "heat",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "calor"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "find",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "encontrar"
+    },
+    {
+        "word": "put",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "poner"
+    },
+    {
+        "word": "enough",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "suficiente"
+    },
+    {
+        "word": "term",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "t\u00e9rmino"
+    },
+    {
+        "word": "lower",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "m\u00e1s bajo"
+    },
+    {
+        "word": "still",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "a\u00fan"
+    },
+    {
+        "word": "ritual",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "ritual"
+    },
+    {
+        "word": "watch",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "see",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "ver"
+    },
+    {
+        "word": "gloved",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "enguantado"
+    },
+    {
+        "word": "wait",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "esperar"
+    },
+    {
+        "word": "along",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "a lo largo de"
+    },
+    {
+        "word": "top",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "arriba"
+    },
+    {
+        "word": "yes",
+        "category": "INTJ",
+        "value": 2.0,
+        "translation": "S\u00ed"
+    },
+    {
+        "word": "\u2019ve",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "he"
+    },
+    {
+        "word": "lunch",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "almuerzo"
+    },
+    {
+        "word": "shout",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "gritar"
+    },
+    {
+        "word": "wipe",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "limpiar"
+    },
+    {
+        "word": "light",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "luz"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "tiny",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "diminuto"
+    },
+    {
+        "word": "properly",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "adecuadamente"
+    },
+    {
+        "word": "whole",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "entero"
+    },
+    {
+        "word": "simply",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "simplemente"
+    },
+    {
+        "word": "bit",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "poco"
+    },
+    {
+        "word": "forward",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "adelante"
+    },
+    {
+        "word": "remain",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "permanecer"
+    },
+    {
+        "word": "point",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "punto"
+    },
+    {
+        "word": "floor",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "piso"
+    },
+    {
+        "word": "hot",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "caliente"
+    }
+]

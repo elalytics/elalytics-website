@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 60.0,
+        "translation": "I"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 17.0,
+        "translation": "ir"
+    },
+    {
+        "word": "put",
+        "category": "VERB",
+        "value": 15.0,
+        "translation": "poner"
+    },
+    {
+        "word": "collar",
+        "category": "NOUN",
+        "value": 15.0,
+        "translation": "cuello"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 12.0,
+        "translation": "madre"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 12.0,
+        "translation": "decir"
+    },
+    {
+        "word": "front",
+        "category": "NOUN",
+        "value": 11.0,
+        "translation": "frente"
+    },
+    {
+        "word": "back",
+        "category": "ADJ",
+        "value": 9.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "button",
+        "category": "VERB",
+        "value": 9.0,
+        "translation": "bot\u00f3n"
+    },
+    {
+        "word": "stud",
+        "category": "NOUN",
+        "value": 9.0,
+        "translation": "semental"
+    },
+    {
+        "word": "shirt",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "camisa"
+    },
+    {
+        "word": "Repton",
+        "category": "PROPN",
+        "value": 8.0,
+        "translation": "rept\u00f3n"
+    },
+    {
+        "word": "wear",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "tener puesto"
+    },
+    {
+        "word": "slit",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "abertura"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 6.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "train",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "tren"
+    },
+    {
+        "word": "like",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "como"
+    },
+    {
+        "word": "black",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "negro"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "uno"
+    },
+    {
+        "word": "stiff",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "r\u00edgido"
+    },
+    {
+        "word": "two",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "dos"
+    },
+    {
+        "word": "clothe",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "vestir"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "waistcoat",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "chaleco"
+    },
+    {
+        "word": "Bexley",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "bexley"
+    },
+    {
+        "word": "pair",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "par"
+    },
+    {
+        "word": "dress",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "vestido"
+    },
+    {
+        "word": "thing",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "cosa"
+    },
+    {
+        "word": "nobody",
+        "category": "PRON",
+        "value": 4.0,
+        "translation": "nadie"
+    },
+    {
+        "word": "\u2019ll",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "lo haremos"
+    },
+    {
+        "word": "see",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "ver"
+    },
+    {
+        "word": "first",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "primero"
+    },
+    {
+        "word": "trouser",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "pantal\u00f3n"
+    },
+    {
+        "word": "side",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "lado"
+    },
+    {
+        "word": "tie",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "atar"
+    },
+    {
+        "word": "butterfly",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mariposa"
+    },
+    {
+        "word": "wing",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "ala"
+    },
+    {
+        "word": "brace",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "abrazadera"
+    },
+    {
+        "word": "point",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "punto"
+    },
+    {
+        "word": "walk",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "caminar"
+    },
+    {
+        "word": "tail",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "cola"
+    },
+    {
+        "word": "attach",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "adjuntar"
+    },
+    {
+        "word": "Public",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "P\u00fablico"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "saber"
+    },
+    {
+        "word": "\u2019s",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "'s"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "venir"
+    },
+    {
+        "word": "Derby",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "derby"
+    },
+    {
+        "word": "coat",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "abrigo"
+    },
+    {
+        "word": "line",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "l\u00ednea"
+    },
+    {
+        "word": "Marlborough",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "marlborough"
+    },
+    {
+        "word": "enough",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "suficiente"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "chico"
+    },
+    {
+        "word": "jacket",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "chaqueta"
+    },
+    {
+        "word": "twelve",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "doce"
+    },
+    {
+        "word": "leg",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "pierna"
+    },
+    {
+        "word": "ridiculous",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "rid\u00edculo"
+    },
+    {
+        "word": "separate",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "separado"
+    },
+    {
+        "word": "room",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "together",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "juntos"
+    },
+    {
+        "word": "feel",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "sentir"
+    },
+    {
+        "word": "sister",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hermana"
+    },
+    {
+        "word": "hat",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tiene"
+    },
+    {
+        "word": "uniform",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "uniforme"
+    },
+    {
+        "word": "eccentric",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "exc\u00e9ntrico"
+    },
+    {
+        "word": "lucky",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "afortunado"
+    },
+    {
+        "word": "famous",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "famoso"
+    },
+    {
+        "word": "white",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "blanco"
+    },
+    {
+        "word": "Schools",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Escuelas"
+    },
+    {
+        "word": "work",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "trabajar"
+    },
+    {
+        "word": "must",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "debe"
+    },
+    {
+        "word": "underneath",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "debajo"
+    },
+    {
+        "word": "assistant",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "asistente"
+    },
+    {
+        "word": "cry",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "llorar"
+    },
+    {
+        "word": "London",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Londres"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "decir"
+    },
+    {
+        "word": "band",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "banda"
+    },
+    {
+        "word": "mouth",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "boca"
+    },
+    {
+        "word": "around",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "alrededor"
+    },
+    {
+        "word": "starch",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "almid\u00f3n"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "head",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "top",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "arriba"
+    },
+    {
+        "word": "place",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "lugar"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "chew",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "masticar"
+    },
+    {
+        "word": "anything",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "cualquier cosa"
+    },
+    {
+        "word": "Euston",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Euston"
+    },
+    {
+        "word": "without",
+        "category": "ADP",
+        "value": 1.0,
+        "translation": "sin"
+    },
+    {
+        "word": "actually",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "de hecho"
+    },
+    {
+        "word": "lid",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "tapa"
+    },
+    {
+        "word": "funeral",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "funeral"
+    },
+    {
+        "word": "creep",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "arrastrarse"
+    },
+    {
+        "word": "downstairs",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "abajo"
+    },
+    {
+        "word": "short",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "corto"
+    }
+]

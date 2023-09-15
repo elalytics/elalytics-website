@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 62.0,
+        "translation": "I"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 21.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "Mr",
+        "category": "PROPN",
+        "value": 18.0,
+        "translation": "Se\u00f1or"
+    },
+    {
+        "word": "Coombes",
+        "category": "PROPN",
+        "value": 18.0,
+        "translation": "Coombes"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 18.0,
+        "translation": "decir"
+    },
+    {
+        "word": "Mrs",
+        "category": "PROPN",
+        "value": 14.0,
+        "translation": "Se\u00f1ora"
+    },
+    {
+        "word": "Pratchett",
+        "category": "PROPN",
+        "value": 14.0,
+        "translation": "Pratchett"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PRON",
+        "value": 13.0,
+        "translation": "'s"
+    },
+    {
+        "word": "Thwaites",
+        "category": "PROPN",
+        "value": 13.0,
+        "translation": "Thwaites"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 12.0,
+        "translation": "ir"
+    },
+    {
+        "word": "one",
+        "category": "NOUN",
+        "value": 12.0,
+        "translation": "uno"
+    },
+    {
+        "word": "playground",
+        "category": "NOUN",
+        "value": 10.0,
+        "translation": "patio de juegos"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 9.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 9.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "line",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "l\u00ednea"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "chico"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "face",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "rostro"
+    },
+    {
+        "word": "mouse",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "rat\u00f3n"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 7.0,
+        "translation": "como"
+    },
+    {
+        "word": "see",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "ver"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "venir"
+    },
+    {
+        "word": "big",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "grande"
+    },
+    {
+        "word": "dead",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "muerto"
+    },
+    {
+        "word": "right",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "bien"
+    },
+    {
+        "word": "lead",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "dirigir"
+    },
+    {
+        "word": "next",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "pr\u00f3ximo"
+    },
+    {
+        "word": "\u2026",
+        "category": "PUNCT",
+        "value": 6.0,
+        "translation": "\u2026"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "hear",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "escuchar"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "walk",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "caminar"
+    },
+    {
+        "word": "hold",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "sostener"
+    },
+    {
+        "word": "stop",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "detener"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "decir"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "happen",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "suceder"
+    },
+    {
+        "word": "black",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "negro"
+    },
+    {
+        "word": "side",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "lado"
+    },
+    {
+        "word": "shop",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "comercio"
+    },
+    {
+        "word": "giant",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "gigante"
+    },
+    {
+        "word": "form",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "forma"
+    },
+    {
+        "word": "much",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "mucho"
+    },
+    {
+        "word": "close",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "cerca"
+    },
+    {
+        "word": "\u2019ve",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "he"
+    },
+    {
+        "word": "\u2019m",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "'metro"
+    },
+    {
+        "word": "finger",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "dedo"
+    },
+    {
+        "word": "Headmaster",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Director de escuela"
+    },
+    {
+        "word": "point",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "punto"
+    },
+    {
+        "word": "five",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "cinco"
+    },
+    {
+        "word": "shock",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "choque"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "answer",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "respuesta"
+    },
+    {
+        "word": "morning",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "ma\u00f1ana"
+    },
+    {
+        "word": "jar",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "frasco"
+    },
+    {
+        "word": "nasty",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "asqueroso"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "saber"
+    },
+    {
+        "word": "ave",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "Cra"
+    },
+    {
+        "word": "cry",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "llorar"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "begin",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "comenzar"
+    },
+    {
+        "word": "catch",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "atrapar"
+    },
+    {
+        "word": "well",
+        "category": "INTJ",
+        "value": 4.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "stand",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "pararse"
+    },
+    {
+        "word": "sixth",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "sexto"
+    },
+    {
+        "word": "grey",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "gris"
+    },
+    {
+        "word": "arm",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "brazo"
+    },
+    {
+        "word": "talk",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "hablar"
+    },
+    {
+        "word": "whisper",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "susurro"
+    },
+    {
+        "word": "shoulder",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "hombro"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "tres"
+    },
+    {
+        "word": "Form",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Forma"
+    },
+    {
+        "word": "Eadmaster",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "maestro"
+    },
+    {
+        "word": "eye",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "ojo"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "suddenly",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "de repente"
+    },
+    {
+        "word": "every",
+        "category": "DET",
+        "value": 3.0,
+        "translation": "cada"
+    },
+    {
+        "word": "gown",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "vestido"
+    },
+    {
+        "word": "let",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dejar"
+    },
+    {
+        "word": "still",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "a\u00fan"
+    },
+    {
+        "word": "somebody",
+        "category": "PRON",
+        "value": 3.0,
+        "translation": "alguien"
+    },
+    {
+        "word": "door",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "puerta"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "someone",
+        "category": "PRON",
+        "value": 3.0,
+        "translation": "alguien"
+    },
+    {
+        "word": "shout",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "gritar"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "turn",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "doblar"
+    },
+    {
+        "word": "\u2019re",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "'re"
+    },
+    {
+        "word": "\u2019ll",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "lo haremos"
+    },
+    {
+        "word": "heart",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "coraz\u00f3n"
+    },
+    {
+        "word": "put",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "poner"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "forma"
+    },
+    {
+        "word": "prayer",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "oraci\u00f3n"
+    },
+    {
+        "word": "row",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "fila"
+    },
+    {
+        "word": "remember",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "recordar"
+    },
+    {
+        "word": "name",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "nombre"
+    },
+    {
+        "word": "tweed",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "tweed"
+    },
+    {
+        "word": "\u2019em",
+        "category": "PRON",
+        "value": 3.0,
+        "translation": "'en"
+    },
+    {
+        "word": "already",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "ya"
+    },
+    {
+        "word": "Hall",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Sala"
+    }
+]

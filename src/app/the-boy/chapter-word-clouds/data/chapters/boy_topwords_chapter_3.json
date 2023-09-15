@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 29.0,
+        "translation": "I"
+    },
+    {
+        "word": "_",
+        "category": "PUNCT",
+        "value": 16.0,
+        "translation": "_"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 16.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "Thwaites",
+        "category": "PROPN",
+        "value": 14.0,
+        "translation": "Thwaites"
+    },
+    {
+        "word": "rat",
+        "category": "NOUN",
+        "value": 13.0,
+        "translation": "rata"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 12.0,
+        "translation": "decir"
+    },
+    {
+        "word": "father",
+        "category": "NOUN",
+        "value": 12.0,
+        "translation": "padre"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 12.0,
+        "translation": "uno"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 10.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 9.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "sweet",
+        "category": "ADJ",
+        "value": 9.0,
+        "translation": "dulce"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 9.0,
+        "translation": "ir"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 8.0,
+        "translation": "'s"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "chico"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "young",
+        "category": "ADJ",
+        "value": 7.0,
+        "translation": "joven"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 7.0,
+        "translation": "como"
+    },
+    {
+        "word": "put",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "poner"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "mano"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 6.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "eat",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "comer"
+    },
+    {
+        "word": "two",
+        "category": "NUM",
+        "value": 6.0,
+        "translation": "dos"
+    },
+    {
+        "word": "Bootlaces",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "Cordones"
+    },
+    {
+        "word": "Llandaff",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "Llandaff"
+    },
+    {
+        "word": "shop",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "comercio"
+    },
+    {
+        "word": "Liquorice",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "Regaliz"
+    },
+    {
+        "word": "long",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "largo"
+    },
+    {
+        "word": "stop",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "detener"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "decir"
+    },
+    {
+        "word": "Pratchett",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Pratchett"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "answer",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "respuesta"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "Mrs",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Se\u00f1ora"
+    },
+    {
+        "word": "black",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "negro"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "thing",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "cosa"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "saber"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "forma"
+    },
+    {
+        "word": "blood",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "sangre"
+    },
+    {
+        "word": "give",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "dar"
+    },
+    {
+        "word": "many",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "muchos"
+    },
+    {
+        "word": "liquorice",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "regaliz"
+    },
+    {
+        "word": "cauldron",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "caldera"
+    },
+    {
+        "word": "ratitis",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "ratitis"
+    },
+    {
+        "word": "keep",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "mantener"
+    },
+    {
+        "word": "jar",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "frasco"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "bicycle",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "bicicleta"
+    },
+    {
+        "word": "year",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "a\u00f1o"
+    },
+    {
+        "word": "doctor",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "doctor"
+    },
+    {
+        "word": "green",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "verde"
+    },
+    {
+        "word": "around",
+        "category": "ADP",
+        "value": 4.0,
+        "translation": "alrededor"
+    },
+    {
+        "word": "head",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "catch",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "atrapar"
+    },
+    {
+        "word": "School",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Escuela"
+    },
+    {
+        "word": "think",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "pensar"
+    },
+    {
+        "word": "good",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "bien"
+    },
+    {
+        "word": "Cathedral",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Catedral"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "point",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "punto"
+    },
+    {
+        "word": "mouth",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "boca"
+    },
+    {
+        "word": "penny",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "centavo"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "usar"
+    },
+    {
+        "word": "sherbet",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "sorbete"
+    },
+    {
+        "word": "poison",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "veneno"
+    },
+    {
+        "word": "happen",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "suceder"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "Gobstopper",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Gobstopper"
+    },
+    {
+        "word": "ever",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "alguna vez"
+    },
+    {
+        "word": "colour",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "color"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "Tonsil",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Am\u00edgdala"
+    },
+    {
+        "word": "chloroform",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "cloroformo"
+    },
+    {
+        "word": "leave",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dejar"
+    },
+    {
+        "word": "finger",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dedo"
+    },
+    {
+        "word": "change",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "cambiar"
+    },
+    {
+        "word": "yes",
+        "category": "INTJ",
+        "value": 3.0,
+        "translation": "S\u00ed"
+    },
+    {
+        "word": "moment",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "momento"
+    },
+    {
+        "word": "look",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "Drops",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Gotas"
+    },
+    {
+        "word": "buy",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "comprar"
+    },
+    {
+        "word": "Sherbet",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Sorbete"
+    },
+    {
+        "word": "Suckers",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "reto\u00f1os"
+    },
+    {
+        "word": "without",
+        "category": "ADP",
+        "value": 3.0,
+        "translation": "sin"
+    },
+    {
+        "word": "life",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "vida"
+    },
+    {
+        "word": "dead",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "muerto"
+    },
+    {
+        "word": "handlebar",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "manillar"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "Factory",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "F\u00e1brica"
+    },
+    {
+        "word": "hill",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "colina"
+    },
+    {
+        "word": "sell",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "vender"
+    },
+    {
+        "word": "village",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "aldea"
+    },
+    {
+        "word": "across",
+        "category": "ADP",
+        "value": 3.0,
+        "translation": "al otro lado de"
+    },
+    {
+        "word": "hour",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "hora"
+    },
+    {
+        "word": "end",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "fin"
+    },
+    {
+        "word": "walk",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "caminar"
+    },
+    {
+        "word": "back",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "atr\u00e1s"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 118.0,
+        "translation": "I"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 25.0,
+        "translation": "ir"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 16.0,
+        "translation": "decir"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 14.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "Shell",
+        "category": "PROPN",
+        "value": 13.0,
+        "translation": "Caparaz\u00f3n"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 13.0,
+        "translation": "uno"
+    },
+    {
+        "word": "year",
+        "category": "NOUN",
+        "value": 12.0,
+        "translation": "a\u00f1o"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 12.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 11.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "week",
+        "category": "NOUN",
+        "value": 10.0,
+        "translation": "semana"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 10.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "Egypt",
+        "category": "PROPN",
+        "value": 10.0,
+        "translation": "Egipto"
+    },
+    {
+        "word": "back",
+        "category": "ADV",
+        "value": 10.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "two",
+        "category": "NUM",
+        "value": 8.0,
+        "translation": "dos"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 8.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "man",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "hombre"
+    },
+    {
+        "word": "London",
+        "category": "PROPN",
+        "value": 8.0,
+        "translation": "Londres"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "venir"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 8.0,
+        "translation": "tres"
+    },
+    {
+        "word": "leave",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "dejar"
+    },
+    {
+        "word": "want",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "desear"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "last",
+        "category": "ADJ",
+        "value": 7.0,
+        "translation": "\u00faltimo"
+    },
+    {
+        "word": "writer",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "escritor"
+    },
+    {
+        "word": "Company",
+        "category": "PROPN",
+        "value": 7.0,
+        "translation": "Compa\u00f1\u00eda"
+    },
+    {
+        "word": "country",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "pa\u00eds"
+    },
+    {
+        "word": "spend",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "gastar"
+    },
+    {
+        "word": "learn",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "aprender"
+    },
+    {
+        "word": "month",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "mes"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "saber"
+    },
+    {
+        "word": "Head",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "Cabeza"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "decir"
+    },
+    {
+        "word": "six",
+        "category": "NUM",
+        "value": 6.0,
+        "translation": "seis"
+    },
+    {
+        "word": "ever",
+        "category": "ADV",
+        "value": 6.0,
+        "translation": "alguna vez"
+    },
+    {
+        "word": "Africa",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "\u00c1frica"
+    },
+    {
+        "word": "long",
+        "category": "ADV",
+        "value": 6.0,
+        "translation": "largo"
+    },
+    {
+        "word": "like",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "como"
+    },
+    {
+        "word": "hour",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "hora"
+    },
+    {
+        "word": "great",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "excelente"
+    },
+    {
+        "word": "company",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "compa\u00f1\u00eda"
+    },
+    {
+        "word": "well",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "work",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "trabajar"
+    },
+    {
+        "word": "five",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "cinco"
+    },
+    {
+        "word": "nobody",
+        "category": "PRON",
+        "value": 5.0,
+        "translation": "nadie"
+    },
+    {
+        "word": "oil",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "aceite"
+    },
+    {
+        "word": "place",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "lugar"
+    },
+    {
+        "word": "send",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "enviar"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "madre"
+    },
+    {
+        "word": "\u2019s",
+        "category": "AUX",
+        "value": 5.0,
+        "translation": "'s"
+    },
+    {
+        "word": "sir",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Se\u00f1or"
+    },
+    {
+        "word": "kerosene",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "queroseno"
+    },
+    {
+        "word": "umbrella",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "paraguas"
+    },
+    {
+        "word": "young",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "joven"
+    },
+    {
+        "word": "live",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "vivir"
+    },
+    {
+        "word": "cry",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "llorar"
+    },
+    {
+        "word": "Repton",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "rept\u00f3n"
+    },
+    {
+        "word": "dusty",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "polvoriento"
+    },
+    {
+        "word": "happen",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "suceder"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "walk",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "caminar"
+    },
+    {
+        "word": "Housemaster",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Maestro en un internado"
+    },
+    {
+        "word": "Staff",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Personal"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "term",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "t\u00e9rmino"
+    },
+    {
+        "word": "good",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "bien"
+    },
+    {
+        "word": "Office",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Oficina"
+    },
+    {
+        "word": "seven",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "Siete"
+    },
+    {
+        "word": "pound",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "libra"
+    },
+    {
+        "word": "summer",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "verano"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "different",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "diferente"
+    },
+    {
+        "word": "hundred",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "centenar"
+    },
+    {
+        "word": "life",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "vida"
+    },
+    {
+        "word": "businessman",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "empresario"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "Eastern",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Oriental"
+    },
+    {
+        "word": "office",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "oficina"
+    },
+    {
+        "word": "lion",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "le\u00f3n"
+    },
+    {
+        "word": "elephant",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "elefante"
+    },
+    {
+        "word": "coconut",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "Coco"
+    },
+    {
+        "word": "fiction",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "ficci\u00f3n"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "wear",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "tener puesto"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mano"
+    },
+    {
+        "word": "train",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "tren"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "fun",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "divertido"
+    },
+    {
+        "word": "think",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "pensar"
+    },
+    {
+        "word": "eighteen",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "dieciocho"
+    },
+    {
+        "word": "salary",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "salario"
+    },
+    {
+        "word": "sail",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "navegar"
+    },
+    {
+        "word": "home",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "hogar"
+    },
+    {
+        "word": "quite",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "bastante"
+    },
+    {
+        "word": "feel",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "sentir"
+    },
+    {
+        "word": "need",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "necesidad"
+    },
+    {
+        "word": "road",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "camino"
+    },
+    {
+        "word": "ride",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "conducir"
+    },
+    {
+        "word": "without",
+        "category": "ADP",
+        "value": 3.0,
+        "translation": "sin"
+    },
+    {
+        "word": "fly",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "volar"
+    }
+]

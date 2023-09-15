@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 34.0,
+        "translation": "I"
+    },
+    {
+        "word": "doctor",
+        "category": "NOUN",
+        "value": 14.0,
+        "translation": "doctor"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 13.0,
+        "translation": "decir"
+    },
+    {
+        "word": "mouth",
+        "category": "NOUN",
+        "value": 11.0,
+        "translation": "boca"
+    },
+    {
+        "word": "hold",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "sostener"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 8.0,
+        "translation": "'s"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "madre"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "ir"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "mano"
+    },
+    {
+        "word": "\u2019",
+        "category": "PART",
+        "value": 5.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "blade",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "cuchilla"
+    },
+    {
+        "word": "chair",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "silla"
+    },
+    {
+        "word": "think",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "pensar"
+    },
+    {
+        "word": "sit",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "sentarse"
+    },
+    {
+        "word": "much",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "mucho"
+    },
+    {
+        "word": "walk",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "caminar"
+    },
+    {
+        "word": "\u2019ll",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "lo haremos"
+    },
+    {
+        "word": "nose",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "nariz"
+    },
+    {
+        "word": "shiny",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "brillante"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "venir"
+    },
+    {
+        "word": "bowl",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "bol"
+    },
+    {
+        "word": "nurse",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "enfermero"
+    },
+    {
+        "word": "white",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "blanco"
+    },
+    {
+        "word": "curve",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "curva"
+    },
+    {
+        "word": "long",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "largo"
+    },
+    {
+        "word": "bit",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "poco"
+    },
+    {
+        "word": "basin",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "cuenca"
+    },
+    {
+        "word": "thin",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "delgado"
+    },
+    {
+        "word": "grandmother",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "abuela"
+    },
+    {
+        "word": "water",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "agua"
+    },
+    {
+        "word": "house",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "casa"
+    },
+    {
+        "word": "adenoid",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "adenoideo"
+    },
+    {
+        "word": "boiling",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hirviendo"
+    },
+    {
+        "word": "anyone",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "alguien"
+    },
+    {
+        "word": "end",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "fin"
+    },
+    {
+        "word": "metal",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "metal"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "tiny",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "diminuto"
+    },
+    {
+        "word": "open",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "abierto"
+    },
+    {
+        "word": "speak",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hablar"
+    },
+    {
+        "word": "tooth",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "diente"
+    },
+    {
+        "word": "place",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "lugar"
+    },
+    {
+        "word": "roof",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "techo"
+    },
+    {
+        "word": "pencil",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "l\u00e1piz"
+    },
+    {
+        "word": "whole",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "entero"
+    },
+    {
+        "word": "blood",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "sangre"
+    },
+    {
+        "word": "anything",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "cualquier cosa"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "uno"
+    },
+    {
+        "word": "well",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "last",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "\u00faltimo"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "como"
+    },
+    {
+        "word": "grandparent",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "abuelo"
+    },
+    {
+        "word": "still",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "a\u00fan"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "put",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "poner"
+    },
+    {
+        "word": "lift",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "elevar"
+    },
+    {
+        "word": "steel",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "acero"
+    },
+    {
+        "word": "instrument",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "instrumento"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "hour",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hora"
+    },
+    {
+        "word": "half",
+        "category": "DET",
+        "value": 2.0,
+        "translation": "medio"
+    },
+    {
+        "word": "something",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "algo"
+    },
+    {
+        "word": "face",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "rostro"
+    },
+    {
+        "word": "red",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "rojo"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "apron",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "delantal"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "right",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "bien"
+    },
+    {
+        "word": "nothing",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "nada"
+    },
+    {
+        "word": "enamel",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "esmalte"
+    },
+    {
+        "word": "front",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "frente"
+    },
+    {
+        "word": "perfectly",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "perfectamente"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 1.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "believe",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "creer"
+    },
+    {
+        "word": "stay",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "permanecer"
+    },
+    {
+        "word": "spit",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "escupir"
+    },
+    {
+        "word": "minute",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "minuto"
+    },
+    {
+        "word": "drip",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "goteo"
+    },
+    {
+        "word": "grab",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "agarrar"
+    },
+    {
+        "word": "good",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "bien"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "chico"
+    },
+    {
+        "word": "tight",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "ajustado"
+    },
+    {
+        "word": "hear",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "escuchar"
+    },
+    {
+        "word": "seem",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "parecer"
+    },
+    {
+        "word": "gasp",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "jadear"
+    },
+    {
+        "word": "tumble",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "ca\u00edda"
+    },
+    {
+        "word": "head",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "middle",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "medio"
+    },
+    {
+        "word": "cut",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "cortar"
+    },
+    {
+        "word": "thought",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "pensamiento"
+    },
+    {
+        "word": "fall",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "caer"
+    },
+    {
+        "word": "horrify",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "horrorizar"
+    },
+    {
+        "word": "yelp",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "ga\u00f1ido"
+    },
+    {
+        "word": "outraged",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "indignado"
+    },
+    {
+        "word": "shocked",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "conmocionado"
+    },
+    {
+        "word": "flesh",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "carne"
+    },
+    {
+        "word": "mass",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "masa"
+    },
+    {
+        "word": "first",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "primero"
+    }
+]

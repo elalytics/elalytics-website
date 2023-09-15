@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 28.0,
+        "translation": "I"
+    },
+    {
+        "word": "tuck",
+        "category": "NOUN",
+        "value": 16.0,
+        "translation": "pliegue"
+    },
+    {
+        "word": "box",
+        "category": "PROPN",
+        "value": 15.0,
+        "translation": "caja"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "chico"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 7.0,
+        "translation": "'s"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "madre"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 7.0,
+        "translation": "uno"
+    },
+    {
+        "word": "trunk",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "trompa"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "Weston",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "Weston"
+    },
+    {
+        "word": "home",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "hogar"
+    },
+    {
+        "word": "Peter",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Pedro"
+    },
+    {
+        "word": "taxi",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "Taxi"
+    },
+    {
+        "word": "brand",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "marca"
+    },
+    {
+        "word": "super",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "s\u00faper"
+    },
+    {
+        "word": "mare",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "grande"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 5.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "new",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "nuevo"
+    },
+    {
+        "word": "St",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Calle"
+    },
+    {
+        "word": "grey",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "gris"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "ir"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "like",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "como"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "decir"
+    },
+    {
+        "word": "Headmaster",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Director de escuela"
+    },
+    {
+        "word": "paddle",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "paleta"
+    },
+    {
+        "word": "week",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "semana"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "first",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "primero"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "School",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Escuela"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "store",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "almacenar"
+    },
+    {
+        "word": "\u2013",
+        "category": "PUNCT",
+        "value": 3.0,
+        "translation": "\u2013"
+    },
+    {
+        "word": "Prep",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Deberes"
+    },
+    {
+        "word": "house",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "casa"
+    },
+    {
+        "word": "front",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "frente"
+    },
+    {
+        "word": "ha",
+        "category": "INTJ",
+        "value": 3.0,
+        "translation": "ha"
+    },
+    {
+        "word": "large",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "grande"
+    },
+    {
+        "word": "right",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "bien"
+    },
+    {
+        "word": "pocket",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "bolsillo"
+    },
+    {
+        "word": "parcel",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "parcela"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "forma"
+    },
+    {
+        "word": "currant",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "grosella"
+    },
+    {
+        "word": "cake",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "pastel"
+    },
+    {
+        "word": "lie",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mentir"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "give",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dar"
+    },
+    {
+        "word": "shake",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "agitar"
+    },
+    {
+        "word": "stand",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "pararse"
+    },
+    {
+        "word": "steamer",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "buque de vapor"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mano"
+    },
+    {
+        "word": "Cardiff",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Cardiff"
+    },
+    {
+        "word": "across",
+        "category": "ADP",
+        "value": 3.0,
+        "translation": "al otro lado de"
+    },
+    {
+        "word": "set",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "colocar"
+    },
+    {
+        "word": "food",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "alimento"
+    },
+    {
+        "word": "parent",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "padre"
+    },
+    {
+        "word": "feed",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "alimentar"
+    },
+    {
+        "word": "Mrs",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Se\u00f1ora"
+    },
+    {
+        "word": "Dahl",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "dahl"
+    },
+    {
+        "word": "\u2019ll",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "lo haremos"
+    },
+    {
+        "word": "building",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "edificio"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "tres"
+    },
+    {
+        "word": "family",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "familia"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "\u2026",
+        "category": "PUNCT",
+        "value": 2.0,
+        "translation": "\u2026"
+    },
+    {
+        "word": "yes",
+        "category": "INTJ",
+        "value": 2.0,
+        "translation": "S\u00ed"
+    },
+    {
+        "word": "begin",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "comenzar"
+    },
+    {
+        "word": "remember",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "recordar"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "good",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "bien"
+    },
+    {
+        "word": "perhaps",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "tal vez"
+    },
+    {
+        "word": "contain",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "contener"
+    },
+    {
+        "word": "english",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "ingl\u00e9s"
+    },
+    {
+        "word": "apple",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "manzana"
+    },
+    {
+        "word": "wheel",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "rueda"
+    },
+    {
+        "word": "Bristol",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Br\u00edstol"
+    },
+    {
+        "word": "every",
+        "category": "DET",
+        "value": 2.0,
+        "translation": "cada"
+    },
+    {
+        "word": "wear",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "tener puesto"
+    },
+    {
+        "word": "directly",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "directamente"
+    },
+    {
+        "word": "name",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "nombre"
+    },
+    {
+        "word": "black",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "negro"
+    },
+    {
+        "word": "almost",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "casi"
+    },
+    {
+        "word": "blue",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "azul"
+    },
+    {
+        "word": "flannel",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "franela"
+    },
+    {
+        "word": "crest",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cresta"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "cream",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "crema"
+    },
+    {
+        "word": "esplanade",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "esplanada"
+    },
+    {
+        "word": "long",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "largo"
+    },
+    {
+        "word": "secret",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "secreto"
+    },
+    {
+        "word": "shoulder",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hombro"
+    },
+    {
+        "word": "around",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "alrededor"
+    },
+    {
+        "word": "send",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "enviar"
+    },
+    {
+        "word": "part",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "parte"
+    },
+    {
+        "word": "half",
+        "category": "DET",
+        "value": 2.0,
+        "translation": "medio"
+    },
+    {
+        "word": "couple",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "pareja"
+    },
+    {
+        "word": "orange",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "naranja"
+    },
+    {
+        "word": "hair",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cabello"
+    }
+]

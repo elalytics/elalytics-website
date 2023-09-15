@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 78.0,
+        "translation": "I"
+    },
+    {
+        "word": "Mr",
+        "category": "PROPN",
+        "value": 17.0,
+        "translation": "Se\u00f1or"
+    },
+    {
+        "word": "Coombes",
+        "category": "PROPN",
+        "value": 17.0,
+        "translation": "Coombes"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 16.0,
+        "translation": "decir"
+    },
+    {
+        "word": "w",
+        "category": "NOUN",
+        "value": 13.0,
+        "translation": "En"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 12.0,
+        "translation": "'s"
+    },
+    {
+        "word": "Thwaites",
+        "category": "PROPN",
+        "value": 12.0,
+        "translation": "Thwaites"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 11.0,
+        "translation": "venir"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 10.0,
+        "translation": "ir"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 9.0,
+        "translation": "uno"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "Pratchett",
+        "category": "PROPN",
+        "value": 8.0,
+        "translation": "Pratchett"
+    },
+    {
+        "word": "Mrs",
+        "category": "PROPN",
+        "value": 8.0,
+        "translation": "Se\u00f1ora"
+    },
+    {
+        "word": "cane",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "ca\u00f1a"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 7.0,
+        "translation": "como"
+    },
+    {
+        "word": "hear",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "escuchar"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "stand",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "pararse"
+    },
+    {
+        "word": "first",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "primero"
+    },
+    {
+        "word": "stroke",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "ataque"
+    },
+    {
+        "word": "bad",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "malo"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "second",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "segundo"
+    },
+    {
+        "word": "seem",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "parecer"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "madre"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "bottom",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "abajo"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "back",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "mano"
+    },
+    {
+        "word": "line",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "l\u00ednea"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "chico"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "decir"
+    },
+    {
+        "word": "gasp",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "jadear"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "great",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "excelente"
+    },
+    {
+        "word": "eye",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "ojo"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "saber"
+    },
+    {
+        "word": "see",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "ver"
+    },
+    {
+        "word": "turn",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "doblar"
+    },
+    {
+        "word": "shriek",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "compartirek"
+    },
+    {
+        "word": "thing",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "cosa"
+    },
+    {
+        "word": "voice",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "voz"
+    },
+    {
+        "word": "crack",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "grieta"
+    },
+    {
+        "word": "forward",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "adelante"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "hard",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "duro"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "tres"
+    },
+    {
+        "word": "Eadmaster",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "maestro"
+    },
+    {
+        "word": "four",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "cuatro"
+    },
+    {
+        "word": "next",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "pr\u00f3ximo"
+    },
+    {
+        "word": "Ouch",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Ay"
+    },
+    {
+        "word": "wish",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "desear"
+    },
+    {
+        "word": "bend",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "doblar"
+    },
+    {
+        "word": "study",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "estudiar"
+    },
+    {
+        "word": "touch",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "tocar"
+    },
+    {
+        "word": "think",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "pensar"
+    },
+    {
+        "word": "tight",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "ajustado"
+    },
+    {
+        "word": "much",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "mucho"
+    },
+    {
+        "word": "land",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "tierra"
+    },
+    {
+        "word": "across",
+        "category": "ADP",
+        "value": 3.0,
+        "translation": "al otro lado de"
+    },
+    {
+        "word": "buttock",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "nalga"
+    },
+    {
+        "word": "good",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "bien"
+    },
+    {
+        "word": "last",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "\u00faltimo"
+    },
+    {
+        "word": "whole",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "entero"
+    },
+    {
+        "word": "sound",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "sonido"
+    },
+    {
+        "word": "yell",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "gritar"
+    },
+    {
+        "word": "well",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "let",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dejar"
+    },
+    {
+        "word": "room",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "high",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "alto"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "straighten",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "enderezar"
+    },
+    {
+        "word": "finish",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "finalizar"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "end",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "fin"
+    },
+    {
+        "word": "around",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "alrededor"
+    },
+    {
+        "word": "head",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "sister",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hermana"
+    },
+    {
+        "word": "return",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "devolver"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "ow",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "Ay"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "flesh",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "carne"
+    },
+    {
+        "word": "air",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "aire"
+    },
+    {
+        "word": "awful",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "horrible"
+    },
+    {
+        "word": "strike",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "huelga"
+    },
+    {
+        "word": "pistol",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "pistola"
+    },
+    {
+        "word": "sting",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "picadura"
+    },
+    {
+        "word": "every",
+        "category": "DET",
+        "value": 2.0,
+        "translation": "cada"
+    },
+    {
+        "word": "whether",
+        "category": "SCONJ",
+        "value": 2.0,
+        "translation": "si"
+    },
+    {
+        "word": "shout",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "gritar"
+    },
+    {
+        "word": "warm",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "c\u00e1lido"
+    },
+    {
+        "word": "backside",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "trasero"
+    },
+    {
+        "word": "tellin",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "contando"
+    },
+    {
+        "word": "probably",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "probablemente"
+    },
+    {
+        "word": "enough",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "suficiente"
+    },
+    {
+        "word": "Arder",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Arder"
+    }
+]
