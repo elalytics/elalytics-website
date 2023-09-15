@@ -1,6 +1,6 @@
 "use client";
 
-import WordCloudDraggableDualLang from "@/app/utils/charts/WordCloudDraggableDualLang";
+import WordCloudDraggableDualLang from "@/app/utils/charts/WordCloudDraggableAndBilingual";
 import { filterWordCloudData } from "@/app/utils/functions/general-functions";
 import PropTypes from "prop-types";
 
