@@ -1,5 +1,3 @@
-"use client";
-
 import WordCloudDraggableDualLang from "../../utils/charts/WordCloudDraggableDualLang";
 import { filterWordCloudData } from "@/app/utils/functions/general-functions";
 import chapter1 from "./data/chapters/boy_topwords_chapter_1.json";
