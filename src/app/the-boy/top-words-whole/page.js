@@ -1,6 +1,6 @@
 "use client";
 
-import WordCloudDraggableDualLang from "../../utils/charts/WordCloudDraggableDualLang";
+import WordCloudDraggableDualLang from "../../utils/charts/WordCloudDraggableAndBilingual";
 import { filterWordCloudData } from "@/app/utils/functions/general-functions";
 import data from "./data/topwordsPOS.json";
 
