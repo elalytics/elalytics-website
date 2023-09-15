@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 18.0,
+        "translation": "I"
+    },
+    {
+        "word": "two",
+        "category": "NUM",
+        "value": 9.0,
+        "translation": "dos"
+    },
+    {
+        "word": "child",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "ni\u00f1o"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "year",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "a\u00f1o"
+    },
+    {
+        "word": "one",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "uno"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "ir"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 6.0,
+        "translation": "'s"
+    },
+    {
+        "word": "great",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "excelente"
+    },
+    {
+        "word": "die",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "el"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "husband",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "marido"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 5.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "well",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "house",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "casa"
+    },
+    {
+        "word": "Wales",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Gales"
+    },
+    {
+        "word": "remember",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "recordar"
+    },
+    {
+        "word": "much",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "mucho"
+    },
+    {
+        "word": "pneumonia",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "neumon\u00eda"
+    },
+    {
+        "word": "age",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "edad"
+    },
+    {
+        "word": "daughter",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "hija"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "madre"
+    },
+    {
+        "word": "sister",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "hermana"
+    },
+    {
+        "word": "leave",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dejar"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "eld",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "vejez"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "tricycle",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "triciclo"
+    },
+    {
+        "word": "seven",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "Siete"
+    },
+    {
+        "word": "move",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mover"
+    },
+    {
+        "word": "\u2019",
+        "category": "PART",
+        "value": 3.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "Llandaff",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Llandaff"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "six",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "seis"
+    },
+    {
+        "word": "must",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "debe"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 3.0,
+        "translation": "como"
+    },
+    {
+        "word": "father",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "padre"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "venir"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "saber"
+    },
+    {
+        "word": "quite",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "bastante"
+    },
+    {
+        "word": "kindergarten",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "jard\u00edn de infancia"
+    },
+    {
+        "word": "England",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Inglaterra"
+    },
+    {
+        "word": "ride",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "conducir"
+    },
+    {
+        "word": "memory",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "memoria"
+    },
+    {
+        "word": "eight",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "ocho"
+    },
+    {
+        "word": "excitement",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "excitaci\u00f3n"
+    },
+    {
+        "word": "House",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Casa"
+    },
+    {
+        "word": "centre",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "centro"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "usar"
+    },
+    {
+        "word": "Elmtree",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Olmo"
+    },
+    {
+        "word": "Tucker",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Fatigar"
+    },
+    {
+        "word": "yet",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "todav\u00eda"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "Miss",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Extra\u00f1ar"
+    },
+    {
+        "word": "Corfield",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Corfield"
+    },
+    {
+        "word": "thing",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cosa"
+    },
+    {
+        "word": "Mrs",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Se\u00f1ora"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "decir"
+    },
+    {
+        "word": "help",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "ayuda"
+    },
+    {
+        "word": "world",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "mundo"
+    },
+    {
+        "word": "month",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "mes"
+    },
+    {
+        "word": "fight",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "luchar"
+    },
+    {
+        "word": "good",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "bien"
+    },
+    {
+        "word": "fifth",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "quinto"
+    },
+    {
+        "word": "patient",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "paciente"
+    },
+    {
+        "word": "penicillin",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "penicilina"
+    },
+    {
+        "word": "live",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "vivir"
+    },
+    {
+        "word": "afterwards",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "despu\u00e9s"
+    },
+    {
+        "word": "sure",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "seguro"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "far",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "later",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "m\u00e1s tarde"
+    },
+    {
+        "word": "appendicitis",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "apendicitis"
+    },
+    {
+        "word": "Astri",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Estrellas"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "tres"
+    },
+    {
+        "word": "refuse",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "rechazar"
+    },
+    {
+        "word": "become",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "convertirse"
+    },
+    {
+        "word": "face",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "rostro"
+    },
+    {
+        "word": "another",
+        "category": "DET",
+        "value": 2.0,
+        "translation": "otro"
+    },
+    {
+        "word": "english",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "ingl\u00e9s"
+    },
+    {
+        "word": "wish",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "desear"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "forma"
+    },
+    {
+        "word": "back",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "sell",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "vender"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "first",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "primero"
+    },
+    {
+        "word": "Cumberland",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "Cumberland"
+    },
+    {
+        "word": "medium",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "medio"
+    },
+    {
+        "word": "interest",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "inter\u00e9s"
+    },
+    {
+        "word": "Lodge",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "Presentar"
+    },
+    {
+        "word": "nothing",
+        "category": "PRON",
+        "value": 1.0,
+        "translation": "nada"
+    },
+    {
+        "word": "pleasant",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "agradable"
+    },
+    {
+        "word": "glorious",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "glorioso"
+    },
+    {
+        "word": "corner",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "esquina"
+    },
+    {
+        "word": "lean",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "inclinarse"
+    },
+    {
+        "word": "sight",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "vista"
+    },
+    {
+        "word": "motor",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "motor"
+    },
+    {
+        "word": "car",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "auto"
+    }
+]

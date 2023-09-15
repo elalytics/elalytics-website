@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 31.0,
+        "translation": "I"
+    },
+    {
+        "word": "letter",
+        "category": "NOUN",
+        "value": 12.0,
+        "translation": "carta"
+    },
+    {
+        "word": "write",
+        "category": "VERB",
+        "value": 11.0,
+        "translation": "escribir"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "ir"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "week",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "semana"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 5.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "uno"
+    },
+    {
+        "word": "\u2026",
+        "category": "PUNCT",
+        "value": 5.0,
+        "translation": "\u2026"
+    },
+    {
+        "word": "\u2019s",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "'s"
+    },
+    {
+        "word": "Peter",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Pedro"
+    },
+    {
+        "word": "St",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Calle"
+    },
+    {
+        "word": "home",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "hogar"
+    },
+    {
+        "word": "every",
+        "category": "DET",
+        "value": 5.0,
+        "translation": "cada"
+    },
+    {
+        "word": "parent",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "padre"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "decir"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "forma"
+    },
+    {
+        "word": "die",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "el"
+    },
+    {
+        "word": "h",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "h"
+    },
+    {
+        "word": "writing",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "escribiendo"
+    },
+    {
+        "word": "want",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "desear"
+    },
+    {
+        "word": "serious",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "grave"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "saber"
+    },
+    {
+        "word": "last",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "\u00faltimo"
+    },
+    {
+        "word": "sure",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "seguro"
+    },
+    {
+        "word": "g",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "gramo"
+    },
+    {
+        "word": "n",
+        "category": "CCONJ",
+        "value": 3.0,
+        "translation": "norte"
+    },
+    {
+        "word": "sir",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Se\u00f1or"
+    },
+    {
+        "word": "first",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "primero"
+    },
+    {
+        "word": "quite",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "bastante"
+    },
+    {
+        "word": "kind",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "amable"
+    },
+    {
+        "word": "night",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "noche"
+    },
+    {
+        "word": "therefore",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "por lo tanto"
+    },
+    {
+        "word": "anything",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "cualquier cosa"
+    },
+    {
+        "word": "headmaster",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "director de escuela"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "mistake",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "error"
+    },
+    {
+        "word": "t.",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "t."
+    },
+    {
+        "word": "shoulder",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hombro"
+    },
+    {
+        "word": "knight",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "caballero"
+    },
+    {
+        "word": "read",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "leer"
+    },
+    {
+        "word": "spelling",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "ortograf\u00eda"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "Tuesday",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Martes"
+    },
+    {
+        "word": "green",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "verde"
+    },
+    {
+        "word": "Sunday",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Domingo"
+    },
+    {
+        "word": "church",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "iglesia"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "madre"
+    },
+    {
+        "word": "often",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "a menudo"
+    },
+    {
+        "word": "next",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "pr\u00f3ximo"
+    },
+    {
+        "word": "bind",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "unir"
+    },
+    {
+        "word": "tape",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cinta"
+    },
+    {
+        "word": "correct",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "correcto"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "decir"
+    },
+    {
+        "word": "order",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "orden"
+    },
+    {
+        "word": "anyone",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "alguien"
+    },
+    {
+        "word": "else",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "dem\u00e1s"
+    },
+    {
+        "word": "master",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "maestro"
+    },
+    {
+        "word": "something",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "algo"
+    },
+    {
+        "word": "censor",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "censurar"
+    },
+    {
+        "word": "think",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "pensar"
+    },
+    {
+        "word": "spell",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "deletrear"
+    },
+    {
+        "word": "11",
+        "category": "NUM",
+        "value": 1.0,
+        "translation": "11"
+    },
+    {
+        "word": "idiot",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "est\u00fapido"
+    },
+    {
+        "word": "understand",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "entender"
+    },
+    {
+        "word": "shine",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "brillar"
+    },
+    {
+        "word": "armour",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "armadura"
+    },
+    {
+        "word": "man",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "hombre"
+    },
+    {
+        "word": "horseback",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "lado de caballo"
+    },
+    {
+        "word": "\u2019m",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "'metro"
+    },
+    {
+        "word": "clever",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "inteligente"
+    },
+    {
+        "word": "patrol",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "patrulla"
+    },
+    {
+        "word": "lousy",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "mal\u00edsimo"
+    },
+    {
+        "word": "peer",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "par"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 1.0,
+        "translation": "como"
+    },
+    {
+        "word": "refer",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "referirse"
+    },
+    {
+        "word": "age",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "edad"
+    },
+    {
+        "word": "business",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "negocio"
+    },
+    {
+        "word": "much",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "mucho"
+    },
+    {
+        "word": "lesson",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "lecci\u00f3n"
+    },
+    {
+        "word": "punctuation",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "puntuaci\u00f3n"
+    },
+    {
+        "word": "classroom",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "aula"
+    },
+    {
+        "word": "session",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "sesi\u00f3n"
+    },
+    {
+        "word": "point",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "punto"
+    },
+    {
+        "word": "food",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "alimento"
+    },
+    {
+        "word": "main",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "principal"
+    },
+    {
+        "word": "reason",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "raz\u00f3n"
+    },
+    {
+        "word": "interest",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "inter\u00e9s"
+    },
+    {
+        "word": "nothing",
+        "category": "PRON",
+        "value": 1.0,
+        "translation": "nada"
+    },
+    {
+        "word": "horrid",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "horrible"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 1.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "ever",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "alguna vez"
+    },
+    {
+        "word": "complain",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "quejarse"
+    },
+    {
+        "word": "term",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "t\u00e9rmino"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "chico"
+    }
+]

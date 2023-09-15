@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 14.0,
+        "translation": "I"
+    },
+    {
+        "word": "chocolate",
+        "category": "NOUN",
+        "value": 13.0,
+        "translation": "chocolate"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 9.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "bar",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "bar"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 7.0,
+        "translation": "uno"
+    },
+    {
+        "word": "great",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "excelente"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "box",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "caja"
+    },
+    {
+        "word": "Cadbury",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Cadbury"
+    },
+    {
+        "word": "new",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "nuevo"
+    },
+    {
+        "word": "give",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dar"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "usar"
+    },
+    {
+        "word": "comment",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "comentario"
+    },
+    {
+        "word": "mark",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "marca"
+    },
+    {
+        "word": "invent",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "inventar"
+    },
+    {
+        "word": "invention",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "invenci\u00f3n"
+    },
+    {
+        "word": "\u2019ve",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "he"
+    },
+    {
+        "word": "twelve",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "doce"
+    },
+    {
+        "word": "\u2019ll",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "lo haremos"
+    },
+    {
+        "word": "bubble",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "burbuja"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "white",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "blanco"
+    },
+    {
+        "word": "pot",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "maceta"
+    },
+    {
+        "word": "newly",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "reci\u00e9n"
+    },
+    {
+        "word": "man",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hombre"
+    },
+    {
+        "word": "shout",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "gritar"
+    },
+    {
+        "word": "room",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "book",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "libro"
+    },
+    {
+        "word": "lab",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "laboratorio"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "every",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "cada"
+    },
+    {
+        "word": "dream",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "sue\u00f1o"
+    },
+    {
+        "word": "delicious",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "delicioso"
+    },
+    {
+        "word": "begin",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "comenzar"
+    },
+    {
+        "word": "different",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "diferente"
+    },
+    {
+        "word": "write",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "escribir"
+    },
+    {
+        "word": "well",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 2.0,
+        "translation": "'s"
+    },
+    {
+        "word": "taste",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "gusto"
+    },
+    {
+        "word": "number",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "n\u00famero"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "filling",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "relleno"
+    },
+    {
+        "word": "inside",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "adentro"
+    },
+    {
+        "word": "like",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "como"
+    },
+    {
+        "word": "cardboard",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "cartulina"
+    },
+    {
+        "word": "world",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "mundo"
+    },
+    {
+        "word": "remember",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "recordar"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "saber"
+    },
+    {
+        "word": "sell",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "vender"
+    },
+    {
+        "word": "leap",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "salto"
+    },
+    {
+        "word": "chair",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "silla"
+    },
+    {
+        "word": "cry",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "llorar"
+    },
+    {
+        "word": "miracle",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "milagro"
+    },
+    {
+        "word": "mouth",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "boca"
+    },
+    {
+        "word": "slap",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "bofetada"
+    },
+    {
+        "word": "back",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "lovely",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "hermoso"
+    },
+    {
+        "word": "million",
+        "category": "NUM",
+        "value": 1.0,
+        "translation": "mill\u00f3n"
+    },
+    {
+        "word": "earth",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "tierra"
+    },
+    {
+        "word": "salary",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "salario"
+    },
+    {
+        "word": "double",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "doble"
+    },
+    {
+        "word": "doubt",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "duda"
+    },
+    {
+        "word": "thirty",
+        "category": "NUM",
+        "value": 1.0,
+        "translation": "treinta"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "plot",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "trama"
+    },
+    {
+        "word": "second",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "segundo"
+    },
+    {
+        "word": "child",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "ni\u00f1o"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "Charlie",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "charlie"
+    },
+    {
+        "word": "roll",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "rollo"
+    },
+    {
+        "word": "round",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "redondo"
+    },
+    {
+        "word": "suddenly",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "de repente"
+    },
+    {
+        "word": "bite",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "morder"
+    },
+    {
+        "word": "something",
+        "category": "PRON",
+        "value": 1.0,
+        "translation": "algo"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "stove",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "cocina"
+    },
+    {
+        "word": "woman",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "mujer"
+    },
+    {
+        "word": "coat",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "abrigo"
+    },
+    {
+        "word": "move",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "mover"
+    },
+    {
+        "word": "mix",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "mezcla"
+    },
+    {
+        "word": "concoct",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "confeccionar"
+    },
+    {
+        "word": "wonderful",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "maravilloso"
+    },
+    {
+        "word": "imagine",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "imaginar"
+    },
+    {
+        "word": "work",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "trabajar"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "venir"
+    },
+    {
+        "word": "absolutely",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "absolutamente"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "unbearably",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "insoportablemente"
+    },
+    {
+        "word": "grab",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "agarrar"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "mano"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "ir"
+    },
+    {
+        "word": "rush",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "correr"
+    },
+    {
+        "word": "along",
+        "category": "ADP",
+        "value": 1.0,
+        "translation": "a lo largo de"
+    },
+    {
+        "word": "corridor",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "corredor"
+    },
+    {
+        "word": "right",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "bien"
+    },
+    {
+        "word": "office",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "oficina"
+    },
+    {
+        "word": "Mr",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "Se\u00f1or"
+    },
+    {
+        "word": "pick",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "elegir"
+    },
+    {
+        "word": "Chocolate",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "Chocolate"
+    }
+]
