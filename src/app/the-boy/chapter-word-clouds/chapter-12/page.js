@@ -1,9 +1,9 @@
-import data from "../data/chapters/boy_topwords_chapter_1.json";
+import data from "../data/chapters/boy_topwords_chapter_12.json";
 import chapterInfo from "../data/chapter-info.json";
 import wordsToRemove from "../data/words-to-remove.json";
 import categoriesToRemove from "../data/categories-to-remove.json";
 import WordCloudDraggableBilingualPanel from "@/app/utils/panels/WordcloudDraggableBilingualPanel";
-const chapterNumber = 1;
+const chapterNumber = 12;
 export const metadata = {
   title: `Chapter ${chapterNumber}: ${
     chapterInfo[chapterNumber - 1].chapterName
