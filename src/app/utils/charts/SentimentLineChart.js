@@ -1,15 +1,12 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
-import annotationPlugin from "chartjs-plugin-annotation";
 import { Tooltip } from "react-tooltip";
 
 export const conflictDefinition =
   "The conflict score is calculated by breaking each paragraph down into sentences. Every sentence gets a computed 'negativity' and 'intensity' score, and then this is averaged to give each paragraph a conflict score, with the idea being the more negative and intense the emotions in a paragraph are, the higher the conflict is. A higher score == more conflict.";
 
-//sourceData format: [{key: "1", value: 0.5, tooltip: "This is an example tooltip"}]
-
-const ConflictLineChart = ({
+const SentimentLineChart = ({
   sourceData,
   showTooltip,
   xLabel,
@@ -26,8 +23,42 @@ const ConflictLineChart = ({
     text: "Hello hello",
   });
   const [isHoveringTooltip, setIsHoveringTooltip] = useState(false);
+  console.log("sourceData", sourceData);
+  const canvasBackgroundColor = {
+    id: "canvasBackgroundColor",
+    beforeDraw: (chart) => {
+      const ctx = chart.canvas.getContext("2d");
+      const chartArea = chart.chartArea;
+      const gradient = ctx.createLinearGradient(
+        0,
+        chartArea.bottom,
+        0,
+        chartArea.top
+      );
+      const maxVal = Math.max(...sourceData.map((item) => item.value));
+      const minVal = Math.min(...sourceData.map((item) => item.value));
 
-  Chart.register(annotationPlugin);
+      const normalize = (value) => value / 3;
+
+      const normalizedMaxVal = normalize(maxVal);
+      const normalizedMinVal = normalize(minVal);
+
+      gradient.addColorStop(1, `rgba(255, 100, 100, ${normalizedMaxVal})`);
+      gradient.addColorStop(0, `rgba(255, 100, 100, 0)`);
+      ctx.save();
+      ctx.globalCompositeOperation = "destination-over";
+      ctx.fillStyle = gradient;
+      ctx.fillRect(
+        chartArea.left,
+        chartArea.top,
+        chartArea.right - chartArea.left,
+        chartArea.bottom - chartArea.top
+      );
+      ctx.restore();
+    },
+  };
+
+  Chart.register(canvasBackgroundColor);
 
   useEffect(() => {
     let data = {
@@ -45,6 +76,7 @@ const ConflictLineChart = ({
   }, [sourceData]);
 
   useEffect(() => {
+    console.log("chartData", chartData);
     if (chartContainer && chartContainer.current) {
       const myChartRef = chartContainer.current.getContext("2d");
       if (chartInstance.current) {
@@ -57,9 +89,6 @@ const ConflictLineChart = ({
         data: chartData,
         options: {
           plugins: {
-            annotation: {
-              annotations: {},
-            },
             tooltip: {
               enabled: false,
             },
@@ -67,7 +96,6 @@ const ConflictLineChart = ({
               display: false, // whether to display the legend
             },
           },
-
           onClick: function (event, chartElement) {
             if (chartElement[0]) {
               const { index } = chartElement[0];
@@ -89,6 +117,7 @@ const ConflictLineChart = ({
           scales: {
             y: {
               grace: "5%",
+              beginAtZero: true,
               title: {
                 display: true,
                 text: yLabel,
@@ -104,6 +133,7 @@ const ConflictLineChart = ({
           },
           responsive: true,
         },
+        plugins: [canvasBackgroundColor],
       });
     }
   }, [chartContainer, chartData]);
@@ -136,4 +166,4 @@ const ConflictLineChart = ({
   );
 };
 
-export default ConflictLineChart;
+export default SentimentLineChart;
