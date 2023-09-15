@@ -1,0 +1,602 @@
+[
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 19.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "boat",
+        "category": "NOUN",
+        "value": 17.0,
+        "translation": "bote"
+    },
+    {
+        "word": "island",
+        "category": "NOUN",
+        "value": 13.0,
+        "translation": "isla"
+    },
+    {
+        "word": "water",
+        "category": "NOUN",
+        "value": 11.0,
+        "translation": "agua"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 10.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "rock",
+        "category": "NOUN",
+        "value": 10.0,
+        "translation": "roca"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 9.0,
+        "translation": "ir"
+    },
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 9.0,
+        "translation": "I"
+    },
+    {
+        "word": "one",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "uno"
+    },
+    {
+        "word": "sit",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "sentarse"
+    },
+    {
+        "word": "hotel",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "hotel"
+    },
+    {
+        "word": "wooden",
+        "category": "ADJ",
+        "value": 7.0,
+        "translation": "de madera"
+    },
+    {
+        "word": "every",
+        "category": "DET",
+        "value": 7.0,
+        "translation": "cada"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "madre"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 7.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 6.0,
+        "translation": "'s"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 6.0,
+        "translation": "como"
+    },
+    {
+        "word": "tiny",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "diminuto"
+    },
+    {
+        "word": "white",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "blanco"
+    },
+    {
+        "word": "swim",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "nadar"
+    },
+    {
+        "word": "always",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "siempre"
+    },
+    {
+        "word": "cold",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "fr\u00edo"
+    },
+    {
+        "word": "long",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "largo"
+    },
+    {
+        "word": "place",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "lugar"
+    },
+    {
+        "word": "two",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "dos"
+    },
+    {
+        "word": "different",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "diferente"
+    },
+    {
+        "word": "half",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "medio"
+    },
+    {
+        "word": "journey",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "viaje"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "click",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "hacer clic"
+    },
+    {
+        "word": "large",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "grande"
+    },
+    {
+        "word": "motor",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "motor"
+    },
+    {
+        "word": "wave",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "ola"
+    },
+    {
+        "word": "side",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "lado"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "early",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "temprano"
+    },
+    {
+        "word": "line",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "l\u00ednea"
+    },
+    {
+        "word": "child",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "ni\u00f1o"
+    },
+    {
+        "word": "fjord",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "fiordo"
+    },
+    {
+        "word": "see",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "ver"
+    },
+    {
+        "word": "round",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "redondo"
+    },
+    {
+        "word": "hole",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "agujero"
+    },
+    {
+        "word": "table",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mesa"
+    },
+    {
+        "word": "collect",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "recolectar"
+    },
+    {
+        "word": "hot",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "caliente"
+    },
+    {
+        "word": "thing",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "cosa"
+    },
+    {
+        "word": "friend",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "amigo"
+    },
+    {
+        "word": "rower",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "remero"
+    },
+    {
+        "word": "summer",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "verano"
+    },
+    {
+        "word": "brother",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "hermano"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "tres"
+    },
+    {
+        "word": "secret",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "secreto"
+    },
+    {
+        "word": "sister",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "hermana"
+    },
+    {
+        "word": "four",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "cuatro"
+    },
+    {
+        "word": "far",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "big",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "grande"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mano"
+    },
+    {
+        "word": "beach",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "playa"
+    },
+    {
+        "word": "vessel",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "buque"
+    },
+    {
+        "word": "great",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "excelente"
+    },
+    {
+        "word": "next",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "pr\u00f3ximo"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "saber"
+    },
+    {
+        "word": "hundred",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "centenar"
+    },
+    {
+        "word": "deep",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "profundo"
+    },
+    {
+        "word": "young",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "joven"
+    },
+    {
+        "word": "tall",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "alto"
+    },
+    {
+        "word": "row",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "fila"
+    },
+    {
+        "word": "either",
+        "category": "DET",
+        "value": 3.0,
+        "translation": "cualquiera"
+    },
+    {
+        "word": "find",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "encontrar"
+    },
+    {
+        "word": "narrow",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "angosto"
+    },
+    {
+        "word": "norwegian",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "noruego"
+    },
+    {
+        "word": "touch",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "tocar"
+    },
+    {
+        "word": "cylinder",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cilindro"
+    },
+    {
+        "word": "difficult",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "dif\u00edcil"
+    },
+    {
+        "word": "engine",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "motor"
+    },
+    {
+        "word": "almost",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "casi"
+    },
+    {
+        "word": "learn",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "aprender"
+    },
+    {
+        "word": "handle",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "manejar"
+    },
+    {
+        "word": "promise",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "promesa"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "room",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "jug",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "jarra"
+    },
+    {
+        "word": "ham",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tambi\u00e9n"
+    },
+    {
+        "word": "choose",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "elegir"
+    },
+    {
+        "word": "year",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "a\u00f1o"
+    },
+    {
+        "word": "often",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "a menudo"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "foot",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "pie"
+    },
+    {
+        "word": "ten",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "diez"
+    },
+    {
+        "word": "drop",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "gota"
+    },
+    {
+        "word": "channel",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "canal"
+    },
+    {
+        "word": "extremely",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "extremadamente"
+    },
+    {
+        "word": "except",
+        "category": "SCONJ",
+        "value": 2.0,
+        "translation": "excepto"
+    },
+    {
+        "word": "back",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "dining",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "comida"
+    },
+    {
+        "word": "bathe",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "ba\u00f1arse"
+    }
+]

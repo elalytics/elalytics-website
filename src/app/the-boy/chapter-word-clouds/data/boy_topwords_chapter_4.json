@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 30.0,
+        "translation": "I"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 9.0,
+        "translation": "decir"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 9.0,
+        "translation": "uno"
+    },
+    {
+        "word": "Thwaites",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "Thwaites"
+    },
+    {
+        "word": "mouse",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "rat\u00f3n"
+    },
+    {
+        "word": "put",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "poner"
+    },
+    {
+        "word": "jar",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "frasco"
+    },
+    {
+        "word": "\u2019ll",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "lo haremos"
+    },
+    {
+        "word": "Pratchett",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Pratchett"
+    },
+    {
+        "word": "Mrs",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Se\u00f1ora"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "lift",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "elevar"
+    },
+    {
+        "word": "hold",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "sostener"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 3.0,
+        "translation": "como"
+    },
+    {
+        "word": "cry",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llorar"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mano"
+    },
+    {
+        "word": "classroom",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "aula"
+    },
+    {
+        "word": "turn",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "doblar"
+    },
+    {
+        "word": "Bootlace",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Cord\u00f3n"
+    },
+    {
+        "word": "Sucker",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Ventosa"
+    },
+    {
+        "word": "sweet",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "dulce"
+    },
+    {
+        "word": "Sherbet",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Sorbete"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "please",
+        "category": "INTJ",
+        "value": 2.0,
+        "translation": "por favor"
+    },
+    {
+        "word": "head",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "shop",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "comercio"
+    },
+    {
+        "word": "feel",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "sentir"
+    },
+    {
+        "word": "lid",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tapa"
+    },
+    {
+        "word": "penny",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "centavo"
+    },
+    {
+        "word": "Gobstopper",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Gobstopper"
+    },
+    {
+        "word": "Mouse",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Rat\u00f3n"
+    },
+    {
+        "word": "see",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "ver"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "ir"
+    },
+    {
+        "word": "counter",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "encimera"
+    },
+    {
+        "word": "grab",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "agarrar"
+    },
+    {
+        "word": "behind",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "detr\u00e1s"
+    },
+    {
+        "word": "Gobstoppers",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Gobstoppers"
+    },
+    {
+        "word": "hero",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "h\u00e9roe"
+    },
+    {
+        "word": "shout",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "gritar"
+    },
+    {
+        "word": "floor",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "piso"
+    },
+    {
+        "word": "\u2019",
+        "category": "PART",
+        "value": 2.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "dead",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "muerto"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 2.0,
+        "translation": "'s"
+    },
+    {
+        "word": "treasure",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tesoro"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "secret",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "secreto"
+    },
+    {
+        "word": "pocket",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "bolsillo"
+    },
+    {
+        "word": "back",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "board",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "junta"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "five",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "cinco"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "venir"
+    },
+    {
+        "word": "four",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "cuatro"
+    },
+    {
+        "word": "Plot",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Trama"
+    },
+    {
+        "word": "throw",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "tirar"
+    },
+    {
+        "word": "must",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "debe"
+    },
+    {
+        "word": "idea",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "idea"
+    },
+    {
+        "word": "slip",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "deslizar"
+    },
+    {
+        "word": "enter",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "ingresar"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "arrange",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "arreglar"
+    },
+    {
+        "word": "hear",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "escuchar"
+    },
+    {
+        "word": "mad",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "enojado"
+    },
+    {
+        "word": "round",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "redondo"
+    },
+    {
+        "word": "filthy",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "asqueroso"
+    },
+    {
+        "word": "finger",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "dedo"
+    },
+    {
+        "word": "want",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "desear"
+    },
+    {
+        "word": "lot",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "lote"
+    },
+    {
+        "word": "troopin",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "el tropo"
+    },
+    {
+        "word": "ere",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "tambi\u00e9n"
+    },
+    {
+        "word": "buyin",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "desde"
+    },
+    {
+        "word": "scream",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "gritar"
+    },
+    {
+        "word": "beat",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "derrotar"
+    },
+    {
+        "word": "soon",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "pronto"
+    },
+    {
+        "word": "outside",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "afuera"
+    },
+    {
+        "word": "strut",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "puntal"
+    },
+    {
+        "word": "4",
+        "category": "NUM",
+        "value": 1.0,
+        "translation": "4"
+    },
+    {
+        "word": "everything",
+        "category": "PRON",
+        "value": 1.0,
+        "translation": "todo"
+    },
+    {
+        "word": "thus",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "de este modo"
+    },
+    {
+        "word": "tremendously",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "tremendamente"
+    },
+    {
+        "word": "jazz",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "jazz"
+    },
+    {
+        "word": "gang",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "pandilla"
+    },
+    {
+        "word": "desperado",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "forajido"
+    },
+    {
+        "word": "set",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "colocar"
+    },
+    {
+        "word": "train",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "tren"
+    },
+    {
+        "word": "blow",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "explotar"
+    },
+    {
+        "word": "sheriff",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "alguacil"
+    },
+    {
+        "word": "office",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "oficina"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "sure",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "seguro"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "usar"
+    },
+    {
+        "word": "often",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "a menudo"
+    },
+    {
+        "word": "somebody",
+        "category": "PRON",
+        "value": 1.0,
+        "translation": "alguien"
+    },
+    {
+        "word": "\u2019m",
+        "category": "AUX",
+        "value": 1.0,
+        "translation": "'metro"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "\u2019ve",
+        "category": "AUX",
+        "value": 1.0,
+        "translation": "he"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "quickly",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "r\u00e1pidamente"
+    },
+    {
+        "word": "rob",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "robar"
+    }
+]

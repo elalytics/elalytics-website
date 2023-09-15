@@ -1,0 +1,602 @@
+[
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 22.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 14.0,
+        "translation": "I"
+    },
+    {
+        "word": "sir",
+        "category": "PUNCT",
+        "value": 12.0,
+        "translation": "Se\u00f1or"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "corker",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "bola"
+    },
+    {
+        "word": "\u2026",
+        "category": "PUNCT",
+        "value": 6.0,
+        "translation": "\u2026"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "decir"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "uno"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "ir"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "venir"
+    },
+    {
+        "word": "inch",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "pulgada"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PRON",
+        "value": 4.0,
+        "translation": "'s"
+    },
+    {
+        "word": "class",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "clase"
+    },
+    {
+        "word": "foot",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "pie"
+    },
+    {
+        "word": "mathematic",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "matem\u00e1tico"
+    },
+    {
+        "word": "teach",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "ense\u00f1ar"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "chico"
+    },
+    {
+        "word": "fold",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "doblar"
+    },
+    {
+        "word": "air",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "aire"
+    },
+    {
+        "word": "thick",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "grueso"
+    },
+    {
+        "word": "four",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "cuatro"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "tres"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "great",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "excelente"
+    },
+    {
+        "word": "nose",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "nariz"
+    },
+    {
+        "word": "open",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "abierto"
+    },
+    {
+        "word": "Corkers",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "corchores"
+    },
+    {
+        "word": "figure",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "cifra"
+    },
+    {
+        "word": "matter",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "asunto"
+    },
+    {
+        "word": "look",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "room",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "usar"
+    },
+    {
+        "word": "top",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "arriba"
+    },
+    {
+        "word": "window",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "ventana"
+    },
+    {
+        "word": "side",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "lado"
+    },
+    {
+        "word": "exactly",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "exactamente"
+    },
+    {
+        "word": "door",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "puerta"
+    },
+    {
+        "word": "sniff",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "oler"
+    },
+    {
+        "word": "snake",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "serpiente"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "saber"
+    },
+    {
+        "word": "head",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "start",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "comenzar"
+    },
+    {
+        "word": "cry",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "llorar"
+    },
+    {
+        "word": "begin",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "comenzar"
+    },
+    {
+        "word": "dull",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "aburrido"
+    },
+    {
+        "word": "long",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "largo"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "decir"
+    },
+    {
+        "word": "crossword",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "crucigrama"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "somebody",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "alguien"
+    },
+    {
+        "word": "earth",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tierra"
+    },
+    {
+        "word": "thing",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cosa"
+    },
+    {
+        "word": "around",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "alrededor"
+    },
+    {
+        "word": "\u2019ll",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "lo haremos"
+    },
+    {
+        "word": "pocket",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "bolsillo"
+    },
+    {
+        "word": "next",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "pr\u00f3ximo"
+    },
+    {
+        "word": "rest",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "descansar"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "lesson",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "lecci\u00f3n"
+    },
+    {
+        "word": "mean",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "significar"
+    },
+    {
+        "word": "jacket",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "chaqueta"
+    },
+    {
+        "word": "man",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hombre"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "colourless",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "incoloro"
+    },
+    {
+        "word": "give",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "dar"
+    },
+    {
+        "word": "blackboard",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "pizarra"
+    },
+    {
+        "word": "cabbage",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "repollo"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "paper",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "papel"
+    },
+    {
+        "word": "tissue",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tejido"
+    },
+    {
+        "word": "remember",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "recordar"
+    },
+    {
+        "word": "cook",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "cocinar"
+    },
+    {
+        "word": "keep",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "mantener"
+    },
+    {
+        "word": "always",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "siempre"
+    },
+    {
+        "word": "play",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "jugar"
+    },
+    {
+        "word": "along",
+        "category": "ADP",
+        "value": 1.0,
+        "translation": "a lo largo de"
+    },
+    {
+        "word": "splendid",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "espl\u00e9ndido"
+    },
+    {
+        "word": "happen",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "suceder"
+    },
+    {
+        "word": "feel",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "sentir"
+    },
+    {
+        "word": "intense",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "intenso"
+    },
+    {
+        "word": "thousand",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "mil"
+    },
+    {
+        "word": "commotion",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "conmoci\u00f3n"
+    },
+    {
+        "word": "happy",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "feliz"
+    },
+    {
+        "word": "sentence",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "oraci\u00f3n"
+    },
+    {
+        "word": "far",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "shall",
+        "category": "AUX",
+        "value": 1.0,
+        "translation": "deber\u00e1"
+    },
+    {
+        "word": "much",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "mucho"
+    },
+    {
+        "word": "God",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "Dios"
+    },
+    {
+        "word": "forget",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "olvidar"
+    },
+    {
+        "word": "repeat",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "repetir"
+    },
+    {
+        "word": "interval",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "intervalo"
+    },
+    {
+        "word": "week",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "semana"
+    },
+    {
+        "word": "term",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "t\u00e9rmino"
+    },
+    {
+        "word": "stop",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "detener"
+    },
+    {
+        "word": "mid",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "medio"
+    },
+    {
+        "word": "countenance",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "rostro"
+    },
+    {
+        "word": "ancient",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "antiguo"
+    },
+    {
+        "word": "cloud",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "nube"
+    },
+    {
+        "word": "pain",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "dolor"
+    },
+    {
+        "word": "intolerable",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "intolerable"
+    }
+]

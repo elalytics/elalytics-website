@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 26.0,
+        "translation": "I"
+    },
+    {
+        "word": "lover",
+        "category": "NOUN",
+        "value": 20.0,
+        "translation": "amante"
+    },
+    {
+        "word": "pipe",
+        "category": "NOUN",
+        "value": 16.0,
+        "translation": "tubo"
+    },
+    {
+        "word": "sister",
+        "category": "NOUN",
+        "value": 14.0,
+        "translation": "hermana"
+    },
+    {
+        "word": "manly",
+        "category": "ADJ",
+        "value": 13.0,
+        "translation": "varonil"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 12.0,
+        "translation": "'s"
+    },
+    {
+        "word": "ancient",
+        "category": "ADJ",
+        "value": 10.0,
+        "translation": "antiguo"
+    },
+    {
+        "word": "tobacco",
+        "category": "NOUN",
+        "value": 9.0,
+        "translation": "tabaco"
+    },
+    {
+        "word": "half",
+        "category": "ADJ",
+        "value": 9.0,
+        "translation": "medio"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 9.0,
+        "translation": "ir"
+    },
+    {
+        "word": "rock",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "roca"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "venir"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 6.0,
+        "translation": "como"
+    },
+    {
+        "word": "sit",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "sentarse"
+    },
+    {
+        "word": "give",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "dar"
+    },
+    {
+        "word": "goat",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "cabra"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 5.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "one",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "uno"
+    },
+    {
+        "word": "air",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "aire"
+    },
+    {
+        "word": "swim",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "nadar"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "decir"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "back",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "cry",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "llorar"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "saber"
+    },
+    {
+        "word": "begin",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "comenzar"
+    },
+    {
+        "word": "see",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "ver"
+    },
+    {
+        "word": "man",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "hombre"
+    },
+    {
+        "word": "reason",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "raz\u00f3n"
+    },
+    {
+        "word": "smoke",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "fumar"
+    },
+    {
+        "word": "boat",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "bote"
+    },
+    {
+        "word": "family",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "familia"
+    },
+    {
+        "word": "alone",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "solo"
+    },
+    {
+        "word": "stare",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mirar fijamente"
+    },
+    {
+        "word": "start",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "comenzar"
+    },
+    {
+        "word": "scream",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "gritar"
+    },
+    {
+        "word": "word",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "palabra"
+    },
+    {
+        "word": "face",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "rostro"
+    },
+    {
+        "word": "good",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "bien"
+    },
+    {
+        "word": "chest",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "pecho"
+    },
+    {
+        "word": "dropping",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "goteante"
+    },
+    {
+        "word": "still",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "a\u00fan"
+    },
+    {
+        "word": "world",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mundo"
+    },
+    {
+        "word": "must",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "debe"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "put",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "poner"
+    },
+    {
+        "word": "island",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "isla"
+    },
+    {
+        "word": "two",
+        "category": "NUM",
+        "value": 3.0,
+        "translation": "dos"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "seem",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "parecer"
+    },
+    {
+        "word": "male",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "masculino"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "strong",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "fuerte"
+    },
+    {
+        "word": "bowl",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "bol"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "white",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "blanco"
+    },
+    {
+        "word": "Cut",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Cortar"
+    },
+    {
+        "word": "Navy",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Armada"
+    },
+    {
+        "word": "simply",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "simplemente"
+    },
+    {
+        "word": "watch",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "happen",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "suceder"
+    },
+    {
+        "word": "rise",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "elevar"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "usar"
+    },
+    {
+        "word": "different",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "diferente"
+    },
+    {
+        "word": "splutter",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "chisporroteo"
+    },
+    {
+        "word": "discriminate",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "discriminar"
+    },
+    {
+        "word": "turn",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "doblar"
+    },
+    {
+        "word": "hospital",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hospital"
+    },
+    {
+        "word": "foot",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "pie"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "forma"
+    },
+    {
+        "word": "Darling",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Querida"
+    },
+    {
+        "word": "another",
+        "category": "DET",
+        "value": 2.0,
+        "translation": "otro"
+    },
+    {
+        "word": "notice",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "aviso"
+    },
+    {
+        "word": "unadulterated",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "puro"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "whole",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "entero"
+    },
+    {
+        "word": "think",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "pensar"
+    },
+    {
+        "word": "sun",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "sol"
+    },
+    {
+        "word": "pack",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "embalar"
+    },
+    {
+        "word": "lie",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "mentir"
+    },
+    {
+        "word": "round",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "redondo"
+    },
+    {
+        "word": "shred",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "desgarrar"
+    },
+    {
+        "word": "nobody",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "nadie"
+    },
+    {
+        "word": "glow",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "brillo"
+    },
+    {
+        "word": "let",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "dejar"
+    },
+    {
+        "word": "sort",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "clasificar"
+    },
+    {
+        "word": "splendid",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "espl\u00e9ndido"
+    },
+    {
+        "word": "water",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "agua"
+    },
+    {
+        "word": "towel",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "toalla"
+    },
+    {
+        "word": "tremble",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "temblar"
+    },
+    {
+        "word": "suspense",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "suspenso"
+    },
+    {
+        "word": "flame",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "fuego"
+    },
+    {
+        "word": "h",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "h"
+    },
+    {
+        "word": "bear",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "oso"
+    },
+    {
+        "word": "\u2019ve",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "he"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 8.0,
+        "translation": "I"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 8.0,
+        "translation": "uno"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 6.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "pyjama",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "pijama"
+    },
+    {
+        "word": "Williamson",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Williamson"
+    },
+    {
+        "word": "four",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "cuatro"
+    },
+    {
+        "word": "stroke",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "ataque"
+    },
+    {
+        "word": "gown",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "vestido"
+    },
+    {
+        "word": "dressing",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "vendaje"
+    },
+    {
+        "word": "dormitory",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "dormitorio"
+    },
+    {
+        "word": "stand",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "pararse"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "\u2019s",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "'s"
+    },
+    {
+        "word": "room",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "change",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "cambiar"
+    },
+    {
+        "word": "door",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "puerta"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "Boazer",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Boazer"
+    },
+    {
+        "word": "terrific",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "fant\u00e1stico"
+    },
+    {
+        "word": "think",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "pensar"
+    },
+    {
+        "word": "eye",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "ojo"
+    },
+    {
+        "word": "trouser",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "pantal\u00f3n"
+    },
+    {
+        "word": "skin",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "piel"
+    },
+    {
+        "word": "prefect",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "prefecto"
+    },
+    {
+        "word": "blood",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "sangre"
+    },
+    {
+        "word": "pull",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "jalar"
+    },
+    {
+        "word": "slightly",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "levemente"
+    },
+    {
+        "word": "around",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "alrededor"
+    },
+    {
+        "word": "n",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "norte"
+    },
+    {
+        "word": "nothing",
+        "category": "PRON",
+        "value": 2.0,
+        "translation": "nada"
+    },
+    {
+        "word": "middle",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "medio"
+    },
+    {
+        "word": "boazer",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "borracho"
+    },
+    {
+        "word": "place",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "lugar"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "decir"
+    },
+    {
+        "word": "fail",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "fallar"
+    },
+    {
+        "word": "hang",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "colgar"
+    },
+    {
+        "word": "bottom",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "abajo"
+    },
+    {
+        "word": "thrash",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "movimiento de piernas"
+    },
+    {
+        "word": "study",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "estudiar"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "night",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "noche"
+    },
+    {
+        "word": "half",
+        "category": "DET",
+        "value": 2.0,
+        "translation": "medio"
+    },
+    {
+        "word": "burn",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "quemar"
+    },
+    {
+        "word": "late",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "tarde"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "decir"
+    },
+    {
+        "word": "Most",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "Mayor\u00eda"
+    },
+    {
+        "word": "without",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "sin"
+    },
+    {
+        "word": "pause",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "pausa"
+    },
+    {
+        "word": "bare",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "justo"
+    },
+    {
+        "word": "order",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "orden"
+    },
+    {
+        "word": "cool",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "Fr\u00edo"
+    },
+    {
+        "word": "mouth",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "boca"
+    },
+    {
+        "word": "knee",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "rodilla"
+    },
+    {
+        "word": "edge",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "borde"
+    },
+    {
+        "word": "pride",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "orgullo"
+    },
+    {
+        "word": "glimmer",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "luz tenue"
+    },
+    {
+        "word": "detect",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "detectar"
+    },
+    {
+        "word": "turn",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "doblar"
+    },
+    {
+        "word": "notice",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "aviso"
+    },
+    {
+        "word": "glimpse",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "parpadear"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "ir"
+    },
+    {
+        "word": "crane",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "grua"
+    },
+    {
+        "word": "head",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "certain",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "cierto"
+    },
+    {
+        "word": "handiwork",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "obra"
+    },
+    {
+        "word": "side",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "lado"
+    },
+    {
+        "word": "catch",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "atrapar"
+    },
+    {
+        "word": "ever",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "alguna vez"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "usar"
+    },
+    {
+        "word": "yet",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "todav\u00eda"
+    },
+    {
+        "word": "wet",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "h\u00famedo"
+    },
+    {
+        "word": "every",
+        "category": "DET",
+        "value": 1.0,
+        "translation": "cada"
+    },
+    {
+        "word": "single",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "soltero"
+    },
+    {
+        "word": "Crikey",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "Crikey"
+    },
+    {
+        "word": "nobody",
+        "category": "PRON",
+        "value": 1.0,
+        "translation": "nadie"
+    },
+    {
+        "word": "except",
+        "category": "SCONJ",
+        "value": 1.0,
+        "translation": "excepto"
+    },
+    {
+        "word": "mess",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "desorden"
+    },
+    {
+        "word": "Boy",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "Chico"
+    },
+    {
+        "word": "course",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "curso"
+    },
+    {
+        "word": "d\u2019you",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "\u00bft\u00fa?"
+    },
+    {
+        "word": "Cricket",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "Grillo"
+    },
+    {
+        "word": "Teamer",
+        "category": "PROPN",
+        "value": 1.0,
+        "translation": "equipo"
+    },
+    {
+        "word": "though",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "aunque"
+    },
+    {
+        "word": "short",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "corto"
+    },
+    {
+        "word": "\u2019d",
+        "category": "PRON",
+        "value": 1.0,
+        "translation": "'d"
+    },
+    {
+        "word": "pretty",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "bonito"
+    },
+    {
+        "word": "amazing",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "asombroso"
+    },
+    {
+        "word": "result",
+        "category": "NOUN",
+        "value": 1.0,
+        "translation": "resultado"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 1.0,
+        "translation": "como"
+    },
+    {
+        "word": "must",
+        "category": "AUX",
+        "value": 1.0,
+        "translation": "debe"
+    },
+    {
+        "word": "tremendously",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "tremendamente"
+    },
+    {
+        "word": "thin",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "delgado"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 1.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "ordinary",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "com\u00fan"
+    },
+    {
+        "word": "long",
+        "category": "ADJ",
+        "value": 1.0,
+        "translation": "largo"
+    },
+    {
+        "word": "close",
+        "category": "VERB",
+        "value": 1.0,
+        "translation": "cerca"
+    }
+]

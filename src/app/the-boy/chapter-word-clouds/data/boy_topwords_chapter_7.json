@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 19.0,
+        "translation": "I"
+    },
+    {
+        "word": "fish",
+        "category": "NOUN",
+        "value": 10.0,
+        "translation": "pez"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 9.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "ir"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "glass",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "vaso"
+    },
+    {
+        "word": "always",
+        "category": "ADV",
+        "value": 7.0,
+        "translation": "siempre"
+    },
+    {
+        "word": "Oslo",
+        "category": "PROPN",
+        "value": 7.0,
+        "translation": "Oslo"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "ancient",
+        "category": "ADJ",
+        "value": 7.0,
+        "translation": "antiguo"
+    },
+    {
+        "word": "Norway",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "Noruega"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "decir"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "great",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "excelente"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "Bestemama",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Abuela"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PRON",
+        "value": 5.0,
+        "translation": "'s"
+    },
+    {
+        "word": "two",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "dos"
+    },
+    {
+        "word": "four",
+        "category": "NUM",
+        "value": 5.0,
+        "translation": "cuatro"
+    },
+    {
+        "word": "skaal",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "escala"
+    },
+    {
+        "word": "sister",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "hermana"
+    },
+    {
+        "word": "half",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "medio"
+    },
+    {
+        "word": "home",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "hogar"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "usar"
+    },
+    {
+        "word": "table",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "mesa"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "uno"
+    },
+    {
+        "word": "Bestepapa",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Bestepapa"
+    },
+    {
+        "word": "house",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "casa"
+    },
+    {
+        "word": "ten",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "diez"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "forma"
+    },
+    {
+        "word": "ice",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "hielo"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 4.0,
+        "translation": "como"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "madre"
+    },
+    {
+        "word": "three",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "tres"
+    },
+    {
+        "word": "Norwegians",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "noruegos"
+    },
+    {
+        "word": "child",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "ni\u00f1o"
+    },
+    {
+        "word": "night",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "noche"
+    },
+    {
+        "word": "deck",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "cubierta"
+    },
+    {
+        "word": "chair",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "silla"
+    },
+    {
+        "word": "cream",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "crema"
+    },
+    {
+        "word": "keep",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mantener"
+    },
+    {
+        "word": "thing",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "cosa"
+    },
+    {
+        "word": "feast",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "banquete"
+    },
+    {
+        "word": "ceremony",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "ceremonia"
+    },
+    {
+        "word": "raise",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "aumentar"
+    },
+    {
+        "word": "sit",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "sentarse"
+    },
+    {
+        "word": "white",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "blanco"
+    },
+    {
+        "word": "many",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "muchos"
+    },
+    {
+        "word": "high",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "alto"
+    },
+    {
+        "word": "hour",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "hora"
+    },
+    {
+        "word": "arrive",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llegar"
+    },
+    {
+        "word": "norwegian",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "noruego"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "journey",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "viaje"
+    },
+    {
+        "word": "sort",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "clasificar"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "train",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "tren"
+    },
+    {
+        "word": "booking",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "reserva"
+    },
+    {
+        "word": "boat",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "bote"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 3.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "year",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "a\u00f1o"
+    },
+    {
+        "word": "set",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "colocar"
+    },
+    {
+        "word": "skin",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "piel"
+    },
+    {
+        "word": "first",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "primero"
+    },
+    {
+        "word": "summer",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "verano"
+    },
+    {
+        "word": "Newcastle",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Newcastle"
+    },
+    {
+        "word": "taxi",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "Taxi"
+    },
+    {
+        "word": "brother",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hermano"
+    },
+    {
+        "word": "meal",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "comida"
+    },
+    {
+        "word": "rest",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "descansar"
+    },
+    {
+        "word": "place",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "lugar"
+    },
+    {
+        "word": "quite",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "bastante"
+    },
+    {
+        "word": "except",
+        "category": "SCONJ",
+        "value": 2.0,
+        "translation": "excepto"
+    },
+    {
+        "word": "idyllic",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "id\u00edlico"
+    },
+    {
+        "word": "boil",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hervir"
+    },
+    {
+        "word": "taste",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "gusto"
+    },
+    {
+        "word": "bowl",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "bol"
+    },
+    {
+        "word": "stem",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "provenir"
+    },
+    {
+        "word": "welcome",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "bienvenido"
+    },
+    {
+        "word": "pipe",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tubo"
+    },
+    {
+        "word": "live",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "vivir"
+    },
+    {
+        "word": "seem",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "parecer"
+    },
+    {
+        "word": "young",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "joven"
+    },
+    {
+        "word": "grandparent",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "abuelo"
+    },
+    {
+        "word": "annual",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "anual"
+    },
+    {
+        "word": "start",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "comenzar"
+    },
+    {
+        "word": "luggage",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "equipaje"
+    },
+    {
+        "word": "face",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "rostro"
+    },
+    {
+        "word": "London",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Londres"
+    },
+    {
+        "word": "name",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "nombre"
+    },
+    {
+        "word": "Christiania",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Cristian\u00eda"
+    },
+    {
+        "word": "mile",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "milla"
+    },
+    {
+        "word": "easy",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "f\u00e1cil"
+    }
+]

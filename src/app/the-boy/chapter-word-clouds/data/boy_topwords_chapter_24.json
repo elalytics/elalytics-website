@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 60.0,
+        "translation": "I"
+    },
+    {
+        "word": "game",
+        "category": "NOUN",
+        "value": 13.0,
+        "translation": "juego"
+    },
+    {
+        "word": "five",
+        "category": "NOUN",
+        "value": 10.0,
+        "translation": "cinco"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 9.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 9.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "Boazer",
+        "category": "PROPN",
+        "value": 8.0,
+        "translation": "Boazer"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 8.0,
+        "translation": "uno"
+    },
+    {
+        "word": "play",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "jugar"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 7.0,
+        "translation": "como"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "good",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "bien"
+    },
+    {
+        "word": "year",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "a\u00f1o"
+    },
+    {
+        "word": "court",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "corte"
+    },
+    {
+        "word": "team",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "equipo"
+    },
+    {
+        "word": "give",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "dar"
+    },
+    {
+        "word": "become",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "convertirse"
+    },
+    {
+        "word": "\u2013",
+        "category": "PUNCT",
+        "value": 5.0,
+        "translation": "\u2013"
+    },
+    {
+        "word": "squash",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "calabaza"
+    },
+    {
+        "word": "great",
+        "category": "ADJ",
+        "value": 5.0,
+        "translation": "excelente"
+    },
+    {
+        "word": "Captain",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Capit\u00e1n"
+    },
+    {
+        "word": "Repton",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "rept\u00f3n"
+    },
+    {
+        "word": "Norris",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Norris"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "always",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "siempre"
+    },
+    {
+        "word": "School",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Escuela"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "match",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "f\u00f3sforo"
+    },
+    {
+        "word": "House",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Casa"
+    },
+    {
+        "word": "master",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "maestro"
+    },
+    {
+        "word": "afternoon",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "tarde"
+    },
+    {
+        "word": "photography",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "fotograf\u00eda"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "venir"
+    },
+    {
+        "word": "let",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dejar"
+    },
+    {
+        "word": "today",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "hoy"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "chico"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "usar"
+    },
+    {
+        "word": "quite",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "bastante"
+    },
+    {
+        "word": "load",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "carga"
+    },
+    {
+        "word": "plate",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "l\u00e1mina"
+    },
+    {
+        "word": "Arthur",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Arturo"
+    },
+    {
+        "word": "photograph",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "fotograf\u00eda"
+    },
+    {
+        "word": "Photographic",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Fotogr\u00e1fico"
+    },
+    {
+        "word": "teamer",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "jugador de equipo"
+    },
+    {
+        "word": "Society",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Sociedad"
+    },
+    {
+        "word": "win",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "ganar"
+    },
+    {
+        "word": "Fives",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "cinco"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "saber"
+    },
+    {
+        "word": "ball",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "pelota"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mano"
+    },
+    {
+        "word": "well",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "captain",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "capit\u00e1n"
+    },
+    {
+        "word": "glass",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "vaso"
+    },
+    {
+        "word": "love",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "amar"
+    },
+    {
+        "word": "picture",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "imagen"
+    },
+    {
+        "word": "\u2026",
+        "category": "PUNCT",
+        "value": 2.0,
+        "translation": "\u2026"
+    },
+    {
+        "word": "ago",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "seriously",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "en serio"
+    },
+    {
+        "word": "surprise",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "sorpresa"
+    },
+    {
+        "word": "many",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "muchos"
+    },
+    {
+        "word": "racquet",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "raqueta"
+    },
+    {
+        "word": "exhibition",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "exhibici\u00f3n"
+    },
+    {
+        "word": "two",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "dos"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "speak",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hablar"
+    },
+    {
+        "word": "tea",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "t\u00e9"
+    },
+    {
+        "word": "six",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "seis"
+    },
+    {
+        "word": "medal",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "medalla"
+    },
+    {
+        "word": "shutter",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "obturador"
+    },
+    {
+        "word": "click",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hacer clic"
+    },
+    {
+        "word": "pleasure",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "placer"
+    },
+    {
+        "word": "flat",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "departamento"
+    },
+    {
+        "word": "painter",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "pintor"
+    },
+    {
+        "word": "camera",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "c\u00e1mara"
+    },
+    {
+        "word": "exposure",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "exposici\u00f3n"
+    },
+    {
+        "word": "colour",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "color"
+    },
+    {
+        "word": "Eton",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Et\u00f3n"
+    },
+    {
+        "word": "happen",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "suceder"
+    },
+    {
+        "word": "power",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "fuerza"
+    },
+    {
+        "word": "award",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "otorgar"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "decir"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "without",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "sin"
+    },
+    {
+        "word": "coloured",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "de colores"
+    },
+    {
+        "word": "hat",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tiene"
+    },
+    {
+        "word": "football",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "f\u00fatbol americano"
+    },
+    {
+        "word": "notice",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "aviso"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "hard",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "duro"
+    },
+    {
+        "word": "keep",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "mantener"
+    },
+    {
+        "word": "certainly",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "ciertamente"
+    },
+    {
+        "word": "authority",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "autoridad"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "forma"
+    },
+    {
+        "word": "four",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "cuatro"
+    },
+    {
+        "word": "alone",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "solo"
+    },
+    {
+        "word": "whole",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "entero"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "choose",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "elegir"
+    },
+    {
+        "word": "fine",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "bien"
+    },
+    {
+        "word": "different",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "diferente"
+    }
+]

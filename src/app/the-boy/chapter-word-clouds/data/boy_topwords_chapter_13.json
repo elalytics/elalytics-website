@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 65.0,
+        "translation": "I"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 11.0,
+        "translation": "decir"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 9.0,
+        "translation": "ir"
+    },
+    {
+        "word": "stomach",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "est\u00f3mago"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "Matron",
+        "category": "PROPN",
+        "value": 8.0,
+        "translation": "Matrona"
+    },
+    {
+        "word": "answer",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "respuesta"
+    },
+    {
+        "word": "day",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "toothbrush",
+        "category": "ADJ",
+        "value": 7.0,
+        "translation": "cepillo de dientes"
+    },
+    {
+        "word": "school",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "escuela"
+    },
+    {
+        "word": "bristle",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "cerda"
+    },
+    {
+        "word": "appendix",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "ap\u00e9ndice"
+    },
+    {
+        "word": "doctor",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "doctor"
+    },
+    {
+        "word": "right",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "bien"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 5.0,
+        "translation": "como"
+    },
+    {
+        "word": "away",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "lejos"
+    },
+    {
+        "word": "Nanny",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Ni\u00f1era"
+    },
+    {
+        "word": "try",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "intentar"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 4.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "thing",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "cosa"
+    },
+    {
+        "word": "feel",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "sentir"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "venir"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "home",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "hogar"
+    },
+    {
+        "word": "sick",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "enfermo"
+    },
+    {
+        "word": "lie",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "mentir"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "saber"
+    },
+    {
+        "word": "first",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "primero"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "let",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "dejar"
+    },
+    {
+        "word": "door",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "puerta"
+    },
+    {
+        "word": "whenever",
+        "category": "SCONJ",
+        "value": 3.0,
+        "translation": "cuando sea"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "mano"
+    },
+    {
+        "word": "room",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "use",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "usar"
+    },
+    {
+        "word": "n\u2019t",
+        "category": "PROPN",
+        "value": 3.0,
+        "translation": "Nuevo Testamento"
+    },
+    {
+        "word": "eat",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "comer"
+    },
+    {
+        "word": "cry",
+        "category": "VERB",
+        "value": 3.0,
+        "translation": "llorar"
+    },
+    {
+        "word": "year",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "a\u00f1o"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 3.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "ow",
+        "category": "INTJ",
+        "value": 3.0,
+        "translation": "Ay"
+    },
+    {
+        "word": "old",
+        "category": "ADJ",
+        "value": 3.0,
+        "translation": "viejo"
+    },
+    {
+        "word": "sister",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "hermana"
+    },
+    {
+        "word": "mother",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "madre"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 3.0,
+        "translation": "'s"
+    },
+    {
+        "word": "homesick",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "nost\u00e1lgico"
+    },
+    {
+        "word": "appendicitis",
+        "category": "NOUN",
+        "value": 3.0,
+        "translation": "apendicitis"
+    },
+    {
+        "word": "\u2019re",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "'re"
+    },
+    {
+        "word": "Dunbar",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Dunbar"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "decir"
+    },
+    {
+        "word": "Dr",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Dr"
+    },
+    {
+        "word": "\u2019ll",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "lo haremos"
+    },
+    {
+        "word": "mean",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "significar"
+    },
+    {
+        "word": "wonderful",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "maravilloso"
+    },
+    {
+        "word": "ill",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "enfermo"
+    },
+    {
+        "word": "bed",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "cama"
+    },
+    {
+        "word": "afternoon",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tarde"
+    },
+    {
+        "word": "voice",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "voz"
+    },
+    {
+        "word": "fetch",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "buscar"
+    },
+    {
+        "word": "hurt",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "herir"
+    },
+    {
+        "word": "moan",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "gemir"
+    },
+    {
+        "word": "\u2019ve",
+        "category": "AUX",
+        "value": 2.0,
+        "translation": "he"
+    },
+    {
+        "word": "expect",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "esperar"
+    },
+    {
+        "word": "stick",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "palo"
+    },
+    {
+        "word": "yelping",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "gritando"
+    },
+    {
+        "word": "hour",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "hora"
+    },
+    {
+        "word": "normal",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "normal"
+    },
+    {
+        "word": "Homesickness",
+        "category": "PROPN",
+        "value": 2.0,
+        "translation": "Nostalgia"
+    },
+    {
+        "word": "eye",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "ojo"
+    },
+    {
+        "word": "tummy",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "barriguita"
+    },
+    {
+        "word": "seasickness",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "mareo"
+    },
+    {
+        "word": "hit",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "golpear"
+    },
+    {
+        "word": "want",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "desear"
+    },
+    {
+        "word": "walk",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "caminar"
+    },
+    {
+        "word": "forget",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "olvidar"
+    },
+    {
+        "word": "soon",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "pronto"
+    },
+    {
+        "word": "enter",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "ingresar"
+    },
+    {
+        "word": "send",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "enviar"
+    },
+    {
+        "word": "think",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "pensar"
+    },
+    {
+        "word": "half",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "medio"
+    },
+    {
+        "word": "operation",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "operaci\u00f3n"
+    },
+    {
+        "word": "severe",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "severo"
+    },
+    {
+        "word": "side",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "lado"
+    },
+    {
+        "word": "well",
+        "category": "ADV",
+        "value": 2.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "keep",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "mantener"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "forma"
+    },
+    {
+        "word": "nurse",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "enfermero"
+    },
+    {
+        "word": "nursery",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "guarder\u00eda"
+    },
+    {
+        "word": "table",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "mesa"
+    },
+    {
+        "word": "arrive",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "llegar"
+    },
+    {
+        "word": "soft",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "suave"
+    },
+    {
+        "word": "behind",
+        "category": "ADP",
+        "value": 2.0,
+        "translation": "detr\u00e1s"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "one",
+        "category": "NUM",
+        "value": 2.0,
+        "translation": "uno"
+    },
+    {
+        "word": "reply",
+        "category": "NOUN",
+        "value": 2.0,
+        "translation": "responder"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "bad",
+        "category": "ADJ",
+        "value": 2.0,
+        "translation": "malo"
+    },
+    {
+        "word": "promise",
+        "category": "VERB",
+        "value": 2.0,
+        "translation": "promesa"
+    }
+]

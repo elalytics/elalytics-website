@@ -1,0 +1,602 @@
+[
+    {
+        "word": "I",
+        "category": "PRON",
+        "value": 162.0,
+        "translation": "I"
+    },
+    {
+        "word": "sir",
+        "category": "PROPN",
+        "value": 35.0,
+        "translation": "Se\u00f1or"
+    },
+    {
+        "word": "Captain",
+        "category": "PROPN",
+        "value": 25.0,
+        "translation": "Capit\u00e1n"
+    },
+    {
+        "word": "Hardcastle",
+        "category": "PROPN",
+        "value": 25.0,
+        "translation": "castillo duro"
+    },
+    {
+        "word": "one",
+        "category": "NOUN",
+        "value": 23.0,
+        "translation": "uno"
+    },
+    {
+        "word": "could",
+        "category": "AUX",
+        "value": 22.0,
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "boy",
+        "category": "NOUN",
+        "value": 22.0,
+        "translation": "chico"
+    },
+    {
+        "word": "say",
+        "category": "VERB",
+        "value": 19.0,
+        "translation": "decir"
+    },
+    {
+        "word": "\u2019s",
+        "category": "PART",
+        "value": 18.0,
+        "translation": "'s"
+    },
+    {
+        "word": "would",
+        "category": "AUX",
+        "value": 18.0,
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "go",
+        "category": "VERB",
+        "value": 17.0,
+        "translation": "ir"
+    },
+    {
+        "word": "Prep",
+        "category": "PROPN",
+        "value": 16.0,
+        "translation": "Deberes"
+    },
+    {
+        "word": "\u2026",
+        "category": "PUNCT",
+        "value": 15.0,
+        "translation": "\u2026"
+    },
+    {
+        "word": "nib",
+        "category": "NOUN",
+        "value": 15.0,
+        "translation": "punta"
+    },
+    {
+        "word": "hand",
+        "category": "NOUN",
+        "value": 14.0,
+        "translation": "mano"
+    },
+    {
+        "word": "Dobson",
+        "category": "PROPN",
+        "value": 13.0,
+        "translation": "dobson"
+    },
+    {
+        "word": "MASTER",
+        "category": "PROPN",
+        "value": 13.0,
+        "translation": "MAESTRO"
+    },
+    {
+        "word": "ask",
+        "category": "VERB",
+        "value": 12.0,
+        "translation": "preguntar"
+    },
+    {
+        "word": "sit",
+        "category": "VERB",
+        "value": 12.0,
+        "translation": "sentarse"
+    },
+    {
+        "word": "desk",
+        "category": "NOUN",
+        "value": 12.0,
+        "translation": "escritorio"
+    },
+    {
+        "word": "take",
+        "category": "VERB",
+        "value": 12.0,
+        "translation": "llevar"
+    },
+    {
+        "word": "get",
+        "category": "VERB",
+        "value": 12.0,
+        "translation": "conseguir"
+    },
+    {
+        "word": "Headmaster",
+        "category": "PROPN",
+        "value": 12.0,
+        "translation": "Director de escuela"
+    },
+    {
+        "word": "call",
+        "category": "VERB",
+        "value": 11.0,
+        "translation": "llamar"
+    },
+    {
+        "word": "come",
+        "category": "VERB",
+        "value": 11.0,
+        "translation": "venir"
+    },
+    {
+        "word": "make",
+        "category": "VERB",
+        "value": 10.0,
+        "translation": "hacer"
+    },
+    {
+        "word": "know",
+        "category": "VERB",
+        "value": 10.0,
+        "translation": "saber"
+    },
+    {
+        "word": "second",
+        "category": "ADJ",
+        "value": 10.0,
+        "translation": "segundo"
+    },
+    {
+        "word": "small",
+        "category": "ADJ",
+        "value": 9.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "little",
+        "category": "ADJ",
+        "value": 9.0,
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "look",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "mirar"
+    },
+    {
+        "word": "every",
+        "category": "DET",
+        "value": 8.0,
+        "translation": "cada"
+    },
+    {
+        "word": "lip",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "labio"
+    },
+    {
+        "word": "BRAITHWAITE",
+        "category": "PROPN",
+        "value": 8.0,
+        "translation": "BRAITHWAITE"
+    },
+    {
+        "word": "try",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "intentar"
+    },
+    {
+        "word": "work",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "trabajar"
+    },
+    {
+        "word": "like",
+        "category": "ADP",
+        "value": 8.0,
+        "translation": "como"
+    },
+    {
+        "word": "write",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "escribir"
+    },
+    {
+        "word": "master",
+        "category": "NOUN",
+        "value": 8.0,
+        "translation": "maestro"
+    },
+    {
+        "word": "talk",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "hablar"
+    },
+    {
+        "word": "give",
+        "category": "VERB",
+        "value": 8.0,
+        "translation": "dar"
+    },
+    {
+        "word": "\u2019",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "\u2019"
+    },
+    {
+        "word": "Stripe",
+        "category": "PROPN",
+        "value": 7.0,
+        "translation": "Raya"
+    },
+    {
+        "word": "orange",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "naranja"
+    },
+    {
+        "word": "cheat",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "enga\u00f1ar"
+    },
+    {
+        "word": "stroke",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "ataque"
+    },
+    {
+        "word": "never",
+        "category": "ADV",
+        "value": 7.0,
+        "translation": "nunca"
+    },
+    {
+        "word": "side",
+        "category": "NOUN",
+        "value": 7.0,
+        "translation": "lado"
+    },
+    {
+        "word": "see",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "ver"
+    },
+    {
+        "word": "feel",
+        "category": "VERB",
+        "value": 7.0,
+        "translation": "sentir"
+    },
+    {
+        "word": "Stripes",
+        "category": "PROPN",
+        "value": 6.0,
+        "translation": "Rayas"
+    },
+    {
+        "word": "moustache",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "bigote"
+    },
+    {
+        "word": "across",
+        "category": "ADP",
+        "value": 6.0,
+        "translation": "al otro lado de"
+    },
+    {
+        "word": "put",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "poner"
+    },
+    {
+        "word": "cane",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "ca\u00f1a"
+    },
+    {
+        "word": "book",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "libro"
+    },
+    {
+        "word": "top",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "arriba"
+    },
+    {
+        "word": "dais",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "estrado"
+    },
+    {
+        "word": "door",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "puerta"
+    },
+    {
+        "word": "red",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "rojo"
+    },
+    {
+        "word": "white",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "blanco"
+    },
+    {
+        "word": "hard",
+        "category": "ADJ",
+        "value": 6.0,
+        "translation": "duro"
+    },
+    {
+        "word": "hold",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "sostener"
+    },
+    {
+        "word": "another",
+        "category": "DET",
+        "value": 6.0,
+        "translation": "otro"
+    },
+    {
+        "word": "tell",
+        "category": "VERB",
+        "value": 6.0,
+        "translation": "decir"
+    },
+    {
+        "word": "pen",
+        "category": "NOUN",
+        "value": 6.0,
+        "translation": "bol\u00edgrafo"
+    },
+    {
+        "word": "even",
+        "category": "ADV",
+        "value": 6.0,
+        "translation": "incluso"
+    },
+    {
+        "word": "oh",
+        "category": "INTJ",
+        "value": 6.0,
+        "translation": "Vaya"
+    },
+    {
+        "word": "want",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "desear"
+    },
+    {
+        "word": "break",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "romper"
+    },
+    {
+        "word": "voice",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "voz"
+    },
+    {
+        "word": "keep",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "mantener"
+    },
+    {
+        "word": "well",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "Bueno"
+    },
+    {
+        "word": "still",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "a\u00fan"
+    },
+    {
+        "word": "hair",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "cabello"
+    },
+    {
+        "word": "head",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "cabeza"
+    },
+    {
+        "word": "face",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "rostro"
+    },
+    {
+        "word": "way",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "forma"
+    },
+    {
+        "word": "Quarter",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Cuarto"
+    },
+    {
+        "word": "first",
+        "category": "ADV",
+        "value": 5.0,
+        "translation": "primero"
+    },
+    {
+        "word": "twitch",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "contracci\u00f3n nerviosa"
+    },
+    {
+        "word": "speak",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "hablar"
+    },
+    {
+        "word": "Stars",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Estrellas"
+    },
+    {
+        "word": "age",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "edad"
+    },
+    {
+        "word": "time",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "tiempo"
+    },
+    {
+        "word": "Hall",
+        "category": "PROPN",
+        "value": 5.0,
+        "translation": "Sala"
+    },
+    {
+        "word": "eye",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "ojo"
+    },
+    {
+        "word": "help",
+        "category": "VERB",
+        "value": 5.0,
+        "translation": "ayuda"
+    },
+    {
+        "word": "father",
+        "category": "NOUN",
+        "value": 5.0,
+        "translation": "padre"
+    },
+    {
+        "word": "nine",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "nueve"
+    },
+    {
+        "word": "terribly",
+        "category": "ADV",
+        "value": 4.0,
+        "translation": "terriblemente"
+    },
+    {
+        "word": "please",
+        "category": "INTJ",
+        "value": 4.0,
+        "translation": "por favor"
+    },
+    {
+        "word": "four",
+        "category": "NUM",
+        "value": 4.0,
+        "translation": "cuatro"
+    },
+    {
+        "word": "blue",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "azul"
+    },
+    {
+        "word": "sure",
+        "category": "ADJ",
+        "value": 4.0,
+        "translation": "seguro"
+    },
+    {
+        "word": "cause",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "causa"
+    },
+    {
+        "word": "behind",
+        "category": "ADP",
+        "value": 4.0,
+        "translation": "detr\u00e1s"
+    },
+    {
+        "word": "front",
+        "category": "NOUN",
+        "value": 4.0,
+        "translation": "frente"
+    },
+    {
+        "word": "St",
+        "category": "PROPN",
+        "value": 4.0,
+        "translation": "Calle"
+    },
+    {
+        "word": "pause",
+        "category": "VERB",
+        "value": 4.0,
+        "translation": "pausa"
+    }
+]
