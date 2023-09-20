@@ -1,1 +1,38 @@
-# Word Cloud Bilingual
+## Word Cloud Draggable & Bilingual
+
+import WordCloudDraggableAndBilingual from "../../../app/utils/charts/WordCloudDraggableAndBilingual.js";
+import { WordCloudDraggableAndBilingualPropsDefinition } from "../../../app/utils/charts/WordCloudDraggableAndBilingual.js";
+
+import data from "./source-data/word-cloud-bilingual.json";
+import Layout from "../../Layout.js";
+import DataDisplay from "../../components/DataDisplay.js";
+import PropsExplorer from "../../components/PropsExplorer.js";
+
+<Layout>
+
+### Example
+
+#### Chart
+
+<WordCloudDraggableAndBilingual data={data} />
+
+#### Data Used in example chart
+
+<DataDisplay data={data} />
+
+### Usage
+
+#### Available Props
+
+<PropsExplorer props={WordCloudDraggableAndBilingualPropsDefinition} />
+
+#### Code Example
+
+```javascript
+import WordCloudDraggableAndBilingual from "../../../app/utils/charts/WordCloudDraggableAndBilingual.js";
+import data from "./source-data/word-cloud-bilingual.json";
+
+<WordCloudDraggableAndBilingual data={data} />;
+```
+
+</Layout>

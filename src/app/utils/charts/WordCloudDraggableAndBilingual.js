@@ -4,7 +4,7 @@ import * as d3 from "d3";
 import d3Cloud from "d3-cloud";
 import { Tooltip } from "react-tooltip";
 import React from "react";
-import PropTypes from "prop-types";
+import PropTypes, { shape } from "prop-types";
 
 function findMaxMin(data) {
   var minimum = data.reduce(
@@ -254,17 +254,49 @@ const WordCloudDraggableAndBilingual = ({
   );
 };
 
-export default WordCloudDraggableAndBilingual;
-
-const dataArrayShape = PropTypes.shape({
-  word: PropTypes.string.isRequired,
-  translation: PropTypes.string.isRequired,
-  value: PropTypes.number.isRequired,
-  category: PropTypes.string.isRequired,
-});
-
-WordCloudDraggableAndBilingual.propTypes = {
-  data: PropTypes.arrayOf(dataArrayShape).isRequired,
+const WordCloudDraggableAndBilingualProps = {
+  data: PropTypes.arrayOf(
+    shape({
+      word: PropTypes.string.isRequired,
+      translation: PropTypes.string.isRequired,
+      value: PropTypes.number.isRequired,
+      category: PropTypes.string.isRequired,
+    })
+  ).isRequired,
   wordSizeMultiplier: PropTypes.number,
   scaleType: PropTypes.oneOf(["linear", "log"]),
 };
+
+WordCloudDraggableAndBilingual.propTypes = WordCloudDraggableAndBilingualProps;
+
+const WordCloudDraggableAndBilingualPropsDefinition = [
+  {
+    propName: "data",
+    propType: "array",
+    required: true,
+    defaultValue: "",
+    acceptedValues: [],
+    description:
+      "The data to be displayed in the word cloud. It should be an array of objects with the following properties: word, translation, value, category.",
+  },
+  {
+    propName: "wordSizeMultiplier",
+    propType: "number",
+    required: false,
+    defaultValue: "1",
+    acceptedValues: ["any number"],
+    description:
+      "The multiplier to be applied to the size of the words in the word cloud.",
+  },
+  {
+    propName: "scaleType",
+    propType: "string",
+    required: false,
+    acceptedValues: ["linear", "log"],
+    defaultValue: "linear",
+    description: "The type of scale to be used to scale the size of the words.",
+  },
+];
+
+export default WordCloudDraggableAndBilingual;
+export { WordCloudDraggableAndBilingualPropsDefinition };
