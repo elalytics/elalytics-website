@@ -23,7 +23,7 @@ const SentimentLineChart = ({
     text: "Hello hello",
   });
   const [isHoveringTooltip, setIsHoveringTooltip] = useState(false);
-  console.log("sourceData", sourceData);
+
   const canvasBackgroundColor = {
     id: "canvasBackgroundColor",
     beforeDraw: (chart) => {
@@ -76,7 +76,6 @@ const SentimentLineChart = ({
   }, [sourceData]);
 
   useEffect(() => {
-    console.log("chartData", chartData);
     if (chartContainer && chartContainer.current) {
       const myChartRef = chartContainer.current.getContext("2d");
       if (chartInstance.current) {

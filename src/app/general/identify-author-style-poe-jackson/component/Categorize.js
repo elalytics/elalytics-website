@@ -26,7 +26,7 @@ function WordOption({
     item: { text, category, currentBucket },
     end: (item, monitor) => {
       const dropResult = monitor.getDropResult();
-      console.log(item);
+
       if (item && dropResult) {
         moveToBucket(item.text, item.currentBucket, dropResult.name);
       }

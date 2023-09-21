@@ -1,1 +1,69 @@
-# Word Cloud Bilingual
+## Word Cloud Draggable & Bilingual
+
+import WordCloudDraggableAndBilingual from "../../../app/utils/charts/WordCloudDraggableAndBilingual.js";
+import {
+  WordCloudDraggableAndBilingualPropsDefinition,
+  WordCloudDraggableAndBilingualDataFormat,
+} from "../../../app/utils/charts/WordCloudDraggableAndBilingual.js";
+
+import data from "./source-data/word-cloud-bilingual.json";
+import Layout from "../../Layout.js";
+import DataDisplay from "../../components/DataDisplay.js";
+import PropsExplorer from "../../components/PropsExplorer.js";
+
+<Layout>
+
+### Example
+
+#### Code
+
+```javascript
+import WordCloudDraggableAndBilingual from "@/app/utils/charts/WordCloudDraggableAndBilingual";
+import data from "./path/to/data.json";
+
+<WordCloudDraggableAndBilingual
+  data={data}
+  wordSizeMultiplier={1}
+  bookName="Boy"
+  wordCloudTitle="Most Frequent Words in the book"
+  wordsToRemove={["thing", "much", "I"]}
+  categoriesToRemove={["PUNCT", "DET", "AUX", "PART", "PROPN", "NUM"]}
+  scaleType="linear"
+/>;
+```
+
+#### Chart
+
+<WordCloudDraggableAndBilingual
+  data={data}
+  wordSizeMultiplier={1}
+  bookName="Boy"
+  wordCloudTitle="Most Frequent Words in the book"
+  wordsToRemove={["thing", "much", "I"]}
+  categoriesToRemove={["PUNCT", "DET", "AUX", "PART", "PROPN", "NUM"]}
+  scaleType="linear"
+/>
+
+#### Data used
+
+<DataDisplay data={data} />
+
+### Usage
+
+#### Data Format
+
+The data format is an array of objects. Each object is a separate value in the array and corresponds to a word in the word cloud.
+
+<div className="p-2 rounded-2xl bg-pink-100">
+<pre className="p-4 max-h-[300px] overflow-y-scroll custom-scrollbar">
+
+        {JSON.stringify(WordCloudDraggableAndBilingualDataFormat, null, 4)}
+
+      </pre>
+    </div>
+
+#### Available Props
+
+<PropsExplorer props={WordCloudDraggableAndBilingualPropsDefinition} />
+
+</Layout>

@@ -96,7 +96,6 @@ const HeatMap = (props) => {
               stacked: true,
               ticks: {
                 color: (c) => {
-                  console.log(c);
                   let showOnly = props.showOnlyXLabels || [];
                   if (!props.xLabel) {
                     return "transparent";
