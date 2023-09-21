@@ -1,452 +1,602 @@
 [
   {
-    "word": "father",
-    "category": "NOUN",
-    "value": 17,
-    "translation": "padre"
-  },
-  {
-    "word": "house",
-    "category": "NOUN",
-    "value": 11,
-    "translation": "casa"
-  },
-  {
-    "word": "year",
-    "category": "NOUN",
-    "value": 8,
-    "translation": "año"
+    "word": "I",
+    "category": "PRON",
+    "value": 1059,
+    "translation": "I"
   },
   {
     "word": "go",
     "category": "VERB",
-    "value": 8,
+    "value": 219,
     "translation": "ir"
   },
   {
-    "word": "country",
-    "category": "NOUN",
-    "value": 8,
-    "translation": "país"
-  },
-  {
-    "word": "child",
-    "category": "NOUN",
-    "value": 8,
-    "translation": "niño"
-  },
-  {
-    "word": "small",
-    "category": "ADJ",
-    "value": 7,
-    "translation": "pequeño"
-  },
-  {
-    "word": "arm",
-    "category": "NOUN",
-    "value": 7,
-    "translation": "brazo"
-  },
-  {
-    "word": "time",
-    "category": "NOUN",
-    "value": 7,
-    "translation": "tiempo"
-  },
-  {
-    "word": "wife",
-    "category": "NOUN",
-    "value": 6,
-    "translation": "esposa"
-  },
-  {
-    "word": "soon",
-    "category": "ADV",
-    "value": 6,
-    "translation": "pronto"
-  },
-  {
-    "word": "make",
+    "word": "say",
     "category": "VERB",
-    "value": 6,
-    "translation": "hacer"
+    "value": 204,
+    "translation": "decir"
   },
   {
-    "word": "become",
+    "word": "would",
+    "category": "AUX",
+    "value": 197,
+    "translation": "haría"
+  },
+  {
+    "word": "one",
+    "category": "NUM",
+    "value": 196,
+    "translation": "uno"
+  },
+  {
+    "word": "’s",
+    "category": "PART",
+    "value": 164,
+    "translation": "'s"
+  },
+  {
+    "word": "get",
     "category": "VERB",
-    "value": 6,
-    "translation": "convertirse"
+    "value": 135,
+    "translation": "conseguir"
   },
   {
-    "word": "take",
-    "category": "VERB",
-    "value": 6,
-    "translation": "llevar"
-  },
-  {
-    "word": "call",
-    "category": "VERB",
-    "value": 6,
-    "translation": "llamar"
-  },
-  {
-    "word": "brother",
-    "category": "NOUN",
-    "value": 5,
-    "translation": "hermano"
-  },
-  {
-    "word": "town",
-    "category": "NOUN",
-    "value": 5,
-    "translation": "ciudad"
-  },
-  {
-    "word": "girl",
-    "category": "NOUN",
-    "value": 5,
-    "translation": "chica"
-  },
-  {
-    "word": "ship",
-    "category": "NOUN",
-    "value": 5,
-    "translation": "barco"
-  },
-  {
-    "word": "thing",
-    "category": "NOUN",
-    "value": 5,
-    "translation": "cosa"
-  },
-  {
-    "word": "family",
-    "category": "NOUN",
-    "value": 5,
-    "translation": "familia"
-  },
-  {
-    "word": "port",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "puerto"
-  },
-  {
-    "word": "shipbroker",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "agente marítimo"
-  },
-  {
-    "word": "large",
-    "category": "ADJ",
-    "value": 4,
-    "translation": "grande"
-  },
-  {
-    "word": "young",
-    "category": "ADJ",
-    "value": 4,
-    "translation": "joven"
-  },
-  {
-    "word": "coal",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "carbón"
+    "word": "’",
+    "category": "PART",
+    "value": 106,
+    "translation": "\""
   },
   {
     "word": "like",
     "category": "ADP",
-    "value": 4,
+    "value": 101,
     "translation": "como"
-  },
-  {
-    "word": "good",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "bien"
-  },
-  {
-    "word": "walk",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "caminar"
-  },
-  {
-    "word": "begin",
-    "category": "VERB",
-    "value": 4,
-    "translation": "comenzar"
-  },
-  {
-    "word": "beauty",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "belleza"
-  },
-  {
-    "word": "grandfather",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "abuelo"
-  },
-  {
-    "word": "write",
-    "category": "VERB",
-    "value": 4,
-    "translation": "escribir"
-  },
-  {
-    "word": "bear",
-    "category": "VERB",
-    "value": 4,
-    "translation": "oso"
-  },
-  {
-    "word": "still",
-    "category": "ADV",
-    "value": 4,
-    "translation": "aún"
-  },
-  {
-    "word": "find",
-    "category": "VERB",
-    "value": 4,
-    "translation": "encontrar"
-  },
-  {
-    "word": "run",
-    "category": "VERB",
-    "value": 4,
-    "translation": "correr"
-  },
-  {
-    "word": "man",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "hombre"
-  },
-  {
-    "word": "pull",
-    "category": "ADJ",
-    "value": 4,
-    "translation": "jalar"
-  },
-  {
-    "word": "mother",
-    "category": "NOUN",
-    "value": 4,
-    "translation": "madre"
-  },
-  {
-    "word": "within",
-    "category": "ADP",
-    "value": 3,
-    "translation": "dentro"
-  },
-  {
-    "word": "fuel",
-    "category": "NOUN",
-    "value": 3,
-    "translation": "combustible"
-  },
-  {
-    "word": "know",
-    "category": "VERB",
-    "value": 3,
-    "translation": "saber"
-  },
-  {
-    "word": "little",
-    "category": "ADJ",
-    "value": 3,
-    "translation": "pequeño"
-  },
-  {
-    "word": "many",
-    "category": "ADJ",
-    "value": 3,
-    "translation": "muchos"
-  },
-  {
-    "word": "day",
-    "category": "NOUN",
-    "value": 3,
-    "translation": "día"
-  },
-  {
-    "word": "around",
-    "category": "ADV",
-    "value": 3,
-    "translation": "alrededor"
-  },
-  {
-    "word": "great",
-    "category": "ADJ",
-    "value": 3,
-    "translation": "excelente"
-  },
-  {
-    "word": "full",
-    "category": "ADJ",
-    "value": 3,
-    "translation": "lleno"
-  },
-  {
-    "word": "beautiful",
-    "category": "ADJ",
-    "value": 3,
-    "translation": "hermoso"
-  },
-  {
-    "word": "furniture",
-    "category": "NOUN",
-    "value": 3,
-    "translation": "muebles"
-  },
-  {
-    "word": "work",
-    "category": "VERB",
-    "value": 3,
-    "translation": "trabajar"
-  },
-  {
-    "word": "decide",
-    "category": "VERB",
-    "value": 3,
-    "translation": "decidir"
-  },
-  {
-    "word": "manner",
-    "category": "NOUN",
-    "value": 3,
-    "translation": "manera"
-  },
-  {
-    "word": "elbow",
-    "category": "NOUN",
-    "value": 3,
-    "translation": "codo"
-  },
-  {
-    "word": "old",
-    "category": "ADJ",
-    "value": 3,
-    "translation": "viejo"
-  },
-  {
-    "word": "place",
-    "category": "NOUN",
-    "value": 3,
-    "translation": "lugar"
   },
   {
     "word": "come",
     "category": "VERB",
-    "value": 3,
+    "value": 92,
     "translation": "venir"
   },
   {
-    "word": "chicken",
+    "word": "boy",
     "category": "NOUN",
-    "value": 3,
-    "translation": "pollo"
+    "value": 91,
+    "translation": "chico"
   },
   {
-    "word": "business",
-    "category": "NOUN",
-    "value": 3,
-    "translation": "negocio"
-  },
-  {
-    "word": "tell",
+    "word": "make",
     "category": "VERB",
-    "value": 3,
-    "translation": "decir"
+    "value": 86,
+    "translation": "hacer"
+  },
+  {
+    "word": "mother",
+    "category": "NOUN",
+    "value": 85,
+    "translation": "madre"
+  },
+  {
+    "word": "day",
+    "category": "NOUN",
+    "value": 85,
+    "translation": "día"
+  },
+  {
+    "word": "take",
+    "category": "VERB",
+    "value": 85,
+    "translation": "llevar"
+  },
+  {
+    "word": "could",
+    "category": "AUX",
+    "value": 84,
+    "translation": "podría"
+  },
+  {
+    "word": "school",
+    "category": "NOUN",
+    "value": 84,
+    "translation": "escuela"
   },
   {
     "word": "back",
     "category": "ADV",
-    "value": 3,
+    "value": 81,
     "translation": "atrás"
   },
   {
-    "word": "month",
-    "category": "NOUN",
-    "value": 2,
-    "translation": "mes"
+    "word": "know",
+    "category": "VERB",
+    "value": 74,
+    "translation": "saber"
   },
   {
-    "word": "lovely",
+    "word": "hand",
+    "category": "NOUN",
+    "value": 73,
+    "translation": "mano"
+  },
+  {
+    "word": "two",
+    "category": "NUM",
+    "value": 71,
+    "translation": "dos"
+  },
+  {
+    "word": "small",
     "category": "ADJ",
-    "value": 2,
-    "translation": "hermoso"
+    "value": 69,
+    "translation": "pequeño"
   },
   {
-    "word": "fortune",
-    "category": "NOUN",
-    "value": 2,
-    "translation": "fortuna"
+    "word": "never",
+    "category": "ADV",
+    "value": 67,
+    "translation": "nunca"
   },
   {
-    "word": "office",
-    "category": "NOUN",
-    "value": 2,
-    "translation": "oficina"
+    "word": "little",
+    "category": "ADJ",
+    "value": 65,
+    "translation": "pequeño"
   },
   {
-    "word": "carry",
+    "word": "look",
     "category": "VERB",
-    "value": 2,
-    "translation": "llevar"
+    "value": 65,
+    "translation": "mirar"
   },
   {
-    "word": "shipbroke",
-    "category": "VERB",
-    "value": 2,
-    "translation": "barco desguazado"
-  },
-  {
-    "word": "set",
-    "category": "VERB",
-    "value": 2,
-    "translation": "colocar"
-  },
-  {
-    "word": "sense",
+    "word": "year",
     "category": "NOUN",
-    "value": 2,
-    "translation": "sentido"
+    "value": 65,
+    "translation": "año"
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 65,
+    "translation": "tiempo"
   },
   {
     "word": "away",
     "category": "ADV",
-    "value": 2,
+    "value": 62,
     "translation": "lejos"
   },
   {
-    "word": "separate",
+    "word": "put",
     "category": "VERB",
-    "value": 2,
-    "translation": "separado"
+    "value": 61,
+    "translation": "poner"
   },
   {
-    "word": "west",
-    "category": "NOUN",
-    "value": 2,
-    "translation": "Oeste"
-  },
-  {
-    "word": "meet",
+    "word": "see",
     "category": "VERB",
-    "value": 2,
-    "translation": "encontrarse"
+    "value": 61,
+    "translation": "ver"
   },
   {
-    "word": "somehow",
+    "word": "well",
     "category": "ADV",
-    "value": 2,
-    "translation": "de alguna manera"
+    "value": 58,
+    "translation": "Bueno"
+  },
+  {
+    "word": "sir",
+    "category": "PROPN",
+    "value": 57,
+    "translation": "Señor"
+  },
+  {
+    "word": "long",
+    "category": "ADJ",
+    "value": 55,
+    "translation": "largo"
+  },
+  {
+    "word": "call",
+    "category": "VERB",
+    "value": 55,
+    "translation": "llamar"
+  },
+  {
+    "word": "tell",
+    "category": "VERB",
+    "value": 54,
+    "translation": "decir"
+  },
+  {
+    "word": "sister",
+    "category": "NOUN",
+    "value": 53,
+    "translation": "hermana"
+  },
+  {
+    "word": "great",
+    "category": "ADJ",
+    "value": 53,
+    "translation": "excelente"
+  },
+  {
+    "word": "every",
+    "category": "DET",
+    "value": 51,
+    "translation": "cada"
+  },
+  {
+    "word": "sit",
+    "category": "VERB",
+    "value": 51,
+    "translation": "sentarse"
+  },
+  {
+    "word": "face",
+    "category": "NOUN",
+    "value": 51,
+    "translation": "rostro"
+  },
+  {
+    "word": "first",
+    "category": "ADV",
+    "value": 50,
+    "translation": "primero"
+  },
+  {
+    "word": "ask",
+    "category": "VERB",
+    "value": 50,
+    "translation": "preguntar"
+  },
+  {
+    "word": "even",
+    "category": "ADV",
+    "value": 49,
+    "translation": "incluso"
+  },
+  {
+    "word": "doctor",
+    "category": "NOUN",
+    "value": 47,
+    "translation": "doctor"
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 46,
+    "translation": "viejo"
+  },
+  {
+    "word": "…",
+    "category": "PUNCT",
+    "value": 46,
+    "translation": "…"
+  },
+  {
+    "word": "Mr",
+    "category": "PROPN",
+    "value": 46,
+    "translation": "Señor"
+  },
+  {
+    "word": "Thwaites",
+    "category": "PROPN",
+    "value": 45,
+    "translation": "Thwaites"
+  },
+  {
+    "word": "give",
+    "category": "VERB",
+    "value": 45,
+    "translation": "dar"
+  },
+  {
+    "word": "thing",
+    "category": "NOUN",
+    "value": 45,
+    "translation": "cosa"
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 45,
+    "translation": "hombre"
+  },
+  {
+    "word": "keep",
+    "category": "VERB",
+    "value": 45,
+    "translation": "mantener"
+  },
+  {
+    "word": "use",
+    "category": "VERB",
+    "value": 43,
+    "translation": "usar"
+  },
+  {
+    "word": "good",
+    "category": "NOUN",
+    "value": 43,
+    "translation": "bien"
+  },
+  {
+    "word": "way",
+    "category": "NOUN",
+    "value": 43,
+    "translation": "forma"
+  },
+  {
+    "word": "head",
+    "category": "NOUN",
+    "value": 42,
+    "translation": "cabeza"
+  },
+  {
+    "word": "always",
+    "category": "ADV",
+    "value": 42,
+    "translation": "siempre"
+  },
+  {
+    "word": "much",
+    "category": "ADJ",
+    "value": 41,
+    "translation": "mucho"
+  },
+  {
+    "word": "four",
+    "category": "NUM",
+    "value": 41,
+    "translation": "cuatro"
+  },
+  {
+    "word": "white",
+    "category": "ADJ",
+    "value": 41,
+    "translation": "blanco"
+  },
+  {
+    "word": "Matron",
+    "category": "PROPN",
+    "value": 41,
+    "translation": "Matrona"
+  },
+  {
+    "word": "three",
+    "category": "NUM",
+    "value": 41,
+    "translation": "tres"
+  },
+  {
+    "word": "half",
+    "category": "DET",
+    "value": 40,
+    "translation": "medio"
+  },
+  {
+    "word": "right",
+    "category": "NOUN",
+    "value": 40,
+    "translation": "bien"
+  },
+  {
+    "word": "hold",
+    "category": "VERB",
+    "value": 40,
+    "translation": "sostener"
+  },
+  {
+    "word": "father",
+    "category": "NOUN",
+    "value": 39,
+    "translation": "padre"
+  },
+  {
+    "word": "think",
+    "category": "VERB",
+    "value": 39,
+    "translation": "pensar"
+  },
+  {
+    "word": "five",
+    "category": "NUM",
+    "value": 38,
+    "translation": "cinco"
+  },
+  {
+    "word": "cry",
+    "category": "VERB",
+    "value": 38,
+    "translation": "llorar"
+  },
+  {
+    "word": "child",
+    "category": "NOUN",
+    "value": 37,
+    "translation": "niño"
+  },
+  {
+    "word": "stand",
+    "category": "VERB",
+    "value": 37,
+    "translation": "pararse"
+  },
+  {
+    "word": "room",
+    "category": "NOUN",
+    "value": 37,
+    "translation": "habitación"
+  },
+  {
+    "word": "house",
+    "category": "NOUN",
+    "value": 37,
+    "translation": "casa"
+  },
+  {
+    "word": "’ll",
+    "category": "AUX",
+    "value": 36,
+    "translation": "'LL"
+  },
+  {
+    "word": "Coombes",
+    "category": "PROPN",
+    "value": 36,
+    "translation": "Coombes"
+  },
+  {
+    "word": "Mrs",
+    "category": "PROPN",
+    "value": 36,
+    "translation": "Señora"
+  },
+  {
+    "word": "whole",
+    "category": "ADJ",
+    "value": 36,
+    "translation": "entero"
+  },
+  {
+    "word": "walk",
+    "category": "NOUN",
+    "value": 35,
+    "translation": "caminar"
+  },
+  {
+    "word": "home",
+    "category": "NOUN",
+    "value": 35,
+    "translation": "hogar"
+  },
+  {
+    "word": "Headmaster",
+    "category": "PROPN",
+    "value": 35,
+    "translation": "Director de escuela"
+  },
+  {
+    "word": "eye",
+    "category": "NOUN",
+    "value": 35,
+    "translation": "ojo"
+  },
+  {
+    "word": "begin",
+    "category": "VERB",
+    "value": 35,
+    "translation": "comenzar"
+  },
+  {
+    "word": "leave",
+    "category": "VERB",
+    "value": 35,
+    "translation": "dejar"
+  },
+  {
+    "word": "second",
+    "category": "ADJ",
+    "value": 35,
+    "translation": "segundo"
+  },
+  {
+    "word": "still",
+    "category": "ADV",
+    "value": 34,
+    "translation": "aún"
+  },
+  {
+    "word": "week",
+    "category": "NOUN",
+    "value": 34,
+    "translation": "semana"
+  },
+  {
+    "word": "feel",
+    "category": "VERB",
+    "value": 34,
+    "translation": "sentir"
+  },
+  {
+    "word": "around",
+    "category": "ADV",
+    "value": 34,
+    "translation": "alrededor"
+  },
+  {
+    "word": "lie",
+    "category": "VERB",
+    "value": 33,
+    "translation": "mentir"
+  },
+  {
+    "word": "write",
+    "category": "VERB",
+    "value": 33,
+    "translation": "escribir"
+  },
+  {
+    "word": "happen",
+    "category": "VERB",
+    "value": 33,
+    "translation": "suceder"
+  },
+  {
+    "word": "Pratchett",
+    "category": "PROPN",
+    "value": 32,
+    "translation": "Pratchet"
+  },
+  {
+    "word": "want",
+    "category": "VERB",
+    "value": 32,
+    "translation": "desear"
+  },
+  {
+    "word": "Captain",
+    "category": "PROPN",
+    "value": 32,
+    "translation": "Capitán"
+  },
+  {
+    "word": "ancient",
+    "category": "ADJ",
+    "value": 32,
+    "translation": "antiguo"
+  },
+  {
+    "word": "hour",
+    "category": "NOUN",
+    "value": 32,
+    "translation": "hora"
+  },
+  {
+    "word": "place",
+    "category": "NOUN",
+    "value": 31,
+    "translation": "lugar"
+  },
+  {
+    "word": "become",
+    "category": "VERB",
+    "value": 31,
+    "translation": "convertirse"
+  },
+  {
+    "word": "black",
+    "category": "ADJ",
+    "value": 30,
+    "translation": "negro"
+  },
+  {
+    "word": "boat",
+    "category": "NOUN",
+    "value": 30,
+    "translation": "bote"
   }
 ]

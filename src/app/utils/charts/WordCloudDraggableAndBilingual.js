@@ -5,6 +5,7 @@ import d3Cloud from "d3-cloud";
 import { Tooltip } from "react-tooltip";
 import React from "react";
 import PropTypes, { shape } from "prop-types";
+import { filterWordCloudData } from "@/app/utils/functions/general-functions";
 
 function findMaxMin(data) {
   var minimum = data.reduce(
@@ -35,7 +36,7 @@ function selectWordScale(minMaxValues, type) {
   }
 }
 
-const WordCloudDraggableAndBilingual = ({
+const ChartComponent = ({
   data,
   wordSizeMultiplier = 1,
   scaleType = "linear",
@@ -87,6 +88,7 @@ const WordCloudDraggableAndBilingual = ({
     const parent = svg.node().parentNode;
     const width = parent.offsetWidth;
     const height = parent.offsetHeight < 400 ? 400 : parent.offsetHeight;
+    console.log("height", parent.offsetHeight);
 
     svg
       .append("rect")
@@ -254,6 +256,56 @@ const WordCloudDraggableAndBilingual = ({
   );
 };
 
+const WordCloudDraggableAndBilingual = ({
+  bookName,
+  wordCloudTitle,
+  data,
+  wordSizeMultiplier,
+  scaleType,
+  wordsToRemove,
+  categoriesToRemove,
+  showNote = true,
+  customNoteText,
+}) => {
+  const wordsToRemoveData = wordsToRemove || [];
+  const categoriesToRemoveData = categoriesToRemove || [];
+  return (
+    <div>
+      <div className="text-center">
+        <div className="my-4">
+          {bookName && (
+            <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
+              {bookName || ""}
+            </span>
+          )}
+
+          <h1 className="text-3xl font-bold ">{wordCloudTitle || ""}</h1>
+        </div>
+
+        {showNote && (
+          <div className="my-2">
+            <p>
+              {customNoteText ||
+                "Drag the words to different positions and see if you can make any new insights!"}
+            </p>
+          </div>
+        )}
+      </div>
+      <div className="w-inherit">
+        <ChartComponent
+          data={filterWordCloudData(
+            data,
+            wordsToRemoveData,
+            categoriesToRemoveData
+          )}
+          wordSizeMultiplier={wordSizeMultiplier || 1}
+          scaleType={scaleType || "linear"}
+        />
+      </div>
+    </div>
+  );
+};
+
 const WordCloudDraggableAndBilingualProps = {
   data: PropTypes.arrayOf(
     shape({
@@ -263,11 +315,26 @@ const WordCloudDraggableAndBilingualProps = {
       category: PropTypes.string.isRequired,
     })
   ).isRequired,
+  bookName: PropTypes.string,
+  wordCloudTitle: PropTypes.string,
+  wordsToRemove: PropTypes.arrayOf(PropTypes.string),
+  categoriesToRemove: PropTypes.arrayOf(PropTypes.string),
+  showNote: PropTypes.bool,
+  customNoteText: PropTypes.string,
   wordSizeMultiplier: PropTypes.number,
   scaleType: PropTypes.oneOf(["linear", "log"]),
 };
 
 WordCloudDraggableAndBilingual.propTypes = WordCloudDraggableAndBilingualProps;
+
+const WordCloudDraggableAndBilingualDataFormat = [
+  {
+    word: "string",
+    translation: "string",
+    value: "number",
+    category: "string",
+  },
+];
 
 const WordCloudDraggableAndBilingualPropsDefinition = [
   {
@@ -296,7 +363,62 @@ const WordCloudDraggableAndBilingualPropsDefinition = [
     defaultValue: "linear",
     description: "The type of scale to be used to scale the size of the words.",
   },
+  {
+    propName: "bookName",
+    propType: "string",
+    required: false,
+    defaultValue: "",
+    acceptedValues: [],
+    description: "The name of the book to be displayed in the title.",
+  },
+  {
+    propName: "wordCloudTitle",
+    propType: "string",
+    required: false,
+    defaultValue: "",
+    acceptedValues: [],
+    description: "The title of the word cloud.",
+  },
+  {
+    propName: "wordsToRemove",
+    propType: "array",
+    required: false,
+    defaultValue: "",
+    acceptedValues: [],
+    description:
+      "An array of words to be removed from the word cloud. If not provided, no words will be removed.",
+  },
+  {
+    propName: "categoriesToRemove",
+    propType: "array",
+    required: false,
+    defaultValue: "",
+    acceptedValues: [],
+    description:
+      "An array of categories to be removed from the word cloud. If not provided, no categories will be removed.",
+  },
+  {
+    propName: "showNote",
+    propType: "boolean",
+    required: false,
+    defaultValue: "true",
+    acceptedValues: ["true", "false"],
+    description:
+      'Whether to show the note or not. Default note is "Drag the words to different positions and see if you can make any new insights!"',
+  },
+  {
+    propName: "customNoteText",
+    propType: "string",
+    required: false,
+    defaultValue: "",
+    acceptedValues: [],
+    description:
+      "If you want to show a custom note instead of the default one, you can provide it here.",
+  },
 ];
 
 export default WordCloudDraggableAndBilingual;
-export { WordCloudDraggableAndBilingualPropsDefinition };
+export {
+  WordCloudDraggableAndBilingualPropsDefinition,
+  WordCloudDraggableAndBilingualDataFormat,
+};
