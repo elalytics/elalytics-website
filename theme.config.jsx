@@ -35,7 +35,6 @@ const theme = {
     );
   },
   project: {
-    link: "/",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -65,8 +64,8 @@ const theme = {
       return <>{title}</>;
     },
   },
-  editLink: "",
-  feedback: "",
+  editLink: { text: "" },
+  feedback: { content: "Facing problems? Raise an issue." },
 
   // ... other theme options
 };

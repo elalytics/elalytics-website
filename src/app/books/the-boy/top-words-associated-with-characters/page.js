@@ -1,6 +1,6 @@
 "use client";
 
-import WordCloudDraggable from "../../utils/charts/WordCloudDraggable";
+import WordCloudDraggable from "@/app/utils/charts/WordCloudDraggable";
 import { filterWordCloudData } from "@/app/utils/functions/general-functions";
 import data from "./data/top_character_words.json";
 

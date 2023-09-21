@@ -1,4 +1,4 @@
-import WordCloudDraggableDualLang from "../../utils/charts/WordCloudDraggableAndBilingual";
+import WordCloudDraggableAndBilingual from "@/app/utils/charts/WordCloudDraggableAndBilingual";
 import { filterWordCloudData } from "@/app/utils/functions/general-functions";
 import chapter1 from "./data/chapters/boy_topwords_chapter_1.json";
 import chapter2 from "./data/chapters/boy_topwords_chapter_2.json";
@@ -179,7 +179,7 @@ export default function App() {
                 <h2 className="text-2xl text-center font-bold mb-4">
                   Chapter {chapter.chapter}: {chapter.chapterName}
                 </h2>
-                <WordCloudDraggableDualLang
+                <WordCloudDraggableAndBilingual
                   data={filterWordCloudData(
                     chapter.wordCloudData,
                     wordsToRemove,
