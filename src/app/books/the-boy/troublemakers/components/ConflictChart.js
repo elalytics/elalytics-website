@@ -25,8 +25,6 @@ const ConflictBarChart = (props) => {
   const chartInstance = useRef(null);
 
   useEffect(() => {
-    console.log("props.data", props.data);
-
     let data = {
       labels: ["Children", "Adult"],
       datasets: convertCharDataToDataset(props.data),

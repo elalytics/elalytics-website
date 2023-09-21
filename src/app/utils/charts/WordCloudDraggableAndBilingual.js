@@ -88,7 +88,6 @@ const ChartComponent = ({
     const parent = svg.node().parentNode;
     const width = parent.offsetWidth;
     const height = parent.offsetHeight < 400 ? 400 : parent.offsetHeight;
-    console.log("height", parent.offsetHeight);
 
     svg
       .append("rect")
@@ -170,7 +169,6 @@ const ChartComponent = ({
           return d.text;
         })
         .on("dblclick", function (d, i) {
-          console.log(this.innerHTML);
           if (this.innerHTML === i.translation) {
             d3.select(this).text(i.text);
           } else {

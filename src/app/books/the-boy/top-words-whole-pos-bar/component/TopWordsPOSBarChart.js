@@ -39,7 +39,7 @@ function convertFormat(A) {
     labels: categories,
     datasets: dataset,
   };
-  console.log(B);
+
   return B;
 }
 

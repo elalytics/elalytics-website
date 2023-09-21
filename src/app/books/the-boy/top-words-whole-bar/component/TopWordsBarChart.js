@@ -46,7 +46,7 @@ const TopWordsBarChart = (props) => {
 
   useEffect(() => {
     setCategoryColors(getCategoriesColors(props.data));
-    console.log(JSON.stringify(categoryColors));
+
     let data = {
       labels: props.data.map((item) => item.word),
       datasets: [

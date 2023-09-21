@@ -17,7 +17,7 @@ function convertFormat(originalObj) {
     // Create a new object and push it to the result array
     result.push({ key, value, tooltip });
   }
-  console.log(result);
+
   return result;
 }
 

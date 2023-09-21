@@ -20,7 +20,6 @@ export default function TopCharacterWordsBoy({ data }) {
 
     svg.attr("viewBox", [0, 0, width, height]).attr("stroke-width", 2);
     const sortedData = [...data].sort((a, b) => a.rank - b.rank);
-    console.log(sortedData);
 
     const x = d3
       .scaleBand()

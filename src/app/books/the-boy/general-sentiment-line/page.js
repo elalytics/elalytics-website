@@ -12,7 +12,7 @@ function convertChapterSentimentDataForLineChart(data) {
       value: data[key],
     });
   }
-  console.log(result);
+
   return result;
 }
 
