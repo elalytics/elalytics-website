@@ -99,15 +99,16 @@ const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
 
     let paragraphBarColor = (() => {
       let result = [];
+      let colors = ["#662D9F", "#A06CD5"];
       sourceData.forEach((paragraph) => {
         if (Array.isArray(paragraph.lines)) {
           // Iterate through each line and push word counts
           paragraph.lines.forEach((item) => {
-            result.push(paragraphColors[parseInt(paragraph.paragraph, 10) - 1]);
+            result.push(colors[parseInt(paragraph.paragraph, 10) % 2]);
           });
         } else {
           // Handle the case where wordCount is not an array (last line)
-          result.push(paragraphColors[parseInt(paragraph.paragraph, 10) - 1]);
+          result.push(colors[parseInt(paragraph.paragraph, 10) % 2]);
         }
       });
       return result;
