@@ -55,7 +55,7 @@ export default function App() {
             hideParagraphAnnotation={true}
             note=""
             yLabel="Number of Words"
-            xLabel="Line"
+            xLabel="Sentence"
           />
         </div>
       </div>
