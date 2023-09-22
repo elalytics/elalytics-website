@@ -52,6 +52,7 @@ export default function App() {
           <SentenceLengthChart
             sourceData={getLineLength(data)}
             showTooltip={true}
+            hideParagraphAnnotation={true}
             note=""
             yLabel="Number of Words"
             xLabel="Line"
