@@ -99,7 +99,7 @@ const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
 
     let paragraphBarColor = (() => {
       let result = [];
-      let colors = ["#662D9F", "#A06CD5"];
+      let colors = ["#0C090D", "#3F7CAC"];
       sourceData.forEach((paragraph) => {
         if (Array.isArray(paragraph.lines)) {
           // Iterate through each line and push word counts
