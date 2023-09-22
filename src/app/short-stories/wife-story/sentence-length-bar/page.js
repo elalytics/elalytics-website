@@ -1,7 +1,7 @@
 import SentenceLengthBarChart from "@/app/utils/charts/SentenceLengthBarChart";
 import data from "./data/wife-story.json";
 export const metadata = {
-  title: "Sentence Length Bar Chart | Lottery | Elalytics",
+  title: "Sentence Length Bar Chart | The Wife's Story | Elalytics",
 };
 
 export default function Home() {
