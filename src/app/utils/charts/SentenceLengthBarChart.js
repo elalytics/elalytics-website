@@ -96,7 +96,7 @@ const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
       );
 
     paragraphColors = deterministicShuffle(paragraphColors, Math.sqrt(2) - 1);
-
+    // update
     let paragraphBarColor = (() => {
       let result = [];
       sourceData.forEach((paragraph) => {
