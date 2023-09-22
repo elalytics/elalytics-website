@@ -31,6 +31,7 @@
     "react-dnd-html5-backend": "^16.0.1",
     "react-responsive-carousel": "^3.2.23",
     "react-tooltip": "^5.18.0",
+    "sentence-splitter": "^4.2.1",
     "tailwindcss": "3.3.3"
   }
 }

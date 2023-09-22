@@ -1,28 +1,16 @@
 "use client";
 
-import data from "./data/elevator_conflict_with_sentences.json";
-import LineLengthChart from "@/app/utils/charts/LineLengthChart";
-
-function convertFormat(originalObj) {
-  const result = [];
-
-  // Loop through each key-value pair in the original object
-  for (const key in originalObj) {
-    // Extract the float value and the string sentence from the value array
-    let [value, tooltip] = originalObj[key];
-    tooltip = tooltip;
-
-    // Create a new object and push it to the result array
-    result.push({ key, value, tooltip });
-  }
-
-  return result;
-}
+import data from "./data/lottery-story-text.json";
+import SentenceLengthChart from "@/app/utils/charts/SentenceLengthChart";
+import { split } from "sentence-splitter";
 
 function getLineLength(inputData) {
-  let data = convertFormat(inputData);
+  let data = inputData;
   const result = data.map((item) => {
-    const paragraphLines = item.tooltip.split(/[.!?]+/);
+    const paragraphLines = split(item.paragraphText)
+      .map((sentence) => sentence.raw)
+      .filter((line) => line.trim() !== ""); // Filter out empty or whitespace-only lines
+
     let linesWithWordCount = paragraphLines.map((line) => ({
       line: line.trim(),
       wordCount: line
@@ -40,9 +28,9 @@ function getLineLength(inputData) {
     }
 
     return {
-      paragraph: item.key,
-      sentimentScore: item.value,
-      paragraphText: item.tooltip,
+      paragraph: item.paragraph,
+      sentimentScore: item.sentimentScore,
+      paragraphText: item.paragraphText,
       lines: linesWithWordCount,
     };
   });
@@ -50,27 +38,24 @@ function getLineLength(inputData) {
   return result;
 }
 
-export const metadataDetails = {
-  title: "Line Length Chart",
-};
-
 export default function App() {
   return (
     <main>
       <div className="h-screen overflow-x-hidden bg-gray-100">
         <div className="my-8 text-center">
           <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
-            The Elevator
+            Lottery
           </span>
-          <h1 className="text-3xl font-bold">Line Length Chart</h1>
+          <h1 className="text-3xl font-bold">Sentence Length Chart</h1>
         </div>
-        <div className="h-full max-w-5xl m-auto">
-          <LineLengthChart
+        <div className="max-w-7xl m-auto">
+          <SentenceLengthChart
             sourceData={getLineLength(data)}
             showTooltip={true}
+            hideParagraphAnnotation={true}
             note=""
             yLabel="Number of Words"
-            xLabel="Line"
+            xLabel="Sentence"
           />
         </div>
       </div>

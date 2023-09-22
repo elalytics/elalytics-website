@@ -1,10 +1,19 @@
+"use client";
+
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
 import annotationPlugin from "chartjs-plugin-annotation";
 import chroma from "chroma-js";
 
-const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
+const SentenceLengthChart = ({
+  sourceData,
+  showTooltip,
+  hideParagraphAnnotation,
+  xLabel,
+  yLabel,
+  note,
+}) => {
   const [chartData, setChartData] = useState();
   const [annotations, setAnnotations] = useState();
   const chartContainer = useRef(null);
@@ -22,6 +31,22 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
         } else {
           // Handle the case where wordCount is not an array (last line)
           result.push(item.wordCount);
+        }
+      });
+      return result;
+    })();
+
+    let paragraphNumber = (() => {
+      let result = [];
+      sourceData.forEach((paragraph) => {
+        if (Array.isArray(paragraph.lines)) {
+          // Iterate through each line and push word counts
+          paragraph.lines.forEach((item) => {
+            result.push(paragraph.paragraph);
+          });
+        } else {
+          // Handle the case where wordCount is not an array (last line)
+          result.push(paragraph.paragraph);
         }
       });
       return result;
@@ -62,6 +87,9 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
     function createAnnotations(dataArray) {
       let annotations = {};
       let xMin = 0;
+      if (hideParagraphAnnotation) {
+        return annotations;
+      }
 
       for (let i = 0; i < dataArray.length; i++) {
         const lines = dataArray[i].lines;
@@ -111,6 +139,7 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
         {
           label: [...numberOfLines, null],
           data: [...numberOfWordsInEachLine, null],
+          paragraph: [...paragraphNumber, null],
           toolTip: lines,
           cubicInterpolationMode: "monotone",
         },
@@ -147,12 +176,16 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
                   );
                 },
                 title: function (context) {
+                  console.log(context);
                   return (
-                    "Line " +
+                    "Sentence " +
                       context[0].label +
                       " - " +
                       context[0].formattedValue +
-                      " Words" || ""
+                      " Words" +
+                      " - " +
+                      "Paragraph " +
+                      context[0].dataset.paragraph[context[0].dataIndex] || ""
                   );
                 },
               },
@@ -205,4 +238,4 @@ const LineLengthChart = ({ sourceData, showTooltip, xLabel, yLabel, note }) => {
   );
 };
 
-export default LineLengthChart;
+export default SentenceLengthChart;
