@@ -1,5 +1,4 @@
 // components/Layout.js
-import "./globals.css";
 import React from "react";
 
 const Layout = ({ children }) => {

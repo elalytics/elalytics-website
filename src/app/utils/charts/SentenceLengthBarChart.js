@@ -6,6 +6,7 @@ import { Chart } from "chart.js/auto";
 import annotationPlugin from "chartjs-plugin-annotation";
 import { split } from "sentence-splitter";
 import chroma from "chroma-js";
+import PropTypes, { shape } from "prop-types";
 
 const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
   const [chartData, setChartData] = useState();
@@ -296,7 +297,7 @@ const SentenceLengthBarChart = ({
 }) => {
   return (
     <div>
-      <div className="overflow-x-hidden bg-gray-100">
+      <div className="overflow-x-hidden">
         <div className="text-center">
           <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
             {bookName}
@@ -322,6 +323,21 @@ const SentenceLengthBarChart = ({
       </div>
     </div>
   );
+};
+
+SentenceLengthBarChart.propTypes = {
+  bookName: PropTypes.string,
+  chartTitle: PropTypes.string,
+  sourceData: PropTypes.arrayOf(
+    shape({
+      paragraph: PropTypes.string.isRequired,
+      paragraphText: PropTypes.string.isRequired,
+    })
+  ).isRequired,
+  showTooltip: PropTypes.bool,
+  showNote: PropTypes.bool,
+  xLabel: PropTypes.string,
+  yLabel: PropTypes.string,
 };
 
 export default SentenceLengthBarChart;

@@ -63,7 +63,7 @@ const ChartComponent = ({
     drawWordCloud();
     drawLegend();
     setChartDrawn(true);
-  }, []);
+  }, [data]);
 
   // Function to trigger the dblclick event on all words
   const triggerDblClickOnAllWords = () => {
@@ -85,9 +85,10 @@ const ChartComponent = ({
 
   const drawWordCloud = () => {
     const svg = d3.select(svgRef.current);
+    svg.selectAll("*").remove();
     const parent = svg.node().parentNode;
     const width = parent.offsetWidth;
-    const height = parent.offsetHeight < 400 ? 400 : parent.offsetHeight;
+    const height = 400;
 
     svg
       .append("rect")
@@ -188,6 +189,7 @@ const ChartComponent = ({
   };
   const drawLegend = () => {
     // Append the div for the legend
+    d3.select(svgRef.current.parentNode).select(".legend").remove();
     const legendDiv = d3
       .select(svgRef.current.parentNode) // select the parent node of the SVG.
       .append("div")
@@ -325,98 +327,4 @@ const WordCloudDraggableAndBilingualProps = {
 
 WordCloudDraggableAndBilingual.propTypes = WordCloudDraggableAndBilingualProps;
 
-const WordCloudDraggableAndBilingualDataFormat = [
-  {
-    word: "string",
-    translation: "string",
-    value: "number",
-    category: "string",
-  },
-];
-
-const WordCloudDraggableAndBilingualPropsDefinition = [
-  {
-    propName: "data",
-    propType: "array",
-    required: true,
-    defaultValue: "",
-    acceptedValues: [],
-    description:
-      "The data to be displayed in the word cloud. It should be an array of objects with the following properties: word, translation, value, category.",
-  },
-  {
-    propName: "wordSizeMultiplier",
-    propType: "number",
-    required: false,
-    defaultValue: "1",
-    acceptedValues: ["any number"],
-    description:
-      "The multiplier to be applied to the size of the words in the word cloud.",
-  },
-  {
-    propName: "scaleType",
-    propType: "string",
-    required: false,
-    acceptedValues: ["linear", "log"],
-    defaultValue: "linear",
-    description: "The type of scale to be used to scale the size of the words.",
-  },
-  {
-    propName: "bookName",
-    propType: "string",
-    required: false,
-    defaultValue: "",
-    acceptedValues: [],
-    description: "The name of the book to be displayed in the title.",
-  },
-  {
-    propName: "wordCloudTitle",
-    propType: "string",
-    required: false,
-    defaultValue: "",
-    acceptedValues: [],
-    description: "The title of the word cloud.",
-  },
-  {
-    propName: "wordsToRemove",
-    propType: "array",
-    required: false,
-    defaultValue: "",
-    acceptedValues: [],
-    description:
-      "An array of words to be removed from the word cloud. If not provided, no words will be removed.",
-  },
-  {
-    propName: "categoriesToRemove",
-    propType: "array",
-    required: false,
-    defaultValue: "",
-    acceptedValues: [],
-    description:
-      "An array of categories to be removed from the word cloud. If not provided, no categories will be removed.",
-  },
-  {
-    propName: "showNote",
-    propType: "boolean",
-    required: false,
-    defaultValue: "true",
-    acceptedValues: ["true", "false"],
-    description:
-      'Whether to show the note or not. Default note is "Drag the words to different positions and see if you can make any new insights!"',
-  },
-  {
-    propName: "customNoteText",
-    propType: "string",
-    required: false,
-    defaultValue: "",
-    acceptedValues: [],
-    description:
-      "If you want to show a custom note instead of the default one, you can provide it here.",
-  },
-];
-
 export default WordCloudDraggableAndBilingual;
-export {
-  WordCloudDraggableAndBilingualPropsDefinition,
-  WordCloudDraggableAndBilingualDataFormat,
-};
