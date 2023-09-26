@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token CHROMATIC_PROJECT_TOKEN"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
@@ -21,8 +24,6 @@
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "next": "13.4.9",
-    "nextra": "^2.12.3",
-    "nextra-theme-docs": "^2.12.3",
     "postcss": "8.4.26",
     "prop-types": "^15.8.1",
     "react": "18.2.0",
@@ -33,5 +34,23 @@
     "react-tooltip": "^5.18.0",
     "sentence-splitter": "^4.2.1",
     "tailwindcss": "3.3.3"
-  }
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.4.5",
+    "@storybook/addon-interactions": "^7.4.5",
+    "@storybook/addon-links": "^7.4.5",
+    "@storybook/addon-onboarding": "^1.0.8",
+    "@storybook/blocks": "^7.4.5",
+    "@storybook/manager-api": "^7.4.5",
+    "@storybook/nextjs": "^7.4.5",
+    "@storybook/react": "^7.4.5",
+    "@storybook/testing-library": "^0.2.1",
+    "@storybook/theming": "^7.4.5",
+    "chromatic": "^7.2.0",
+    "eslint-plugin-storybook": "^0.6.14",
+    "react-dom": "^18.2.0",
+    "storybook": "^7.4.5"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "elalytics@0.1.0"
 }
