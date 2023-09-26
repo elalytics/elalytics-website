@@ -3,10 +3,17 @@ import data from "../sample-data/sentence-length-bar.json";
 
 export default {
   title: "Charts/SentenceLengthBarChart",
+
   component: SentenceLengthBarChart,
   parameters: {
     // Optional parameter to center the component in the Canvas. More info: https://storybook.js.org/docs/react/configure/story-layout
     layout: "padded",
+
+    docs: {
+      description: {
+        component: "A bar chart that shows the length of sentences in a text.",
+      },
+    },
   },
   // This component will have an automatically generated Autodocs entry: https://storybook.js.org/docs/react/writing-docs/autodocs
   tags: ["autodocs"],
