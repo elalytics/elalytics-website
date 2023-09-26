@@ -6,7 +6,7 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <main>
+    <main className="bg-gray-100">
       <div className="p-6 max-w-6xl m-auto">
         <SentenceLengthBarChart
           sourceData={data}
