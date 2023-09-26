@@ -1,4 +1,22 @@
 import { Title, Meta } from "@storybook/blocks";
 
 <Meta title="Getting Started/Welcome" />
-<Title>Welcome</Title>
+<Title>Welcome to Elalytics Developer Docs</Title>
+
+In this documentation, you will find all the information you need to generate
+visualizations for the Elalytics project.
+
+## Process
+
+The process of creating an visualization broadly involves two stages:
+
+- Processing the data for the visualization from the source text
+- Creating the visualization using the processed data
+
+### Processing the data
+
+Processing the data is generally done using Python scripts. In this documentation, you can find the scripts used for various purposes under the **Data Processing** section. If you have written a new script for processing data, please ensure to [add it to the documentation](?path=/docs/getting-started-adding-to-the-documentation--docs).
+
+### Creating the visualization
+
+The visualization can be created by either reusing the charts that are already created or by creating a new chart. The charts that are already created can be found under the **Charts** section. For each chart in the documentation site, you can change the manipulate the controls and data to see the changes realtime. This might be helpful to quickly visualize the data that you have in hand. Please note that the charts will get rendered properly only if you input the data in the predefined format. The charts are created with React.js along several libraries such as chart.js, d3.js, etc. If you have created a new chart, please ensure to [add it to the documentation](?path=/docs/getting-started-adding-to-the-documentation--docs).
