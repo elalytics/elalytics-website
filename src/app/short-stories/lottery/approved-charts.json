@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sentence Length Bar Chart",
+    "link": "sentence-length-bar"
+  },
+  {
+    "name": "Sentence Length Line Chart",
+    "link": "sentence-length"
+  },
+  {
+    "name": "Suspense Chart",
+    "link": "suspense"
+  }
+]

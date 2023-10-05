@@ -10,7 +10,7 @@ function backgroundColorSelect(category, currentBucket, checkBucket) {
   if (checkBucket) {
     return currentBucket === category ? "bg-green-300" : "bg-red-300";
   } else {
-    return "bg-stone-300";
+    return "bg-stone";
   }
 }
 
@@ -77,7 +77,7 @@ function Bucket({ name, words, acceptWord, checkBucketStatus, className }) {
     <div className={className}>
       <h1 className="text-xl font-bold">{name}</h1>
       <div
-        className="flex flex-wrap content-start min-h-[200px] border-2 border-stone-400 bg-white rounded-md p-1"
+        className="flex flex-wrap content-start min-h-[200px] border-2 border-stone bg-white rounded-md p-1"
         ref={drop}
       >
         {words.map((word) => (

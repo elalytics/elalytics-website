@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+import stanfordColors from "./colors";
 module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,md,mdx}",
@@ -7,6 +8,13 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["var(--font-source-sans)"],
+        serif: ["var(--font-source-serif)"],
+      },
+      colors: {
+        ...stanfordColors,
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":

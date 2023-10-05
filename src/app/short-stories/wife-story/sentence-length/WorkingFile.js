@@ -43,7 +43,7 @@ export default function App() {
     <main>
       <div className="h-screen overflow-x-hidden bg-gray-100">
         <div className="my-8 text-center">
-          <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
+          <span className="px-4 py-1 bg-stone-dark rounded text-white inline-block mb-1 text-sm font-bold">
             The Wife&apos;s Story
           </span>
           <h1 className="text-3xl font-bold">Sentence Length Chart</h1>

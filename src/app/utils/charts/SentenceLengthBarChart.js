@@ -7,6 +7,10 @@ import annotationPlugin from "chartjs-plugin-annotation";
 import { split } from "sentence-splitter";
 import chroma from "chroma-js";
 import PropTypes, { shape } from "prop-types";
+import BookNameTag from "../components/BookNameTag";
+import ChartTitle from "../components/ChartTitle";
+import stanfordColors from "../styles/stanfordColors";
+import { barChartAxisTitle } from "../styles/chartjsDefaultStyles";
 
 const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
   const [chartData, setChartData] = useState();
@@ -100,7 +104,7 @@ const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
 
     let paragraphBarColor = (() => {
       let result = [];
-      let colors = ["#0C090D", "#3F7CAC"];
+      let colors = [stanfordColors["bright-blue"], stanfordColors["stone"]];
       sourceData.forEach((paragraph) => {
         if (Array.isArray(paragraph.lines)) {
           // Iterate through each line and push word counts
@@ -187,7 +191,6 @@ const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
                   );
                 },
                 title: function (context) {
-                  console.log(context);
                   return (
                     "Sentence " +
                       context[0].label +
@@ -212,11 +215,8 @@ const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
 
               beginAtZero: true,
               title: {
+                ...barChartAxisTitle,
                 display: true,
-                font: {
-                  size: "20px",
-                  weight: "bold",
-                },
                 text: yLabel,
               },
             },
@@ -225,11 +225,8 @@ const ChartComponent = ({ sourceData, showTooltip, xLabel, yLabel }) => {
               position: "top",
 
               title: {
+                ...barChartAxisTitle,
                 display: true,
-                font: {
-                  size: "20px",
-                  weight: "bold",
-                },
                 text: xLabel,
               },
             },
@@ -299,10 +296,8 @@ const SentenceLengthBarChart = ({
     <div>
       <div className="overflow-x-hidden">
         <div className="text-center">
-          <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
-            {bookName}
-          </span>
-          <h1 className="text-3xl font-bold">{chartTitle}</h1>
+          <BookNameTag bookName={bookName} />
+          <ChartTitle chartTitle={chartTitle} />
         </div>
         <div className=" m-auto">
           {showNote && (

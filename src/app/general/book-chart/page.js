@@ -37,7 +37,7 @@ export default function Home() {
             >
               Back
             </button>
-            <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
+            <span className="px-4 py-1 bg-stone-dark rounded text-white inline-block mb-1 text-sm font-bold">
               {bookTitle}
             </span>
             <div className="h-[calc(100%-10%)] w-screen">

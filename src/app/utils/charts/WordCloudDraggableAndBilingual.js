@@ -274,7 +274,7 @@ const WordCloudDraggableAndBilingual = ({
       <div className="text-center">
         <div className="my-4">
           {bookName && (
-            <span className="px-4 py-1 bg-stone-600 rounded text-white inline-block mb-1 text-sm font-bold">
+            <span className="px-4 py-1 bg-stone-dark rounded text-white inline-block mb-1 text-sm font-bold">
               {bookName || ""}
             </span>
           )}

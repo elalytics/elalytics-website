@@ -21,6 +21,7 @@
     "chartjs-plugin-annotation": "^3.0.1",
     "chroma-js": "^2.4.2",
     "d3": "^7.8.5",
+    "decanter": "^6.3.0",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "next": "13.4.9",
