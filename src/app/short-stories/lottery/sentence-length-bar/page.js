@@ -1,4 +1,4 @@
-import { getDataFromUrl } from "@/app/utils/functions/general-functions";
+import { getDataFromUrl } from "@/app/utils/functions/get-data-from-url";
 import SentenceLengthBarChart from "@/app/utils/charts/SentenceLengthBarChart";
 import data from "./data/lottery-story-text.json";
 
