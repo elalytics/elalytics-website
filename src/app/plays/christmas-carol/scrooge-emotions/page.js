@@ -14,8 +14,10 @@ export default function App() {
           Emotions of Scrooge
         </h1>
       </div>
-      <EmotionsLineChart data={data} />
-      <ValenceLineChart data={data} />
+      <div className="max-w-3xl m-auto flex flex-col gap-8 my-4">
+        <EmotionsLineChart data={data} />
+        <ValenceLineChart data={data} />
+      </div>
     </>
   );
 }
