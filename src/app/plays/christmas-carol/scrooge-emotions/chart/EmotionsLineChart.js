@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
+import colors from "../../../../../../colors";
 
 const EmotionsLineChart = (props) => {
   const [chartData, setChartData] = useState();
@@ -8,28 +9,68 @@ const EmotionsLineChart = (props) => {
   const chartInstance = useRef(null);
 
   useEffect(() => {
+    const angerImg = Object.assign(new Image(), {
+      src: "/imgs/angry-emoji.png",
+      width: 19,
+      height: 19,
+    });
+    const joyImg = Object.assign(new Image(), {
+      src: "/imgs/joy-emoji.png",
+      width: 20,
+      height: 20,
+    });
+    const sadImg = Object.assign(new Image(), {
+      src: "/imgs/sad-emoji.png",
+      width: 22,
+      height: 22,
+    });
+    const disgustImg = Object.assign(new Image(), {
+      src: "/imgs/disgust-emoji.png",
+      width: 20,
+      height: 20,
+    });
+    const shiftLabels = (data) => {
+      let labels = data.map((item) => item.actScene);
+      labels.unshift("");
+      labels.push("");
+      return labels;
+    };
+
+    const shiftChartValues = (data, emotion) => {
+      let labels = data.map((item) => item.emotion_scores[emotion]);
+      labels.unshift(null);
+      labels.push(null);
+      return labels;
+    };
     let data = {
-      labels: props.data.map((item) => item.actScene),
+      labels: shiftLabels(props.data),
       datasets: [
         {
           label: "Joy",
-          data: props.data.map((item) => item.emotion_scores.joy),
-          cubicInterpolationMode: "monotone",
+          data: shiftChartValues(props.data, "joy"),
+          pointStyle: joyImg,
+          borderWidth: 1,
+          borderColor: colors["sky"],
         },
         {
           label: "Sadness",
-          data: props.data.map((item) => item.emotion_scores.sadness),
-          cubicInterpolationMode: "monotone",
+          data: shiftChartValues(props.data, "sadness"),
+          pointStyle: sadImg,
+          borderWidth: 1,
+          borderColor: colors["stone"],
         },
-        {
-          label: "Disgust",
-          data: props.data.map((item) => item.emotion_scores.disgust),
-          cubicInterpolationMode: "monotone",
-        },
+        // {
+        //   label: "Disgust",
+        //   data: props.data.map((item) => item.emotion_scores.disgust),
+        //   pointStyle: disgustImg,
+        //   borderWidth: 1,
+        // },
         {
           label: "Anger",
-          data: props.data.map((item) => item.emotion_scores.anger),
-          cubicInterpolationMode: "monotone",
+          data: shiftChartValues(props.data, "anger"),
+          pointStyle: angerImg,
+          borderWidth: 1,
+          borderColor: colors["cardinal-red-light"],
         },
       ],
     };
@@ -48,6 +89,13 @@ const EmotionsLineChart = (props) => {
         type: "line",
         data: chartData,
         options: {
+          plugins: {
+            legend: {
+              labels: {
+                usePointStyle: true,
+              },
+            },
+          },
           scales: {
             y: {
               grace: "5%",
@@ -58,7 +106,6 @@ const EmotionsLineChart = (props) => {
               ticks: {
                 display: false,
               },
-              min: 0,
             },
             x: {},
           },
