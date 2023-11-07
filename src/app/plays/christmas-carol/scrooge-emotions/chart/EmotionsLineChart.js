@@ -13,22 +13,22 @@ const EmotionsLineChart = (props) => {
       datasets: [
         {
           label: "Joy",
-          data: props.data.map((item) => item.emotionWords.joy),
+          data: props.data.map((item) => item.emotion_scores.joy),
           cubicInterpolationMode: "monotone",
         },
         {
           label: "Sadness",
-          data: props.data.map((item) => item.emotionWords.sadness),
+          data: props.data.map((item) => item.emotion_scores.sadness),
           cubicInterpolationMode: "monotone",
         },
         {
           label: "Disgust",
-          data: props.data.map((item) => item.emotionWords.disgust),
+          data: props.data.map((item) => item.emotion_scores.disgust),
           cubicInterpolationMode: "monotone",
         },
         {
           label: "Anger",
-          data: props.data.map((item) => item.emotionWords.anger),
+          data: props.data.map((item) => item.emotion_scores.anger),
           cubicInterpolationMode: "monotone",
         },
       ],
