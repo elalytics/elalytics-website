@@ -16,16 +16,16 @@ export default function App() {
         </h1>
       </div>
       <div className="max-w-3xl m-auto flex flex-col gap-8 my-4">
-        <div>
+        {/* <div>
           <h3 className="text-2xl font-bold text-center">
             Using the NRC Emotion Lexicon
           </h3>
           <EmotionsLineChart data={data} />
-        </div>
+        </div> */}
         <div>
-          <h3 className="text-2xl font-bold text-center">
+          {/* <h3 className="text-2xl font-bold text-center">
             Using the BERT-based Emotion Classifier
-          </h3>
+          </h3> */}
           <EmotionsLineChart data={bertData} />
         </div>
         {/* <ValenceLineChart data={data} /> */}
