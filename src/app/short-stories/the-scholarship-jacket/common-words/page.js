@@ -25,6 +25,7 @@ export default function App() {
       wordCloudTitle="Common Words"
       wordsToRemove={wordsToRemoveData}
       categoriesToRemove={categoriesToRemoveData}
+      numberOfWords={50}
     />
   );
 }

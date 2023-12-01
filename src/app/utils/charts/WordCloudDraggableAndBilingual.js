@@ -266,6 +266,7 @@ const WordCloudDraggableAndBilingual = ({
   categoriesToRemove,
   showNote = true,
   customNoteText,
+  numberOfWords = null,
 }) => {
   const wordsToRemoveData = wordsToRemove || [];
   const categoriesToRemoveData = categoriesToRemove || [];
@@ -296,7 +297,8 @@ const WordCloudDraggableAndBilingual = ({
           data={filterWordCloudData(
             data,
             wordsToRemoveData,
-            categoriesToRemoveData
+            categoriesToRemoveData,
+            numberOfWords
           )}
           wordSizeMultiplier={wordSizeMultiplier || 1}
           scaleType={scaleType || "linear"}
@@ -323,6 +325,7 @@ const WordCloudDraggableAndBilingualProps = {
   customNoteText: PropTypes.string,
   wordSizeMultiplier: PropTypes.number,
   scaleType: PropTypes.oneOf(["linear", "log"]),
+  numberOfWords: PropTypes.number,
 };
 
 WordCloudDraggableAndBilingual.propTypes = WordCloudDraggableAndBilingualProps;
