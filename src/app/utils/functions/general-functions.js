@@ -18,7 +18,9 @@ function filterWordCloudData(
   }
 
   // Otherwise, return the top n elements
-  return filteredData.slice(0, numberOfWords);
+  let topNWords = filteredData.slice(0, numberOfWords);
+
+  return topNWords;
 }
 
 export { filterWordCloudData };

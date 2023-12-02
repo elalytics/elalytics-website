@@ -40,6 +40,7 @@ const ChartComponent = ({
   data,
   wordSizeMultiplier = 1,
   scaleType = "linear",
+  hideLegend,
 }) => {
   const [tooltip, showTooltip] = useState(true);
   const [chartDrawn, setChartDrawn] = useState(false);
@@ -61,7 +62,8 @@ const ChartComponent = ({
 
   useEffect(() => {
     drawWordCloud();
-    drawLegend();
+
+    !hideLegend && drawLegend();
     setChartDrawn(true);
   }, [data]);
 
@@ -267,6 +269,7 @@ const WordCloudDraggableAndBilingual = ({
   showNote = true,
   customNoteText,
   numberOfWords = null,
+  hideLegend = false,
 }) => {
   const wordsToRemoveData = wordsToRemove || [];
   const categoriesToRemoveData = categoriesToRemove || [];
@@ -302,6 +305,7 @@ const WordCloudDraggableAndBilingual = ({
           )}
           wordSizeMultiplier={wordSizeMultiplier || 1}
           scaleType={scaleType || "linear"}
+          hideLegend={hideLegend}
         />
       </div>
     </div>
@@ -326,6 +330,7 @@ const WordCloudDraggableAndBilingualProps = {
   wordSizeMultiplier: PropTypes.number,
   scaleType: PropTypes.oneOf(["linear", "log"]),
   numberOfWords: PropTypes.number,
+  hideLegend: PropTypes.bool,
 };
 
 WordCloudDraggableAndBilingual.propTypes = WordCloudDraggableAndBilingualProps;
