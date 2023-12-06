@@ -1,8 +1,8 @@
-import data from "@/app/data-processing/src/book_projects/the_scholarship_jacket/data/wordcloud.json";
+import data from "@/app/data-processing/src/book_projects/smart_ice_cream/data/wordcloud.json";
 import WordCloudDraggableAndBilingual from "@/app/utils/charts/WordCloudDraggableAndBilingual";
 
 export const metadata = {
-  title: `Common Words Wordcloud | The Scholarship Jacket | Elalytics`,
+  title: `Word Frequency | Smart Ice-Cream | Elalytics`,
 };
 
 export default function App() {
@@ -16,16 +16,14 @@ export default function App() {
     "Preposition",
     "Determiner",
     "Modal",
-    "Wh-Pronoun",
   ];
   return (
     <WordCloudDraggableAndBilingual
       data={data}
-      bookName="The Scholarship Jacket"
-      wordCloudTitle="Common Words"
+      bookName="Smart Ice-Cream"
+      wordCloudTitle="Word Frequency"
       wordsToRemove={wordsToRemoveData}
       categoriesToRemove={categoriesToRemoveData}
-      numberOfWords={50}
     />
   );
 }

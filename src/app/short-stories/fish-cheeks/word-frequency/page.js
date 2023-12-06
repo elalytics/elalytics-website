@@ -2,7 +2,7 @@ import data from "@/app/data-processing/src/book_projects/fish_cheeks/data/wordc
 import WordCloudDraggableAndBilingual from "@/app/utils/charts/WordCloudDraggableAndBilingual";
 
 export const metadata = {
-  title: `Common Words Wordcloud | Fish Cheeks | Elalytics`,
+  title: `Word Frequency | Fish Cheeks | Elalytics`,
 };
 
 export default function App() {
@@ -22,7 +22,7 @@ export default function App() {
     <WordCloudDraggableAndBilingual
       data={data}
       bookName="Fish Cheeks"
-      wordCloudTitle="Common Words"
+      wordCloudTitle="Word Frequency"
       wordsToRemove={wordsToRemoveData}
       categoriesToRemove={categoriesToRemoveData}
       numberOfWords={50}

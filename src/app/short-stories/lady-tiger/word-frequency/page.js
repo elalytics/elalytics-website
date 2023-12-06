@@ -12,7 +12,7 @@ export default function App() {
     <WordCloudDraggableAndBilingual
       data={data}
       bookName="The Lady, or the Tiger?"
-      wordCloudTitle="Common Words"
+      wordCloudTitle="Word Frequency"
       wordsToRemove={wordsToRemoveData}
       categoriesToRemove={categoriesToRemoveData}
     />
