@@ -19,7 +19,7 @@ const QuotedWordsBarChart = (props) => {
     if (frequency === 2) {
       return colors["digital-red"];
     }
-    if (frequency === 3) {
+    if (frequency >= 3) {
       return colors["digital-red-dark"];
     }
   }

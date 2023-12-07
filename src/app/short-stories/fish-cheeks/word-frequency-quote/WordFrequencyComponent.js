@@ -54,18 +54,21 @@ const WordFrequencyComponent = () => {
 export default WordFrequencyComponent;
 
 const QuoteComponent = ({ children }) => {
-  return <span className="text-blue-500">{children}</span>;
+  return <span className="text-gray-400">{children}</span>;
 };
 
 const WordComponent = ({ word }) => {
   const cleanedWord = word.replace(/[.,“”]/g, "");
-  const wordData = wordFrequencyData.find((item) => item.word === cleanedWord);
+  let lowerCaseWord = cleanedWord.toLowerCase();
+  const wordData = wordFrequencyData.find(
+    (item) => item.word === lowerCaseWord
+  );
   const frequency = wordData ? wordData.frequency : 0;
 
   let textColor = "text-gray-500";
   let fontWeight = "font-light";
   if (frequency === 0) {
-    textColor = "text-gray-100";
+    textColor = "inherit";
   }
   if (frequency === 1) {
     textColor = "text-digital-red-light";
@@ -75,7 +78,7 @@ const WordComponent = ({ word }) => {
     textColor = "text-digital-red";
     fontWeight = "font-medium";
   }
-  if (frequency === 3) {
+  if (frequency >= 3) {
     textColor = "text-digital-red-dark";
     fontWeight = "font-black";
   }
@@ -83,7 +86,7 @@ const WordComponent = ({ word }) => {
   return (
     <span
       className={`${textColor} ${fontWeight} text-3xl`}
-      data-tooltip-id="quoted-word"
+      data-tooltip-id={frequency > 0 && `quoted-word`}
       data-tooltip-content={`Frequency: ${frequency}`}
     >
       {word}
