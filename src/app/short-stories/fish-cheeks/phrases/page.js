@@ -20,14 +20,14 @@ export default function App() {
         categoriesToRemove={categoriesToRemoveData}
         hideLegend={true}
       />
-      <WordCloudDraggableAndBilingual
+      {/* <WordCloudDraggableAndBilingual
         data={data_3_word}
         wordCloudTitle="Common 3 Word Phrases"
         customNoteText="Drag the phrases to different positions and see if you can make any new insights!"
         wordsToRemove={wordsToRemoveData}
         categoriesToRemove={categoriesToRemoveData}
         hideLegend={true}
-      />
+      /> */}
     </div>
   );
 }
