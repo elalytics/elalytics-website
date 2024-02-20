@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+:root {
+  --font-source-sans: "Source Sans Pro", sans-serif;
+  --font-source-serif: "Source Serif Pro", serif;
+}

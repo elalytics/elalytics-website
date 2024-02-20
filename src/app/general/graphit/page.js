@@ -1,9 +1,10 @@
-import DraggableDynamicChart from "./components/DraggableDynamicChart";
+import CreateGraphIt from "./components/CreateGraphIt";
 
 const Page = () => {
   return (
     <div>
-      <DraggableDynamicChart />
+      <h1>Graphit</h1>
+      <CreateGraphIt />
     </div>
   );
 };

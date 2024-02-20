@@ -3,20 +3,22 @@
 import { Chart } from "chart.js/auto";
 import dragData from "chartjs-plugin-dragdata";
 import { useEffect, useRef, useState } from "react";
+import DataEditor from "./DataEditor";
 
-const DraggableDynamicChart = () => {
+const DraggableDynamicChart = ({
+  data,
+  IsEditMode,
+  yRange,
+  graphItId,
+  graphTitle,
+}) => {
   const chartContainer = useRef(null);
   const chartInstance = useRef(null);
-  const [consolidatedData, setConsolidatedData] = useState([
-    { label: "Red", value: 0 },
-    { label: "Blue", value: 0 },
-    { label: "Yellow", value: 0 },
-    { label: "Green", value: 0 },
-    { label: "Purple", value: 0 },
-    { label: "Orange", value: 0 },
-  ]);
+  const [consolidatedData, setConsolidatedData] = useState(data);
   const [labels, setLabels] = useState([]);
   const [dataPoints, setDataPoints] = useState([]);
+  const [yRangeState, setYRange] = useState(yRange);
+  const [graphTitleState, setGraphTitle] = useState(graphTitle);
   Chart.register(dragData);
   useEffect(() => {
     const labels = consolidatedData.map((item) => item.label);
@@ -67,7 +69,8 @@ const DraggableDynamicChart = () => {
           scales: {
             y: {
               beginAtZero: true,
-              max: 100,
+              min: yRangeState.min,
+              max: yRangeState.max,
             },
           },
           responsive: true,
@@ -75,130 +78,33 @@ const DraggableDynamicChart = () => {
         },
       });
     }
-  }, [chartContainer, labels, dataPoints, consolidatedData]);
+  }, [chartContainer, labels, dataPoints, consolidatedData, yRangeState]);
   return (
-    <div className="flex w-full">
-      <div className="w-2/4">
-        <canvas ref={chartContainer} />
+    <div className="flex w-full h-screen">
+      <div className={`${IsEditMode ? "w-2/4" : "w-full"} h-screen`}>
+        <div className="max-h-[500px] h-screen max-w-6xl m-auto p-10">
+          <h1 className="text-3xl text-center">{graphTitleState}</h1>
+          <canvas ref={chartContainer} />
+        </div>
       </div>
-      <div className="w-2/4">
-        <LabelEditor
-          consolidatedData={consolidatedData}
-          updateConsolidatedData={setConsolidatedData}
-        />
-      </div>
+      {
+        // if edit mode is enabled, show the label editor
+        IsEditMode && (
+          <div className="w-2/4">
+            <DataEditor
+              data={consolidatedData}
+              setData={setConsolidatedData}
+              title={graphTitleState}
+              setTitle={setGraphTitle}
+              yRange={yRangeState}
+              setYRange={setYRange}
+              graphItId={graphItId}
+            />
+          </div>
+        )
+      }
     </div>
   );
 };
 
 export default DraggableDynamicChart;
-
-const LabelEditor = ({ consolidatedData, updateConsolidatedData }) => {
-  // table like component to edit and add new labels
-  const [data, setData] = useState(consolidatedData);
-  const [newDataPoint, setNewDataPoint] = useState({ label: "", value: 0 });
-  const moveRow = (index, direction) => {
-    const newData = [...data];
-    const temp = newData[index];
-    newData[index] = newData[index + direction];
-    newData[index + direction] = temp;
-    setData(newData);
-  };
-  return (
-    <div>
-      <table>
-        <thead>
-          <tr>
-            <th>Label</th>
-            <th>Actions</th>
-          </tr>
-        </thead>
-        <tbody>
-          {data.map((item, index) => {
-            return (
-              <tr key={index}>
-                <td>
-                  <input
-                    type="text"
-                    value={item.label}
-                    onChange={(e) => {
-                      const newData = [...data];
-                      newData[index].label = e.target.value;
-                      setData(newData);
-                    }}
-                  />
-                </td>
-                <td>
-                  <input
-                    type="number"
-                    value={item.value}
-                    onChange={(e) => {
-                      const newData = [...data];
-                      newData[index].value = e.target.value;
-                      setData(newData);
-                    }}
-                  />
-                </td>
-                <td>
-                  <button
-                    onClick={() => {
-                      setData([
-                        ...data.slice(0, index),
-                        ...data.slice(index + 1),
-                      ]);
-                    }}
-                  >
-                    Delete
-                  </button>
-                  {index > 0 && (
-                    <button onClick={() => moveRow(index, -1)}>Move Up</button>
-                  )}
-                  {index < data.length - 1 && (
-                    <button onClick={() => moveRow(index, 1)}>Move Down</button>
-                  )}
-                </td>
-              </tr>
-            );
-          })}
-          <tr>
-            <td>
-              <input
-                type="text"
-                value={newDataPoint.label}
-                onChange={(e) => {
-                  setNewDataPoint({ ...newDataPoint, label: e.target.value });
-                }}
-              />
-            </td>
-            <td>
-              <input
-                type="number"
-                value={newDataPoint.value}
-                onChange={(e) => {
-                  setNewDataPoint({ ...newDataPoint, value: e.target.value });
-                }}
-              />
-            </td>
-            <td>
-              <button
-                onClick={() => {
-                  setData([...data, newDataPoint]);
-                  setNewDataPoint({ label: "", value: 0 });
-                }}
-              >
-                Add
-              </button>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <button
-        onClick={() => {
-          updateConsolidatedData(data);
-        }}
-      >
-        Update
-      </button>
-    </div>
-  );
-};
