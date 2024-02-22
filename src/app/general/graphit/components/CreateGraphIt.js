@@ -50,7 +50,7 @@ const CreateGraphIt = () => {
     });
 
     // Redirect to the new page
-    router.push(`/general/graphit/create/${graphItInstanceId}`);
+    router.push(`/general/graphit/admin/${graphItInstanceId}`);
   };
 
   const handleCreate = async () => {

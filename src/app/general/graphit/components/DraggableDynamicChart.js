@@ -80,8 +80,8 @@ const DraggableDynamicChart = ({
     }
   }, [chartContainer, labels, dataPoints, consolidatedData, yRangeState]);
   return (
-    <div className="flex w-full h-screen">
-      <div className={`${IsEditMode ? "w-2/4" : "w-full"} h-screen`}>
+    <div className="flex w-full" style={{ height: "calc(100vh - 105px)" }}>
+      <div className={`${IsEditMode ? "w-2/4" : "w-full"}`}>
         <div className="max-h-[500px] h-screen max-w-6xl m-auto p-10">
           <h1 className="text-3xl text-center">{graphTitleState}</h1>
           <canvas ref={chartContainer} />
@@ -90,7 +90,7 @@ const DraggableDynamicChart = ({
       {
         // if edit mode is enabled, show the label editor
         IsEditMode && (
-          <div className="w-2/4">
+          <div className="w-2/4 p-4 bg-black-10 overflow-y-scroll">
             <DataEditor
               data={consolidatedData}
               setData={setConsolidatedData}

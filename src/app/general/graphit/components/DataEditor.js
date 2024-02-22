@@ -31,6 +31,7 @@ const DataEditor = ({
         updateConsolidatedData={setData}
         graphItId={graphItId}
       />
+      <ShareChart graphItId={graphItId} />
     </div>
   );
 };
@@ -262,6 +263,25 @@ const LabelEditor = ({
       >
         Update
       </button>
+    </div>
+  );
+};
+
+const ShareChart = ({ graphItId }) => {
+  return (
+    <div className="border-solid border-2 border-sky-500 p-2 rounded bg-black-30">
+      <h2 className="text-2xl">Share Chart</h2>
+      <div>
+        <h6 className="font-bold">User Link</h6>
+        <p className="p-2 bg-black-10 border-solid border-2 border-black-40 rounded">
+          {`${window.location.origin}/general/graphit/${graphItId}`}{" "}
+        </p>
+      </div>
+      <div>
+        <h6 className="font-bold">Admin Link</h6>
+        <p className="p-2 bg-black-10 border-solid border-2 border-black-40 rounded">{`${window.location.origin}/general/graphit/admin/${graphItId}`}</p>
+      </div>
+      <div></div>
     </div>
   );
 };
