@@ -4,6 +4,7 @@ import { Chart } from "chart.js/auto";
 import dragData from "chartjs-plugin-dragdata";
 import { useEffect, useRef, useState } from "react";
 import DataEditor from "./DataEditor";
+import { barChartAxisTitle } from "@/app/utils/styles/chartjsDefaultStyles";
 
 const DraggableDynamicChart = ({
   data,
@@ -11,6 +12,8 @@ const DraggableDynamicChart = ({
   yRange,
   graphItId,
   graphTitle,
+  yTitle,
+  xTitle,
 }) => {
   const chartContainer = useRef(null);
   const chartInstance = useRef(null);
@@ -19,6 +22,8 @@ const DraggableDynamicChart = ({
   const [dataPoints, setDataPoints] = useState([]);
   const [yRangeState, setYRange] = useState(yRange);
   const [graphTitleState, setGraphTitle] = useState(graphTitle);
+  const [yTitleState, setYTitle] = useState(yTitle);
+  const [xTitleState, setXTitle] = useState(xTitle);
   Chart.register(dragData);
   useEffect(() => {
     const labels = consolidatedData.map((item) => item.label);
@@ -71,6 +76,18 @@ const DraggableDynamicChart = ({
               beginAtZero: true,
               min: yRangeState.min,
               max: yRangeState.max,
+              title: {
+                display: true,
+                text: yTitleState,
+                ...barChartAxisTitle,
+              },
+            },
+            x: {
+              title: {
+                display: true,
+                text: xTitleState,
+                ...barChartAxisTitle,
+              },
             },
           },
           responsive: true,
@@ -78,7 +95,15 @@ const DraggableDynamicChart = ({
         },
       });
     }
-  }, [chartContainer, labels, dataPoints, consolidatedData, yRangeState]);
+  }, [
+    chartContainer,
+    labels,
+    dataPoints,
+    consolidatedData,
+    yRangeState,
+    yTitleState,
+    xTitleState,
+  ]);
   return (
     <div className="flex w-full" style={{ height: "calc(100vh - 105px)" }}>
       <div className={`${IsEditMode ? "w-2/4" : "w-full"}`}>
@@ -90,12 +115,16 @@ const DraggableDynamicChart = ({
       {
         // if edit mode is enabled, show the label editor
         IsEditMode && (
-          <div className="w-2/4 p-4 bg-black-10 overflow-y-scroll">
+          <div className="w-2/4 p-4 bg-slate-200 overflow-y-scroll">
             <DataEditor
               data={consolidatedData}
               setData={setConsolidatedData}
               title={graphTitleState}
               setTitle={setGraphTitle}
+              yTitle={yTitleState}
+              setYTitle={setYTitle}
+              xTitle={xTitleState}
+              setXTitle={setXTitle}
               yRange={yRangeState}
               setYRange={setYRange}
               graphItId={graphItId}

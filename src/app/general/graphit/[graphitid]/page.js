@@ -13,9 +13,13 @@ async function getGraphitData(id) {
   }
 }
 
-export const metadata = {
-  title: `GraphIt | Elalytics`,
-};
+export async function generateMetadata({ params }) {
+  const firestoreData = await getGraphitData(params.graphitid);
+  const title = firestoreData.title;
+  return {
+    title: `${title} | GraphIt | Elalytics`,
+  };
+}
 
 export default async function Page({ params }) {
   const firestoreData = await getGraphitData(params.graphitid);
@@ -24,6 +28,8 @@ export default async function Page({ params }) {
   });
   const title = firestoreData.title;
   const yRange = firestoreData.yRange;
+  const xTitle = firestoreData.xTitle ? firestoreData.xTitle : "";
+  const yTitle = firestoreData.yTitle ? firestoreData.yTitle : "";
   const graphItInstanceId = params.graphitid;
 
   return (
@@ -34,6 +40,8 @@ export default async function Page({ params }) {
         yRange={yRange}
         graphTitle={title}
         graphItId={graphItInstanceId}
+        yTitle={yTitle}
+        xTitle={xTitle}
       />
     </div>
   );

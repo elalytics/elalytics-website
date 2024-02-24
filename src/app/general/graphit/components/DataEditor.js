@@ -14,28 +14,64 @@ const DataEditor = ({
   setData,
   title,
   setTitle,
+  yTitle,
+  setYTitle,
+  xTitle,
+  setXTitle,
   yRange,
   setYRange,
   graphItId,
 }) => {
   return (
-    <div>
-      <TitleEditor title={title} updateTitle={setTitle} graphItId={graphItId} />
-      <RangeEditor
-        yRange={yRange}
-        updateYRange={setYRange}
-        graphItId={graphItId}
-      />
-      <LabelEditor
-        consolidatedData={data}
-        updateConsolidatedData={setData}
-        graphItId={graphItId}
-      />
-      <ShareChart graphItId={graphItId} />
+    <div className="flex flex-col gap-10">
+      <div>
+        <TitleEditor
+          title={title}
+          updateTitle={setTitle}
+          graphItId={graphItId}
+        />
+      </div>
+      <div>
+        <SubHeading>Y Axis</SubHeading>
+        <YTitleEditor
+          yTitle={yTitle}
+          updateYTitle={setYTitle}
+          graphItId={graphItId}
+        />
+        <RangeEditor
+          yRange={yRange}
+          updateYRange={setYRange}
+          graphItId={graphItId}
+        />
+      </div>
+      <div>
+        <SubHeading>X Axis</SubHeading>
+        <XTitleEditor
+          xTitle={xTitle}
+          updateXTitle={setXTitle}
+          graphItId={graphItId}
+        />
+        <LabelEditor
+          consolidatedData={data}
+          updateConsolidatedData={setData}
+          graphItId={graphItId}
+        />
+      </div>
+      <div>
+        <ShareChart graphItId={graphItId} />
+      </div>
     </div>
   );
 };
 export default DataEditor;
+
+const SubHeading = ({ children }) => {
+  return <h2 className="text-2xl">{children}</h2>;
+};
+
+const SubSubHeading = ({ children }) => {
+  return <h5 className="font-semibold">{children}</h5>;
+};
 
 const TitleEditor = ({ title, updateTitle, graphItId }) => {
   const [titleState, setTitle] = useState(title);
@@ -51,8 +87,9 @@ const TitleEditor = ({ title, updateTitle, graphItId }) => {
   }
   return (
     <div>
-      <h5>Graph Title</h5>
+      <SubSubHeading>Graph Title</SubSubHeading>
       <input
+        className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
         type="text"
         value={titleState}
         onChange={(e) => {
@@ -64,7 +101,79 @@ const TitleEditor = ({ title, updateTitle, graphItId }) => {
           updateTitle(titleState);
           updateTitleFirestore(titleState);
         }}
-        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mt-4"
+        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+      >
+        Update
+      </button>
+    </div>
+  );
+};
+
+const YTitleEditor = ({ yTitle, updateYTitle, graphItId }) => {
+  const [titleState, setTitle] = useState(yTitle);
+  async function updateYTitleFirestore(title) {
+    const graphRef = doc(collection(db, "graphit"), graphItId);
+    await setDoc(
+      graphRef,
+      {
+        yTitle: title,
+      },
+      { merge: true }
+    );
+  }
+  return (
+    <div>
+      <SubSubHeading>Y Axis Title</SubSubHeading>
+      <input
+        className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
+        type="text"
+        value={titleState}
+        onChange={(e) => {
+          setTitle(e.target.value);
+        }}
+      />
+      <button
+        onClick={() => {
+          updateYTitle(titleState);
+          updateYTitleFirestore(titleState);
+        }}
+        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+      >
+        Update
+      </button>
+    </div>
+  );
+};
+
+const XTitleEditor = ({ xTitle, updateXTitle, graphItId }) => {
+  const [titleState, setTitle] = useState(xTitle);
+  async function updateXTitleFirestore(title) {
+    const graphRef = doc(collection(db, "graphit"), graphItId);
+    await setDoc(
+      graphRef,
+      {
+        xTitle: title,
+      },
+      { merge: true }
+    );
+  }
+  return (
+    <div>
+      <SubSubHeading>X Axis Title</SubSubHeading>
+      <input
+        className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
+        type="text"
+        value={titleState}
+        onChange={(e) => {
+          setTitle(e.target.value);
+        }}
+      />
+      <button
+        onClick={() => {
+          updateXTitle(titleState);
+          updateXTitleFirestore(titleState);
+        }}
+        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
       >
         Update
       </button>
@@ -86,9 +195,10 @@ const RangeEditor = ({ yRange, updateYRange, graphItId }) => {
   }
   return (
     <div>
-      <h5>Y Range</h5>
+      <SubSubHeading>Y Range</SubSubHeading>
       <input
         type="number"
+        className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
         value={yRangeState.min}
         onChange={(e) => {
           setYRange({ ...yRangeState, min: Math.floor(e.target.value) });
@@ -96,6 +206,7 @@ const RangeEditor = ({ yRange, updateYRange, graphItId }) => {
       />
       <input
         type="number"
+        className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
         value={yRangeState.max}
         onChange={(e) => {
           setYRange({ ...yRangeState, max: Math.floor(e.target.value) });
@@ -106,7 +217,7 @@ const RangeEditor = ({ yRange, updateYRange, graphItId }) => {
           updateYRange(yRangeState);
           updateYRangeFirestore(yRangeState);
         }}
-        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mt-4"
+        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
       >
         Update
       </button>
@@ -145,15 +256,15 @@ const LabelEditor = ({
     }, 0);
     setTimeout(() => {
       setMovingRowIndex(null);
-    }, 300); // Reset after the same duration as your transition
+    }, 500); // Reset after the same duration as your transition
   };
   return (
     <div className="font-sans">
-      <table>
+      <table className="border-separate border-spacing-y-1">
         <thead>
-          <tr>
-            <th>Label</th>
-            <th>Actions</th>
+          <tr className="text-left">
+            <th>X Label</th>
+            <th>Value</th>
           </tr>
         </thead>
         <tbody>
@@ -161,10 +272,13 @@ const LabelEditor = ({
             return (
               <tr
                 key={index}
-                className={index === movingRowIndex ? "bg-yellow-400" : ""}
+                className={`${
+                  index === movingRowIndex ? "bg-yellow-400" : "bg-black-20"
+                } p-2 rounded`}
               >
-                <td>
+                <td className="p-1">
                   <input
+                    className="border-solid border-2 border-black-40 p-1 mr-1 rounded"
                     type="text"
                     value={item.label}
                     onChange={(e) => {
@@ -177,6 +291,7 @@ const LabelEditor = ({
                 <td>
                   <input
                     type="number"
+                    className="border-solid border-2 border-black-40 p-1 mr-1 rounded"
                     value={item.value}
                     onChange={(e) => {
                       const newData = [...data];
@@ -223,6 +338,7 @@ const LabelEditor = ({
             <td>
               <input
                 type="text"
+                className="border-solid border-2 border-black-40 p-1 mr-1 rounded"
                 value={newDataPoint.label}
                 onChange={(e) => {
                   setNewDataPoint({ ...newDataPoint, label: e.target.value });
@@ -232,6 +348,7 @@ const LabelEditor = ({
             <td>
               <input
                 type="number"
+                className="border-solid border-2 border-black-40 p-1 mr-1 rounded"
                 value={newDataPoint.value}
                 onChange={(e) => {
                   setNewDataPoint({ ...newDataPoint, value: e.target.value });
@@ -259,7 +376,7 @@ const LabelEditor = ({
           updateConsolidatedData(data);
           updateConsolidatedDataFirestore(data);
         }}
-        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mt-4"
+        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
       >
         Update
       </button>
@@ -269,17 +386,17 @@ const LabelEditor = ({
 
 const ShareChart = ({ graphItId }) => {
   return (
-    <div className="border-solid border-2 border-sky-500 p-2 rounded bg-black-30">
+    <div className="border-solid border-2 border-sky-500 p-2 rounded bg-slate-300">
       <h2 className="text-2xl">Share Chart</h2>
       <div>
         <h6 className="font-bold">User Link</h6>
-        <p className="p-2 bg-black-10 border-solid border-2 border-black-40 rounded">
+        <p className="p-2 bg-slate-100 border-solid border-2 border-slate-400 rounded">
           {`${window.location.origin}/general/graphit/${graphItId}`}{" "}
         </p>
       </div>
       <div>
         <h6 className="font-bold">Admin Link</h6>
-        <p className="p-2 bg-black-10 border-solid border-2 border-black-40 rounded">{`${window.location.origin}/general/graphit/admin/${graphItId}`}</p>
+        <p className="p-2 bg-slate-100 border-solid border-2 border-slate-400 rounded">{`${window.location.origin}/general/graphit/admin/${graphItId}`}</p>
       </div>
       <div></div>
     </div>

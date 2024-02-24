@@ -11,7 +11,6 @@ const CreateGraphIt = () => {
   const [loading, setLoading] = useState(false);
 
   const createGraphIt = async () => {
-    console.log("Creating GraphIt");
     setLoading(true);
     let graphItInstanceId;
     let graphRef;
@@ -36,12 +35,12 @@ const CreateGraphIt = () => {
     await setDoc(graphRef, {
       title: "Graph Title",
       data: [
-        { label: "Label 1", value: 0 },
-        { label: "Label 2", value: 0 },
-        { label: "Label 3", value: 0 },
-        { label: "Label 4", value: 0 },
-        { label: "Label 5", value: 0 },
-        { label: "Label 6", value: 0 },
+        { label: "Label 1", value: 10 },
+        { label: "Label 2", value: 10 },
+        { label: "Label 3", value: 10 },
+        { label: "Label 4", value: 10 },
+        { label: "Label 5", value: 10 },
+        { label: "Label 6", value: 10 },
       ],
       yRange: {
         min: 0,
@@ -60,12 +59,11 @@ const CreateGraphIt = () => {
 
   return (
     <div>
-      <h1>Create GraphIt</h1>
       <button
         className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mt-4"
         onClick={handleCreate}
       >
-        Create
+        Create DIY Graph
       </button>
       {loading && <p>Creating... This might take a minute...</p>}
     </div>
