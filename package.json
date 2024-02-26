@@ -27,6 +27,7 @@
     "eslint-config-next": "13.4.9",
     "fingerprintjs2": "^2.1.4",
     "firebase": "^10.7.1",
+    "html2canvas": "^1.4.1",
     "next": "13.4.9",
     "postcss": "8.4.26",
     "prop-types": "^15.8.1",

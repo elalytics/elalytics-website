@@ -5,6 +5,19 @@ import dragData from "chartjs-plugin-dragdata";
 import { useEffect, useRef, useState } from "react";
 import DataEditor from "./DataEditor";
 import { barChartAxisTitle } from "@/app/utils/styles/chartjsDefaultStyles";
+import html2canvas from "html2canvas";
+
+async function downloadImage() {
+  const chartContainer = document.getElementById("chart-container");
+  const canvas = await html2canvas(chartContainer);
+  const imgData = canvas.toDataURL("image/jpeg");
+  const link = document.createElement("a");
+  link.href = imgData;
+  link.download = "chart.jpeg";
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+}
 
 const DraggableDynamicChart = ({
   data,
@@ -107,9 +120,20 @@ const DraggableDynamicChart = ({
   return (
     <div className="flex w-full" style={{ height: "calc(100vh - 105px)" }}>
       <div className={`${IsEditMode ? "w-2/4" : "w-full"}`}>
-        <div className="max-h-[500px] h-screen max-w-6xl m-auto p-10">
+        <div
+          id="chart-container"
+          className="aspect-[4/3] max-h-[500px] h-screen max-w-6xl m-auto pt-2 pb-10 pl-4 pr-4 mt-6"
+        >
           <h1 className="text-3xl text-center">{graphTitleState}</h1>
           <canvas ref={chartContainer} />
+        </div>
+        <div className="flex justify-center items-center">
+          <button
+            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+            onClick={downloadImage}
+          >
+            Download Chart
+          </button>
         </div>
       </div>
       {
