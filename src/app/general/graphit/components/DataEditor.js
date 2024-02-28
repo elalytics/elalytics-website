@@ -4,10 +4,12 @@ import {
   faUpLong,
   faDownLong,
   faCirclePlus,
+  faInfoCircle,
 } from "@fortawesome/free-solid-svg-icons";
 import { useState } from "react";
 import { getDoc, setDoc, doc, collection } from "firebase/firestore";
 import db from "@/app/utils/firebaseApp";
+import { Tooltip } from "react-tooltip";
 
 const DataEditor = ({
   data,
@@ -72,6 +74,20 @@ const SubHeading = ({ children }) => {
 const SubSubHeading = ({ children }) => {
   return <h5 className="font-semibold">{children}</h5>;
 };
+const TooltipInfo = ({ id, content }) => {
+  return (
+    <div className="flex items-center">
+      <FontAwesomeIcon
+        className="text-black-50 hover:text-black-80 px-1"
+        icon={faInfoCircle}
+        data-tooltip-id={id}
+      />
+      <Tooltip id={id} place="top" effect="solid">
+        <div className="max-w-lg">{content}</div>
+      </Tooltip>
+    </div>
+  );
+};
 
 const TitleEditor = ({ title, updateTitle, graphItId }) => {
   const [titleState, setTitle] = useState(title);
@@ -87,7 +103,15 @@ const TitleEditor = ({ title, updateTitle, graphItId }) => {
   }
   return (
     <div>
-      <SubSubHeading>Graph Title</SubSubHeading>
+      <div className="flex">
+        <SubSubHeading>Graph Title</SubSubHeading>
+        <TooltipInfo
+          id="graph-title"
+          content={
+            "The title of the graph. This will be displayed at the top of the graph."
+          }
+        />
+      </div>
       <input
         className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
         type="text"
@@ -123,7 +147,15 @@ const YTitleEditor = ({ yTitle, updateYTitle, graphItId }) => {
   }
   return (
     <div>
-      <SubSubHeading>Y Axis Title</SubSubHeading>
+      <div className="flex">
+        <SubSubHeading>Y Axis Title</SubSubHeading>
+        <TooltipInfo
+          id="y-title"
+          content={
+            "The title of the Y axis. This will be displayed on the left side of the chart next to the Y axis of the graph."
+          }
+        />
+      </div>
       <input
         className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
         type="text"
@@ -159,7 +191,15 @@ const XTitleEditor = ({ xTitle, updateXTitle, graphItId }) => {
   }
   return (
     <div>
-      <SubSubHeading>X Axis Title</SubSubHeading>
+      <div className="flex">
+        <SubSubHeading>X Axis Title</SubSubHeading>
+        <TooltipInfo
+          id="x-title"
+          content={
+            "The title of the X axis. This will be displayed on the bottom of the chart beneath the X axis of the graph."
+          }
+        />
+      </div>
       <input
         className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
         type="text"
@@ -195,7 +235,15 @@ const RangeEditor = ({ yRange, updateYRange, graphItId }) => {
   }
   return (
     <div>
-      <SubSubHeading>Y Range</SubSubHeading>
+      <div className="flex">
+        <SubSubHeading>Y Range</SubSubHeading>
+        <TooltipInfo
+          id="y-range"
+          content={
+            "The range of the Y axis. Enter the minimum (left) and maximum (right) values for the Y axis."
+          }
+        />
+      </div>
       <input
         type="number"
         className="border-solid border-2 border-black-40 p-2 mr-2 rounded"
@@ -263,8 +311,28 @@ const LabelEditor = ({
       <table className="border-separate border-spacing-y-1">
         <thead>
           <tr className="text-left">
-            <th>X Label</th>
-            <th>Value</th>
+            <th>
+              <div className="flex">
+                X Datapoint Labels
+                <TooltipInfo
+                  id="x-label"
+                  content={
+                    "The label for the datapoints to be plotted on the X axis."
+                  }
+                />
+              </div>
+            </th>
+            <th>
+              <div className="flex">
+                Value
+                <TooltipInfo
+                  id="value"
+                  content={
+                    "The value for the datapoints to be plotted on the Y axis. These values do not reflect on the graph shared with the users."
+                  }
+                />
+              </div>
+            </th>
           </tr>
         </thead>
         <tbody>
@@ -389,13 +457,31 @@ const ShareChart = ({ graphItId }) => {
     <div className="border-solid border-2 border-sky-500 p-2 rounded bg-slate-300">
       <h2 className="text-2xl">Share Chart</h2>
       <div>
-        <h6 className="font-bold">User Link</h6>
+        <h6 className="font-bold">
+          <div className="flex">
+            User Link
+            <TooltipInfo
+              id="user-link"
+              content={
+                "The link to the graph that you can share with users. This link will display the graph without the ability to edit the graph."
+              }
+            />
+          </div>
+        </h6>
         <p className="p-2 bg-slate-100 border-solid border-2 border-slate-400 rounded">
           {`${window.location.origin}/general/graphit/${graphItId}`}{" "}
         </p>
       </div>
       <div>
-        <h6 className="font-bold">Admin Link</h6>
+        <h6 className="font-bold">
+          <div className="flex">
+            Admin Link
+            <TooltipInfo
+              id="admin-link"
+              content="Save this link to edit the graph later. This link will allow you to edit the graph."
+            />
+          </div>
+        </h6>
         <p className="p-2 bg-slate-100 border-solid border-2 border-slate-400 rounded">{`${window.location.origin}/general/graphit/admin/${graphItId}`}</p>
       </div>
       <div></div>
