@@ -9,7 +9,13 @@ const CharacterCountChart = (props) => {
   const chartInstance = useRef(null);
 
   useEffect(() => {
-    setChartData(props.data);
+    let data = props.data;
+    data.datasets.forEach((dataset) => {
+      console.log(dataset);
+      dataset.stack = "Stack 0";
+    });
+
+    setChartData(data);
   }, [props.data]);
 
   useEffect(() => {
