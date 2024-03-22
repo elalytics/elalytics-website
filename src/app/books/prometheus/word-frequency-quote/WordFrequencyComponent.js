@@ -105,7 +105,7 @@ const WordComponent = ({ word, character }) => {
         fontWeight: "100",
       }}
       data-tooltip-id={frequency > 0 && `quoted-word`}
-      data-tooltip-content={`Frequency: ${frequency}`}
+      data-tooltip-content={`${character} used the word '${word}': ${frequency} time(s)`}
     >
       {word}
     </span>

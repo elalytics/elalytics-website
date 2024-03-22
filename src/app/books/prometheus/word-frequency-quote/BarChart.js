@@ -3,7 +3,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
-import colors from "../../../../../colors";
 import { barChartAxisTitle } from "@/app/utils/styles/chartjsDefaultStyles";
 
 const QuotedWordsBarChart = (props) => {
