@@ -16,11 +16,13 @@ const QuotedWordsBarChart = (props) => {
       labels: props.data.map((item) => item.word),
       datasets: [
         {
+          label: "Prometheus",
           data: props.data.map((item) => item["count"]["Prometheus"]),
           backgroundColor: "red",
           stack: "Stack 0",
         },
         {
+          label: "Zeus",
           data: props.data.map((item) => item["count"]["Zeus"]),
           backgroundColor: "Blue",
           stack: "Stack 0",
@@ -44,7 +46,7 @@ const QuotedWordsBarChart = (props) => {
         options: {
           plugins: {
             legend: {
-              display: false,
+              display: true,
             },
           },
           indexAxis: "y",
