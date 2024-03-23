@@ -19,13 +19,11 @@ const QuotedWordsBarChart = (props) => {
           label: "Prometheus",
           data: props.data.map((item) => item["count"]["Prometheus"]),
           backgroundColor: "red",
-          stack: "Stack 0",
         },
         {
           label: "Zeus",
           data: props.data.map((item) => item["count"]["Zeus"]),
           backgroundColor: "Blue",
-          stack: "Stack 0",
         },
       ],
     };
