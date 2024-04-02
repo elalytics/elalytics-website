@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Most frequent words (by chapter)",
+    "category": "Word Cloud",
+    "link": "chapter-word-clouds"
+  },
+  {
+    "title": "Emotions by Character",
+    "category": "Bar Chart",
+    "link": "emotions"
+  },
+  {
+    "title": "General Sentiment Line",
+    "category": "Line Graph",
+    "link": "general-sentiment-line"
+  },
+  {
+    "title": "Main Characters Top 15 Words",
+    "category": "Misc",
+    "link": "main-characters-top-15-words"
+  },
+  {
+    "title": "Sentiment Chart (by setting)",
+    "category": "Bar Chart",
+    "link": "sentiment-chart"
+  },
+  {
+    "title": "Top Words Associated With Main Characters",
+    "category": "Word Cloud",
+    "link": "top-words-associated-with-characters"
+  },
+  {
+    "title": "Top Words In the Book",
+    "category": "Bar Chart",
+    "link": "top-words-whole-bar"
+  },
+  {
+    "title": "Top 100 Words",
+    "category": "Misc",
+    "link": "top-words-whole-pos-bar"
+  },
+  {
+    "title": "Most Frequent Words",
+    "category": "Word Cloud",
+    "link": "top-words-whole"
+  },
+  {
+    "title": "Troublemakers",
+    "category": "Bar Chart",
+    "link": "troublemakers"
+  }
+]

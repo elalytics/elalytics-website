@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Boy",
+    "category": "Books",
+    "link": "/books/the-boy"
+  },
+  {
+    "title": "Summer of the Mariposas",
+    "category": "Books",
+    "link": "/books/summer-of-the-mariposas"
+  },
+  {
+    "title": "Prometheus",
+    "category": "Short Story",
+    "link": "/books/prometheus"
+  },
+  {
+    "title": "Christmas Carol",
+    "category": "Plays",
+    "link": "/plays/christmas-carol"
+  },
+  {
+    "title": "Fish Cheeks",
+    "category": "Short Story",
+    "link": "/short-stories/fish-cheeks"
+  },
+  {
+    "title": "Lady Tiger",
+    "category": "Short Story",
+    "link": "/short-stories/lady-tiger"
+  },
+  {
+    "title": "Lottery",
+    "category": "Short Story",
+    "link": "/short-stories/lottery"
+  },
+  {
+    "title": "Smart Ice Cream",
+    "category": "Short Story",
+    "link": "/short-stories/smart-ice-cream"
+  },
+  {
+    "title": "The Elevator",
+    "category": "Short Story",
+    "link": "/short-stories/the-elevator"
+  },
+  {
+    "title": "The Scholarship Jacket",
+    "category": "Short Story",
+    "link": "/short-stories/the-scholarship-jacket"
+  },
+  {
+    "title": "Wife Story",
+    "category": "Short Story",
+    "link": "/short-stories/wife-story"
+  }
+]
