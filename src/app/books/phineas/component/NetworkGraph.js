@@ -12,50 +12,51 @@ const NetworkGraph = () => {
 
   useEffect(() => {
     // Create a graphology graph
-
-    // Function to generate a random color
-    function getRandomColor() {
-      const letters = "0123456789ABCDEF";
-      let color = "#";
-      for (let i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
+    if (typeof window !== "undefined" && window.WebGL2RenderingContext) {
+      // Function to generate a random color
+      function getRandomColor() {
+        const letters = "0123456789ABCDEF";
+        let color = "#";
+        for (let i = 0; i < 6; i++) {
+          color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
       }
-      return color;
+
+      // Object to store group-color mapping
+      const groupColors = {};
+
+      const graph = new Graph();
+      // Add nodes from data
+      data.nodes.forEach((node, index) => {
+        if (!groupColors[node.group]) {
+          groupColors[node.group] = getRandomColor();
+        }
+        graph.addNode(node.id, {
+          label: node.id,
+          size: 5, // or any other logic for size
+          x: Math.random(), // or any other logic for x
+          y: Math.random(), // or any other logic for y
+          color: groupColors[node.group],
+        });
+      });
+
+      // Add edges from data
+      data.links.forEach((link) => {
+        graph.addEdge(link.source, link.target, {
+          // size: link.value,
+          color: "lightGrey", // or any other logic for color
+        });
+      });
+      // Graphology provides a easy to use implementation of Force Atlas 2 in a web worker
+      const sensibleSettings = forceAtlas2.inferSettings(graph);
+      const fa2Layout = new FA2Layout(graph, {
+        settings: sensibleSettings,
+      });
+
+      // Instantiate sigma.js and render the graph
+      const sigmaInstance = new Sigma(graph, containerRef.current);
     }
-
-    // Object to store group-color mapping
-    const groupColors = {};
-
-    const graph = new Graph();
-    // Add nodes from data
-    data.nodes.forEach((node, index) => {
-      if (!groupColors[node.group]) {
-        groupColors[node.group] = getRandomColor();
-      }
-      graph.addNode(node.id, {
-        label: node.id,
-        size: 5, // or any other logic for size
-        x: Math.random(), // or any other logic for x
-        y: Math.random(), // or any other logic for y
-        color: groupColors[node.group],
-      });
-    });
-
-    // Add edges from data
-    data.links.forEach((link) => {
-      graph.addEdge(link.source, link.target, {
-        // size: link.value,
-        color: "lightGrey", // or any other logic for color
-      });
-    });
-    // Graphology provides a easy to use implementation of Force Atlas 2 in a web worker
-    const sensibleSettings = forceAtlas2.inferSettings(graph);
-    const fa2Layout = new FA2Layout(graph, {
-      settings: sensibleSettings,
-    });
-
-    // Instantiate sigma.js and render the graph
-    const sigmaInstance = new Sigma(graph, containerRef.current);
   }, []);
 
   return (
