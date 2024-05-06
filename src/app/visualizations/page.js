@@ -4,83 +4,10 @@ import {
   faCloud,
   faLineChart,
   faChartColumn,
+  faTableCells,
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
-const vizData = [
-  {
-    grade: "Grade 6",
-    category: "Word Cloud",
-    title: "Most Frequent Words",
-    textName: "Boy",
-    interactivity: 3,
-    link: "/books/the-boy/chapter-word-clouds",
-  },
-  {
-    grade: "Grade 6",
-    category: "Bar Chart",
-    title: "Emotions by Character",
-    textName: "Boy",
-    interactivity: 2,
-    link: "/books/the-boy/emotions",
-  },
-  {
-    grade: "Grade 6",
-    category: "Line Chart",
-    title: "General Sentiment",
-    textName: "Boy",
-    interactivity: 2,
-    link: "/books/the-boy/general-sentiment-line",
-  },
-  {
-    grade: "Grade 7",
-    category: "Word Cloud",
-    title: "Common Phrases",
-    textName: "Fish Cheeks",
-    interactivity: 3,
-    link: "/short-stories/fish-cheeks/phrases",
-  },
-  {
-    grade: "Grade 7",
-    category: "Word Cloud",
-    title: "Key Words with Quotes",
-    textName: "Fish Cheeks",
-    interactivity: 2,
-    link: "/short-stories/fish-cheeks/word-frequency-quote",
-  },
-  {
-    grade: "Grade 7",
-    category: "Word Cloud",
-    title: "Word Frequency",
-    textName: "Fish Cheeks",
-    interactivity: 2,
-    link: "/short-stories/fish-cheeks/word-frequency",
-  },
-  {
-    grade: "Grade 8",
-    category: "Bar Chart",
-    title: "Sentence Length",
-    textName: "The Lottery",
-    interactivity: 2,
-    link: "/short-stories/lottery/sentence-length-bar",
-  },
-  {
-    grade: "Grade 8",
-    category: "Line Chart",
-    title: "Sentence Length",
-    textName: "The Lottery",
-    interactivity: 2,
-    link: "/short-stories/lottery/sentence-length",
-  },
-  {
-    grade: "Grade 8",
-    category: "Bar Chart",
-    title: "Suspense",
-    textName: "The Lottery",
-    interactivity: 2,
-    link: "/short-stories/lottery/suspense",
-  },
-];
+import data from "./elalyticsVisualizations.json";
 
 const VizItem = ({ item }) => {
   const gradeColors = {
@@ -92,13 +19,23 @@ const VizItem = ({ item }) => {
     "Word Cloud": { backgroundColor: "#CC0000", icon: faCloud },
     "Line Chart": { backgroundColor: "#098433", icon: faLineChart },
     "Bar Chart": { backgroundColor: "#0052CC", icon: faChartColumn },
-    Misc: "#494949",
+    Misc: { backgroundColor: "#000000", icon: faTableCells },
   };
   const textCovers = {
     Boy: "/imgs/textCovers/boy.jpg",
     "Summer of the Mariposas": "/imgs/textCovers/summer-of-the-mariposas.jpg",
     "Fish Cheeks": "/imgs/textCovers/fish-cheeks.jpg",
     "The Lottery": "/imgs/textCovers/lottery.jpg",
+    "Christmas Carol": "/imgs/textCovers/christmas-carol.jpg",
+    "The Lady, or the Tiger?": "/imgs/textCovers/lady-tiger.jpg",
+    "Smart Ice Cream": "/imgs/textCovers/smart-ice-cream.jpg",
+    "The Elevator": "/imgs/textCovers/the-elevator.jpg",
+    "The Scholarship Jacket": "/imgs/textCovers/the-scholarship-jacket.jpg",
+    "The Wife's Story": "/imgs/textCovers/the-wifes-story.jpg",
+    Prometheus: "/imgs/textCovers/prometheus.jpg",
+    Chocolate: "/imgs/textCovers/chocolate.jpg",
+    "Demystifying Brain": "/imgs/textCovers/demystifying-brain.png",
+    "Phineas Gage": "/imgs/textCovers/phineas-gage.jpeg",
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">
@@ -125,11 +62,18 @@ const VizItem = ({ item }) => {
               className="p-1 px-3 text-white font-bold rounded text-xs"
               style={{
                 backgroundColor:
-                  categoryStyles[item.category]["backgroundColor"],
+                  categoryStyles[item.category]?.backgroundColor ??
+                  categoryStyles["Misc"]?.backgroundColor,
               }}
+              title={item.category || "Misc"}
             >
-              <i title={item.category}>
-                <FontAwesomeIcon icon={categoryStyles[item.category]["icon"]} />
+              <i title={item.category || "Misc"}>
+                <FontAwesomeIcon
+                  icon={
+                    categoryStyles[item.category]?.icon ??
+                    categoryStyles["Misc"]?.icon
+                  }
+                />
               </i>
             </span>
           </div>
@@ -182,7 +126,7 @@ export default function Visualizations() {
         </div>
         <div className="p-5 overflow-y-scroll">
           <div className="flex flex-wrap gap-3 items-stretch ">
-            {vizData.map((item, index) => {
+            {data.map((item, index) => {
               return (
                 <Link key={index} href={item.link}>
                   <VizItem item={item} />
