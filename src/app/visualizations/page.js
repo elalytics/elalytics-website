@@ -1,3 +1,4 @@
+"use client";
 import Link from "next/link";
 import {
   faStar,
@@ -8,6 +9,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import data from "./elalyticsVisualizations.json";
+import { useState, useEffect } from "react";
 
 const VizItem = ({ item }) => {
   const gradeColors = {
@@ -117,16 +119,22 @@ const VizItem = ({ item }) => {
 };
 
 export default function Visualizations() {
+  const [vizData, setVizData] = useState(data);
+  const handleFilter = (filteredData) => {
+    setVizData(filteredData);
+  };
   return (
     <main className="h-[calc(100vh-105px)]">
       <div className="flex h-full">
-        <div className="p-5 bg-slate-50 min-w-[400px]">
-          <h1 className="text-4xl font-bold text-cardinal-red">Elalytics</h1>
-          <p>Search and filters coming soon!</p>
+        <div className="p-5 bg-slate-50 w-[400px] flex-shrink-0">
+          <h1 className="text-4xl font-bold text-cardinal-red mb-2">
+            Elalytics
+          </h1>
+          <FilterComponent vizData={data} onFilter={handleFilter} />
         </div>
-        <div className="p-5 overflow-y-scroll">
+        <div className="p-5 overflow-y-scroll w-[calc(100%-400px)]">
           <div className="flex flex-wrap gap-3 items-stretch ">
-            {data.map((item, index) => {
+            {vizData.map((item, index) => {
               return (
                 <Link key={index} href={item.link}>
                   <VizItem item={item} />
@@ -137,5 +145,134 @@ export default function Visualizations() {
         </div>
       </div>
     </main>
+  );
+}
+
+function FilterComponent({ vizData, onFilter }) {
+  const [searchTerm, setSearchTerm] = useState("");
+  const [grades, setGrades] = useState([]);
+  const [categories, setCategories] = useState([]);
+  const [textNames, setTextNames] = useState([]);
+  const [filteredData, setFilteredData] = useState(vizData);
+
+  useEffect(() => {
+    const uniqueGrades = [...new Set(vizData.map((item) => item.grade))];
+    setGrades(uniqueGrades.map((grade) => ({ label: grade, checked: true })));
+
+    const uniqueCategories = [
+      ...new Set(vizData.map((item) => item.category || "Misc")),
+    ];
+    setCategories(
+      uniqueCategories.map((category) => ({ label: category, checked: true }))
+    );
+
+    const uniqueTextNames = [...new Set(vizData.map((item) => item.textName))];
+    setTextNames(
+      uniqueTextNames.map((textName) => ({ label: textName, checked: true }))
+    );
+  }, [vizData]);
+
+  const handleFilter = () => {
+    const selectedGrades = grades
+      .filter((grade) => grade.checked)
+      .map((grade) => grade.label);
+    const selectedCategories = categories
+      .filter((category) => category.checked)
+      .map((category) => category.label);
+    const selectedTextNames = textNames
+      .filter((textName) => textName.checked)
+      .map((textName) => textName.label);
+
+    const filteredData = vizData.filter(
+      (item) =>
+        selectedGrades.includes(item.grade) &&
+        selectedCategories.includes(item.category) &&
+        selectedTextNames.includes(item.textName) &&
+        (searchTerm
+          ? item.title.toLowerCase().includes(searchTerm.toLowerCase())
+          : true)
+    );
+
+    onFilter(filteredData);
+    setFilteredData(filteredData);
+  };
+
+  useEffect(() => {
+    handleFilter();
+  }, [grades, categories, textNames, searchTerm]);
+
+  return (
+    <div>
+      <input
+        type="text"
+        value={searchTerm}
+        onChange={(e) => setSearchTerm(e.target.value)}
+        placeholder="Search..."
+        className="w-full p-2 mb-3 bg-white rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-cardinal-red focus:border-transparent"
+      />
+      <div className="mb-3">
+        <h3 className="text-xl font-bold">Grade</h3>
+        <div className="flex gap-2">
+          {grades.map((grade, index) => (
+            <label key={index}>
+              <input
+                type="checkbox"
+                checked={grade.checked}
+                onChange={() => {
+                  setGrades(
+                    grades.map((g, i) =>
+                      i === index ? { ...g, checked: !g.checked } : g
+                    )
+                  );
+                }}
+              />
+              {grade.label}
+            </label>
+          ))}
+        </div>
+      </div>
+      <div className="mb-3">
+        <h3 className="text-xl font-bold">Visualization Category</h3>
+        <div className="flex gap-2 flex-wrap">
+          {categories.map((category, index) => (
+            <label key={index}>
+              <input
+                type="checkbox"
+                checked={category.checked}
+                onChange={() => {
+                  setCategories(
+                    categories.map((c, i) =>
+                      i === index ? { ...c, checked: !c.checked } : c
+                    )
+                  );
+                }}
+              />
+              {category.label}
+            </label>
+          ))}
+        </div>
+      </div>
+      <div className="mb-3">
+        <h3 className="text-xl font-bold">Text Name</h3>
+        <div className="flex flex-col max-h-[300px] overflow-y-scroll p-2 bg-white rounded">
+          {textNames.map((textName, index) => (
+            <label key={index}>
+              <input
+                type="checkbox"
+                checked={textName.checked}
+                onChange={() => {
+                  setTextNames(
+                    textNames.map((t, i) =>
+                      i === index ? { ...t, checked: !t.checked } : t
+                    )
+                  );
+                }}
+              />
+              {textName.label}
+            </label>
+          ))}
+        </div>
+      </div>
+    </div>
   );
 }
