@@ -2,6 +2,10 @@ import SentimentLineChart from "./components/SentimentLineChart";
 import beaumontData from "@/app/data-processing/src/book_projects/beauty_and_the_beast/data/sentiment_beaumont.json";
 import perraultData from "@/app/data-processing/src/book_projects/beauty_and_the_beast/data/sentiment_perrault.json";
 
+export const metadata = {
+  title: `Sentiment Chart | Beauty and The Beast | Elalytics`,
+};
+
 export default function Home() {
   return (
     <main>

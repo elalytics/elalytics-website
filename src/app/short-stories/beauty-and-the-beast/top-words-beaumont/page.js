@@ -1,6 +1,10 @@
 import TopWordsBarChart from "./component/TopWordsBarChart";
 import data from "@/app/data-processing/src/book_projects/beauty_and_the_beast/data/top_words_beaumont.json";
 
+export const metadata = {
+  title: `Top Words | Beauty and The Beast by Beaumont | Elalytics`,
+};
+
 export default function Home() {
   return (
     <main>
