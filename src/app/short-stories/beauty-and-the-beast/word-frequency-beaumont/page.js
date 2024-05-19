@@ -6,7 +6,7 @@ export const metadata = {
 };
 
 export default function App() {
-  const wordsToRemoveData = ["i"];
+  const wordsToRemoveData = ["i", "the"];
   const categoriesToRemoveData = [];
   return (
     <WordCloudDraggableAndBilingual
