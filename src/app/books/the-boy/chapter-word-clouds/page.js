@@ -180,10 +180,10 @@ export default function App() {
             This set of visualizations capture the most frequent words that
             occurs in each of the chapter. The size of the words are
             proportionate to how frequently it occurs in the text. This
-            visualization doesn't contain stop words. Stop words are commonly
-            used words such as "the," "is," and "at". These words are often
-            filtered out in text processing and search queries to focus on more
-            descriptive words.
+            visualization doesn&apos;t contain stop words. Stop words are
+            commonly used words such as &quot;the,&quot; &quot;is,&quot; and
+            &quot;at&quot;. These words are often filtered out in text
+            processing and search queries to focus on more descriptive words.
           </p>
         </VisualizationDescription>
         <SuggestedRoutines>

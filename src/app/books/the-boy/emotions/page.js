@@ -82,10 +82,10 @@ export default function Home() {
               https://huggingface.co/j-hartmann/emotion-english-distilroberta-base
             </a>
             <br />
-            This visualization doesn't contain stop words. Stop words are
-            commonly used words such as "the," "is," and "at". These words are
-            often filtered out in text processing and search queries to focus on
-            more descriptive words.
+            This visualization doesn&apos;t contain stop words. Stop words are
+            commonly used words such as &quot;the,&quot; &quot;is,&quot; and
+            &quot;at&quot;. These words are often filtered out in text
+            processing and search queries to focus on more descriptive words.
           </p>
         </VisualizationDescription>
         <SuggestedRoutines>
