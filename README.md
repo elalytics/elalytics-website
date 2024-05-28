@@ -35,11 +35,12 @@ Next.js follows a file-based routing system. For more information, see the [Next
 
 ## Process for creating a new visualization
 
-```{mermaid}
-graph TD
-    A[Create a new folder] --> B[Add the visualizations]
-    B --> C[Add the folder to the index.js file]
-    C --> D[Add the folder to the sidebar]
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
 ## Wordcloud Generator
