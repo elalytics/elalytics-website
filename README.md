@@ -1,8 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Elalytics Frontend Website
 
-## Getting Started
+This web application is built using [Next.js](https://nextjs.org/).
 
-First, run the development server:
+## Prerequisites
+
+- Node.js
+- npm
+
+## Running the development server
 
 ```bash
 npm run dev
@@ -14,21 +19,20 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Deploying to production
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The website is deployed to [Vercel](https://vercel.com/). The deployment is done automatically when changes are pushed to the `main` branch.
 
-## Learn More
+## File structure
 
-To learn more about Next.js, take a look at the following resources:
+Next.js follows a file-based routing system. For more information, see the [Next.js documentation](https://nextjs.org/docs/app/building-your-application/routing).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `app/`: Contains the pages of the website.
+- The data processed from the NLP pipeline python repository is stored in the `app/data-processing` directory which is added as a git submodule. Whenever the data is updated in the NLP pipeline repository, the changes can be pulled in this repository.
+- `app/utils/`: Contains utility functions and predefined charts.
+- `app/books/`: Contains the visualization for the books where each folder represents a book. The folder contains multiple visualizations for the book.
+- Similarly, `app/plays/` and `app/short-stories/` contain the visualizations for the plays and short stories respectively.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Wordcloud Generator
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- For the Elalytics project, we have built a wordcloud generator that generates wordclouds based on the text input. The wordcloud generator can be accessed here [https://elalytics-chart-generator.streamlit.app/](https://elalytics-chart-generator.streamlit.app/). The generator is built using Python and Streamlit. The code can be found in the `elalytics-data-processing` github repository. The generated wordcloud data is stored in firebase and is accessed by the frontend website. The code for wordclouds visualizer in the frontend can be found in the `app/wordcloud/` folder.
