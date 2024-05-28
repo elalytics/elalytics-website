@@ -23,6 +23,17 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The website is deployed to [Vercel](https://vercel.com/). The deployment is done automatically when changes are pushed to the `main` branch.
 
+## Process
+
+```mermaid
+graph TD;
+    A[Pre-process data with the Python NLP pipeline] --> B[Render the processed data in the frontend as a visualization]
+```
+
+- This repository contains the frontend code for the Elalytics project whereas the data processing is done in the [elalytics-data-processing](https://github.com/elalytics/elalytics-data-processing) python repository.
+- The data processed in the python repository is stored in the `app/data-processing` directory which is added as a git submodule. Whenever the data is updated in the NLP pipeline repository, the changes can be pulled in this repository.
+- The pre-processed data is stored as a JSON file. We have typically used Chart.js or D3.js to render the visualizations in the frontend.
+
 ## File structure
 
 Next.js follows a file-based routing system. For more information, see the [Next.js documentation](https://nextjs.org/docs/app/building-your-application/routing).
@@ -32,13 +43,6 @@ Next.js follows a file-based routing system. For more information, see the [Next
 - `app/utils/`: Contains utility functions and predefined charts.
 - `app/books/`: Contains the visualization for the books where each folder represents a book. The folder contains multiple visualizations for the book.
 - Similarly, `app/plays/` and `app/short-stories/` contain the visualizations for the plays and short stories respectively.
-
-## Process for creating a new visualization
-
-```mermaid
-graph LR;
-    A[Pre-process data with the Python NLP pipeline] --> B[Render the processed data in the frontend as a visualization]
-```
 
 ## Wordcloud Generator
 
