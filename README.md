@@ -36,11 +36,8 @@ Next.js follows a file-based routing system. For more information, see the [Next
 ## Process for creating a new visualization
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+graph LR;
+    A[Pre-process data with the Python NLP pipeline] --> B[Render the processed data in the frontend as a visualization]
 ```
 
 ## Wordcloud Generator
