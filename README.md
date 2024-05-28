@@ -33,6 +33,15 @@ Next.js follows a file-based routing system. For more information, see the [Next
 - `app/books/`: Contains the visualization for the books where each folder represents a book. The folder contains multiple visualizations for the book.
 - Similarly, `app/plays/` and `app/short-stories/` contain the visualizations for the plays and short stories respectively.
 
+## Process for creating a new visualization
+
+```{mermaid}
+graph TD
+    A[Create a new folder] --> B[Add the visualizations]
+    B --> C[Add the folder to the index.js file]
+    C --> D[Add the folder to the sidebar]
+```
+
 ## Wordcloud Generator
 
 - For the Elalytics project, we have built a wordcloud generator that generates wordclouds based on the text input. The wordcloud generator can be accessed here [https://elalytics-chart-generator.streamlit.app/](https://elalytics-chart-generator.streamlit.app/). The generator is built using Python and Streamlit. The code can be found in the `elalytics-data-processing` github repository. The generated wordcloud data is stored in firebase and is accessed by the frontend website. The code for wordclouds visualizer in the frontend can be found in the `app/wordcloud/` folder.
