@@ -189,10 +189,13 @@ function FilterComponent({ vizData, onFilter }) {
         selectedCategories.includes(item.category) &&
         selectedTextNames.includes(item.textName) &&
         (searchTerm
-          ? item.title.toLowerCase().includes(searchTerm.toLowerCase())
+          ? item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            item.textName.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            item.grade.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            (item.category &&
+              item.category.toLowerCase().includes(searchTerm.toLowerCase()))
           : true)
     );
-
     onFilter(filteredData);
     setFilteredData(filteredData);
   };
