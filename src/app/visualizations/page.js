@@ -6,7 +6,9 @@ import {
   faLineChart,
   faChartColumn,
   faTableCells,
+  faSquareCheck,
 } from "@fortawesome/free-solid-svg-icons";
+import { faSquare } from "@fortawesome/free-regular-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import data from "./elalyticsVisualizations.json";
 import { useState, useEffect } from "react";
@@ -100,18 +102,13 @@ const VizItem = ({ item }) => {
         <p className="text-sm font-bold" title={`Text Name: ${item.textName}`}>
           {item.textName}
         </p>
-        <span className="text-sm text-black-70">Interactivity</span>
+        <span className="text-sm text-black-70">Interactive</span>
         <span className="ml-1">
-          {[...Array(item.interactivity)].map((_, index) => (
-            <i key={index} className="text-orange-500" aria-hidden="true">
-              <FontAwesomeIcon icon={faStar} />
-            </i>
-          ))}
-          {[...Array(3 - item.interactivity)].map((_, index) => (
-            <i key={index} className="text-black-50" aria-hidden="true">
-              <FontAwesomeIcon icon={faStar} />
-            </i>
-          ))}
+          {item.interactivity > 0 ? (
+            <FontAwesomeIcon icon={faSquareCheck} className="text-green-500" />
+          ) : (
+            <FontAwesomeIcon icon={faSquare} className="text-black-50" />
+          )}
         </span>
       </div>
     </div>
