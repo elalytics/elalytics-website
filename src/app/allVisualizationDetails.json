@@ -1,0 +1,362 @@
+{
+  "/books/boy/chapter-word-clouds": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (by chapter)",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/boy/chapter-word-clouds"
+  },
+  "/books/boy/emotions": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Common Emotions (by character)",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>These visualizations use an emotions classifier. The emotions classifier is a machine learning model that assigns scores to a text input. In this case, each word associated with the character gets a score from the classifier, and then the score for the word is matched to an emotion. This visualization represents the corresponding word-emotion distribution for the selected characters. The scores are provided for the following emotions: anger, disgust, fear, joy, neutral, sadness, surprise. The emotions are based on a specific classifier. It is possible for other classifiers to assign different emotions than what has been assigned here.</p><p>You can experiment with the emotions classifier here: <a href=\"https://huggingface.co/j-hartmann/emotion-english-distilroberta-base\" target=\"_blank\" class=\"text-cardinal-red hover:text-cardinal-red-dark underline\">https://huggingface.co/j-hartmann/emotion-english-distilroberta-base</a></p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/boy/emotions"
+  },
+  "/books/boy/general-sentiment-line": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentiment Chart (by setting)",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the sentiment score for each chapter in the text. The sentiment score measures a combination of three aspects of language: valence (degree of positive connotation), arousal (degree of intensity), and dominance (degree of control). A word like ?terror? would have a low score for positive valence, a high arousal score, and a low dominance score. A word like ?laughter? would have a high positive valence score, a fairly high score of intensity, and a medium score for control. The scores come from a dictionary of over 20,000+ English words and scores that have been created by a group of human raters. The scores are first computed for each word, then averaged for each line, then averaged across a whole chapter. Because the scores don?t account for context, they can sometimes be way off.  </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/boy/general-sentiment-line"
+  },
+  "/books/boy/main-characters-top-15-words": {
+    "grade": "Grade 6",
+    "category": "",
+    "title": "15 Most Frequent Words (by character)",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the words associated with the selected characters are counted and the most frequent words are listed in order.  The bar beneath is a kind of graph showing how frequent the word is for that character.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/boy/main-characters-top-15-words"
+  },
+  "/books/boy/sentiment-chart": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Positive/Negative Sentiment (by character)",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>This interactive visualization displays randomly grouped words as either positive or negative. The user can then drag words to the right side as they determine whether the word is positive or negative. These words are also associated with the characters on varying degrees using a tool called BookNLP.  It is possible for other systems to classify a word as positive or negative diffrently than what has been assigned here. The length of positive and negative bars for each of the character changes based on which side the word lands in.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/boy/sentiment-chart"
+  },
+  "/books/boy/top-words-associated-with-characters": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (by character)",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>This visualization uses a tool called BookNLP to show the words associated with the main characters such as Boy, Father, Mother, Mrs. Coombes, etc. are counted and categorized in three types of verbs: Agent, Patient, and Posession.The word size is proportional to the word frequency. All words are converted to lowercase first.</p><p></p><p>- Agent Verb: Actions where a character is the doer or the instigator of an action specified by the verb. For example, if a character named John is &quot;running,&quot; then John is the agent of the action &quot;running.&quot; The identification of agent verbs helps in understanding which characters are driving the narrative forward through their actions.</p><p>- Patient Verb: Actions where a character is the recipient or the target of an action. For instance, if John is &quot;hit&quot; by a ball, John is the patient in this context because he is receiving the action of being hit. Patient verbs are useful for analyzing how characters are affected by the actions of others or by events in the story.</p><p>- Possession Verb: Verbs related to the ownership or possession of objects or entities by characters in the narrative. For example, if John &quot;owns&quot; a house, the verb &quot;owns&quot; signifies John&apos;s possession of the house. Understanding possession verbs can provide insights into the material and relational aspects of characters&apos; lives within the narrative.</p><p></p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/boy/top-words-associated-with-characters"
+  },
+  "/books/boy/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/boy/top-words-whole-bar"
+  },
+  "/books/boy/top-words-whole": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (by part of speech, spanish translation)",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the most frequent words found in the whole book. Most words are changed to lowercase first. The word size is proportional to how frequently it appears. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/boy/top-words-whole"
+  },
+  "/books/boy/troublemakers": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Troublemakers Tracker (with quotes)  ",
+    "textName": "Boy",
+    "description": "<div class=\"space-y-3\"><p>This interactive visualization allows the reader to determine if the troublemakers in the book are adults or children. The table contains selected excerpts from the book. Based on these excerpts, the user can determine the troublemaker in the particular excerpt from a dropdown. The chart automatically populates based on the user&apos;s selections.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/boy/troublemakers"
+  },
+  "https://drive.google.com/file/d/12ylMzQsqmKLotS14WZAMgoQNb4gVBwzk/view?usp=drive_link": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Keyword Frequency of Butterfly/Mariposa",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>This visualization depicts the frequency of the words &apos;butterfly&apos; or &apos;mariposa&apos; across every chapter of the book. All words are changed to lowercase first. The three sections of the book are color-coded.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/12ylMzQsqmKLotS14WZAMgoQNb4gVBwzk/view?usp=drive_link"
+  },
+  "https://drive.google.com/file/d/1DRf0E3_934Se3g0KLhSaLBjHgxBdMf1y/view?usp=sharing": {
+    "grade": "Grade 7",
+    "category": "",
+    "title": "15 Most Frequent Words (by character)",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the words associated with the selected characters are counted and the most frequent words are listed in order. </p><p>All words are changed to lowercase first. This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/1DRf0E3_934Se3g0KLhSaLBjHgxBdMf1y/view?usp=sharing"
+  },
+  "https://drive.google.com/file/d/1lO0k4HZzHM8QHxU_q0qZtdu0FMRcSGtJ/view?usp=sharing": {
+    "grade": "Grade 7",
+    "category": "",
+    "title": "10 Most Frequent Words by Frequency (with Spanish)",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the top 10 most frequent words in the book and the corresponding translation in Spanish. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/1lO0k4HZzHM8QHxU_q0qZtdu0FMRcSGtJ/view?usp=sharing"
+  },
+  "https://drive.google.com/file/d/1nkH1qNeBGDRm16kJdpd5vsLD7VcwAK_v/view?usp=sharing": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentiment Over Time",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>In this visualization, the sentiment score for each of the chapter is computed using two different techniques (Flair and TextBlob). In both of the techniques, the scores are first computed for each word, then averaged for each line, then averaged across a whole chapter. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/1nkH1qNeBGDRm16kJdpd5vsLD7VcwAK_v/view?usp=sharing"
+  },
+  "https://drive.google.com/file/d/1P7NFv0lO2AYtmbIc3djiRfJc0X3AbhT8/view?usp=sharing": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Conflict Over TIme",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the conflict score for each chapter in the text. The conflict score is first computed for each word, then averaged for all the lines and then again averaged to get the chapter&apos;s conflict score. The conflict score for each line is computed with the NRC Valence, Arousal, and Dominance lexicon. The NRC Valence, Arousal, and Dominance (VAD) Lexicon, which includes a list of more than 20,000 English words and their valence, arousal, and dominance scores. These scores represent how a word could contribute to the conflict of a sentence. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/1P7NFv0lO2AYtmbIc3djiRfJc0X3AbhT8/view?usp=sharing"
+  },
+  "https://docs.google.com/document/d/1ahcQ2QC2ilMGR4rFITLcogMMfgrqt5Hq/edit?usp=sharing&ouid=111439942622270492134&rtpof=true&sd=true": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Word Cloud (by chapter)",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>These visualizations capture the most frequent words that occurs in each of the chapter. The size of the words are proportionate to the frequency of its occurence in the text. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": false,
+    "link": "https://docs.google.com/document/d/1ahcQ2QC2ilMGR4rFITLcogMMfgrqt5Hq/edit?usp=sharing&ouid=111439942622270492134&rtpof=true&sd=true"
+  },
+  "https://drive.google.com/file/d/1RlkY9qhT1V207xo297l31RYSaIdEpUVZ/view?usp=drive_link": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Word Cloud (by section, with parts of speech )",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>These visualizations capture the most frequent words that occurs in each of the three sections of the book. The size of the words are proportionate to the frequency of its occurence in the text. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/1RlkY9qhT1V207xo297l31RYSaIdEpUVZ/view?usp=drive_link"
+  },
+  "/plays/christmas-carol/scrooge-common-words": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Scrooge Common Words (by Act, with pos, spanish translation)",
+    "textName": "Christmas Carol",
+    "description": "<div class=\"space-y-3\"><p>The set of visualizations in this page captures the most frequent words used by Scrooge in each of the acts. The size of the words are proportionate to the frequency of its occurence in the text. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": true,
+    "link": "/plays/christmas-carol/scrooge-common-words"
+  },
+  "/plays/christmas-carol/scrooge-emotions": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Scrooge's Emotions Over Time",
+    "textName": "Christmas Carol",
+    "description": "<div class=\"space-y-3\"><p>This visualization uses an emotions classifier. The emotions classifier is a machine learning model that assigns emotion scores to a text input. In this case, the emotions classifier gives a score for to each act for each key emotion (joy, sadness, anger). Then the emotion scores are aggregated for each act. This visualization represents the scores of emotions such as joy, sadness, and anger for each of the chapter. It is possible for other systems to assign different scores than what has been assigned here.</p><p></p><p>You can experiment with the emotions classifier here: <a href=\"https://huggingface.co/j-hartmann/emotion-english-distilroberta-base\" target=\"_blank\" class=\"text-cardinal-red hover:text-cardinal-red-dark underline\">https://huggingface.co/j-hartmann/emotion-english-distilroberta-base</a></p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/plays/christmas-carol/scrooge-emotions"
+  },
+  "/short-stories/fish-cheeks/phrases": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Common Phrases (spanish translation)",
+    "textName": "Fish Cheeks",
+    "description": "<div class=\"space-y-3\"><p>This visualization captures the most frequent two word phrases used in the story. The size of the phrase is proportionate to the frequency of its occurence in the text. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/fish-cheeks/phrases"
+  },
+  "/short-stories/fish-cheeks/word-frequency-quote": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Story Keywords",
+    "textName": "Fish Cheeks",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used words quoted in the story itself. The size of the word and the size of the bar for the word are both proportionate to how frequency it shows up in the text. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/fish-cheeks/word-frequency-quote"
+  },
+  "/short-stories/fish-cheeks/word-frequency": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (with pos, spanish translation)",
+    "textName": "Fish Cheeks",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used words in the short story. The size of the words are proportionate to the frequency of its occurence in the text and the words are categorized by parts of speech. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/fish-cheeks/word-frequency"
+  },
+  "/short-stories/lady-tiger/word-frequency": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (with pos, spanish translation)",
+    "textName": "The Lady, or the Tiger?",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used words in the short story. The size of the words are proportionate to the frequency of its occurence in the text and the words are categorized by parts of speech. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/lady-tiger/word-frequency"
+  },
+  "/short-stories/lottery/sentence-length-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Sentence Length Over Time",
+    "textName": "The Lottery",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas X represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/lottery/sentence-length-bar"
+  },
+  "/short-stories/lottery/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "The Lottery",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas X represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/lottery/sentence-length"
+  },
+  "/short-stories/lottery/suspense": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Suspense Over Time",
+    "textName": "The Lottery",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the suspense. The suspense score is first computed for each line and the suspense scores for all the lines in a paragraph are averaged to get the paragraph&apos;s suspense score. The suspense score for each line is computed with the NRC Valence, Arousal, and Dominance lexicon. The NRC Valence, Arousal, and Dominance (VAD) Lexicon includes a list of more than 20,000 English words and their valence, arousal, and dominance scores. These scores represent how a word could contribute to the suspense of a sentence. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/lottery/suspense"
+  },
+  "/short-stories/smart-ice-cream/emotion-meter": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Emotion Meter Over Time",
+    "textName": "Smart Ice Cream",
+    "description": "<div class=\"space-y-3\"><p>This visualization uses an emotions classifier. The emotions classifier is a machine learning model that assigns emotion scores to a text. In this case, each sentence in the act is fed into the emotions classifier to get the scores. Then the emotion scores are aggregated for each paragraph. This visualization represents the scores of emotions such as joy, sadness, disgust, fear, surprise, and anger for each paragraph in the story.</p><p></p><p>The scores are provided for the following emotions: anger, disgust, fear, joy, neutral, sadness, surprise. You can experiment with it here: <a href=\"https://huggingface.co/j-hartmann/emotion-english-distilroberta-base\" target=\"_blank\" class=\"text-cardinal-red hover:text-cardinal-red-dark underline\">https://huggingface.co/j-hartmann/emotion-english-distilroberta-base</a> </p><p>It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/smart-ice-cream/emotion-meter"
+  },
+  "/short-stories/smart-ice-cream/word-frequency": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (by pos, spanish translation)",
+    "textName": "Smart Ice Cream",
+    "description": "<div class=\"space-y-3\"><p>The visualization highlights the most frequently used words in the story. The size of the words are proportionate to the frequency of its occurence in the text. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/smart-ice-cream/word-frequency"
+  },
+  "/short-stories/the-elevator/emotions": {
+    "grade": "Grade 6",
+    "category": "Heatmap",
+    "title": "Emotions by Line",
+    "textName": "The Elevator",
+    "description": "<div class=\"space-y-3\"><p>This visualization is generated with the help of an AI technology called GPT. The lines of the story were fed into GPT and each line were tagged to represent different emotions such as Fear, Curiosity, Shame, Disappointment, and Relief. The visualization represents a heat map of different emotions in the lines of the story. Make sure to keep swiping to see more details and excerpts from the short story. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/the-elevator/emotions"
+  },
+  "/short-stories/the-elevator/suspense": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Suspense Over Time",
+    "textName": "The Elevator",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the suspense. The suspense score is first computed for each line and the suspense scores for all the lines in a paragraph are averaged to get the paragraph&apos;s suspense score. The suspense score for each line is computed with the NRC Valence, Arousal, and Dominance lexicon. The NRC Valence, Arousal, and Dominance (VAD) Lexicon includes a list of more than 20,000 English words and their valence, arousal, and dominance scores. These scores represent how a word could contribute to the suspense of a sentence. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/the-elevator/suspense"
+  },
+  "/short-stories/the-scholarship-jacket/phrases": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Phrases (spanish translation)",
+    "textName": "The Scholarship Jacket",
+    "description": "<div class=\"space-y-3\"><p>These three visualizations capture the most frequent two-word, three-word, and four-word phrases used in the story. The size of the phrase in the visualization is proportionate to the frequency of its occurence in the text.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/the-scholarship-jacket/phrases"
+  },
+  "/short-stories/the-scholarship-jacket/word-frequency": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (by pos, spanish translation)",
+    "textName": "The Scholarship Jacket",
+    "description": "<div class=\"space-y-3\"><p>The visualization highlights the most frequently used words in the story. The size of the words are proportionate to the frequency of its occurence in the text and is categorized by parts of speech. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/the-scholarship-jacket/word-frequency"
+  },
+  "/short-stories/wife-story/sentence-length-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Sentence Length Over Time",
+    "textName": "The Wife's Story",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/wife-story/sentence-length-bar"
+  },
+  "/short-stories/wife-story/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "The Wife's Story",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/short-stories/wife-story/sentence-length"
+  },
+  "https://drive.google.com/file/d/10k406GmbWcEpbYkvw9ZkvJz8bZ2Nnf5m/view?usp=drive_link": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (with parts of speech)",
+    "textName": "Prometheus",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used words in the story. The size of the words are proportionate to the frequency of its occurence in the text and is categorized by parts of speech. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/10k406GmbWcEpbYkvw9ZkvJz8bZ2Nnf5m/view?usp=drive_link"
+  },
+  "https://drive.google.com/file/d/1P80aZ_3f833gbHf49HCyER809w7iBQTo/view?usp=drive_link": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (with parts of speech, spanish translation)",
+    "textName": "Prometheus",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used words in the story. The size of the words are proportionate to the frequency of its occurence in the text and is categorized by parts of speech. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/1P80aZ_3f833gbHf49HCyER809w7iBQTo/view?usp=drive_link"
+  },
+  "/wordcloud/w363207/": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (with parts of speech, spanish translation) ",
+    "textName": "Prometheus",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used words in the story. The size of the words are proportionate to the frequency of its occurence in the text and is categorized by parts of speech. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": true,
+    "link": "/wordcloud/w363207/"
+  },
+  "/books/prometheus/word-frequency-quote/": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Story Keywords (by character)",
+    "textName": "Prometheus",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used words quoted in the story itself. Prometheus and Zeus&apos;s high frequency words are highlighted using different colors. The size of the word in the visualization and the size of the bar for the word are both  proportionate to the frequency of its occurence in the text. </p><p>All words are changed to lowercase first. This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
+    "interactivity": true,
+    "link": "/books/prometheus/word-frequency-quote/"
+  },
+  "https://docs.google.com/presentation/d/1Pk18FiuVX5oVNItHWqdziInB_TLSUa31Ad5nZcRx8dE/edit#slide=id.g2bd651e5918_0_25": {
+    "grade": "Grade 6",
+    "category": "",
+    "title": "Additional Visualizations about Chocolate",
+    "textName": "Chocolate",
+    "description": "<div class=\"space-y-3\"><p></p></div>",
+    "interactivity": false,
+    "link": "https://docs.google.com/presentation/d/1Pk18FiuVX5oVNItHWqdziInB_TLSUa31Ad5nZcRx8dE/edit#slide=id.g2bd651e5918_0_25"
+  },
+  "https://drive.google.com/file/d/1KLwD0nROUuVXuNMfLZuSGzkgKsIcGE6s/view?usp=sharing": {
+    "grade": "Grade 7",
+    "category": "Network Chart",
+    "title": "Word Linkage based on relevanace/association",
+    "textName": "Demystifying Brain",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the top 10 words in the text and their most associated words. It is a network graph that clusters and links the words based on their relevance/association with each other. For example, the association between word A and word B is identified by calculating the frequency in which the word A and word B appear together within a window of 5 words.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/1KLwD0nROUuVXuNMfLZuSGzkgKsIcGE6s/view?usp=sharing"
+  },
+  "https://drive.google.com/file/d/1h9DSYD0Pt6vf9LuXLRBbnSnLFUU84NwO/view?usp=sharing": {
+    "grade": "Grade 7",
+    "category": "Network Chart",
+    "title": "Word Linkage based on relevanace/association",
+    "textName": "Phineas Gage",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the top 10 words in the text and their most associated words. It is a network graph that clusters and links the words based on their relevance/association with each other. For example, the association between word A and word B is identified by calculating the frequency in which the word A and word B appear together within a window of 5 words.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "https://drive.google.com/file/d/1h9DSYD0Pt6vf9LuXLRBbnSnLFUU84NwO/view?usp=sharing"
+  }
+}

@@ -23,4 +23,9 @@ function filterWordCloudData(
   return topNWords;
 }
 
-export { filterWordCloudData };
+function cleanUrl(url) {
+  const urlObj = new URL(url);
+  return urlObj.pathname.replace(/\/$/, "");
+}
+
+export { filterWordCloudData, cleanUrl };

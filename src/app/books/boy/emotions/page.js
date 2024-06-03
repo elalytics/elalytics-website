@@ -2,9 +2,6 @@
 
 import EmotionsChart from "./component/EmotionsBar";
 import data from "./data/emotions_by_character.json";
-import VisualizationDescription from "@/app/utils/components/VisualizationDescription";
-import SuggestedRoutines from "@/app/utils/components/SuggestedRoutines";
-import Link from "next/link";
 import VisualizationContainerFrame from "@/app/utils/components/VisualizationContainerFrame";
 
 function convertEmotionsDataBasedOnCharacters(input) {
@@ -53,42 +50,11 @@ function convertCharactersDataBasedOnEmotionsStack(input) {
 function capitalizeFirstLetter(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
+
 export default function Home() {
   return (
     <main>
-      <VisualizationContainerFrame
-        textName={"Boy"}
-        visualizationName={"Emotions"}
-        description={
-          <div className="space-y-3">
-            <p>
-              These visualizations use an emotions classifier. The{" "}
-              <strong>emotions classifier</strong> is a machine learning model
-              that assigns emotion scores to a text input. In this case, each
-              word associated with the character gets an emotion score from the
-              classifier and the specific emotion with the highest score is
-              associated with that word. This visualization represents the
-              corresponding word-emotion distribution for the selected
-              characters. The scores are provided for the following emotions:
-              anger, disgust, fear, joy, neutral, sadness, surprise. You can
-              experiment with the emotions classifier here:{" "}
-              <a
-                href="https://huggingface.co/j-hartmann/emotion-english-distilroberta-base"
-                target="_blank"
-                className="text-cardinal-red hover:text-cardinal-red-dark underline"
-              >
-                https://huggingface.co/j-hartmann/emotion-english-distilroberta-base
-              </a>
-            </p>
-            <p>
-              This visualization doesn&apos;t contain stop words. Stop words are
-              commonly used words such as &quot;the,&quot; &quot;is,&quot; and
-              &quot;at&quot;. These words are often filtered out in text
-              processing and search queries to focus on more descriptive words.
-            </p>
-          </div>
-        }
-      >
+      <VisualizationContainerFrame>
         <div className="max-w-5xl m-auto mb-12">
           <div>
             <h2 className="text-center text-xl">Most Common Emotions</h2>

@@ -10,8 +10,8 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { faSquare } from "@fortawesome/free-regular-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import data from "./elalyticsVisualizations.json";
-import { useState, useEffect } from "react";
+import data from "@/app/allVisualizationDetails.json";
+import { useState, useEffect, useMemo } from "react";
 
 const VizItem = ({ item }) => {
   const gradeColors = {
@@ -116,7 +116,8 @@ const VizItem = ({ item }) => {
 };
 
 export default function Visualizations() {
-  const [vizData, setVizData] = useState(data);
+  const dataAsArray = useMemo(() => Object.values(data), [data]);
+  const [vizData, setVizData] = useState(dataAsArray);
   const handleFilter = (filteredData) => {
     setVizData(filteredData);
   };
@@ -127,7 +128,7 @@ export default function Visualizations() {
           <h1 className="text-4xl font-bold text-cardinal-red mb-2">
             Elalytics
           </h1>
-          <FilterComponent vizData={data} onFilter={handleFilter} />
+          <FilterComponent vizData={dataAsArray} onFilter={handleFilter} />
         </div>
         <div className="p-5 overflow-y-scroll w-[calc(100%-400px)]">
           <div className="flex flex-wrap gap-3 items-stretch ">
@@ -150,7 +151,6 @@ function FilterComponent({ vizData, onFilter }) {
   const [grades, setGrades] = useState([]);
   const [categories, setCategories] = useState([]);
   const [textNames, setTextNames] = useState([]);
-  const [filteredData, setFilteredData] = useState(vizData);
 
   useEffect(() => {
     const uniqueGrades = [...new Set(vizData.map((item) => item.grade))];
@@ -194,7 +194,6 @@ function FilterComponent({ vizData, onFilter }) {
           : true)
     );
     onFilter(filteredData);
-    setFilteredData(filteredData);
   };
 
   useEffect(() => {
