@@ -104,7 +104,7 @@ const VizItem = ({ item }) => {
         </p>
         <span className="text-sm text-black-70">Interactive</span>
         <span className="ml-1">
-          {item.interactivity > 0 ? (
+          {item.interactivity ? (
             <FontAwesomeIcon icon={faSquareCheck} className="text-green-500" />
           ) : (
             <FontAwesomeIcon icon={faSquare} className="text-black-50" />
