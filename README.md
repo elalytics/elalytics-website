@@ -19,9 +19,9 @@ Setting up the local development server is just a one-time process. After that, 
 ## Initializing the submodules
 - This repository includes [elalytics-data-processing](https://github.com/elalytics/elalytics-data-processing) as a submodules. Use the following commands in the terminal to initialize the submodule:
   ```bash
-      git submodule update --init --recursive
-      git checkout main
-      git submodule foreach 'git checkout main'
+  git submodule update --init --recursive
+  git checkout main
+  git submodule foreach 'git checkout main'
   ```
 
 ## Running the development server
