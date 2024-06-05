@@ -4,7 +4,7 @@ This web application is built using [Next.js](https://nextjs.org/).
 
 ## Prerequisites
 
-- Node.js
+- [Node.js](https://nodejs.org/en)
 - npm
 
 ## Setting up the local development server
