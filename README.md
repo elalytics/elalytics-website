@@ -17,7 +17,7 @@ This web application is built using [Next.js](https://nextjs.org/).
 Setting up the local development server is just a one-time process. After that, you just need to run `npm run dev` in the terminal.
 
 ## Initializing the submodules
-- This repository includes [elalytics-data-processing](https://github.com/elalytics/elalytics-data-processing) as a submodules. Use the following commands in the terminal to initialize the submodule:
+- This repository includes [elalytics-data-processing](https://github.com/elalytics/elalytics-data-processing) as a submodule. Use the following commands in the terminal to initialize the submodule:
   ```bash
   git submodule update --init --recursive
   git checkout main
