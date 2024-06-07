@@ -21,8 +21,6 @@ export default function App() {
   return (
     <WordCloudDraggableAndBilingual
       data={data}
-      bookName="The Scholarship Jacket"
-      wordCloudTitle="Word Frequency"
       wordsToRemove={wordsToRemoveData}
       categoriesToRemove={categoriesToRemoveData}
       numberOfWords={50}

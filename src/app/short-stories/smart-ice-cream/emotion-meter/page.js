@@ -8,9 +8,6 @@ export const metadata = {
 export default function App() {
   return (
     <>
-      <div className="text-center mt-6 mb-3">
-        <h1 className="text-4xl font-bold text-cardinal-red">Emotion Meter</h1>
-      </div>
       <div className="w-full">
         <EmotionMeterWithText data={bertData} />
       </div>

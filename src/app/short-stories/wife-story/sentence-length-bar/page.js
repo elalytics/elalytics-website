@@ -7,14 +7,12 @@ export const metadata = {
 export default function Home() {
   return (
     <main>
-      <div className="p-6 max-w-6xl m-auto">
+      <div className="px-2 max-w-6xl m-auto">
         <SentenceLengthBarChart
           sourceData={data}
           showTooltip={true}
           yLabel="Sentence"
           xLabel="Number of Words"
-          bookName="The Wife's Story"
-          chartTitle={"Sentence Length Bar Chart"}
         />
       </div>
     </main>

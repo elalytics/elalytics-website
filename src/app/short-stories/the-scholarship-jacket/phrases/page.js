@@ -13,7 +13,6 @@ export default function App() {
   return (
     <div>
       <WordCloudDraggableAndBilingual
-        bookName="The Scholarship Jacket"
         data={data_2_word}
         wordCloudTitle="Common 2 Word Phrases"
         customNoteText="Drag the phrases to different positions and see if you can make any new insights!"

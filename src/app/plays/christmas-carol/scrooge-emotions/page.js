@@ -10,11 +10,6 @@ export const metadata = {
 export default function App() {
   return (
     <>
-      <div className="text-center mt-6 mb-3">
-        <h1 className="text-4xl font-bold text-cardinal-red">
-          Emotions of Scrooge
-        </h1>
-      </div>
       <div className="max-w-3xl m-auto flex flex-col gap-8 my-4">
         {/* <div>
           <h3 className="text-2xl font-bold text-center">

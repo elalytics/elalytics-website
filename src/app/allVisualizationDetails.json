@@ -323,7 +323,7 @@
     "interactivity": true,
     "link": "/wordcloud/w363207/"
   },
-  "/books/prometheus/word-frequency-quote/": {
+  "/books/prometheus/word-frequency-quote": {
     "grade": "Grade 6",
     "category": "Bar Chart",
     "title": "Story Keywords (by character)",

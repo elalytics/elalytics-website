@@ -11,11 +11,6 @@ export default function App() {
 
   return (
     <>
-      <div className="text-center mt-6 mb-3">
-        <h1 className="text-4xl font-bold text-cardinal-red">
-          Popular Words used by Scrooge
-        </h1>
-      </div>
       {data.map((act, actIndex) =>
         act.scenes.map((scene, sceneIndex) => (
           <div key={`act-${actIndex}-scene-${sceneIndex}`} className="py-6">

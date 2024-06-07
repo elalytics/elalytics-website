@@ -296,8 +296,8 @@ const SentenceLengthBarChart = ({
     <div>
       <div className="overflow-x-hidden">
         <div className="text-center">
-          <BookNameTag bookName={bookName} />
-          <ChartTitle chartTitle={chartTitle} />
+          {bookName && <BookNameTag bookName={bookName} />}
+          {chartTitle && <ChartTitle chartTitle={chartTitle} />}
         </div>
         <div className=" m-auto">
           {showNote && (

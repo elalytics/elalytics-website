@@ -8,14 +8,12 @@ export const metadata = {
 export default async function Home() {
   return (
     <main className="bg-gray-100">
-      <div className="p-6 max-w-6xl m-auto">
+      <div className="max-w-6xl m-auto">
         <SentenceLengthBarChart
           sourceData={data}
           showTooltip={true}
           yLabel="Sentence"
           xLabel="Number of Words"
-          bookName="Lottery"
-          chartTitle={"Sentence Length Bar Chart"}
         />
       </div>
     </main>

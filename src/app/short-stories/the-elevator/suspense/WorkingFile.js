@@ -28,12 +28,8 @@ export const metadataDetails = {
 export default function App() {
   return (
     <main>
-      <div className="h-screen overflow-x-hidden bg-gray-100">
-        <div className="my-8 text-center">
-          <span className="px-4 py-1 bg-stone-dark rounded text-white inline-block mb-1 text-sm font-bold">
-            The Elevator
-          </span>
-          <h1 className="text-3xl font-bold">Suspense Chart</h1>
+      <div className="overflow-x-hidden bg-gray-100">
+        <div className="my-2 text-center">
           <p className="max-w-5xl m-auto px-10">
             The suspense score is calculated by breaking each paragraph down
             into sentences. Every sentence gets a computed

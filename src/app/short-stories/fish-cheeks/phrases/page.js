@@ -12,9 +12,7 @@ export default function App() {
   return (
     <div>
       <WordCloudDraggableAndBilingual
-        bookName="Fish Cheeks"
         data={data_2_word}
-        wordCloudTitle="Common 2 Word Phrases"
         customNoteText="Drag the phrases to different positions and see if you can make any new insights!"
         wordsToRemove={wordsToRemoveData}
         categoriesToRemove={categoriesToRemoveData}
