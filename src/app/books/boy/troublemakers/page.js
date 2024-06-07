@@ -174,12 +174,9 @@ export default function Home() {
 
   return (
     <main>
-      <div className="h-screen flex overflow-hidden bg-gray-100">
-        <div className="w-1/2 bg-stone-200 px-12 py-12">
+      <div className="h-screen flex overflow-hidden bg-gray-200">
+        <div className="w-1/2 bg-stone-200 px-12 py-6">
           <div className="py-4">
-            <span className="px-4 py-1 bg-stone-dark rounded text-white inline-block mb-1 text-sm font-bold">
-              Boy
-            </span>
             <h1 className="text-xl pb-2">
               Who do you think is most responsible for all the trouble in this
               book?

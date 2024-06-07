@@ -22,10 +22,10 @@ const VisualizationContainerFrame = ({ children }) => {
         </span>
         <h1 className="text-3xl font-bold ">
           {visualizationListing[path]?.title}{" "}
-          <span data-tooltip-id="info">
+          <span data-tooltip-id="info" title="About this visualization">
             <FontAwesomeIcon
+              titleId="info-icon"
               className="text-black-50 hover:text-black-80 px-1 cursor-pointer"
-              title="About this visualization"
               icon={faInfoCircle}
               onClick={() => setIsOpen(!isOpen)}
             />

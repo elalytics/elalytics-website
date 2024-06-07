@@ -7,6 +7,7 @@ import { Tooltip } from "react-tooltip";
 import characterWordsData from "./data/characterdata.json";
 import wordSentimentList from "./data/wordssentiment.json";
 import CharacterSentimentChart from "./components/CharacterSentimentChart";
+import VisualizationContainerFrame from "@/app/utils/components/VisualizationContainerFrame";
 
 //filter words by sentiment
 function filterWords(wordSentimentList, sentiment) {
@@ -107,7 +108,7 @@ export default function Home() {
   }, [characterData]);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <div className="p-24">
       <div className="z-10">
         <div className={`flex justify-between gap-4 rounded w-full p-2 m-2`}>
           <div className="flex-1 p-2 flex flex-wrap gap-2 content-start rounded border-2 border-slate-400">
@@ -173,6 +174,6 @@ export default function Home() {
         </div>
       </div>
       <CharacterSentimentChart data={characterData} />
-    </main>
+    </div>
   );
 }

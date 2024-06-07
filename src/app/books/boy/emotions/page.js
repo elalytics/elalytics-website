@@ -53,28 +53,24 @@ function capitalizeFirstLetter(string) {
 
 export default function Home() {
   return (
-    <main>
-      <VisualizationContainerFrame>
-        <div className="max-w-5xl m-auto mb-12">
-          <div>
-            <h2 className="text-center text-xl">Most Common Emotions</h2>
-            <EmotionsChart
-              data={convertCharactersDataBasedOnEmotionsStack(data)}
-              stacked={true}
-              axis="y"
-            />
-          </div>
-          <div className="my-12">
-            <h2 className="text-center text-xl">
-              Emotion Distribution Within Characters
-            </h2>
-            <EmotionsChart
-              data={convertEmotionsDataBasedOnCharacters(data)}
-              axis="x"
-            />
-          </div>
-        </div>
-      </VisualizationContainerFrame>
-    </main>
+    <div className="max-w-5xl m-auto mb-12">
+      <div>
+        <h2 className="text-center text-xl">Most Common Emotions</h2>
+        <EmotionsChart
+          data={convertCharactersDataBasedOnEmotionsStack(data)}
+          stacked={true}
+          axis="y"
+        />
+      </div>
+      <div className="my-12">
+        <h2 className="text-center text-xl">
+          Emotion Distribution Within Characters
+        </h2>
+        <EmotionsChart
+          data={convertEmotionsDataBasedOnCharacters(data)}
+          axis="x"
+        />
+      </div>
+    </div>
   );
 }

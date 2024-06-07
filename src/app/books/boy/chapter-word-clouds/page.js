@@ -1,7 +1,6 @@
 import WordCloudDraggableAndBilingual from "@/app/utils/charts/WordCloudDraggableAndBilingual";
 import { filterWordCloudData } from "@/app/utils/functions/general-functions";
-import VisualizationDescription from "@/app/utils/components/VisualizationDescription";
-import Link from "next/link";
+import VisualizationContainerFrame from "@/app/utils/components/VisualizationContainerFrame";
 import chapter1 from "./data/chapters/boy_topwords_chapter_1.json";
 import chapter2 from "./data/chapters/boy_topwords_chapter_2.json";
 import chapter3 from "./data/chapters/boy_topwords_chapter_3.json";
@@ -160,69 +159,25 @@ export default function App() {
   const wordsToRemove = ["one", "two", "I", "\u2019", "\u2019s"];
   const categoriesToRemove = ["PUNCT", "DET", "AUX", "PART", "NUM", "PROPN"];
   return (
-    <main>
-      <div className=" overflow-x-hidden bg-gray-100">
-        <div className="my-8 text-center">
-          <span className="px-4 py-1 bg-stone-dark rounded text-white inline-block mb-1 text-sm font-bold">
-            Boy
-          </span>
-          <h1 className="text-3xl font-bold ">
-            Most frequent words in the book per chapter
-          </h1>
-          <p>
-            Drag the words to different positions and see if you can make any
-            new insights!
-          </p>
-        </div>
-
-        <VisualizationDescription>
-          <p>
-            This set of visualizations capture the most frequent words that
-            occurs in each of the chapter. The size of the words are
-            proportionate to how frequently it occurs in the text. This
-            visualization doesn&apos;t contain stop words. Stop words are
-            commonly used words such as &quot;the,&quot; &quot;is,&quot; and
-            &quot;at&quot;. These words are often filtered out in text
-            processing and search queries to focus on more descriptive words.
-          </p>
-        </VisualizationDescription>
-        <SuggestedRoutines>
-          <ul className="list-disc list-inside">
-            <li>
-              <Link
-                href={
-                  "https://docs.google.com/document/d/1VIlSlSZYwBjfMu3k8TB1AXRMInQPv4LvjV9mHqoeKi8"
-                }
-                target="_blank"
-                className="text-cardinal-red hover:text-cardinal-red-dark underline"
-              >
-                Big, Medium, Small
-              </Link>
-            </li>
-          </ul>
-        </SuggestedRoutines>
-
-        <div className="w-screen px-20">
-          {data.map((chapter, i) => {
-            return (
-              <div key={i} className="px-20 mt-20 mb-10">
-                <h2 className="text-2xl text-center font-bold mb-4">
-                  Chapter {chapter.chapter}: {chapter.chapterName}
-                </h2>
-                <WordCloudDraggableAndBilingual
-                  data={filterWordCloudData(
-                    chapter.wordCloudData,
-                    wordsToRemove,
-                    categoriesToRemove
-                  )}
-                  wordSizeMultiplier={1}
-                  scaleType="linear"
-                />
-              </div>
-            );
-          })}
-        </div>
-      </div>
-    </main>
+    <div className="w-screen px-20">
+      {data.map((chapter, i) => {
+        return (
+          <div key={i} className="px-20 mt-20 mb-10">
+            <h2 className="text-2xl text-center font-bold mb-4">
+              Chapter {chapter.chapter}: {chapter.chapterName}
+            </h2>
+            <WordCloudDraggableAndBilingual
+              data={filterWordCloudData(
+                chapter.wordCloudData,
+                wordsToRemove,
+                categoriesToRemove
+              )}
+              wordSizeMultiplier={1}
+              scaleType="linear"
+            />
+          </div>
+        );
+      })}
+    </div>
   );
 }

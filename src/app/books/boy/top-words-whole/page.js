@@ -7,16 +7,14 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <main className="p-8 min-h-screen">
+    <div className="p-8 min-h-screen">
       <WordCloudDraggableAndBilingual
         data={data}
         wordSizeMultiplier={1}
-        bookName="Boy"
-        wordCloudTitle="Most Frequent Words in the book"
         wordsToRemove={["thing", "much"]}
         categoriesToRemove={["PUNCT", "DET", "AUX", "PART", "PROPN"]}
         scaleType="log"
       />
-    </main>
+    </div>
   );
 }

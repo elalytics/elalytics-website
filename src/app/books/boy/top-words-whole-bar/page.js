@@ -43,22 +43,10 @@ export default function Home() {
   const wordsToRemove = [];
   const categoriesToRemove = ["PUNCT", "DET", "PART", "AUX", "NUM"];
   return (
-    <main>
-      <div className="h-screen overflow-x-hidden bg-gray-100">
-        <div className="my-8 text-center">
-          <span className="px-4 py-1 bg-stone-dark rounded text-white inline-block mb-1 text-sm font-bold">
-            Boy
-          </span>
-          <h1 className="text-3xl font-bold ">
-            Top Words in the book - Bar Chart
-          </h1>
-        </div>
-        <div className="h-full w-screen">
-          <TopWordsBarChart
-            data={filterData(data, wordsToRemove, categoriesToRemove)}
-          />
-        </div>
-      </div>
-    </main>
+    <div className="h-full m-auto max-w-4xl">
+      <TopWordsBarChart
+        data={filterData(data, wordsToRemove, categoriesToRemove)}
+      />
+    </div>
   );
 }
