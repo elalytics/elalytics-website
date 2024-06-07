@@ -4,8 +4,25 @@ This web application is built using [Next.js](https://nextjs.org/).
 
 ## Prerequisites
 
-- Node.js
+- [Node.js](https://nodejs.org/en)
 - npm
+
+## Setting up the local development server
+- Clone the repository to the local machine
+- Open the repository in VS Code
+- Initialize the submodules. Refer to the instructions below.
+- Run `npm install` in the terminal to install all the required packages
+- Run the development server
+
+Setting up the local development server is just a one-time process. After that, you just need to run `npm run dev` in the terminal.
+
+## Initializing the submodules
+- This repository includes [elalytics-data-processing](https://github.com/elalytics/elalytics-data-processing) as a submodule. Use the following commands in the terminal to initialize the submodule:
+  ```bash
+  git submodule update --init --recursive
+  git checkout main
+  git submodule foreach 'git checkout main'
+  ```
 
 ## Running the development server
 
