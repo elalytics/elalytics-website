@@ -8,6 +8,7 @@ This web application is built using [Next.js](https://nextjs.org/).
 - npm
 
 ## Setting up the local development server
+
 - Clone the repository to the local machine
 - Open the repository in VS Code
 - Initialize the submodules. Refer to the instructions below.
@@ -17,6 +18,7 @@ This web application is built using [Next.js](https://nextjs.org/).
 Setting up the local development server is just a one-time process. After that, you just need to run `npm run dev` in the terminal.
 
 ## Initializing the submodules
+
 - This repository includes [elalytics-data-processing](https://github.com/elalytics/elalytics-data-processing) as a submodule. Use the following commands in the terminal to initialize the submodule:
   ```bash
   git submodule update --init --recursive
@@ -60,3 +62,8 @@ Next.js follows a file-based routing system. For more information, see the [Next
 ## Wordcloud Generator
 
 - For the Elalytics project, we have built a wordcloud generator that generates wordclouds based on the text input. The wordcloud generator can be accessed here [https://elalytics-chart-generator.streamlit.app/](https://elalytics-chart-generator.streamlit.app/). The generator is built using Python and Streamlit. The code can be found in the `elalytics-data-processing` github repository. The generated wordcloud data is stored in firebase and is accessed by the frontend website. The code for wordclouds visualizer in the frontend can be found in the `app/wordcloud/` folder.
+
+## Adding a new visualization to the listing
+
+- The visualization list is maintained in the `app\allVisualizationDetails.json` file. To add a new visualization to the listing, add the details of the visualization to this file with the relevant details.
+- For the individual visualization pages, the layout is wrapped by the `VisualizationContainerFrame` component which automatically fetches the name and description of the visualization from the `allVisualizationDetails.json` file based on the url path. So it is mandatory to add the details of the visualization to the `allVisualizationDetails.json` file to ensure that the page is rendered correctly.
