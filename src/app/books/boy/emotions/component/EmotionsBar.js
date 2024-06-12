@@ -1,6 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
+import { barChartAxisTitle } from "@/app/utils/styles/chartjsDefaultStyles";
 
 const EmotionsChart = (props) => {
   const [chartData, setChartData] = useState();
@@ -34,10 +35,20 @@ const EmotionsChart = (props) => {
             y: {
               beginAtZero: true,
               grace: "5%",
+              title: {
+                display: true,
+                text: props?.yAxisTitle || "",
+                ...barChartAxisTitle,
+              },
             },
             x: {
               grace: "5%",
               stacked: props.stacked === undefined ? false : props.stacked,
+              title: {
+                display: true,
+                text: props?.xAxisTitle || "",
+                ...barChartAxisTitle,
+              },
             },
           },
           responsive: true,

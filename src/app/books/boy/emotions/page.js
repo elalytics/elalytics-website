@@ -60,6 +60,8 @@ export default function Home() {
           data={convertCharactersDataBasedOnEmotionsStack(data)}
           stacked={true}
           axis="y"
+          xAxisTitle="Number of Words"
+          yAxisTitle="Emotions"
         />
       </div>
       <div className="my-12">
@@ -69,6 +71,8 @@ export default function Home() {
         <EmotionsChart
           data={convertEmotionsDataBasedOnCharacters(data)}
           axis="x"
+          xAxisTitle="Characters"
+          yAxisTitle="Number of Words"
         />
       </div>
     </div>
