@@ -160,7 +160,8 @@ const EmotionsLineChart = (props) => {
 
   return (
     <div style={{ width: "100%" }}>
-      <p className="text-center italic">Click on the legend to filter</p>
+      <p className="text-center italic mb-4">Click on the legend to filter</p>
+      <p className="text-center">Legend</p>
       <canvas ref={chartContainer} />
     </div>
   );

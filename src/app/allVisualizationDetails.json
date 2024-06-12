@@ -220,7 +220,7 @@
     "category": "Line Graph",
     "title": "Suspense Over Time",
     "textName": "The Lottery",
-    "description": "<div class=\"space-y-3\"><p>This visualization shows the suspense. The <strong>suspense score</strong> is first computed for each line and the suspense scores for all the lines in a paragraph are averaged to get the paragraph&apos;s suspense score. The suspense score for each line is computed with the NRC Valence, Arousal, and Dominance lexicon. The NRC Valence, Arousal, and Dominance (VAD) Lexicon includes a list of more than 20,000 English words and their valence, arousal, and dominance scores. These scores represent how a word could contribute to the suspense of a sentence. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the suspense. The red color gradient represents the intensity of the suspense. The <strong>suspense score</strong> is first computed for each line and the suspense scores for all the lines in a paragraph are averaged to get the paragraph&apos;s suspense score. The suspense score for each line is computed with the NRC Valence, Arousal, and Dominance lexicon. The NRC Valence, Arousal, and Dominance (VAD) Lexicon includes a list of more than 20,000 English words and their valence, arousal, and dominance scores. These scores represent how a word could contribute to the suspense of a sentence. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": true,
     "link": "/short-stories/lottery/suspense"
   },
@@ -256,7 +256,7 @@
     "category": "Line Graph",
     "title": "Suspense Over Time",
     "textName": "The Elevator",
-    "description": "<div class=\"space-y-3\"><p>This visualization shows the suspense. The <strong>suspense score</strong> is first computed for each line and the suspense scores for all the lines in a paragraph are averaged to get the paragraph&apos;s suspense score. The suspense score for each line is computed with the NRC Valence, Arousal, and Dominance lexicon. The NRC Valence, Arousal, and Dominance (VAD) Lexicon includes a list of more than 20,000 English words and their valence, arousal, and dominance scores. These scores represent how a word could contribute to the suspense of a sentence. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the suspense. The red color gradient represents the intensity of the suspense. The <strong>suspense score</strong> is first computed for each line and the suspense scores for all the lines in a paragraph are averaged to get the paragraph&apos;s suspense score. The suspense score for each line is computed with the NRC Valence, Arousal, and Dominance lexicon. The NRC Valence, Arousal, and Dominance (VAD) Lexicon includes a list of more than 20,000 English words and their valence, arousal, and dominance scores. These scores represent how a word could contribute to the suspense of a sentence. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": true,
     "link": "/short-stories/the-elevator/suspense"
   },
@@ -283,7 +283,7 @@
     "category": "Bar Chart",
     "title": "Sentence Length Over Time",
     "textName": "The Wife's Story",
-    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. Each color group corresponds to a paragraph. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
     "interactivity": true,
     "link": "/short-stories/wife-story/sentence-length-bar"
   },
