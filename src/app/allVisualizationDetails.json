@@ -358,5 +358,293 @@
     "description": "<div class=\"space-y-3\"><p>This visualization shows the top 10 words in the text and their most associated words. It is a network graph that clusters and links the words based on their relevance/association with each other. For example, the association between word A and word B is identified by calculating the frequency in which the word A and word B appear together within a window of 5 words.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": false,
     "link": "https://drive.google.com/file/d/1h9DSYD0Pt6vf9LuXLRBbnSnLFUU84NwO/view?usp=sharing"
+  },
+    "/books/annabel-lee/verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Annabel Lee",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/annabel-lee/verbs"
+  },
+    "/books/annabel-lee/nouns": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Annabel Lee",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/annabel-lee/nouns"
+  },
+    "/books/annabel-lee/sentence-length": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Annabel Lee",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/annabel-lee/sentence-length"
+  },
+    "/books/annabel-lee/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Annabel Lee",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/annabel-lee/top-words-whole-bar"
+  },
+    "/books/the-raven/verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "The Raven",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/the-raven/verbs"
+  },
+    "/books/the-raven/nouns": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "The Raven",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/the-raven/nouns"
+  },
+    "/books/the-raven/sentence-length": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "The Raven",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/the-raven/sentence-length"
+  },
+    "/books/the-raven/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "The Raven",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/the-raven/top-words-whole-bar"
+  },
+    "/books/amontillado/verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Cask of Amontillado",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/amontillado/verbs"
+  },
+    "/books/amontillado/nouns": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Cask of Amontillado",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/amontillado/nouns"
+  },
+    "/books/amontillado/sentence-length": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Cask of Amontillado",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/amontillado/sentence-length"
+  },
+    "/books/amontillado/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Cask of Amontillado",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/amontillado/top-words-whole-bar"
+  },
+    "/books/rue-morgue/verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Murders of Rue Morgue",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/rue-morgue/verbs"
+  },
+    "/books/rue-morgue/nouns": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Murders of Rue Morgue",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/rue-morgue/nouns"
+  },
+    "/books/rue-morgue/sentence-length": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Murders of Rue Morgue",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/rue-morgue/sentence-length"
+  },
+    "/books/rue-morgue/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Murders of Rue Morgue",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/rue-morgue/top-words-whole-bar"
+  },
+    "/books/tell-tale/verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "The Tell-Tale Heart",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/tell-tale/verbs"
+  },
+    "/books/tell-tale/nouns": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "The Tell-Tale Heart",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/tell-tale/nouns"
+  },
+    "/books/tell-tale/sentence-length": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "The Tell-Tale Heart",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/tell-tale/sentence-length"
+  },
+    "/books/tell-tale/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "The Tell-Tale Heart",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/tell-tale/top-words-whole-bar"
+  },
+    "/books/maroo/verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Maroo of Winter Caves",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/maroo/verbs"
+  },
+    "/books/maroo/nouns": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Maroo of Winter Caves",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/maroo/nouns"
+  },
+    "/books/maroo/sentence-length": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Maroo of Winter Caves",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/maroo/sentence-length"
+  },
+    "/books/maroo/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Maroo of Winter Caves",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/maroo/top-words-whole-bar"
+  },
+    "/books/solo/verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Going Solo",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/solo/verbs"
+  },
+    "/books/solo/nouns": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Going Solo",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/solo/nouns"
+  },
+    "/books/solo/sentence-length": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Going Solo",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/solo/sentence-length"
+  },
+    "/books/solo/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Going Solo",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/solo/top-words-whole-bar"
+  },
+    "/books/mockingbird/verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "To Kill a Mockingbird",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/mockingbird/verbs"
+  },
+    "/books/mockingbird/nouns": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "To Kill a Mockingbird",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/mockingbird/nouns"
+  },
+    "/books/mockingbird/sentence-length": {
+    "grade": "Grade 6",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "To Kill a Mockingbird",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/mockingbird/sentence-length"
+  },
+    "/books/mockingbird/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "To Kill a Mockingbird",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/mockingbird/top-words-whole-bar"
   }
 }
