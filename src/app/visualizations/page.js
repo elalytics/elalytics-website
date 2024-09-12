@@ -40,6 +40,14 @@ const VizItem = ({ item }) => {
     Chocolate: "/imgs/textCovers/chocolate.jpg",
     "Demystifying Brain": "/imgs/textCovers/demystifying-brain.png",
     "Phineas Gage": "/imgs/textCovers/phineas-gage.jpeg",
+    "Annabel Lee": "/imgs/textCovers/annabel-lee.jpg",
+    "The Raven": "/imgs/textCovers/the-raven.jpg",
+    "Cask of Amontillado": "/imgs/textCovers/amontillado.jpg",
+    "Murders of Rue Morgue": "/imgs/textCovers/rue-morgue.jpg",
+    "The Tell-Tale Heart": "/imgs/textCovers/tell-tale.jpeg",
+    "Maroo of Winter Caves": "/imgs/textCovers/maroo.jpg",
+    "Going Solo": "/imgs/textCovers/solo.jpg",
+    "To Kill a Mockingbird": "/imgs/textCovers/mockingbird.jpg",
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">
