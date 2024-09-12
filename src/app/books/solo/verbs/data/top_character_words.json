@@ -1,0 +1,182 @@
+[
+  {
+    "word": "be",
+    "value": 2295
+  },
+  {
+    "word": "have",
+    "value": 790
+  },
+  {
+    "word": "say",
+    "value": 535
+  },
+  {
+    "word": "do",
+    "value": 431
+  },
+  {
+    "word": "go",
+    "value": 347
+  },
+  {
+    "word": "see",
+    "value": 251
+  },
+  {
+    "word": "get",
+    "value": 238
+  },
+  {
+    "word": "could",
+    "value": 184
+  },
+  {
+    "word": "come",
+    "value": 164
+  },
+  {
+    "word": "fly",
+    "value": 146
+  },
+  {
+    "word": "take",
+    "value": 141
+  },
+  {
+    "word": "would",
+    "value": 139
+  },
+  {
+    "word": "know",
+    "value": 130
+  },
+  {
+    "word": "can",
+    "value": 118
+  },
+  {
+    "word": "tell",
+    "value": 110
+  },
+  {
+    "word": "look",
+    "value": 103
+  },
+  {
+    "word": "think",
+    "value": 101
+  },
+  {
+    "word": "make",
+    "value": 97
+  },
+  {
+    "word": "ask",
+    "value": 95
+  },
+  {
+    "word": "will",
+    "value": 85
+  },
+  {
+    "word": "give",
+    "value": 79
+  },
+  {
+    "word": "sit",
+    "value": 78
+  },
+  {
+    "word": "try",
+    "value": 77
+  },
+  {
+    "word": "run",
+    "value": 72
+  },
+  {
+    "word": "stand",
+    "value": 69
+  },
+  {
+    "word": "call",
+    "value": 68
+  },
+  {
+    "word": "begin",
+    "value": 64
+  },
+  {
+    "word": "find",
+    "value": 63
+  },
+  {
+    "word": "keep",
+    "value": 58
+  },
+  {
+    "word": "wait",
+    "value": 58
+  },
+  {
+    "word": "want",
+    "value": 53
+  },
+  {
+    "word": "put",
+    "value": 52
+  },
+  {
+    "word": "start",
+    "value": 50
+  },
+  {
+    "word": "feel",
+    "value": 49
+  },
+  {
+    "word": "must",
+    "value": 46
+  },
+  {
+    "word": "seem",
+    "value": 46
+  },
+  {
+    "word": "shout",
+    "value": 45
+  },
+  {
+    "word": "happen",
+    "value": 42
+  },
+  {
+    "word": "hear",
+    "value": 42
+  },
+  {
+    "word": "shoot",
+    "value": 42
+  },
+  {
+    "word": "turn",
+    "value": 39
+  },
+  {
+    "word": "leave",
+    "value": 38
+  },
+  {
+    "word": "lie",
+    "value": 38
+  },
+  {
+    "word": "stop",
+    "value": 37
+  },
+  {
+    "word": "watch",
+    "value": 37
+  }
+]
