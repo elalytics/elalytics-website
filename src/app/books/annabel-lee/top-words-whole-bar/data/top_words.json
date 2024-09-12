@@ -1,0 +1,322 @@
+[
+  {
+    "word": "sea",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "annabel",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "lee",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "kingdom",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "love",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "beautiful",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "love",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "heaven",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "ago",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "maiden",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "live",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "child",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "reason",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "wind",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "cloud",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "sepulchre",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "angel",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "night",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "soul",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "darling",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "year",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "thought",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "winged",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "seraph",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "covet",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "long",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "blow",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "chill",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "highborn",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "kinsman",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bear",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "shut",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "half",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "happy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "go",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "envy",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "yes",
+    "category": "INTJ",
+    "value": 1
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "chilling",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "kill",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "strong",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "wise",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "demon",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dissever",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "moon",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "beam",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "bring",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "dream",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "star",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rise",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "feel",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "bright",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "eye",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "tide",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "lie",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "life",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bride",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "tomb",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sound",
+    "category": "VERB",
+    "value": 1
+  }
+]
