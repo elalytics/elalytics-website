@@ -1,4 +1,4 @@
-import data from "../data/chapters/boy_topwords_chapter_6.json";
+import data from "../data/chapters/red_scarf_topwords_chapter_6.json";
 import chapterInfo from "../data/chapter-info.json";
 import wordsToRemove from "../data/words-to-remove.json";
 import categoriesToRemove from "../data/categories-to-remove.json";
