@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 169
+  },
+  {
+    "word": "have",
+    "value": 69
+  },
+  {
+    "word": "do",
+    "value": 54
+  },
+  {
+    "word": "say",
+    "value": 27
+  },
+  {
+    "word": "know",
+    "value": 16
+  },
+  {
+    "word": "could",
+    "value": 15
+  },
+  {
+    "word": "look",
+    "value": 14
+  },
+  {
+    "word": "take",
+    "value": 13
+  },
+  {
+    "word": "would",
+    "value": 12
+  },
+  {
+    "word": "tell",
+    "value": 12
+  },
+  {
+    "word": "go",
+    "value": 12
+  },
+  {
+    "word": "see",
+    "value": 11
+  },
+  {
+    "word": "want",
+    "value": 10
+  },
+  {
+    "word": "\u2019",
+    "value": 10
+  },
+  {
+    "word": "stand",
+    "value": 8
+  },
+  {
+    "word": "come",
+    "value": 7
+  },
+  {
+    "word": "ask",
+    "value": 7
+  },
+  {
+    "word": "elect",
+    "value": 7
+  },
+  {
+    "word": "call",
+    "value": 7
+  },
+  {
+    "word": "talk",
+    "value": 7
+  },
+  {
+    "word": "remold",
+    "value": 7
+  },
+  {
+    "word": "turn",
+    "value": 6
+  },
+  {
+    "word": "watch",
+    "value": 6
+  },
+  {
+    "word": "sit",
+    "value": 6
+  },
+  {
+    "word": "stare",
+    "value": 6
+  },
+  {
+    "word": "happen",
+    "value": 6
+  },
+  {
+    "word": "listen",
+    "value": 6
+  },
+  {
+    "word": "can",
+    "value": 6
+  },
+  {
+    "word": "need",
+    "value": 6
+  },
+  {
+    "word": "hear",
+    "value": 5
+  },
+  {
+    "word": "stay",
+    "value": 5
+  },
+  {
+    "word": "should",
+    "value": 5
+  },
+  {
+    "word": "make",
+    "value": 5
+  },
+  {
+    "word": "try",
+    "value": 5
+  },
+  {
+    "word": "will",
+    "value": 5
+  },
+  {
+    "word": "begin",
+    "value": 4
+  },
+  {
+    "word": "feel",
+    "value": 4
+  },
+  {
+    "word": "get",
+    "value": 4
+  },
+  {
+    "word": "work",
+    "value": 4
+  },
+  {
+    "word": "think",
+    "value": 4
+  },
+  {
+    "word": "live",
+    "value": 4
+  },
+  {
+    "word": "die",
+    "value": 4
+  },
+  {
+    "word": "wish",
+    "value": 4
+  },
+  {
+    "word": "bear",
+    "value": 4
+  },
+  {
+    "word": "lie",
+    "value": 3
+  },
+  {
+    "word": "find",
+    "value": 3
+  },
+  {
+    "word": "start",
+    "value": 3
+  },
+  {
+    "word": "establish",
+    "value": 3
+  },
+  {
+    "word": "shout",
+    "value": 3
+  },
+  {
+    "word": "become",
+    "value": 3
+  }
+]

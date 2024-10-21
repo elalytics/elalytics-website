@@ -1,0 +1,202 @@
+[
+  {
+    "word": "mother",
+    "value": 16
+  },
+  {
+    "word": "man",
+    "value": 16
+  },
+  {
+    "word": "bull",
+    "value": 15
+  },
+  {
+    "word": "monster",
+    "value": 14
+  },
+  {
+    "word": "head",
+    "value": 11
+  },
+  {
+    "word": "mom",
+    "value": 10
+  },
+  {
+    "word": "side",
+    "value": 10
+  },
+  {
+    "word": "rain",
+    "value": 9
+  },
+  {
+    "word": "eye",
+    "value": 9
+  },
+  {
+    "word": "time",
+    "value": 8
+  },
+  {
+    "word": "flash",
+    "value": 7
+  },
+  {
+    "word": "tree",
+    "value": 7
+  },
+  {
+    "word": "horn",
+    "value": 7
+  },
+  {
+    "word": "way",
+    "value": 6
+  },
+  {
+    "word": "car",
+    "value": 6
+  },
+  {
+    "word": "hand",
+    "value": 6
+  },
+  {
+    "word": "light",
+    "value": 6
+  },
+  {
+    "word": "road",
+    "value": 5
+  },
+  {
+    "word": "lightning",
+    "value": 5
+  },
+  {
+    "word": "friend",
+    "value": 5
+  },
+  {
+    "word": "thing",
+    "value": 5
+  },
+  {
+    "word": "grass",
+    "value": 5
+  },
+  {
+    "word": "farmhouse",
+    "value": 4
+  },
+  {
+    "word": "hill",
+    "value": 4
+  },
+  {
+    "word": "neck",
+    "value": 4
+  },
+  {
+    "word": "door",
+    "value": 4
+  },
+  {
+    "word": "roof",
+    "value": 4
+  },
+  {
+    "word": "pine",
+    "value": 4
+  },
+  {
+    "word": "arm",
+    "value": 4
+  },
+  {
+    "word": "smell",
+    "value": 3
+  },
+  {
+    "word": "waist",
+    "value": 3
+  },
+  {
+    "word": "lady",
+    "value": 3
+  },
+  {
+    "word": "moment",
+    "value": 3
+  },
+  {
+    "word": "mud",
+    "value": 3
+  },
+  {
+    "word": "shoulder",
+    "value": 3
+  },
+  {
+    "word": "blanket",
+    "value": 3
+  },
+  {
+    "word": "rage",
+    "value": 3
+  },
+  {
+    "word": "fear",
+    "value": 3
+  },
+  {
+    "word": "ground",
+    "value": 3
+  },
+  {
+    "word": "jacket",
+    "value": 3
+  },
+  {
+    "word": "idea",
+    "value": 3
+  },
+  {
+    "word": "foot",
+    "value": 2
+  },
+  {
+    "word": "backseat",
+    "value": 2
+  },
+  {
+    "word": "kind",
+    "value": 2
+  },
+  {
+    "word": "barnyard",
+    "value": 2
+  },
+  {
+    "word": "animal",
+    "value": 2
+  },
+  {
+    "word": "human",
+    "value": 2
+  },
+  {
+    "word": "noise",
+    "value": 2
+  },
+  {
+    "word": "blood",
+    "value": 2
+  },
+  {
+    "word": "left",
+    "value": 2
+  }
+]

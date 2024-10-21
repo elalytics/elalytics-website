@@ -646,5 +646,68 @@
     "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": false,
     "link": "/books/mockingbird/top-words-whole-bar"
+  },
+  "/books/red_scarf/chapter-word-clouds": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns (by chapter)",
+    "textName": "Red Scarf",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent nouns that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/red_scarf/chapter-word-clouds"
+  },
+  "/books/red_scarf/chapter-word-clouds-verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs (by chapter)",
+    "textName": "Red Scarf",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent verbs that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/red_scarf/chapter-word-clouds-verbs"
+  },
+  "/books/red_scarf/chapter-word-clouds-red": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Red Objects (by chapter)",
+    "textName": "Red Scarf",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/red_scarf/chapter-word-clouds-red"
+  },
+    "/books/lightning_thief/chapter-word-clouds-verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs (by chapter)",
+    "textName": "Lightning Thief",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/lightning_thief/chapter-word-clouds-verbs"
+  },
+  "/books/lightning_thief/chapter-word-clouds": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns (by chapter)",
+    "textName": "Lightning Thief",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent nouns that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/lightning_thief/chapter-word-clouds"
+  },
+    "/books/midsummer/chapter-word-clouds-verbs": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs (by scene)",
+    "textName": "A Midsummer Night's Dream",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/midsummer/chapter-word-clouds-verbs"
+  },
+  "/books/midsummer/chapter-word-clouds": {
+    "grade": "Grade 6",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns (by scene)",
+    "textName": "A Midsummer Night's Dream",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent nouns that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/midsummer/chapter-word-clouds"
   }
 }

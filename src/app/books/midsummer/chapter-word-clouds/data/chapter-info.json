@@ -1,0 +1,36 @@
+[
+  { "chapter": "1", "chapterName": "Act 1. Scene 1" },
+  {
+    "chapter": "2",
+    "chapterName": "Act 1. Scene 2"
+  },
+  {
+    "chapter": "3",
+    "chapterName": "Act 2. Scene 1"
+  },
+  {
+    "chapter": "4",
+    "chapterName": "Act 2. Scene 2"
+  },
+    {
+    "chapter": "5",
+    "chapterName": "Act 3. Scene 1"
+  },
+  {
+    "chapter": "6",
+    "chapterName": "Act 3. Scene 2"
+  },
+
+  {
+    "chapter": "7",
+    "chapterName": "Act 4. Scene 1"
+  },
+  {
+    "chapter": "8",
+    "chapterName": "Act 4. Scene 2"
+  },
+  {
+    "chapter": "9",
+    "chapterName": "Act 5. Scene 1"
+  }
+]

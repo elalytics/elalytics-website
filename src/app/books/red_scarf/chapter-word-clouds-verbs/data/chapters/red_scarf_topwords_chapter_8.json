@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 111
+  },
+  {
+    "word": "have",
+    "value": 60
+  },
+  {
+    "word": "could",
+    "value": 21
+  },
+  {
+    "word": "do",
+    "value": 19
+  },
+  {
+    "word": "look",
+    "value": 17
+  },
+  {
+    "word": "see",
+    "value": 17
+  },
+  {
+    "word": "would",
+    "value": 16
+  },
+  {
+    "word": "go",
+    "value": 16
+  },
+  {
+    "word": "say",
+    "value": 14
+  },
+  {
+    "word": "hear",
+    "value": 13
+  },
+  {
+    "word": "feel",
+    "value": 10
+  },
+  {
+    "word": "stand",
+    "value": 9
+  },
+  {
+    "word": "sit",
+    "value": 9
+  },
+  {
+    "word": "think",
+    "value": 8
+  },
+  {
+    "word": "take",
+    "value": 8
+  },
+  {
+    "word": "wear",
+    "value": 7
+  },
+  {
+    "word": "come",
+    "value": 7
+  },
+  {
+    "word": "help",
+    "value": 6
+  },
+  {
+    "word": "lie",
+    "value": 6
+  },
+  {
+    "word": "return",
+    "value": 5
+  },
+  {
+    "word": "bow",
+    "value": 5
+  },
+  {
+    "word": "give",
+    "value": 5
+  },
+  {
+    "word": "refuse",
+    "value": 5
+  },
+  {
+    "word": "ask",
+    "value": 5
+  },
+  {
+    "word": "wait",
+    "value": 5
+  },
+  {
+    "word": "shout",
+    "value": 5
+  },
+  {
+    "word": "start",
+    "value": 4
+  },
+  {
+    "word": "hold",
+    "value": 4
+  },
+  {
+    "word": "establish",
+    "value": 4
+  },
+  {
+    "word": "carry",
+    "value": 4
+  },
+  {
+    "word": "begin",
+    "value": 4
+  },
+  {
+    "word": "confess",
+    "value": 4
+  },
+  {
+    "word": "watch",
+    "value": 4
+  },
+  {
+    "word": "seem",
+    "value": 4
+  },
+  {
+    "word": "happen",
+    "value": 4
+  },
+  {
+    "word": "know",
+    "value": 4
+  },
+  {
+    "word": "sleep",
+    "value": 4
+  },
+  {
+    "word": "walk",
+    "value": 4
+  },
+  {
+    "word": "\u2019ll",
+    "value": 4
+  },
+  {
+    "word": "jump",
+    "value": 4
+  },
+  {
+    "word": "make",
+    "value": 4
+  },
+  {
+    "word": "notice",
+    "value": 3
+  },
+  {
+    "word": "cover",
+    "value": 3
+  },
+  {
+    "word": "dress",
+    "value": 3
+  },
+  {
+    "word": "eat",
+    "value": 3
+  },
+  {
+    "word": "work",
+    "value": 3
+  },
+  {
+    "word": "let",
+    "value": 3
+  },
+  {
+    "word": "throw",
+    "value": 3
+  },
+  {
+    "word": "raise",
+    "value": 3
+  },
+  {
+    "word": "pull",
+    "value": 3
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 101
+  },
+  {
+    "word": "have",
+    "value": 41
+  },
+  {
+    "word": "do",
+    "value": 31
+  },
+  {
+    "word": "go",
+    "value": 18
+  },
+  {
+    "word": "feel",
+    "value": 14
+  },
+  {
+    "word": "would",
+    "value": 12
+  },
+  {
+    "word": "want",
+    "value": 11
+  },
+  {
+    "word": "say",
+    "value": 11
+  },
+  {
+    "word": "could",
+    "value": 11
+  },
+  {
+    "word": "see",
+    "value": 11
+  },
+  {
+    "word": "think",
+    "value": 11
+  },
+  {
+    "word": "take",
+    "value": 11
+  },
+  {
+    "word": "cry",
+    "value": 11
+  },
+  {
+    "word": "finish",
+    "value": 10
+  },
+  {
+    "word": "look",
+    "value": 9
+  },
+  {
+    "word": "cut",
+    "value": 9
+  },
+  {
+    "word": "seem",
+    "value": 8
+  },
+  {
+    "word": "\u2019",
+    "value": 8
+  },
+  {
+    "word": "\u2019ll",
+    "value": 8
+  },
+  {
+    "word": "get",
+    "value": 8
+  },
+  {
+    "word": "know",
+    "value": 7
+  },
+  {
+    "word": "turn",
+    "value": 7
+  },
+  {
+    "word": "tell",
+    "value": 6
+  },
+  {
+    "word": "move",
+    "value": 6
+  },
+  {
+    "word": "help",
+    "value": 6
+  },
+  {
+    "word": "come",
+    "value": 6
+  },
+  {
+    "word": "run",
+    "value": 6
+  },
+  {
+    "word": "stop",
+    "value": 6
+  },
+  {
+    "word": "walk",
+    "value": 5
+  },
+  {
+    "word": "make",
+    "value": 5
+  },
+  {
+    "word": "work",
+    "value": 5
+  },
+  {
+    "word": "will",
+    "value": 5
+  },
+  {
+    "word": "put",
+    "value": 5
+  },
+  {
+    "word": "fall",
+    "value": 5
+  },
+  {
+    "word": "stand",
+    "value": 5
+  },
+  {
+    "word": "hear",
+    "value": 4
+  },
+  {
+    "word": "try",
+    "value": 4
+  },
+  {
+    "word": "smile",
+    "value": 4
+  },
+  {
+    "word": "force",
+    "value": 4
+  },
+  {
+    "word": "sit",
+    "value": 4
+  },
+  {
+    "word": "hold",
+    "value": 4
+  },
+  {
+    "word": "talk",
+    "value": 3
+  },
+  {
+    "word": "pass",
+    "value": 3
+  },
+  {
+    "word": "throw",
+    "value": 3
+  },
+  {
+    "word": "send",
+    "value": 3
+  },
+  {
+    "word": "wonder",
+    "value": 3
+  },
+  {
+    "word": "ask",
+    "value": 3
+  },
+  {
+    "word": "assign",
+    "value": 3
+  },
+  {
+    "word": "rest",
+    "value": 3
+  },
+  {
+    "word": "remold",
+    "value": 3
+  }
+]

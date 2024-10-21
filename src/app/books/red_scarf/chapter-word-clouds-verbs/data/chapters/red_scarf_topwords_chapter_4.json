@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 102
+  },
+  {
+    "word": "have",
+    "value": 38
+  },
+  {
+    "word": "do",
+    "value": 22
+  },
+  {
+    "word": "could",
+    "value": 20
+  },
+  {
+    "word": "write",
+    "value": 16
+  },
+  {
+    "word": "go",
+    "value": 16
+  },
+  {
+    "word": "say",
+    "value": 15
+  },
+  {
+    "word": "see",
+    "value": 12
+  },
+  {
+    "word": "read",
+    "value": 12
+  },
+  {
+    "word": "look",
+    "value": 12
+  },
+  {
+    "word": "\u2019",
+    "value": 11
+  },
+  {
+    "word": "think",
+    "value": 8
+  },
+  {
+    "word": "make",
+    "value": 8
+  },
+  {
+    "word": "would",
+    "value": 7
+  },
+  {
+    "word": "take",
+    "value": 7
+  },
+  {
+    "word": "come",
+    "value": 7
+  },
+  {
+    "word": "get",
+    "value": 6
+  },
+  {
+    "word": "let",
+    "value": 6
+  },
+  {
+    "word": "feel",
+    "value": 6
+  },
+  {
+    "word": "tell",
+    "value": 5
+  },
+  {
+    "word": "know",
+    "value": 5
+  },
+  {
+    "word": "shout",
+    "value": 5
+  },
+  {
+    "word": "copy",
+    "value": 5
+  },
+  {
+    "word": "stop",
+    "value": 5
+  },
+  {
+    "word": "try",
+    "value": 5
+  },
+  {
+    "word": "shake",
+    "value": 5
+  },
+  {
+    "word": "run",
+    "value": 4
+  },
+  {
+    "word": "put",
+    "value": 4
+  },
+  {
+    "word": "teach",
+    "value": 4
+  },
+  {
+    "word": "want",
+    "value": 4
+  },
+  {
+    "word": "hold",
+    "value": 4
+  },
+  {
+    "word": "become",
+    "value": 4
+  },
+  {
+    "word": "believe",
+    "value": 3
+  },
+  {
+    "word": "criticize",
+    "value": 3
+  },
+  {
+    "word": "call",
+    "value": 3
+  },
+  {
+    "word": "stare",
+    "value": 3
+  },
+  {
+    "word": "give",
+    "value": 3
+  },
+  {
+    "word": "smile",
+    "value": 3
+  },
+  {
+    "word": "fail",
+    "value": 3
+  },
+  {
+    "word": "speak",
+    "value": 3
+  },
+  {
+    "word": "ask",
+    "value": 3
+  },
+  {
+    "word": "stand",
+    "value": 3
+  },
+  {
+    "word": "laugh",
+    "value": 3
+  },
+  {
+    "word": "post",
+    "value": 3
+  },
+  {
+    "word": "live",
+    "value": 3
+  },
+  {
+    "word": "like",
+    "value": 3
+  },
+  {
+    "word": "pick",
+    "value": 3
+  },
+  {
+    "word": "will",
+    "value": 3
+  },
+  {
+    "word": "wipe",
+    "value": 3
+  },
+  {
+    "word": "bring",
+    "value": 2
+  }
+]

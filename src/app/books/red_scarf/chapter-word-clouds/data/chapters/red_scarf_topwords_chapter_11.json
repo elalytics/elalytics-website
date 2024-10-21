@@ -1,0 +1,202 @@
+[
+  {
+    "word": "class",
+    "value": 45
+  },
+  {
+    "word": "teacher",
+    "value": 24
+  },
+  {
+    "word": "school",
+    "value": 10
+  },
+  {
+    "word": "hand",
+    "value": 10
+  },
+  {
+    "word": "boy",
+    "value": 9
+  },
+  {
+    "word": "classroom",
+    "value": 9
+  },
+  {
+    "word": "blackboard",
+    "value": 9
+  },
+  {
+    "word": "voice",
+    "value": 9
+  },
+  {
+    "word": "year",
+    "value": 8
+  },
+  {
+    "word": "classmate",
+    "value": 8
+  },
+  {
+    "word": "desk",
+    "value": 8
+  },
+  {
+    "word": "eye",
+    "value": 7
+  },
+  {
+    "word": "time",
+    "value": 7
+  },
+  {
+    "word": "day",
+    "value": 6
+  },
+  {
+    "word": "face",
+    "value": 6
+  },
+  {
+    "word": "life",
+    "value": 6
+  },
+  {
+    "word": "front",
+    "value": 5
+  },
+  {
+    "word": "room",
+    "value": 5
+  },
+  {
+    "word": "deskmate",
+    "value": 5
+  },
+  {
+    "word": "study",
+    "value": 5
+  },
+  {
+    "word": "back",
+    "value": 5
+  },
+  {
+    "word": "head",
+    "value": 5
+  },
+  {
+    "word": "row",
+    "value": 4
+  },
+  {
+    "word": "arm",
+    "value": 4
+  },
+  {
+    "word": "people",
+    "value": 4
+  },
+  {
+    "word": "one",
+    "value": 4
+  },
+  {
+    "word": "work",
+    "value": 4
+  },
+  {
+    "word": "handout",
+    "value": 4
+  },
+  {
+    "word": "newspaper",
+    "value": 4
+  },
+  {
+    "word": "pocket",
+    "value": 4
+  },
+  {
+    "word": "student",
+    "value": 3
+  },
+  {
+    "word": "speech",
+    "value": 3
+  },
+  {
+    "word": "building",
+    "value": 3
+  },
+  {
+    "word": "man",
+    "value": 3
+  },
+  {
+    "word": "document",
+    "value": 3
+  },
+  {
+    "word": "word",
+    "value": 3
+  },
+  {
+    "word": "glass",
+    "value": 3
+  },
+  {
+    "word": "jacket",
+    "value": 3
+  },
+  {
+    "word": "fact",
+    "value": 3
+  },
+  {
+    "word": "exercise",
+    "value": 3
+  },
+  {
+    "word": "door",
+    "value": 3
+  },
+  {
+    "word": "mistake",
+    "value": 3
+  },
+  {
+    "word": "family",
+    "value": 3
+  },
+  {
+    "word": "cover",
+    "value": 3
+  },
+  {
+    "word": "note",
+    "value": 3
+  },
+  {
+    "word": "morning",
+    "value": 2
+  },
+  {
+    "word": "auditorium",
+    "value": 2
+  },
+  {
+    "word": "chairman",
+    "value": 2
+  },
+  {
+    "word": "attention",
+    "value": 2
+  },
+  {
+    "word": "ear",
+    "value": 2
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "word": "ball",
+    "value": 14
+  },
+  {
+    "word": "spirit",
+    "value": 10
+  },
+  {
+    "word": "monster",
+    "value": 10
+  },
+  {
+    "word": "head",
+    "value": 10
+  },
+  {
+    "word": "people",
+    "value": 8
+  },
+  {
+    "word": "eye",
+    "value": 8
+  },
+  {
+    "word": "coin",
+    "value": 8
+  },
+  {
+    "word": "dog",
+    "value": 8
+  },
+  {
+    "word": "plan",
+    "value": 7
+  },
+  {
+    "word": "elevator",
+    "value": 7
+  },
+  {
+    "word": "security",
+    "value": 6
+  },
+  {
+    "word": "death",
+    "value": 6
+  },
+  {
+    "word": "line",
+    "value": 6
+  },
+  {
+    "word": "desk",
+    "value": 5
+  },
+  {
+    "word": "hand",
+    "value": 5
+  },
+  {
+    "word": "glass",
+    "value": 4
+  },
+  {
+    "word": "door",
+    "value": 4
+  },
+  {
+    "word": "lobby",
+    "value": 4
+  },
+  {
+    "word": "\u201dWe",
+    "value": 4
+  },
+  {
+    "word": "mouth",
+    "value": 4
+  },
+  {
+    "word": "lip",
+    "value": 4
+  },
+  {
+    "word": "ghoul",
+    "value": 4
+  },
+  {
+    "word": "foot",
+    "value": 4
+  },
+  {
+    "word": "seat",
+    "value": 3
+  },
+  {
+    "word": "tag",
+    "value": 3
+  },
+  {
+    "word": "name",
+    "value": 3
+  },
+  {
+    "word": "mate",
+    "value": 3
+  },
+  {
+    "word": "finger",
+    "value": 3
+  },
+  {
+    "word": "man",
+    "value": 3
+  },
+  {
+    "word": "pay",
+    "value": 3
+  },
+  {
+    "word": "raise",
+    "value": 3
+  },
+  {
+    "word": "year",
+    "value": 3
+  },
+  {
+    "word": "boat",
+    "value": 3
+  },
+  {
+    "word": "voice",
+    "value": 3
+  },
+  {
+    "word": "thing",
+    "value": 3
+  },
+  {
+    "word": "way",
+    "value": 3
+  },
+  {
+    "word": "one",
+    "value": 3
+  },
+  {
+    "word": "air",
+    "value": 3
+  },
+  {
+    "word": "robe",
+    "value": 3
+  },
+  {
+    "word": "floor",
+    "value": 3
+  },
+  {
+    "word": "face",
+    "value": 3
+  },
+  {
+    "word": "human",
+    "value": 3
+  },
+  {
+    "word": "gloom",
+    "value": 3
+  },
+  {
+    "word": "light",
+    "value": 3
+  },
+  {
+    "word": "entrance",
+    "value": 3
+  },
+  {
+    "word": "attention",
+    "value": 3
+  },
+  {
+    "word": "stick",
+    "value": 3
+  },
+  {
+    "word": "gold",
+    "value": 2
+  },
+  {
+    "word": "guard",
+    "value": 2
+  },
+  {
+    "word": "friend",
+    "value": 2
+  }
+]

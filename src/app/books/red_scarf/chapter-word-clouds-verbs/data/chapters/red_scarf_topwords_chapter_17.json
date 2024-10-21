@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 102
+  },
+  {
+    "word": "have",
+    "value": 41
+  },
+  {
+    "word": "go",
+    "value": 28
+  },
+  {
+    "word": "do",
+    "value": 27
+  },
+  {
+    "word": "could",
+    "value": 17
+  },
+  {
+    "word": "look",
+    "value": 14
+  },
+  {
+    "word": "say",
+    "value": 11
+  },
+  {
+    "word": "will",
+    "value": 11
+  },
+  {
+    "word": "let",
+    "value": 10
+  },
+  {
+    "word": "know",
+    "value": 10
+  },
+  {
+    "word": "can",
+    "value": 10
+  },
+  {
+    "word": "\u2019ll",
+    "value": 9
+  },
+  {
+    "word": "would",
+    "value": 9
+  },
+  {
+    "word": "see",
+    "value": 9
+  },
+  {
+    "word": "hear",
+    "value": 8
+  },
+  {
+    "word": "should",
+    "value": 8
+  },
+  {
+    "word": "turn",
+    "value": 7
+  },
+  {
+    "word": "stand",
+    "value": 7
+  },
+  {
+    "word": "rush",
+    "value": 7
+  },
+  {
+    "word": "lie",
+    "value": 6
+  },
+  {
+    "word": "come",
+    "value": 6
+  },
+  {
+    "word": "\u2019",
+    "value": 6
+  },
+  {
+    "word": "hold",
+    "value": 6
+  },
+  {
+    "word": "read",
+    "value": 6
+  },
+  {
+    "word": "tell",
+    "value": 6
+  },
+  {
+    "word": "get",
+    "value": 6
+  },
+  {
+    "word": "watch",
+    "value": 6
+  },
+  {
+    "word": "hide",
+    "value": 6
+  },
+  {
+    "word": "think",
+    "value": 6
+  },
+  {
+    "word": "give",
+    "value": 6
+  },
+  {
+    "word": "report",
+    "value": 5
+  },
+  {
+    "word": "find",
+    "value": 5
+  },
+  {
+    "word": "must",
+    "value": 5
+  },
+  {
+    "word": "try",
+    "value": 5
+  },
+  {
+    "word": "feel",
+    "value": 5
+  },
+  {
+    "word": "take",
+    "value": 5
+  },
+  {
+    "word": "sit",
+    "value": 5
+  },
+  {
+    "word": "cry",
+    "value": 5
+  },
+  {
+    "word": "knock",
+    "value": 4
+  },
+  {
+    "word": "pound",
+    "value": 4
+  },
+  {
+    "word": "struggle",
+    "value": 4
+  },
+  {
+    "word": "search",
+    "value": 4
+  },
+  {
+    "word": "shake",
+    "value": 4
+  },
+  {
+    "word": "walk",
+    "value": 4
+  },
+  {
+    "word": "leave",
+    "value": 4
+  },
+  {
+    "word": "open",
+    "value": 3
+  },
+  {
+    "word": "tiptoe",
+    "value": 3
+  },
+  {
+    "word": "make",
+    "value": 3
+  },
+  {
+    "word": "want",
+    "value": 3
+  },
+  {
+    "word": "beat",
+    "value": 3
+  }
+]

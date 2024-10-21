@@ -1,0 +1,202 @@
+[
+  {
+    "word": "bus",
+    "value": 18
+  },
+  {
+    "word": "time",
+    "value": 12
+  },
+  {
+    "word": "hand",
+    "value": 12
+  },
+  {
+    "word": "pen",
+    "value": 11
+  },
+  {
+    "word": "cap",
+    "value": 10
+  },
+  {
+    "word": "mom",
+    "value": 9
+  },
+  {
+    "word": "monster",
+    "value": 9
+  },
+  {
+    "word": "sword",
+    "value": 9
+  },
+  {
+    "word": "seat",
+    "value": 8
+  },
+  {
+    "word": "driver",
+    "value": 8
+  },
+  {
+    "word": "whip",
+    "value": 8
+  },
+  {
+    "word": "god",
+    "value": 7
+  },
+  {
+    "word": "mortal",
+    "value": 7
+  },
+  {
+    "word": "emergency",
+    "value": 6
+  },
+  {
+    "word": "pocket",
+    "value": 6
+  },
+  {
+    "word": "back",
+    "value": 6
+  },
+  {
+    "word": "lady",
+    "value": 6
+  },
+  {
+    "word": "aisle",
+    "value": 6
+  },
+  {
+    "word": "fury",
+    "value": 6
+  },
+  {
+    "word": "side",
+    "value": 5
+  },
+  {
+    "word": "head",
+    "value": 5
+  },
+  {
+    "word": "eye",
+    "value": 5
+  },
+  {
+    "word": "thing",
+    "value": 5
+  },
+  {
+    "word": "hill",
+    "value": 5
+  },
+  {
+    "word": "shoe",
+    "value": 5
+  },
+  {
+    "word": "backpack",
+    "value": 4
+  },
+  {
+    "word": "bronze",
+    "value": 4
+  },
+  {
+    "word": "knife",
+    "value": 4
+  },
+  {
+    "word": "apple",
+    "value": 4
+  },
+  {
+    "word": "wing",
+    "value": 4
+  },
+  {
+    "word": "quest",
+    "value": 4
+  },
+  {
+    "word": "gift",
+    "value": 4
+  },
+  {
+    "word": "idea",
+    "value": 4
+  },
+  {
+    "word": "blade",
+    "value": 4
+  },
+  {
+    "word": "child",
+    "value": 4
+  },
+  {
+    "word": "passenger",
+    "value": 4
+  },
+  {
+    "word": "exit",
+    "value": 4
+  },
+  {
+    "word": "sister",
+    "value": 4
+  },
+  {
+    "word": "horn",
+    "value": 3
+  },
+  {
+    "word": "camp",
+    "value": 3
+  },
+  {
+    "word": "bag",
+    "value": 3
+  },
+  {
+    "word": "metal",
+    "value": 3
+  },
+  {
+    "word": "foot",
+    "value": 3
+  },
+  {
+    "word": "room",
+    "value": 3
+  },
+  {
+    "word": "guy",
+    "value": 3
+  },
+  {
+    "word": "face",
+    "value": 3
+  },
+  {
+    "word": "city",
+    "value": 3
+  },
+  {
+    "word": "day",
+    "value": 3
+  },
+  {
+    "word": "man",
+    "value": 3
+  },
+  {
+    "word": "lot",
+    "value": 3
+  }
+]

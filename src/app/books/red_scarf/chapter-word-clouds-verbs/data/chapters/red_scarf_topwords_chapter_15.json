@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 76
+  },
+  {
+    "word": "have",
+    "value": 36
+  },
+  {
+    "word": "do",
+    "value": 25
+  },
+  {
+    "word": "look",
+    "value": 15
+  },
+  {
+    "word": "say",
+    "value": 14
+  },
+  {
+    "word": "could",
+    "value": 12
+  },
+  {
+    "word": "see",
+    "value": 12
+  },
+  {
+    "word": "can",
+    "value": 12
+  },
+  {
+    "word": "would",
+    "value": 11
+  },
+  {
+    "word": "go",
+    "value": 10
+  },
+  {
+    "word": "come",
+    "value": 8
+  },
+  {
+    "word": "want",
+    "value": 8
+  },
+  {
+    "word": "\u2019",
+    "value": 7
+  },
+  {
+    "word": "think",
+    "value": 7
+  },
+  {
+    "word": "know",
+    "value": 7
+  },
+  {
+    "word": "make",
+    "value": 7
+  },
+  {
+    "word": "tell",
+    "value": 6
+  },
+  {
+    "word": "talk",
+    "value": 5
+  },
+  {
+    "word": "let",
+    "value": 5
+  },
+  {
+    "word": "take",
+    "value": 5
+  },
+  {
+    "word": "stand",
+    "value": 5
+  },
+  {
+    "word": "leave",
+    "value": 5
+  },
+  {
+    "word": "sit",
+    "value": 5
+  },
+  {
+    "word": "follow",
+    "value": 5
+  },
+  {
+    "word": "run",
+    "value": 5
+  },
+  {
+    "word": "should",
+    "value": 4
+  },
+  {
+    "word": "become",
+    "value": 4
+  },
+  {
+    "word": "give",
+    "value": 4
+  },
+  {
+    "word": "speak",
+    "value": 4
+  },
+  {
+    "word": "show",
+    "value": 4
+  },
+  {
+    "word": "will",
+    "value": 4
+  },
+  {
+    "word": "quit",
+    "value": 3
+  },
+  {
+    "word": "decide",
+    "value": 3
+  },
+  {
+    "word": "must",
+    "value": 3
+  },
+  {
+    "word": "wipe",
+    "value": 3
+  },
+  {
+    "word": "hear",
+    "value": 3
+  },
+  {
+    "word": "get",
+    "value": 3
+  },
+  {
+    "word": "feel",
+    "value": 3
+  },
+  {
+    "word": "stare",
+    "value": 3
+  },
+  {
+    "word": "turn",
+    "value": 3
+  },
+  {
+    "word": "gossip",
+    "value": 2
+  },
+  {
+    "word": "prove",
+    "value": 2
+  },
+  {
+    "word": "seem",
+    "value": 2
+  },
+  {
+    "word": "lead",
+    "value": 2
+  },
+  {
+    "word": "force",
+    "value": 2
+  },
+  {
+    "word": "tear",
+    "value": 2
+  },
+  {
+    "word": "cry",
+    "value": 2
+  },
+  {
+    "word": "point",
+    "value": 2
+  },
+  {
+    "word": "finish",
+    "value": 2
+  },
+  {
+    "word": "call",
+    "value": 2
+  }
+]

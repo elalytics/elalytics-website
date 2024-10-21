@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 129
+  },
+  {
+    "word": "have",
+    "value": 40
+  },
+  {
+    "word": "do",
+    "value": 29
+  },
+  {
+    "word": "could",
+    "value": 21
+  },
+  {
+    "word": "want",
+    "value": 16
+  },
+  {
+    "word": "see",
+    "value": 16
+  },
+  {
+    "word": "go",
+    "value": 16
+  },
+  {
+    "word": "look",
+    "value": 15
+  },
+  {
+    "word": "would",
+    "value": 15
+  },
+  {
+    "word": "say",
+    "value": 14
+  },
+  {
+    "word": "know",
+    "value": 10
+  },
+  {
+    "word": "tell",
+    "value": 9
+  },
+  {
+    "word": "\u2019",
+    "value": 9
+  },
+  {
+    "word": "make",
+    "value": 8
+  },
+  {
+    "word": "will",
+    "value": 8
+  },
+  {
+    "word": "come",
+    "value": 7
+  },
+  {
+    "word": "think",
+    "value": 7
+  },
+  {
+    "word": "walk",
+    "value": 6
+  },
+  {
+    "word": "take",
+    "value": 6
+  },
+  {
+    "word": "call",
+    "value": 6
+  },
+  {
+    "word": "stand",
+    "value": 5
+  },
+  {
+    "word": "speak",
+    "value": 5
+  },
+  {
+    "word": "let",
+    "value": 5
+  },
+  {
+    "word": "lean",
+    "value": 5
+  },
+  {
+    "word": "feel",
+    "value": 5
+  },
+  {
+    "word": "help",
+    "value": 5
+  },
+  {
+    "word": "give",
+    "value": 5
+  },
+  {
+    "word": "love",
+    "value": 5
+  },
+  {
+    "word": "try",
+    "value": 4
+  },
+  {
+    "word": "raise",
+    "value": 4
+  },
+  {
+    "word": "must",
+    "value": 4
+  },
+  {
+    "word": "become",
+    "value": 4
+  },
+  {
+    "word": "wait",
+    "value": 4
+  },
+  {
+    "word": "rush",
+    "value": 4
+  },
+  {
+    "word": "put",
+    "value": 4
+  },
+  {
+    "word": "pass",
+    "value": 4
+  },
+  {
+    "word": "live",
+    "value": 4
+  },
+  {
+    "word": "smile",
+    "value": 3
+  },
+  {
+    "word": "drift",
+    "value": 3
+  },
+  {
+    "word": "burst",
+    "value": 3
+  },
+  {
+    "word": "leave",
+    "value": 3
+  },
+  {
+    "word": "\u2019ll",
+    "value": 3
+  },
+  {
+    "word": "sound",
+    "value": 3
+  },
+  {
+    "word": "hear",
+    "value": 3
+  },
+  {
+    "word": "laugh",
+    "value": 3
+  },
+  {
+    "word": "start",
+    "value": 3
+  },
+  {
+    "word": "mean",
+    "value": 3
+  },
+  {
+    "word": "stop",
+    "value": 3
+  },
+  {
+    "word": "grow",
+    "value": 3
+  },
+  {
+    "word": "cry",
+    "value": 3
+  }
+]

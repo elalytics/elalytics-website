@@ -1,0 +1,202 @@
+[
+  {
+    "word": "letter",
+    "value": 26
+  },
+  {
+    "word": "face",
+    "value": 23
+  },
+  {
+    "word": "mom",
+    "value": 13
+  },
+  {
+    "word": "room",
+    "value": 11
+  },
+  {
+    "word": "landlord",
+    "value": 10
+  },
+  {
+    "word": "wife",
+    "value": 9
+  },
+  {
+    "word": "book",
+    "value": 9
+  },
+  {
+    "word": "bed",
+    "value": 8
+  },
+  {
+    "word": "man",
+    "value": 8
+  },
+  {
+    "word": "eye",
+    "value": 7
+  },
+  {
+    "word": "body",
+    "value": 6
+  },
+  {
+    "word": "bathroom",
+    "value": 6
+  },
+  {
+    "word": "stair",
+    "value": 6
+  },
+  {
+    "word": "hand",
+    "value": 6
+  },
+  {
+    "word": "theater",
+    "value": 5
+  },
+  {
+    "word": "door",
+    "value": 5
+  },
+  {
+    "word": "paper",
+    "value": 5
+  },
+  {
+    "word": "day",
+    "value": 5
+  },
+  {
+    "word": "alley",
+    "value": 5
+  },
+  {
+    "word": "light",
+    "value": 4
+  },
+  {
+    "word": "chest",
+    "value": 4
+  },
+  {
+    "word": "head",
+    "value": 4
+  },
+  {
+    "word": "roof",
+    "value": 4
+  },
+  {
+    "word": "clothe",
+    "value": 4
+  },
+  {
+    "word": "window",
+    "value": 4
+  },
+  {
+    "word": "box",
+    "value": 4
+  },
+  {
+    "word": "time",
+    "value": 4
+  },
+  {
+    "word": "front",
+    "value": 4
+  },
+  {
+    "word": "pile",
+    "value": 4
+  },
+  {
+    "word": "mind",
+    "value": 3
+  },
+  {
+    "word": "voice",
+    "value": 3
+  },
+  {
+    "word": "minute",
+    "value": 3
+  },
+  {
+    "word": "one",
+    "value": 3
+  },
+  {
+    "word": "rest",
+    "value": 3
+  },
+  {
+    "word": "people",
+    "value": 3
+  },
+  {
+    "word": "prisoner",
+    "value": 3
+  },
+  {
+    "word": "trouble",
+    "value": 3
+  },
+  {
+    "word": "tear",
+    "value": 3
+  },
+  {
+    "word": "search",
+    "value": 3
+  },
+  {
+    "word": "ashe",
+    "value": 3
+  },
+  {
+    "word": "corner",
+    "value": 3
+  },
+  {
+    "word": "tomorrow",
+    "value": 3
+  },
+  {
+    "word": "wall",
+    "value": 3
+  },
+  {
+    "word": "silence",
+    "value": 3
+  },
+  {
+    "word": "work",
+    "value": 3
+  },
+  {
+    "word": "piece",
+    "value": 2
+  },
+  {
+    "word": "nightstand",
+    "value": 2
+  },
+  {
+    "word": "nose",
+    "value": 2
+  },
+  {
+    "word": "water",
+    "value": 2
+  },
+  {
+    "word": "situation",
+    "value": 2
+  }
+]

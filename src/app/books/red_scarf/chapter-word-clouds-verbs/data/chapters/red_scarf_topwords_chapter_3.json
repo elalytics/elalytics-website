@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 127
+  },
+  {
+    "word": "have",
+    "value": 62
+  },
+  {
+    "word": "do",
+    "value": 28
+  },
+  {
+    "word": "say",
+    "value": 21
+  },
+  {
+    "word": "would",
+    "value": 17
+  },
+  {
+    "word": "look",
+    "value": 15
+  },
+  {
+    "word": "\u2019",
+    "value": 14
+  },
+  {
+    "word": "get",
+    "value": 13
+  },
+  {
+    "word": "know",
+    "value": 11
+  },
+  {
+    "word": "tell",
+    "value": 9
+  },
+  {
+    "word": "make",
+    "value": 8
+  },
+  {
+    "word": "mean",
+    "value": 8
+  },
+  {
+    "word": "take",
+    "value": 7
+  },
+  {
+    "word": "give",
+    "value": 7
+  },
+  {
+    "word": "\u2019re",
+    "value": 7
+  },
+  {
+    "word": "let",
+    "value": 7
+  },
+  {
+    "word": "should",
+    "value": 7
+  },
+  {
+    "word": "could",
+    "value": 6
+  },
+  {
+    "word": "shout",
+    "value": 6
+  },
+  {
+    "word": "want",
+    "value": 5
+  },
+  {
+    "word": "walk",
+    "value": 5
+  },
+  {
+    "word": "come",
+    "value": 5
+  },
+  {
+    "word": "try",
+    "value": 5
+  },
+  {
+    "word": "see",
+    "value": 5
+  },
+  {
+    "word": "become",
+    "value": 5
+  },
+  {
+    "word": "stand",
+    "value": 5
+  },
+  {
+    "word": "feel",
+    "value": 5
+  },
+  {
+    "word": "call",
+    "value": 5
+  },
+  {
+    "word": "turn",
+    "value": 5
+  },
+  {
+    "word": "keep",
+    "value": 5
+  },
+  {
+    "word": "cut",
+    "value": 5
+  },
+  {
+    "word": "read",
+    "value": 4
+  },
+  {
+    "word": "help",
+    "value": 4
+  },
+  {
+    "word": "break",
+    "value": 4
+  },
+  {
+    "word": "destroy",
+    "value": 4
+  },
+  {
+    "word": "start",
+    "value": 4
+  },
+  {
+    "word": "hear",
+    "value": 4
+  },
+  {
+    "word": "cheer",
+    "value": 4
+  },
+  {
+    "word": "throw",
+    "value": 4
+  },
+  {
+    "word": "stamp",
+    "value": 4
+  },
+  {
+    "word": "jump",
+    "value": 4
+  },
+  {
+    "word": "laugh",
+    "value": 4
+  },
+  {
+    "word": "use",
+    "value": 4
+  },
+  {
+    "word": "begin",
+    "value": 4
+  },
+  {
+    "word": "change",
+    "value": 4
+  },
+  {
+    "word": "bring",
+    "value": 4
+  },
+  {
+    "word": "wear",
+    "value": 4
+  },
+  {
+    "word": "meet",
+    "value": 3
+  },
+  {
+    "word": "finish",
+    "value": 3
+  },
+  {
+    "word": "rush",
+    "value": 3
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "word": "school",
+    "value": 18
+  },
+  {
+    "word": "teacher",
+    "value": 11
+  },
+  {
+    "word": "student",
+    "value": 6
+  },
+  {
+    "word": "box",
+    "value": 6
+  },
+  {
+    "word": "entrance",
+    "value": 5
+  },
+  {
+    "word": "exam",
+    "value": 5
+  },
+  {
+    "word": "lunch",
+    "value": 5
+  },
+  {
+    "word": "summer",
+    "value": 4
+  },
+  {
+    "word": "news",
+    "value": 4
+  },
+  {
+    "word": "week",
+    "value": 4
+  },
+  {
+    "word": "eye",
+    "value": 4
+  },
+  {
+    "word": "office",
+    "value": 4
+  },
+  {
+    "word": "year",
+    "value": 3
+  },
+  {
+    "word": "other",
+    "value": 3
+  },
+  {
+    "word": "hallway",
+    "value": 3
+  },
+  {
+    "word": "voice",
+    "value": 3
+  },
+  {
+    "word": "time",
+    "value": 3
+  },
+  {
+    "word": "day",
+    "value": 3
+  },
+  {
+    "word": "examination",
+    "value": 2
+  },
+  {
+    "word": "desk",
+    "value": 2
+  },
+  {
+    "word": "grade",
+    "value": 2
+  },
+  {
+    "word": "one",
+    "value": 2
+  },
+  {
+    "word": "classmate",
+    "value": 2
+  },
+  {
+    "word": "dream",
+    "value": 2
+  },
+  {
+    "word": "badge",
+    "value": 2
+  },
+  {
+    "word": "way",
+    "value": 2
+  },
+  {
+    "word": "thing",
+    "value": 2
+  },
+  {
+    "word": "book",
+    "value": 2
+  },
+  {
+    "word": "city",
+    "value": 2
+  },
+  {
+    "word": "vacation",
+    "value": 2
+  },
+  {
+    "word": "assignment",
+    "value": 2
+  },
+  {
+    "word": "door",
+    "value": 2
+  },
+  {
+    "word": "neighborhood",
+    "value": 2
+  },
+  {
+    "word": "character",
+    "value": 2
+  },
+  {
+    "word": "room",
+    "value": 2
+  },
+  {
+    "word": "reform",
+    "value": 1
+  },
+  {
+    "word": "system",
+    "value": 1
+  },
+  {
+    "word": "seat",
+    "value": 1
+  },
+  {
+    "word": "relief",
+    "value": 1
+  },
+  {
+    "word": "laughter",
+    "value": 1
+  },
+  {
+    "word": "elation",
+    "value": 1
+  },
+  {
+    "word": "university",
+    "value": 1
+  },
+  {
+    "word": "family",
+    "value": 1
+  },
+  {
+    "word": "delight",
+    "value": 1
+  },
+  {
+    "word": "asthma",
+    "value": 1
+  },
+  {
+    "word": "attack",
+    "value": 1
+  },
+  {
+    "word": "rest",
+    "value": 1
+  },
+  {
+    "word": "morning",
+    "value": 1
+  },
+  {
+    "word": "greeting",
+    "value": 1
+  },
+  {
+    "word": "minute",
+    "value": 1
+  }
+]

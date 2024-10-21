@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 136
+  },
+  {
+    "word": "have",
+    "value": 58
+  },
+  {
+    "word": "do",
+    "value": 27
+  },
+  {
+    "word": "say",
+    "value": 26
+  },
+  {
+    "word": "go",
+    "value": 24
+  },
+  {
+    "word": "get",
+    "value": 21
+  },
+  {
+    "word": "could",
+    "value": 18
+  },
+  {
+    "word": "\u2019",
+    "value": 17
+  },
+  {
+    "word": "would",
+    "value": 16
+  },
+  {
+    "word": "hear",
+    "value": 15
+  },
+  {
+    "word": "come",
+    "value": 14
+  },
+  {
+    "word": "see",
+    "value": 12
+  },
+  {
+    "word": "seem",
+    "value": 12
+  },
+  {
+    "word": "turn",
+    "value": 12
+  },
+  {
+    "word": "know",
+    "value": 11
+  },
+  {
+    "word": "make",
+    "value": 10
+  },
+  {
+    "word": "look",
+    "value": 9
+  },
+  {
+    "word": "find",
+    "value": 8
+  },
+  {
+    "word": "help",
+    "value": 8
+  },
+  {
+    "word": "stand",
+    "value": 8
+  },
+  {
+    "word": "give",
+    "value": 8
+  },
+  {
+    "word": "grow",
+    "value": 7
+  },
+  {
+    "word": "must",
+    "value": 7
+  },
+  {
+    "word": "buy",
+    "value": 7
+  },
+  {
+    "word": "work",
+    "value": 6
+  },
+  {
+    "word": "feel",
+    "value": 6
+  },
+  {
+    "word": "run",
+    "value": 6
+  },
+  {
+    "word": "can",
+    "value": 6
+  },
+  {
+    "word": "carry",
+    "value": 6
+  },
+  {
+    "word": "take",
+    "value": 6
+  },
+  {
+    "word": "stop",
+    "value": 6
+  },
+  {
+    "word": "play",
+    "value": 6
+  },
+  {
+    "word": "pick",
+    "value": 6
+  },
+  {
+    "word": "will",
+    "value": 5
+  },
+  {
+    "word": "shout",
+    "value": 5
+  },
+  {
+    "word": "push",
+    "value": 5
+  },
+  {
+    "word": "live",
+    "value": 5
+  },
+  {
+    "word": "exploit",
+    "value": 5
+  },
+  {
+    "word": "want",
+    "value": 5
+  },
+  {
+    "word": "tell",
+    "value": 5
+  },
+  {
+    "word": "think",
+    "value": 5
+  },
+  {
+    "word": "hold",
+    "value": 4
+  },
+  {
+    "word": "imagine",
+    "value": 4
+  },
+  {
+    "word": "continue",
+    "value": 4
+  },
+  {
+    "word": "stay",
+    "value": 4
+  },
+  {
+    "word": "sit",
+    "value": 4
+  },
+  {
+    "word": "fall",
+    "value": 4
+  },
+  {
+    "word": "move",
+    "value": 4
+  },
+  {
+    "word": "decide",
+    "value": 4
+  },
+  {
+    "word": "need",
+    "value": 4
+  }
+]
