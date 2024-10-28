@@ -360,7 +360,7 @@
     "link": "https://drive.google.com/file/d/1h9DSYD0Pt6vf9LuXLRBbnSnLFUU84NwO/view?usp=sharing"
   },
     "/books/annabel-lee/verbs": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Verbs",
     "textName": "Annabel Lee",
@@ -369,7 +369,7 @@
     "link": "/books/annabel-lee/verbs"
   },
     "/books/annabel-lee/nouns": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Nouns",
     "textName": "Annabel Lee",
@@ -378,7 +378,7 @@
     "link": "/books/annabel-lee/nouns"
   },
     "/books/annabel-lee/sentence-length": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Line Graph",
     "title": "Sentence Length Over Time",
     "textName": "Annabel Lee",
@@ -387,7 +387,7 @@
     "link": "/books/annabel-lee/sentence-length"
   },
     "/books/annabel-lee/top-words-whole-bar": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Bar Chart",
     "title": "Most Frequent Words (by part of speech)",
     "textName": "Annabel Lee",
@@ -396,7 +396,7 @@
     "link": "/books/annabel-lee/top-words-whole-bar"
   },
     "/books/the-raven/verbs": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Verbs",
     "textName": "The Raven",
@@ -405,7 +405,7 @@
     "link": "/books/the-raven/verbs"
   },
     "/books/the-raven/nouns": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Nouns",
     "textName": "The Raven",
@@ -414,7 +414,7 @@
     "link": "/books/the-raven/nouns"
   },
     "/books/the-raven/sentence-length": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Line Graph",
     "title": "Sentence Length Over Time",
     "textName": "The Raven",
@@ -423,7 +423,7 @@
     "link": "/books/the-raven/sentence-length"
   },
     "/books/the-raven/top-words-whole-bar": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Bar Chart",
     "title": "Most Frequent Words (by part of speech)",
     "textName": "The Raven",
@@ -432,7 +432,7 @@
     "link": "/books/the-raven/top-words-whole-bar"
   },
     "/books/amontillado/verbs": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Verbs",
     "textName": "Cask of Amontillado",
@@ -441,7 +441,7 @@
     "link": "/books/amontillado/verbs"
   },
     "/books/amontillado/nouns": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Nouns",
     "textName": "Cask of Amontillado",
@@ -450,7 +450,7 @@
     "link": "/books/amontillado/nouns"
   },
     "/books/amontillado/sentence-length": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Line Graph",
     "title": "Sentence Length Over Time",
     "textName": "Cask of Amontillado",
@@ -459,7 +459,7 @@
     "link": "/books/amontillado/sentence-length"
   },
     "/books/amontillado/top-words-whole-bar": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Bar Chart",
     "title": "Most Frequent Words (by part of speech)",
     "textName": "Cask of Amontillado",
@@ -468,7 +468,7 @@
     "link": "/books/amontillado/top-words-whole-bar"
   },
     "/books/rue-morgue/verbs": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Verbs",
     "textName": "Murders of Rue Morgue",
@@ -477,7 +477,7 @@
     "link": "/books/rue-morgue/verbs"
   },
     "/books/rue-morgue/nouns": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Nouns",
     "textName": "Murders of Rue Morgue",
@@ -486,7 +486,7 @@
     "link": "/books/rue-morgue/nouns"
   },
     "/books/rue-morgue/sentence-length": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Line Graph",
     "title": "Sentence Length Over Time",
     "textName": "Murders of Rue Morgue",
@@ -495,7 +495,7 @@
     "link": "/books/rue-morgue/sentence-length"
   },
     "/books/rue-morgue/top-words-whole-bar": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Bar Chart",
     "title": "Most Frequent Words (by part of speech)",
     "textName": "Murders of Rue Morgue",
@@ -504,7 +504,7 @@
     "link": "/books/rue-morgue/top-words-whole-bar"
   },
     "/books/tell-tale/verbs": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Verbs",
     "textName": "The Tell-Tale Heart",
@@ -513,7 +513,7 @@
     "link": "/books/tell-tale/verbs"
   },
     "/books/tell-tale/nouns": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Nouns",
     "textName": "The Tell-Tale Heart",
@@ -522,7 +522,7 @@
     "link": "/books/tell-tale/nouns"
   },
     "/books/tell-tale/sentence-length": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Line Graph",
     "title": "Sentence Length Over Time",
     "textName": "The Tell-Tale Heart",
@@ -531,7 +531,7 @@
     "link": "/books/tell-tale/sentence-length"
   },
     "/books/tell-tale/top-words-whole-bar": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Bar Chart",
     "title": "Most Frequent Words (by part of speech)",
     "textName": "The Tell-Tale Heart",
@@ -576,7 +576,7 @@
     "link": "/books/maroo/top-words-whole-bar"
   },
     "/books/solo/verbs": {
-    "grade": "Grade 6",
+    "grade": "Grade 8",
     "category": "Word Cloud",
     "title": "Most Frequent Verbs",
     "textName": "Going Solo",
@@ -585,7 +585,7 @@
     "link": "/books/solo/verbs"
   },
     "/books/solo/nouns": {
-    "grade": "Grade 6",
+    "grade": "Grade 8",
     "category": "Word Cloud",
     "title": "Most Frequent Nouns",
     "textName": "Going Solo",
@@ -594,7 +594,7 @@
     "link": "/books/solo/nouns"
   },
     "/books/solo/sentence-length": {
-    "grade": "Grade 6",
+    "grade": "Grade 8",
     "category": "Line Graph",
     "title": "Sentence Length Over Time",
     "textName": "Going Solo",
@@ -603,7 +603,7 @@
     "link": "/books/solo/sentence-length"
   },
     "/books/solo/top-words-whole-bar": {
-    "grade": "Grade 6",
+    "grade": "Grade 8",
     "category": "Bar Chart",
     "title": "Most Frequent Words (by part of speech)",
     "textName": "Going Solo",
@@ -612,7 +612,7 @@
     "link": "/books/solo/top-words-whole-bar"
   },
     "/books/mockingbird/verbs": {
-    "grade": "Grade 6",
+    "grade": "Grade 8",
     "category": "Word Cloud",
     "title": "Most Frequent Verbs",
     "textName": "To Kill a Mockingbird",
@@ -621,7 +621,7 @@
     "link": "/books/mockingbird/verbs"
   },
     "/books/mockingbird/nouns": {
-    "grade": "Grade 6",
+    "grade": "Grade 8",
     "category": "Word Cloud",
     "title": "Most Frequent Nouns",
     "textName": "To Kill a Mockingbird",
@@ -630,7 +630,7 @@
     "link": "/books/mockingbird/nouns"
   },
     "/books/mockingbird/sentence-length": {
-    "grade": "Grade 6",
+    "grade": "Grade 8",
     "category": "Line Graph",
     "title": "Sentence Length Over Time",
     "textName": "To Kill a Mockingbird",
@@ -639,7 +639,7 @@
     "link": "/books/mockingbird/sentence-length"
   },
     "/books/mockingbird/top-words-whole-bar": {
-    "grade": "Grade 6",
+    "grade": "Grade 8",
     "category": "Bar Chart",
     "title": "Most Frequent Words (by part of speech)",
     "textName": "To Kill a Mockingbird",
@@ -648,7 +648,7 @@
     "link": "/books/mockingbird/top-words-whole-bar"
   },
   "/books/red_scarf/chapter-word-clouds": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Nouns (by chapter)",
     "textName": "Red Scarf",
@@ -657,7 +657,7 @@
     "link": "/books/red_scarf/chapter-word-clouds"
   },
   "/books/red_scarf/chapter-word-clouds-verbs": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Verbs (by chapter)",
     "textName": "Red Scarf",
@@ -666,13 +666,31 @@
     "link": "/books/red_scarf/chapter-word-clouds-verbs"
   },
   "/books/red_scarf/chapter-word-clouds-red": {
-    "grade": "Grade 6",
+    "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Most Frequent Red Objects (by chapter)",
     "textName": "Red Scarf",
     "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": true,
     "link": "/books/red_scarf/chapter-word-clouds-red"
+  },
+  "/books/red_scarf/general-sentiment-line": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentiment Chart (by setting)",
+    "textName": "Red Scarf",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the sentiment score for each chapter in the text. The <strong>sentiment score</strong> measures a combination of three aspects of language: valence (degree of positive connotation), arousal (degree of intensity), and dominance (degree of control). A word like 'terror' would have a low score for positive valence, a high arousal score, and a low dominance score. A word like 'laughter' would have a high positive valence score, a fairly high score of intensity, and a medium score for control. The scores come from a dictionary of over 20,000+ English words and scores that have been created by a group of human raters. The scores are first computed for each word, then averaged for each line, then averaged across a whole chapter. Because the scores don't account for context, they can sometimes be way off.  </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/red_scarf/general-sentiment-line"
+  },
+  "/books/red_scarf/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Red Scarf",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/red_scarf/top-words-whole-bar"
   },
     "/books/lightning_thief/chapter-word-clouds-verbs": {
     "grade": "Grade 6",
@@ -692,6 +710,15 @@
     "interactivity": true,
     "link": "/books/lightning_thief/chapter-word-clouds"
   },
+  "/books/lightning_thief/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Lightning Thief",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/lightning_thief/top-words-whole-bar"
+  },
     "/books/midsummer/chapter-word-clouds-verbs": {
     "grade": "Grade 6",
     "category": "Word Cloud",
@@ -709,5 +736,14 @@
     "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent nouns that occurs in each of the chapter. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": true,
     "link": "/books/midsummer/chapter-word-clouds"
+  },
+  "/books/midsummer/top-words-whole-bar": {
+    "grade": "Grade 6",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "A Midsummer Night's Dream",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/midsummer/top-words-whole-bar"
   }
 }

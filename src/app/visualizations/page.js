@@ -48,6 +48,9 @@ const VizItem = ({ item }) => {
     "Maroo of Winter Caves": "/imgs/textCovers/maroo.jpg",
     "Going Solo": "/imgs/textCovers/solo.jpg",
     "To Kill a Mockingbird": "/imgs/textCovers/mockingbird.jpg",
+    "Red Scarf": "/imgs/textCovers/red_scarf.jpg",
+    "Lightning Thief": "/imgs/textCovers/lightning_thief.jpg",
+    "A Midsummer Night's Dream": "/imgs/textCovers/midsummer_night.jpg",
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">
