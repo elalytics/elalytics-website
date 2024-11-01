@@ -1,0 +1,202 @@
+[
+  {
+    "word": "brain",
+    "value": 155
+  },
+  {
+    "word": "iron",
+    "value": 70
+  },
+  {
+    "word": "doctor",
+    "value": 61
+  },
+  {
+    "word": "head",
+    "value": 45
+  },
+  {
+    "word": "cortex",
+    "value": 42
+  },
+  {
+    "word": "skull",
+    "value": 40
+  },
+  {
+    "word": "time",
+    "value": 34
+  },
+  {
+    "word": "cell",
+    "value": 34
+  },
+  {
+    "word": "man",
+    "value": 29
+  },
+  {
+    "word": "accident",
+    "value": 25
+  },
+  {
+    "word": "year",
+    "value": 25
+  },
+  {
+    "word": "case",
+    "value": 25
+  },
+  {
+    "word": "blood",
+    "value": 24
+  },
+  {
+    "word": "lobe",
+    "value": 23
+  },
+  {
+    "word": "neuron",
+    "value": 23
+  },
+  {
+    "word": "area",
+    "value": 23
+  },
+  {
+    "word": "way",
+    "value": 22
+  },
+  {
+    "word": "patient",
+    "value": 22
+  },
+  {
+    "word": "hand",
+    "value": 21
+  },
+  {
+    "word": "hole",
+    "value": 21
+  },
+  {
+    "word": "life",
+    "value": 20
+  },
+  {
+    "word": "day",
+    "value": 18
+  },
+  {
+    "word": "seizure",
+    "value": 18
+  },
+  {
+    "word": "end",
+    "value": 17
+  },
+  {
+    "word": "top",
+    "value": 17
+  },
+  {
+    "word": "organ",
+    "value": 17
+  },
+  {
+    "word": "town",
+    "value": 16
+  },
+  {
+    "word": "injury",
+    "value": 16
+  },
+  {
+    "word": "horse",
+    "value": 16
+  },
+  {
+    "word": "hemisphere",
+    "value": 16
+  },
+  {
+    "word": "damage",
+    "value": 16
+  },
+  {
+    "word": "infection",
+    "value": 16
+  },
+  {
+    "word": "mother",
+    "value": 16
+  },
+  {
+    "word": "bacteria",
+    "value": 16
+  },
+  {
+    "word": "tamping",
+    "value": 15
+  },
+  {
+    "word": "forehead",
+    "value": 15
+  },
+  {
+    "word": "part",
+    "value": 15
+  },
+  {
+    "word": "eye",
+    "value": 14
+  },
+  {
+    "word": "photograph",
+    "value": 14
+  },
+  {
+    "word": "body",
+    "value": 14
+  },
+  {
+    "word": "microscope",
+    "value": 14
+  },
+  {
+    "word": "work",
+    "value": 13
+  },
+  {
+    "word": "skin",
+    "value": 13
+  },
+  {
+    "word": "side",
+    "value": 13
+  },
+  {
+    "word": "function",
+    "value": 13
+  },
+  {
+    "word": "behavior",
+    "value": 13
+  },
+  {
+    "word": "wound",
+    "value": 12
+  },
+  {
+    "word": "theory",
+    "value": 12
+  },
+  {
+    "word": "ability",
+    "value": 12
+  },
+  {
+    "word": "world",
+    "value": 11
+  }
+]
