@@ -51,6 +51,7 @@ const VizItem = ({ item }) => {
     "Red Scarf": "/imgs/textCovers/red_scarf.jpg",
     "Lightning Thief": "/imgs/textCovers/lightning_thief.jpg",
     "A Midsummer Night's Dream": "/imgs/textCovers/midsummer_night.jpg",
+    "Voyage Out": "/imgs/textCovers/voyage.jpg",
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">
@@ -211,6 +212,10 @@ function FilterComponent({ vizData, onFilter }) {
     handleFilter();
   }, [grades, categories, textNames, searchTerm]);
 
+  const unselectAllTextNames = () => {
+    setTextNames(textNames.map((textName) => ({ ...textName, checked: false })));
+  };
+
   return (
     <div>
       <input
@@ -282,7 +287,14 @@ function FilterComponent({ vizData, onFilter }) {
             </label>
           ))}
         </div>
+        <button
+          onClick={unselectAllTextNames}
+          className="mt-2 p-2 bg-red-500 text-white rounded hover:bg-red-600"
+        >
+          Unselect All
+        </button>
       </div>
     </div>
   );
 }
+

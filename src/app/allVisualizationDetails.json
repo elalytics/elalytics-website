@@ -781,5 +781,32 @@
     "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": false,
     "link": "/books/phineas_2/top-words-whole-bar"
+  },
+    "/books/voyage/words_by_char": {
+    "grade": "Grade 8",
+    "category": "Bar Chart",
+    "title": "How much do characters say?",
+    "textName": "Voyage Out",
+    "description": "<div class=\"space-y-3\"><p></p></div>",
+    "interactivity": false,
+    "link": "/books/voyage/words_by_char"
+  },
+    "/books/voyage/words_descriptor": {
+    "grade": "Grade 8",
+    "category": "Bar Chart",
+    "title": "Words describing characters in The Voyage Out",
+    "textName": "Voyage Out",
+    "description": "<div class=\"space-y-3\"><p></p></div>",
+    "interactivity": false,
+    "link": "/books/voyage/words_descriptor"
+  },
+    "/books/voyage/subject_verb": {
+    "grade": "Grade 8",
+    "category": "Bar Chart",
+    "title": "Subject-verb pairs",
+    "textName": "Voyage Out",
+    "description": "<div class=\"space-y-3\"><p></p></div>",
+    "interactivity": false,
+    "link": "/books/voyage/subject_verb"
   }
 }
