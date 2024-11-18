@@ -52,6 +52,7 @@ const VizItem = ({ item }) => {
     "Lightning Thief": "/imgs/textCovers/lightning_thief.jpg",
     "A Midsummer Night's Dream": "/imgs/textCovers/midsummer_night.jpg",
     "Voyage Out": "/imgs/textCovers/voyage.jpg",
+    "Of Mice and Men": "/imgs/textCovers/mice.jpg",
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">

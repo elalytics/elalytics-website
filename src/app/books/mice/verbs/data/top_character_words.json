@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 997
+  },
+  {
+    "word": "say",
+    "value": 486
+  },
+  {
+    "word": "do",
+    "value": 392
+  },
+  {
+    "word": "get",
+    "value": 377
+  },
+  {
+    "word": "go",
+    "value": 334
+  },
+  {
+    "word": "come",
+    "value": 182
+  },
+  {
+    "word": "have",
+    "value": 178
+  },
+  {
+    "word": "look",
+    "value": 148
+  },
+  {
+    "word": "will",
+    "value": 148
+  },
+  {
+    "word": "can",
+    "value": 126
+  },
+  {
+    "word": "see",
+    "value": 113
+  },
+  {
+    "word": "would",
+    "value": 112
+  },
+  {
+    "word": "know",
+    "value": 95
+  },
+  {
+    "word": "tell",
+    "value": 91
+  },
+  {
+    "word": "want",
+    "value": 88
+  },
+  {
+    "word": "could",
+    "value": 83
+  },
+  {
+    "word": "take",
+    "value": 78
+  },
+  {
+    "word": "give",
+    "value": 61
+  },
+  {
+    "word": "think",
+    "value": 60
+  },
+  {
+    "word": "let",
+    "value": 59
+  },
+  {
+    "word": "make",
+    "value": 54
+  },
+  {
+    "word": "put",
+    "value": 54
+  },
+  {
+    "word": "turn",
+    "value": 48
+  },
+  {
+    "word": "sit",
+    "value": 47
+  },
+  {
+    "word": "like",
+    "value": 39
+  },
+  {
+    "word": "ask",
+    "value": 37
+  },
+  {
+    "word": "stand",
+    "value": 35
+  },
+  {
+    "word": "ai",
+    "value": 34
+  },
+  {
+    "word": "remember",
+    "value": 32
+  },
+  {
+    "word": "watch",
+    "value": 30
+  },
+  {
+    "word": "move",
+    "value": 29
+  },
+  {
+    "word": "seem",
+    "value": 29
+  },
+  {
+    "word": "talk",
+    "value": 29
+  },
+  {
+    "word": "stop",
+    "value": 28
+  },
+  {
+    "word": "cry",
+    "value": 28
+  },
+  {
+    "word": "leave",
+    "value": 27
+  },
+  {
+    "word": "set",
+    "value": 27
+  },
+  {
+    "word": "keep",
+    "value": 27
+  },
+  {
+    "word": "\u2019ll",
+    "value": 26
+  },
+  {
+    "word": "run",
+    "value": 25
+  },
+  {
+    "word": "lie",
+    "value": 24
+  },
+  {
+    "word": "tend",
+    "value": 23
+  },
+  {
+    "word": "forget",
+    "value": 22
+  },
+  {
+    "word": "try",
+    "value": 22
+  },
+  {
+    "word": "listen",
+    "value": 22
+  },
+  {
+    "word": "mean",
+    "value": 22
+  },
+  {
+    "word": "kill",
+    "value": 21
+  },
+  {
+    "word": "hurt",
+    "value": 21
+  },
+  {
+    "word": "walk",
+    "value": 20
+  },
+  {
+    "word": "throw",
+    "value": 20
+  }
+]

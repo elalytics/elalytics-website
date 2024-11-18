@@ -808,5 +808,41 @@
     "description": "<div class=\"space-y-3\"><p></p></div>",
     "interactivity": false,
     "link": "/books/voyage/subject_verb"
+  },
+    "/books/mice/verbs": {
+    "grade": "Grade 8",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Of Mice and Men",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/mice/verbs"
+  },
+    "/books/mice/nouns": {
+    "grade": "Grade 8",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Of Mice and Men",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/mice/nouns"
+  },
+    "/books/mice/sentence-length": {
+    "grade": "Grade 8",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Of Mice and Men",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/mice/sentence-length"
+  },
+    "/books/mice/top-words-whole-bar": {
+    "grade": "Grade 8",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Of Mice and Men",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/mice/top-words-whole-bar"
   }
 }

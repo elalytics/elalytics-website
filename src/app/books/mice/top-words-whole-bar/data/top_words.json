@@ -1,0 +1,12087 @@
+[
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 446
+  },
+  {
+    "word": "george",
+    "category": "PROPN",
+    "value": 438
+  },
+  {
+    "word": "lennie",
+    "category": "PROPN",
+    "value": 366
+  },
+  {
+    "word": "go",
+    "category": "VERB",
+    "value": 217
+  },
+  {
+    "word": "get",
+    "category": "VERB",
+    "value": 211
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 180
+  },
+  {
+    "word": "look",
+    "category": "VERB",
+    "value": 148
+  },
+  {
+    "word": "to",
+    "category": "PART",
+    "value": 147
+  },
+  {
+    "word": "guy",
+    "category": "NOUN",
+    "value": 144
+  },
+  {
+    "word": "curley",
+    "category": "PROPN",
+    "value": 132
+  },
+  {
+    "word": "slim",
+    "category": "PROPN",
+    "value": 125
+  },
+  {
+    "word": "little",
+    "category": "ADJ",
+    "value": 108
+  },
+  {
+    "word": "be",
+    "category": "VERB",
+    "value": 98
+  },
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 95
+  },
+  {
+    "word": "hand",
+    "category": "NOUN",
+    "value": 91
+  },
+  {
+    "word": "tell",
+    "category": "VERB",
+    "value": 91
+  },
+  {
+    "word": "be",
+    "category": "AUX",
+    "value": 88
+  },
+  {
+    "word": "want",
+    "category": "VERB",
+    "value": 88
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 77
+  },
+  {
+    "word": "rabbit",
+    "category": "NOUN",
+    "value": 74
+  },
+  {
+    "word": "see",
+    "category": "VERB",
+    "value": 72
+  },
+  {
+    "word": "like",
+    "category": "ADP",
+    "value": 64
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 62
+  },
+  {
+    "word": "hell",
+    "category": "NOUN",
+    "value": 61
+  },
+  {
+    "word": "eye",
+    "category": "NOUN",
+    "value": 60
+  },
+  {
+    "word": "think",
+    "category": "VERB",
+    "value": 60
+  },
+  {
+    "word": "let",
+    "category": "VERB",
+    "value": 59
+  },
+  {
+    "word": "head",
+    "category": "NOUN",
+    "value": 58
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 55
+  },
+  {
+    "word": "place",
+    "category": "NOUN",
+    "value": 54
+  },
+  {
+    "word": "candy",
+    "category": "PROPN",
+    "value": 54
+  },
+  {
+    "word": "right",
+    "category": "ADV",
+    "value": 52
+  },
+  {
+    "word": "face",
+    "category": "NOUN",
+    "value": 49
+  },
+  {
+    "word": "maybe",
+    "category": "ADV",
+    "value": 49
+  },
+  {
+    "word": "candy",
+    "category": "NOUN",
+    "value": 49
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 48
+  },
+  {
+    "word": "turn",
+    "category": "VERB",
+    "value": 48
+  },
+  {
+    "word": "sit",
+    "category": "VERB",
+    "value": 47
+  },
+  {
+    "word": "jus",
+    "category": "PROPN",
+    "value": 47
+  },
+  {
+    "word": "carlson",
+    "category": "PROPN",
+    "value": 46
+  },
+  {
+    "word": "will",
+    "category": "AUX",
+    "value": 45
+  },
+  {
+    "word": "door",
+    "category": "NOUN",
+    "value": 44
+  },
+  {
+    "word": "thing",
+    "category": "NOUN",
+    "value": 43
+  },
+  {
+    "word": "room",
+    "category": "NOUN",
+    "value": 43
+  },
+  {
+    "word": "big",
+    "category": "ADJ",
+    "value": 42
+  },
+  {
+    "word": "nice",
+    "category": "ADJ",
+    "value": 42
+  },
+  {
+    "word": "bunk",
+    "category": "NOUN",
+    "value": 41
+  },
+  {
+    "word": "yeah",
+    "category": "INTJ",
+    "value": 39
+  },
+  {
+    "word": "ya",
+    "category": "PRON",
+    "value": 39
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 39
+  },
+  {
+    "word": "pup",
+    "category": "NOUN",
+    "value": 39
+  },
+  {
+    "word": "like",
+    "category": "VERB",
+    "value": 38
+  },
+  {
+    "word": "barn",
+    "category": "NOUN",
+    "value": 38
+  },
+  {
+    "word": "god",
+    "category": "PROPN",
+    "value": 37
+  },
+  {
+    "word": "ask",
+    "category": "VERB",
+    "value": 37
+  },
+  {
+    "word": "crook",
+    "category": "NOUN",
+    "value": 36
+  },
+  {
+    "word": "dog",
+    "category": "NOUN",
+    "value": 35
+  },
+  {
+    "word": "stand",
+    "category": "VERB",
+    "value": 35
+  },
+  {
+    "word": "like",
+    "category": "SCONJ",
+    "value": 33
+  },
+  {
+    "word": "sure",
+    "category": "INTJ",
+    "value": 33
+  },
+  {
+    "word": "voice",
+    "category": "NOUN",
+    "value": 33
+  },
+  {
+    "word": "remember",
+    "category": "VERB",
+    "value": 32
+  },
+  {
+    "word": "wife",
+    "category": "NOUN",
+    "value": 32
+  },
+  {
+    "word": "card",
+    "category": "NOUN",
+    "value": 31
+  },
+  {
+    "word": "crooks",
+    "category": "PROPN",
+    "value": 31
+  },
+  {
+    "word": "take",
+    "category": "VERB",
+    "value": 30
+  },
+  {
+    "word": "watch",
+    "category": "VERB",
+    "value": 30
+  },
+  {
+    "word": "damn",
+    "category": "ADV",
+    "value": 30
+  },
+  {
+    "word": "trouble",
+    "category": "NOUN",
+    "value": 29
+  },
+  {
+    "word": "mouse",
+    "category": "NOUN",
+    "value": 29
+  },
+  {
+    "word": "talk",
+    "category": "VERB",
+    "value": 29
+  },
+  {
+    "word": "stop",
+    "category": "VERB",
+    "value": 28
+  },
+  {
+    "word": "house",
+    "category": "NOUN",
+    "value": 28
+  },
+  {
+    "word": "cry",
+    "category": "VERB",
+    "value": 28
+  },
+  {
+    "word": "water",
+    "category": "NOUN",
+    "value": 27
+  },
+  {
+    "word": "pool",
+    "category": "NOUN",
+    "value": 27
+  },
+  {
+    "word": "ranch",
+    "category": "NOUN",
+    "value": 27
+  },
+  {
+    "word": "leave",
+    "category": "VERB",
+    "value": 27
+  },
+  {
+    "word": "set",
+    "category": "VERB",
+    "value": 27
+  },
+  {
+    "word": "whit",
+    "category": "PROPN",
+    "value": 27
+  },
+  {
+    "word": "brush",
+    "category": "NOUN",
+    "value": 26
+  },
+  {
+    "word": "night",
+    "category": "NOUN",
+    "value": 26
+  },
+  {
+    "word": "run",
+    "category": "VERB",
+    "value": 25
+  },
+  {
+    "word": "moment",
+    "category": "NOUN",
+    "value": 25
+  },
+  {
+    "word": "oh",
+    "category": "INTJ",
+    "value": 25
+  },
+  {
+    "word": "boss",
+    "category": "NOUN",
+    "value": 25
+  },
+  {
+    "word": "lie",
+    "category": "VERB",
+    "value": 24
+  },
+  {
+    "word": "foot",
+    "category": "NOUN",
+    "value": 24
+  },
+  {
+    "word": "right",
+    "category": "ADJ",
+    "value": 24
+  },
+  {
+    "word": "buck",
+    "category": "NOUN",
+    "value": 24
+  },
+  {
+    "word": "tend",
+    "category": "VERB",
+    "value": 23
+  },
+  {
+    "word": "forget",
+    "category": "VERB",
+    "value": 22
+  },
+  {
+    "word": "try",
+    "category": "VERB",
+    "value": 22
+  },
+  {
+    "word": "listen",
+    "category": "VERB",
+    "value": 22
+  },
+  {
+    "word": "mean",
+    "category": "VERB",
+    "value": 22
+  },
+  {
+    "word": "wall",
+    "category": "NOUN",
+    "value": 22
+  },
+  {
+    "word": "hay",
+    "category": "NOUN",
+    "value": 22
+  },
+  {
+    "word": "move",
+    "category": "VERB",
+    "value": 21
+  },
+  {
+    "word": "girl",
+    "category": "NOUN",
+    "value": 21
+  },
+  {
+    "word": "kill",
+    "category": "VERB",
+    "value": 21
+  },
+  {
+    "word": "hurt",
+    "category": "VERB",
+    "value": 21
+  },
+  {
+    "word": "walk",
+    "category": "VERB",
+    "value": 20
+  },
+  {
+    "word": "way",
+    "category": "NOUN",
+    "value": 20
+  },
+  {
+    "word": "throw",
+    "category": "VERB",
+    "value": 20
+  },
+  {
+    "word": "bastard",
+    "category": "NOUN",
+    "value": 20
+  },
+  {
+    "word": "work",
+    "category": "NOUN",
+    "value": 20
+  },
+  {
+    "word": "bad",
+    "category": "ADJ",
+    "value": 20
+  },
+  {
+    "word": "lay",
+    "category": "VERB",
+    "value": 20
+  },
+  {
+    "word": "mad",
+    "category": "ADJ",
+    "value": 20
+  },
+  {
+    "word": "sound",
+    "category": "NOUN",
+    "value": 19
+  },
+  {
+    "word": "finger",
+    "category": "NOUN",
+    "value": 19
+  },
+  {
+    "word": "stare",
+    "category": "VERB",
+    "value": 19
+  },
+  {
+    "word": "softly",
+    "category": "ADV",
+    "value": 19
+  },
+  {
+    "word": "slowly",
+    "category": "ADV",
+    "value": 19
+  },
+  {
+    "word": "work",
+    "category": "VERB",
+    "value": 19
+  },
+  {
+    "word": "light",
+    "category": "NOUN",
+    "value": 19
+  },
+  {
+    "word": "shoot",
+    "category": "VERB",
+    "value": 19
+  },
+  {
+    "word": "hat",
+    "category": "NOUN",
+    "value": 18
+  },
+  {
+    "word": "long",
+    "category": "ADJ",
+    "value": 18
+  },
+  {
+    "word": "sure",
+    "category": "ADJ",
+    "value": 18
+  },
+  {
+    "word": "find",
+    "category": "VERB",
+    "value": 18
+  },
+  {
+    "word": "jesus",
+    "category": "PROPN",
+    "value": 18
+  },
+  {
+    "word": "word",
+    "category": "NOUN",
+    "value": 18
+  },
+  {
+    "word": "ai",
+    "category": "AUX",
+    "value": 18
+  },
+  {
+    "word": "reach",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "river",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "fire",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "horse",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "bet",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "break",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "pocket",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "raise",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "bring",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "play",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "jus",
+    "category": "ADJ",
+    "value": 17
+  },
+  {
+    "word": "bunkhouse",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "box",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "guess",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "ai",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "well",
+    "category": "ADV",
+    "value": 17
+  },
+  {
+    "word": "gun",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "day",
+    "category": "NOUN",
+    "value": 16
+  },
+  {
+    "word": "stay",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "hold",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "grow",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "eat",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "wear",
+    "category": "VERB",
+    "value": 15
+  },
+  {
+    "word": "small",
+    "category": "ADJ",
+    "value": 15
+  },
+  {
+    "word": "damn",
+    "category": "ADJ",
+    "value": 15
+  },
+  {
+    "word": "speak",
+    "category": "VERB",
+    "value": 15
+  },
+  {
+    "word": "chicken",
+    "category": "NOUN",
+    "value": 15
+  },
+  {
+    "word": "till",
+    "category": "SCONJ",
+    "value": 15
+  },
+  {
+    "word": "answer",
+    "category": "VERB",
+    "value": 15
+  },
+  {
+    "word": "fella",
+    "category": "NOUN",
+    "value": 15
+  },
+  {
+    "word": "got",
+    "category": "VERB",
+    "value": 15
+  },
+  {
+    "word": "book",
+    "category": "NOUN",
+    "value": 15
+  },
+  {
+    "word": "outside",
+    "category": "ADV",
+    "value": 15
+  },
+  {
+    "word": "step",
+    "category": "VERB",
+    "value": 14
+  },
+  {
+    "word": "christ",
+    "category": "PROPN",
+    "value": 14
+  },
+  {
+    "word": "hear",
+    "category": "VERB",
+    "value": 14
+  },
+  {
+    "word": "bitch",
+    "category": "NOUN",
+    "value": 14
+  },
+  {
+    "word": "feel",
+    "category": "VERB",
+    "value": 14
+  },
+  {
+    "word": "stake",
+    "category": "NOUN",
+    "value": 14
+  },
+  {
+    "word": "jus",
+    "category": "VERB",
+    "value": 14
+  },
+  {
+    "word": "swamper",
+    "category": "NOUN",
+    "value": 14
+  },
+  {
+    "word": "minute",
+    "category": "NOUN",
+    "value": 14
+  },
+  {
+    "word": "stick",
+    "category": "VERB",
+    "value": 14
+  },
+  {
+    "word": "close",
+    "category": "ADV",
+    "value": 13
+  },
+  {
+    "word": "leave",
+    "category": "NOUN",
+    "value": 13
+  },
+  {
+    "word": "quietly",
+    "category": "ADV",
+    "value": 13
+  },
+  {
+    "word": "open",
+    "category": "ADJ",
+    "value": 13
+  },
+  {
+    "word": "lean",
+    "category": "VERB",
+    "value": 13
+  },
+  {
+    "word": "rub",
+    "category": "VERB",
+    "value": 13
+  },
+  {
+    "word": "draw",
+    "category": "VERB",
+    "value": 13
+  },
+  {
+    "word": "crazy",
+    "category": "ADJ",
+    "value": 13
+  },
+  {
+    "word": "quickly",
+    "category": "ADV",
+    "value": 13
+  },
+  {
+    "word": "dead",
+    "category": "ADJ",
+    "value": 13
+  },
+  {
+    "word": "huh",
+    "category": "INTJ",
+    "value": 13
+  },
+  {
+    "word": "clara",
+    "category": "PROPN",
+    "value": 13
+  },
+  {
+    "word": "month",
+    "category": "NOUN",
+    "value": 13
+  },
+  {
+    "word": "suddenly",
+    "category": "ADV",
+    "value": 13
+  },
+  {
+    "word": "repeat",
+    "category": "VERB",
+    "value": 13
+  },
+  {
+    "word": "nigger",
+    "category": "NOUN",
+    "value": 13
+  },
+  {
+    "word": "m",
+    "category": "VERB",
+    "value": 13
+  },
+  {
+    "word": "drop",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "drink",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "boy",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "shoulder",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "smile",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "knee",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "sun",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "pet",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "job",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "catch",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "live",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "lady",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "pretty",
+    "category": "ADV",
+    "value": 12
+  },
+  {
+    "word": "fall",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "give",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "laugh",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "read",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "table",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "bright",
+    "category": "ADJ",
+    "value": 12
+  },
+  {
+    "word": "stable",
+    "category": "ADJ",
+    "value": 12
+  },
+  {
+    "word": "le",
+    "category": "PROPN",
+    "value": 12
+  },
+  {
+    "word": "kid",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "bit",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "tol",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "cover",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "black",
+    "category": "ADJ",
+    "value": 11
+  },
+  {
+    "word": "pull",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "red",
+    "category": "ADJ",
+    "value": 11
+  },
+  {
+    "word": "outa",
+    "category": "ADJ",
+    "value": 11
+  },
+  {
+    "word": "lot",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "quiet",
+    "category": "ADJ",
+    "value": 11
+  },
+  {
+    "word": "sleep",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "bag",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "bean",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "long",
+    "category": "ADV",
+    "value": 11
+  },
+  {
+    "word": "follow",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "bed",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "window",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "kind",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "nod",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "hair",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "scared",
+    "category": "ADJ",
+    "value": 11
+  },
+  {
+    "word": "han",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "puppy",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "um",
+    "category": "INTJ",
+    "value": 11
+  },
+  {
+    "word": "bank",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "sycamore",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "white",
+    "category": "ADJ",
+    "value": 10
+  },
+  {
+    "word": "arm",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "hang",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "continue",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "shake",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "lose",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "hide",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "shout",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "roll",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "lip",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "aunt",
+    "category": "PROPN",
+    "value": 10
+  },
+  {
+    "word": "demand",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "end",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "town",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "call",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "morning",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "pick",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "new",
+    "category": "ADJ",
+    "value": 10
+  },
+  {
+    "word": "right",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "skinner",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "barley",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "ear",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "chain",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "mile",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "green",
+    "category": "ADJ",
+    "value": 9
+  },
+  {
+    "word": "strong",
+    "category": "ADJ",
+    "value": 9
+  },
+  {
+    "word": "pile",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "start",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "hill",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "coat",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "dark",
+    "category": "ADJ",
+    "value": 9
+  },
+  {
+    "word": "blue",
+    "category": "ADJ",
+    "value": 9
+  },
+  {
+    "word": "gently",
+    "category": "ADV",
+    "value": 9
+  },
+  {
+    "word": "talkin",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "ground",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "grain",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "son",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "fun",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "nuts",
+    "category": "ADJ",
+    "value": 9
+  },
+  {
+    "word": "need",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "couple",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "cut",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "comin",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "open",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "course",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "happen",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "shelf",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "wrist",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "study",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "quit",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "doorway",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "team",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "close",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "ast",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "travel",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "jump",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "like",
+    "category": "INTJ",
+    "value": 9
+  },
+  {
+    "word": "figure",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "care",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "horseshoe",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "old",
+    "category": "PROPN",
+    "value": 9
+  },
+  {
+    "word": "alfalfa",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "land",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "money",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "carry",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "wind",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "bindle",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "kinda",
+    "category": "ADJ",
+    "value": 8
+  },
+  {
+    "word": "neck",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "scowl",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "hell",
+    "category": "PROPN",
+    "value": 8
+  },
+  {
+    "word": "machine",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "gut",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "steal",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "soon",
+    "category": "ADV",
+    "value": 8
+  },
+  {
+    "word": "yell",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "chance",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "stove",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "mouth",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "lookin",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "floor",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "forward",
+    "category": "ADV",
+    "value": 8
+  },
+  {
+    "word": "magazine",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "get",
+    "category": "AUX",
+    "value": 8
+  },
+  {
+    "word": "silent",
+    "category": "ADJ",
+    "value": 8
+  },
+  {
+    "word": "young",
+    "category": "ADJ",
+    "value": 8
+  },
+  {
+    "word": "body",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "game",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "soft",
+    "category": "ADJ",
+    "value": 8
+  },
+  {
+    "word": "solitaire",
+    "category": "ADJ",
+    "value": 8
+  },
+  {
+    "word": "harm",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "silence",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "hunderd",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "deep",
+    "category": "ADJ",
+    "value": 7
+  },
+  {
+    "word": "sand",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "valley",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "tree",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "evening",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "near",
+    "category": "ADP",
+    "value": 7
+  },
+  {
+    "word": "air",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "snap",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "sharply",
+    "category": "ADV",
+    "value": 7
+  },
+  {
+    "word": "weed",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "sure",
+    "category": "ADV",
+    "value": 7
+  },
+  {
+    "word": "stick",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "ketchup",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "wisht",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "touch",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "dress",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "mean",
+    "category": "ADJ",
+    "value": 7
+  },
+  {
+    "word": "hardly",
+    "category": "ADV",
+    "value": 7
+  },
+  {
+    "word": "point",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "carefully",
+    "category": "ADV",
+    "value": 7
+  },
+  {
+    "word": "kick",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "brown",
+    "category": "ADJ",
+    "value": 7
+  },
+  {
+    "word": "near",
+    "category": "ADV",
+    "value": 7
+  },
+  {
+    "word": "helplessly",
+    "category": "ADV",
+    "value": 7
+  },
+  {
+    "word": "handy",
+    "category": "ADJ",
+    "value": 7
+  },
+  {
+    "word": "sound",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "dollar",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "explain",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "piece",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "excitedly",
+    "category": "ADV",
+    "value": 7
+  },
+  {
+    "word": "clang",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "funny",
+    "category": "ADJ",
+    "value": 7
+  },
+  {
+    "word": "people",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "bill",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "shot",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "susy",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "halter",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "stroke",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "soledad",
+    "category": "PROPN",
+    "value": 6
+  },
+  {
+    "word": "slip",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "willow",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "beat",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "hard",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "highway",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "hurry",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "blanket",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "quick",
+    "category": "ADJ",
+    "value": 6
+  },
+  {
+    "word": "heavily",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "snort",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "kneel",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "jerk",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "closed",
+    "category": "ADJ",
+    "value": 6
+  },
+  {
+    "word": "anyways",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "lookin",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "slightly",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "die",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "supper",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "wood",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "line",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "coldly",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "wash",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "cry",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "lift",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "half",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "mess",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "cave",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "pause",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "damn",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "pig",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "lan",
+    "category": "PROPN",
+    "value": 6
+  },
+  {
+    "word": "garden",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "patch",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "build",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "pass",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "fill",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "nail",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "ceiling",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "left",
+    "category": "ADJ",
+    "value": 6
+  },
+  {
+    "word": "elbow",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "finally",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "shuffle",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "care",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "buck",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "right",
+    "category": "INTJ",
+    "value": 6
+  },
+  {
+    "word": "ago",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "bent",
+    "category": "ADJ",
+    "value": 6
+  },
+  {
+    "word": "m",
+    "category": "AUX",
+    "value": 6
+  },
+  {
+    "word": "help",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "kinda",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "joke",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "rest",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "stink",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "edge",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "letter",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "luger",
+    "category": "PROPN",
+    "value": 6
+  },
+  {
+    "word": "lead",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "ought",
+    "category": "AUX",
+    "value": 6
+  },
+  {
+    "word": "afternoon",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "talkin",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "stall",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "winter",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "footstep",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "nose",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "huge",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "paw",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "swing",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "nearly",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "nervously",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "tha",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "happily",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "hopelessly",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "angrily",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "honest",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "thumb",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "ya",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "thought",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "weed",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "outa",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "easy",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "awright",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "snake",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "can",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "disappear",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "approach",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "darken",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "light",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "cat",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "whisky",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "angry",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "terror",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "country",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "anger",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "cautiously",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "whatta",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "well",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "somebody",
+    "category": "PRON",
+    "value": 5
+  },
+  {
+    "word": "cow",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "milk",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "fine",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "shut",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "chapter",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "square",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "clean",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "meet",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "whisker",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "liniment",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "leather",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "yes",
+    "category": "INTJ",
+    "value": 5
+  },
+  {
+    "word": "finish",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "shirt",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "boot",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "write",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "lick",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "struggle",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "damn",
+    "category": "INTJ",
+    "value": 5
+  },
+  {
+    "word": "cheek",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "glove",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "gradually",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "fist",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "hate",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "mess",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "can",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "begin",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "week",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "dirty",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "distance",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "clear",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "hard",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "mule",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "rattle",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "lean",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "pair",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "feed",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "smart",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "dumb",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "crop",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "bust",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "shoe",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "to",
+    "category": "ADP",
+    "value": 5
+  },
+  {
+    "word": "tol",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "miserably",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "spine",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "colored",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "difference",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "river",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "warm",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "yellow",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "limb",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "make",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "path",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "hot",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "shade",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "climb",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "heron",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "thin",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "side",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "short",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "clearing",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "surface",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "sick",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "jes",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "wonder",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "road",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "good",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "smile",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "uh",
+    "category": "INTJ",
+    "value": 4
+  },
+  {
+    "word": "disgustedly",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "tail",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "easy",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "reason",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "fast",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "top",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "tonight",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "whistle",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "poor",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "remain",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "ball",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "takin",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "sadly",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "flame",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "darkness",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "blow",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "shout",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "cage",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "face",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "sense",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "food",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "don",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "foolin",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "bait",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "lonely",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "belong",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "jail",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "acre",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "fatta",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "thick",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "knife",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "drive",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "spoon",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "chew",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "question",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "gettin",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "show",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "live",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "latch",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "iron",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "middle",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "fly",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "broom",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "sack",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "stuff",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "egg",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "bottle",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "eatin",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "year",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "coulda",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "fat",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "dinner",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "understand",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "worker",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "half",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "lie",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "peer",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "settle",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "reassure",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "sheep",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "look",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "ju",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "punk",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "marry",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "tart",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "plenty",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "harness",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "forth",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "tone",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "sausage",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "hi",
+    "category": "INTJ",
+    "value": 4
+  },
+  {
+    "word": "eagerly",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "subject",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "dunno",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "slim",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "calm",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "coulda",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "nest",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "ache",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "scratch",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "tar",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "peg",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "sunday",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "gettin",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "creep",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "attention",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "whore",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "beg",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "interrupt",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "stump",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "shotgun",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "pink",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "glass",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "suppose",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "pitcher",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "stamp",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "outside",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "salinas",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "slope",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "gabilan",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "mountains",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "line",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "fresh",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "branch",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "great",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "split",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "swim",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "tramp",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "direction",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "labor",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "pound",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "opening",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "denim",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "tight",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "large",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "drag",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "forefinger",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "drink",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "arise",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "ring",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "chin",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "push",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "embrace",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "morosely",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "bus",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "stretch",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "lazy",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "settin",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "murray",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "ready",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "live",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "aw",
+    "category": "INTJ",
+    "value": 3
+  },
+  {
+    "word": "embarrassment",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "ju",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "swell",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "explode",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "periscope",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "immediately",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "buckin",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "crash",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "hesitate",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "back",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "sock",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "master",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "acrost",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "baby",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "quiver",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "meanness",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "bite",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "dusk",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "cotton",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "plenty",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "litter",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "dry",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "gallon",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "ditch",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "close",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "heel",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "cause",
+    "category": "SCONJ",
+    "value": 3
+  },
+  {
+    "word": "avoid",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "outa",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "ahead",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "bar",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "anybody",
+    "category": "PRON",
+    "value": 3
+  },
+  {
+    "word": "rain",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "second",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "hide",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "asleep",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "one",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "whisper",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "wooden",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "apple",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "soap",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "medicine",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "straight",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "tall",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "jean",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "straw",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "pant",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "shift",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "knuckle",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "closely",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "burn",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "breakfast",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "nigger",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "crooked",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "smitty",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "high",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "heeled",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "legged",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "slip",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "fault",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "hadda",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "squint",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "pencil",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "milton",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "bull",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "panic",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "help",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "cultivator",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "loudly",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "deliberately",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "pay",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "interest",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "careful",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "glad",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "listenin",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "blind",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "wash",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "interested",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "agree",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "glance",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "stiffen",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "twist",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "motionless",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "mistake",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "fulla",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "vaseline",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "casually",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "ancient",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "hell",
+    "category": "INTJ",
+    "value": 3
+  },
+  {
+    "word": "sunshine",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "thoughtfully",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "heavy",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "able",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "frightened",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "hoof",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "mind",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "mind",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "fascinated",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "twitch",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "purty",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "leg",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "hit",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "shortly",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "crush",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "talk",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "thirty",
+    "category": "NUM",
+    "value": 3
+  },
+  {
+    "word": "ta",
+    "category": "AUX",
+    "value": 3
+  },
+  {
+    "word": "chuckle",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "drown",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "keep",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "tooth",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "hour",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "dish",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "sniff",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "brightness",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "awmighty",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "bear",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "bunch",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "real",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "alla",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "wouldn",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "hold",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "scairt",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "grass",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "grab",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "tiny",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "hello",
+    "category": "INTJ",
+    "value": 3
+  },
+  {
+    "word": "alive",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "spend",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "later",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "pistol",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "hip",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "aroun",
+    "category": "ADP",
+    "value": 3
+  },
+  {
+    "word": "matter",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "yella",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "trigger",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "idear",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "chair",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "kewpie",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "doll",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "lamp",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "crack",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "barrel",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "burst",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "coulda",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "sigh",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "rack",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "smoke",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "sell",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "nibble",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "fren",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "bust",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "comin",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "hoe",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "true",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "home",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "blood",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "wait",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "flop",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "leggo",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "crouch",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "bend",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "collar",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "appear",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "nut",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "keg",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "pleasure",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "remove",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "embarrassed",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "lousy",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "worry",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "disapprovingly",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "manger",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "packing",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "tenement",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "clothe",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "pet",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "velvet",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "fly",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "lock",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "wave",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "south",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "narrow",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "golden",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "low",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "mottled",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "crisp",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "damp",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "flat",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "track",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "wedge",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "dark",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "ash",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "smooth",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "gray",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "state",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "single",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "dress",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "trouser",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "denim",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "shapeless",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "pale",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "wide",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "sloping",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "bear",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "wipe",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "fling",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "drip",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "widen",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "scoop",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "gutter",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "imitate",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "driver",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "wanta",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "gate",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "kick",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "timidly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "tellin",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "delighted",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "ticket",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "grin",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "hidin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "obey",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "north",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "quarter",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "understanding",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "giggle",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "cross",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "hopefully",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "reed",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "rustle",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "tomorra",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "gather",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "ready",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "fool",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "brusquely",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "elaborate",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "puttin",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "terrier",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "tear",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "pettin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "scoff",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "apologetically",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "rubber",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "rise",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "gulp",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "sink",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "overhead",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "twig",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "wing",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "crack",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "blaze",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "patiently",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "hotel",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "furiously",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "manner",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "irrigation",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "trunk",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "pretend",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "coyote",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "world",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "fambly",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "future",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "heart",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "jack",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "cream",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "hutch",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "nuts",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "swallow",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "specially",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "furry",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "sacramento",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "coal",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "breeze",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "burlap",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "personal",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "load",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "powder",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "razor",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "believe",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "comb",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "necktie",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "indicate",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "come",
+    "category": "AUX",
+    "value": 2
+  },
+  {
+    "word": "slow",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "meal",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "matter",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "skeptically",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "underneath",
+    "category": "ADP",
+    "value": 2
+  },
+  {
+    "word": "inspect",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "pat",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "wrinkle",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "fella",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "christmas",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "sir",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "use",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "woulda",
+    "category": "AUX",
+    "value": 2
+  },
+  {
+    "word": "account",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "memory",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "belt",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "stetson",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "step",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "hand",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "bum",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "send",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "bucker",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "small",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "enter",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "noon",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "having",
+    "category": "AUX",
+    "value": 2
+  },
+  {
+    "word": "try",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "sellin",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "cousin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "awright",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "brain",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "flapper",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "viciously",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "save",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "relative",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "muzzle",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "lamely",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "grunt",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "uneasily",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "sayin",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "workin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "swamper",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "tightly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "cook",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "squirm",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "levelly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "consider",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "tough",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "oughtta",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "fighter",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "cause",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "warm",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "keepin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "safe",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "lay",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "purty",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "ant",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "painfully",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "settin",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "basin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "brilliant",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "ace",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "square",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "whip",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "feelin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "sock",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "tangle",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "loud",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "brake",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "trace",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "frown",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "hope",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "contort",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "rouge",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "wide",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "fingernail",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "ostrich",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "feather",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "blame",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "person",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "tryin",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "defensively",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "admiringly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "standin",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "fulla",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "shove",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "gold",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "comb",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "jacket",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "jerkline",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "capable",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "speech",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "upside",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "scream",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "conversation",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "complacently",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "compliment",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "corner",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "friendly",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "invite",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "confidence",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "glad",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "wagon",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "shepherd",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "stink",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "smell",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "ring",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "group",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "dignity",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "bounce",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "half",
+    "category": "DET",
+    "value": 2
+  },
+  {
+    "word": "measure",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "rattle",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "gaze",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "half",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "pop",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "tin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "shaded",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "electric",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "keepin",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "proudly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "order",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "cheer",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "cuckoo",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "aroun",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "alongside",
+    "category": "ADP",
+    "value": 2
+  },
+  {
+    "word": "bone",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "stroke",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "scatter",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "fight",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "calmly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "mix",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "squawks",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "yellin",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "fence",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "law",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "outa",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "scare",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "hunch",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "directly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "conceal",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "stomach",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "fairly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "scuttle",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "herd",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "insist",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "stubble",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "bein",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "free",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "cripple",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "mag",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "story",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "tenner",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "impressively",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "wonder",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "run",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "wait",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "tomorra",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "thong",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "tie",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "trail",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "euchre",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "noise",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "rat",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "trap",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "takin",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "deal",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "scoring",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "friday",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "negro",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "pain",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "everybody",
+    "category": "PRON",
+    "value": 2
+  },
+  {
+    "word": "scoop",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "deliberate",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "seven",
+    "category": "NUM",
+    "value": 2
+  },
+  {
+    "word": "usual",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "las",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "sheriff",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "flop",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "cent",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "cleaning",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "rod",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "clean",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "round",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "bang",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "lap",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "anyways",
+    "category": "INTJ",
+    "value": 2
+  },
+  {
+    "word": "fight",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "end",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "tar",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "paint",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "drunk",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "andy",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "berry",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "plenty",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "salmon",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "fruit",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "goat",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "offa",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "ourself",
+    "category": "PRON",
+    "value": 2
+  },
+  {
+    "word": "pigeon",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "spen",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "breathe",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "smash",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "subside",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "grumble",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "future",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "picture",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "suspiciously",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "own",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "case",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "fix",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "circus",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "life",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "delight",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "scare",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "join",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "glare",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "slash",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "left",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "fish",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "weak",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "straighten",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "regard",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "doctor",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "wanta",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "wheel",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "broken",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "covering",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "range",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "possession",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "california",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "spectacle",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "sweep",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "pour",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "shiver",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "attempt",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "adjust",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "sharpen",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "bout",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "sight",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "truth",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "palm",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "ai",
+    "category": "INTJ",
+    "value": 2
+  },
+  {
+    "word": "bore",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "family",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "increase",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "press",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "hurt",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "whine",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "thinkin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "clink",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "darkly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "change",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "near",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "corn",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "explore",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "part",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "husban",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "sayin",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "baloney",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "didn",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "sullenly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "bindle",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "dum",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "stiff",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "pretty",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "worl",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "redder",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "arouse",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "figurin",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "sorrow",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "chorus",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "curl",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "playin",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "mutt",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "riverside",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "dance",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "palace",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "movie",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "natural",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "oughten",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "metal",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "streak",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "feeding",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "muss",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "violently",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "fright",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "outside",
+    "category": "ADP",
+    "value": 2
+  },
+  {
+    "word": "em",
+    "category": "PRON",
+    "value": 2
+  },
+  {
+    "word": "weakly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "low",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "shallow",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "beak",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "frantically",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "row",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "flow",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "jack",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "bird",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "trail",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "entrance",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "mountain",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "stiffly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "shadow",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "hoot",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "steady",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "hillside",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "twinkle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sunlight",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "foothill",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "curve",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rocky",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "spring",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "leaf",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "juncture",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "debris",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "flooding",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "recumbent",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "arch",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sandy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "lizard",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "skittering",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "coon",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "spread",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "pad",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "deer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wearily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "jungle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "horizontal",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "giant",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "sculptured",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "stone",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "noiselessly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "cover",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stilted",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "lifeless",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "emerge",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "file",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "brass",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "button",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "roll",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sling",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "restless",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "sharp",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "feature",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "define",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "slender",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "bony",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "opposite",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "loosely",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "follower",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sweat",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "band",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "moisture",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "companion",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gulp",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sake",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dip",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "unslung",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "scummy",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dabble",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "wiggle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "splash",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "taste",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "admit",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "oughta",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "thirsty",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "replace",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "exactly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "rim",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "glare",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ride",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "clear",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "jes",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "brim",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "awready",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "mightjus",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "spen",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "howard",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "street",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "watchin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "blackboard",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "musta",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "despair",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "relief",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cleverly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "startled",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "resignedly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "north",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "stan",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "drone",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "puzzled",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "remind",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "fear",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "triumphantly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "flame",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "current",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "thrashin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bustin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "match",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "heat",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "lumber",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "splashing",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "came",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "pantomime",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "innocence",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wildly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "contemplate",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "freedom",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "reluctantly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "lyin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "outstretched",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "imperiously",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "strokin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "fool",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wet",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "whimpering",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wheel",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "blubberin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "dejectedly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "lady",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "givin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "pinch",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "trust",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "pet",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sunset",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "mountaintop",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "carp",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "mysteriously",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "whisk",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "puff",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "land",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "floodwater",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "dry",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "heap",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dove",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "undo",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "order",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "whatta",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "shovin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "mimic",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sneak",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "million",
+    "category": "NUM",
+    "value": 1
+  },
+  {
+    "word": "anguished",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "ashamedly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "curve",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "crawl",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "unaware",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "answer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "foolin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "peace",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "foun",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "searchingly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "sense",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "advantage",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "craftily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "plead",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "rhythmically",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "poundin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "blowin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "jack",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "rot",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "delightedly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "vegetable",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "rain",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "listen",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "saw",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "mightily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "gesture",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "tomorrow",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "concentrate",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "coupla",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "choke",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "pride",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "motion",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sleepin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sphere",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "curling",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "faint",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "glimmer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "different",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "color",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sleepily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "million",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "fair",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cause",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dim",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "yammered",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stream",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rectangular",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "building",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "inside",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "whitewash",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "unpainte",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "fourth",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "solid",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "ticking",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "nail",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "belonging",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "occupant",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "article",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "talcum",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "western",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "love",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "secretly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "vial",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cast",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stovepipe",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "litter",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "playing",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "group",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "player",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dust",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "laden",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "beam",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rush",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "star",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stoop",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "shoulder",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "push",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "expectin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sore",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "sleeve",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "round",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "like",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "mattress",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "positively",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "lice",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "roach",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "scourge",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "label",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "grayback",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "neighbor",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "peel",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "boil",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "potato",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "spot",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "splotch",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "scrape",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "ta",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sunday",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "yellow",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bristly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "gimme",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "tick",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sacking",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "satisfied",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "unroll",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "pill",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wristband",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "neatly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "ya",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "nice",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "brang",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "hearty",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "skinner",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "relish",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "poop",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stocky",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "jean",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "flannel",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "unbuttoned",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "vest",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "steel",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "buckle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "soiled",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "spur",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "prove",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "past",
+    "category": "ADP",
+    "value": 1
+  },
+  {
+    "word": "produce",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "steer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ride",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "meaningfully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "name",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "twentieth",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "twentieth",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "playful",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "talker",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "shame",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rassel",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "pound",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bale",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hook",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sellin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "job",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "promptly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "diggin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cesspool",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "away",
+    "category": "ADP",
+    "value": 1
+  },
+  {
+    "word": "wise",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "pickin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "threshing",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "abruptly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "dragfoote",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sheepdog",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "grizzle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "moth",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "standin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "scratchin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "swampin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "pokin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "business",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "nosey",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "mollify",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "defense",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bristle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "curl",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "slight",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "crouch",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "glance",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "calculate",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "pugnacious",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "gingerly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "waitin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "lash",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "tense",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "instruction",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "nex",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "lightweight",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "alla",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "scrap",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "kind",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "scrappy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "size",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gang",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "givin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "ominously",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "rule",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "slough",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "like",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "lately",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "showin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gossip",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "vaseline",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "absorbedly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "derogatory",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "statement",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "confidently",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "married",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "jerkline",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "high",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "lack",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "mister",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "club",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "spark",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "jingle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "croak",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "laden",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "axle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ooh",
+    "category": "INTJ",
+    "value": 1
+  },
+  {
+    "word": "sta",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "flounce",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "setup",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "plaintively",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "win",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "mourn",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "plug",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "thud",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "drag",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "jingle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "decisive",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "slep",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "screech",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sta",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rectangle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "spaced",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "cluster",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "instep",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bouquet",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "nasal",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "brittle",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "quality",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "frame",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bridle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "playfully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "archly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "apprehensive",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "bye",
+    "category": "INTJ",
+    "value": 1
+  },
+  {
+    "word": "clear",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "gosh",
+    "category": "INTJ",
+    "value": 1
+  },
+  {
+    "word": "fiercely",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "poison",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "disengage",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "showin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "rattrap",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rap",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "raw",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "writin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "patent",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wanna",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "poke",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "american",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "pan",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "washroom",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "nearby",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "oughtta",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "majesty",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "achieve",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "royalty",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "craftsman",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "prince",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sixteen",
+    "category": "NUM",
+    "value": 1
+  },
+  {
+    "word": "leader",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wheeler",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "butt",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "whip",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gravity",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "profound",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "authority",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "politic",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "love",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hatchet",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ageless",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "overtone",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "delicate",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "action",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "temple",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dancer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "smooth",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "crease",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "kindly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "gentle",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "approvingly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "loose",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "muse",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "powerful",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "big",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "stomached",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "scrubbing",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "douse",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "introduction",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "meant",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "slang",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "heat",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "lulu",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "looka",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "thinkin",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "intently",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "triangle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "beat",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ringing",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "burst",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "precede",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "rumple",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "messy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "bout",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "insultingly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "flash",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "height",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "reach",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "trim",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "didn",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "mild",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "grizzled",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "inside",
+    "category": "ADP",
+    "value": 1
+  },
+  {
+    "word": "thuds",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "occasional",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "approval",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "derision",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "instantly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "cone",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "downward",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "opposite",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "need",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "thank",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "partner",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "figuring",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "horseshoe",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "string",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "invitation",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "travelin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "bringin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "stead",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "encourage",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "discourage",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "receptive",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "auburn",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "umm",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "godlike",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "fasten",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "imself",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cliff",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "confession",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "pullin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "clean",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "guy",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "stack",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "thud",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "wantin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "course",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "nuisance",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rid",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "trouble",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "alarmed",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "squawk",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "picket",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "level",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "unwinking",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rape",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "party",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "lynch",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "scram",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "cape",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "breathlessly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "white",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "mother",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "pleadingly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "awright",
+    "category": "INTJ",
+    "value": 1
+  },
+  {
+    "word": "slug",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "turnip",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bodied",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "yard",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "pitch",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "apologize",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "notice",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "stride",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stiff",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "rheumatism",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "uncomfortably",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "airedale",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "learn",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "suffer",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "hisself",
+    "category": "PRON",
+    "value": 1
+  },
+  {
+    "word": "unhappily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "carl",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "opinion",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "suggest",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "toe",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "invisible",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "pulp",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "slim",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "loud",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "dear",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "editor",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "market",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "peter",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "rand",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "whing",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ding",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dark",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "rider",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "dime",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "worth",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "questioningly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "success",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "william",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "drove",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "savin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "surrender",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "field",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "pea",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "refuse",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "devil",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "misery",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hurtin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "stinkin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "reversal",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stoop",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "stiffly",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "leash",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "shovel",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rigidly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "lead",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "last",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "invade",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "opposite",
+    "category": "ADP",
+    "value": 1
+  },
+  {
+    "word": "ripple",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "deck",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "snapping",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "subdue",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "gnawing",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gratefully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "back",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "noisily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "board",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "monday",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "mornin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "go",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "patient",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "mule",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "messin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "handlin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "examine",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "seen",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "looloo",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "concealin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "obvious",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "solitaire",
+    "category": "X",
+    "value": 1
+  },
+  {
+    "word": "drawer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "lef",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "layin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "crawlin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "ranch",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "crackin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "porch",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "yor",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rushin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "kickin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "joint",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "crackin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rag",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rug",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "phonograph",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "parlor",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wanta",
+    "category": "INTJ",
+    "value": 1
+  },
+  {
+    "word": "walkin",
+    "category": "PRON",
+    "value": 1
+  },
+  {
+    "word": "bow",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "goo",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "goos",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rollin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "attract",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "oil",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "shell",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "chamber",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ejector",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sarcastically",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "threateningly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "square",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "spoilin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "final",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gloves",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "newspaper",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "clipping",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "fuss",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stayin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "hurtin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "fightin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "automatically",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "thoughtful",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "slowness",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "today",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "system",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hoosegow",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cushman",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "grammar",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "school",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cake",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "pile",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "diamond",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "san",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "quentin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "drum",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "cheap",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "givin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "shack",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "kitchen",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "orchard",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cherry",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "peach",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cot",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "flood",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "smoke",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bacon",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ham",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "salt",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "tomato",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "fatta",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "kin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "vegetable",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "runnin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "round",
+    "category": "ADP",
+    "value": 1
+  },
+  {
+    "word": "jap",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "sir",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "planting",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "flyin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "raptly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "extra",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "setter",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stripe",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "threaten",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "dare",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "disturb",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "entrance",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "reprehensible",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "guard",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "flat",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "operation",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "swampin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "los",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "cook",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "share",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "spat",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "re",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "amazed",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "reverently",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "swamp",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "county",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "live",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "bemuse",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "beauty",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "lovely",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "wonderingly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "carnival",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "appreciation",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "idea",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "squack",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "write",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "bind",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sudden",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "scram",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "shot",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "stranger",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "askin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "expect",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "tryin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "whirl",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "les",
+    "category": "X",
+    "value": 1
+  },
+  {
+    "word": "wanta",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "frog",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "belly",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "welter",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "head",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "attack",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "joy",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "curley",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "past",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "laughin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "blankly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "rage",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "retreat",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "balanced",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "poised",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "well",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "slug",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "defend",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "bleat",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "attack",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "cup",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "swinge",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "slap",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "shrink",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "struggling",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cower",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "horror",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bust",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "hitch",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "whimpering",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "return",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "cup",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wryly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "laugh",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "buggy",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "fearfully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "solemnly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "intil",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "bruise",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "wrong",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "shed",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "paned",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "plank",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "process",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "mend",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "strip",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bench",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "tool",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "curved",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "needle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "linen",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "thread",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "riveter",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "horsehair",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "stuffing",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hame",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "split",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "saddle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "drippy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "number",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "permanent",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "accumulate",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "possess",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "alarm",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "clock",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "single",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "barrel",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "tattered",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "dictionary",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "maul",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "copy",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "civil",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "code",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "battered",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "special",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "rimmed",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "neat",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "proud",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "aloof",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "theirs",
+    "category": "PRON",
+    "value": 1
+  },
+  {
+    "word": "deep",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "depth",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "glitter",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "intensity",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "tighten",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "light",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "saturday",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "stirring",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "champ",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "globe",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "meager",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "drop",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "palm",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "flex",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "muscle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "noiselessly",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "scowl",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "friend",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "fawning",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "flap",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "set",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "complain",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "advance",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "someplace",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "disarm",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "defeat",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "little",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "huh",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "comfortably",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "southern",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "negro",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sayin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "blabbin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "excitement",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "screwy",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "matter",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "talking",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "persuasive",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "forward",
+    "category": "ADP",
+    "value": 1
+  },
+  {
+    "word": "private",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "victory",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "doubt",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "torture",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "observe",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "wrinkle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "apprehension",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "got",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "booby",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hatch",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "center",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "dangerously",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "danger",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "edge",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "supposin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "supposin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "growl",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "seat",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rummy",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "read",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "readin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "dreamily",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "brother",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "strawberry",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sunny",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "rail",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "watch",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gradually",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "scornful",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "heaven",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "heaven",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "restlessly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "whinny",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "upright",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "bald",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "blindly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "lighted",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "irritably",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "difficult",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "cozy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "manure",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "promise",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "brutally",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "kiddin",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "plant",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "harvest",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "harvest",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "overwhelm",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "loneliness",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "blackjack",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "lend",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "crippled",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "strongly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "sourly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "amusedly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "pause",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "house",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "accusingly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "aroun",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "causin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "flare",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "swell",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "twicet",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cross",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "sullenness",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "cough",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "bust",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "finish",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "baloney",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "contemptuously",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "show",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "breathless",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "indignation",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "standin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "likin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "retire",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "terrible",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "protective",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "negro",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "change",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "knock",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "backward",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "floozy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "amount",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "suckin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "control",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "situation",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hoop",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "scatter",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bruise",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "guiltily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "machine",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "messin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "scorn",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "string",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "reduce",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "personality",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dislike",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "toneless",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "perfectly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "avert",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "framin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "damned",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "appraise",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "coolly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "better",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "layer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "protection",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "practice",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "dully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "stood",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "frame",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "dope",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "crestfallen",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "member",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hoein",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "odd",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "wouldn",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "rest",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "wisp",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "slice",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "buzz",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "humming",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "encouraging",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "jeering",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "hum",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "fin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hollow",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "mound",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "foun",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "unburie",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sorrowfully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "damn",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "hurl",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "rock",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "limp",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "shovel",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sonny",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "boy",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "awful",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "woe",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "smack",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "console",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "soothingly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "bet",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "wha",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "livin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "tumble",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "passion",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "communication",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "listener",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "actor",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "livin",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "nother",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "hollywood",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "impress",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "met",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "confide",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "preview",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "radio",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cost",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "grand",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "gesture",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "act",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "grandly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "deeply",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "ringer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "conclusion",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "fair",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "earnestly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "sof",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "reassured",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "silk",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "frown",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "coarse",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "wire",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "brush",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sideways",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "batter",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "writhe",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "muffled",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "screaming",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "hoarse",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "wild",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "bewildered",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "paw",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "partly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "double",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "conscious",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "pitch",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "dusky",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "advance",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "outside",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "circle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "dug",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "halfway",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "scent",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "whimper",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "cringe",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "planning",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "discontent",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "simple",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "sweet",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "reddened",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "lightly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "spread",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "hover",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "movement",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "awaken",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sluggishly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "halterchain",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "beard",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "bedding",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "clash",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "echo",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "stiffly",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "way",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "answering",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "guess",
+    "category": "INTJ",
+    "value": 1
+  },
+  {
+    "word": "lock",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "starve",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "oughta",
+    "category": "AUX",
+    "value": 1
+  },
+  {
+    "word": "wanta",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "lynch",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "fear",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "usta",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sulkily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "poolroom",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "turtle",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "tell",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "jus",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "lousy",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "snivel",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "singsong",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "baseball",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ta",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "blind",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "bristly",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "rise",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "drum",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "button",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "race",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "gloom",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "twisted",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "crowd",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "spell",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "fury",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "forehead",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "free",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "south",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "couldn",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "strap",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "cold",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "double",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "cop",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "al",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "wilts",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "deputy",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "redden",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "outta",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "squat",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "fainter",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "late",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "hilltop",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "rosy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "pleasant",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "glide",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "smoothly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "swam",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "length",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "lance",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "pluck",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "wave",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "far",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "rush",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gust",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "silver",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "scudded",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "silently",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "move",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "slide",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "drank",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "barely",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "skitter",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "strain",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "blaze",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "wish",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "botherin",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "woman",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gingham",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "apron",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "starched",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "min",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "pie",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "snooker",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "moan",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "grief",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "fin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "jus",
+    "category": "X",
+    "value": 1
+  },
+  {
+    "word": "sonofabitche",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "stew",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "gigantic",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "haunch",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "waggle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "crinkle",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "scornfully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "fit",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "hungry",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "worth",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "greased",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "pin",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "ram",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "outa",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "sewer",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "retort",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "belligerently",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "yellin",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "topmost",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "ridge",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "woodenly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "monotonous",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "emphasis",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "enda",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "cat",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "triumph",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "shakily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "dutifully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "bluer",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "distant",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "businesslike",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "gabilans",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "safety",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "skull",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "happiness",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "crash",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "jar",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "ashe",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "tiredly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "whisper",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "steadily",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "swear",
+    "category": "VERB",
+    "value": 1
+  },
+  {
+    "word": "mice",
+    "category": "NOUN",
+    "value": 1
+  },
+  {
+    "word": "men",
+    "category": "PROPN",
+    "value": 1
+  }
+]
