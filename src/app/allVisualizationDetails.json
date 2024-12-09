@@ -782,6 +782,15 @@
     "interactivity": false,
     "link": "/books/phineas_2/top-words-whole-bar"
   },
+    "/books/phineas_2/graph": {
+    "grade": "Grade 8",
+    "category": "Bar Chart",
+    "title": "Most Frequent Bigrams (nouns)",
+    "textName": "Phineas Gage",
+    "description": "<div class=\"space-y-3\"><p>This graph shows bigrams of nouns and adjectives, where nodes are words, and links represent their co-occurrence. Larger nodes indicate words that appear more frequently in bigrams, while thicker links show pairs that occur together more often. Only bigrams with nouns from the top 10 most frequent nouns were included, and duplicates like (broken, cell) and (cell, broken) were merged. The graph highlights how key nouns are described by adjectives in the dataset.</p></div>",
+    "interactivity": true,
+    "link": "/books/phineas_2/graph"
+  },
     "/books/voyage/words_by_char": {
     "grade": "Grade 8",
     "category": "Bar Chart",
