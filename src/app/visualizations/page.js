@@ -53,6 +53,7 @@ const VizItem = ({ item }) => {
     "A Midsummer Night's Dream": "/imgs/textCovers/midsummer_night.jpg",
     "Voyage Out": "/imgs/textCovers/voyage.jpg",
     "Of Mice and Men": "/imgs/textCovers/mice.jpg",
+    "Bless Me, Ultima": "/imgs/textCovers/ultima.jpg",
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">
