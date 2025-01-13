@@ -872,15 +872,6 @@
     "interactivity": true,
     "link": "/books/ultima/nouns"
   },
-    "/books/ultima/sentence-length": {
-    "grade": "Grade 8",
-    "category": "Line Graph",
-    "title": "Sentence Length Over Time",
-    "textName": "Bless Me, Ultima",
-    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
-    "interactivity": true,
-    "link": "/books/ultima/sentence-length"
-  },
     "/books/ultima/top-words-whole-bar": {
     "grade": "Grade 8",
     "category": "Bar Chart",
@@ -889,5 +880,50 @@
     "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": false,
     "link": "/books/ultima/top-words-whole-bar"
+  },
+    "/books/frankenstein/verbs": {
+    "grade": "Grade 8",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Frankenstein",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/frankenstein/verbs"
+  },
+    "/books/frankenstein/nouns": {
+    "grade": "Grade 8",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Frankenstein",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/frankenstein/nouns"
+  },
+    "/books/frankenstein/top-words-whole-bar": {
+    "grade": "Grade 8",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Frankenstein",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/frankenstein/top-words-whole-bar"
+  },
+    "/books/frankenstein/general-sentiment-line": {
+    "grade": "Grade 8",
+    "category": "Line Graph",
+    "title": "Sentiment Chart",
+    "textName": "Frankenstein",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the sentiment score for each chapter in the text. The <strong>sentiment score</strong> measures a combination of three aspects of language: valence (degree of positive connotation), arousal (degree of intensity), and dominance (degree of control). A word like 'terror' would have a low score for positive valence, a high arousal score, and a low dominance score. A word like 'laughter' would have a high positive valence score, a fairly high score of intensity, and a medium score for control. The scores come from a dictionary of over 20,000+ English words and scores that have been created by a group of human raters. The scores are first computed for each word, then averaged for each line, then averaged across a whole chapter. Because the scores don't account for context, they can sometimes be way off.  </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/frankenstein/general-sentiment-line"
+  },
+    "/books/frankenstein/graph": {
+    "grade": "Grade 8",
+    "category": "Network Chart",
+    "title": "Most Frequent Pairs of Words",
+    "textName": "Frankenstein",
+    "description": "<div class=\"space-y-3\"><p>This graph shows pairs of nouns and adjectives, where circles represent words, and links represent their co-occurrence. Larger circles indicate words that appear more frequently. Only pairs with nouns from the top 25 most frequent nouns were included. The graph illustrates how key nouns are described by adjectives in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/frankenstein/graph"
   }
 }
