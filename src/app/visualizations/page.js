@@ -270,9 +270,6 @@ function FilterComponent({ vizData, onFilter }) {
           ))}
         </div>
       </div>
-      <button onClick={unselectAllTextNames} className="mt-2 p-2 bg-red-500 text-white rounded hover:bg-red-600">
-          Unselect All Texts
-      </button>
       <div className="mb-3">
         <h3 className="text-xl font-bold">Text Name</h3>
         <div className="flex flex-col max-h-[300px] overflow-y-scroll p-2 bg-white rounded">
@@ -293,7 +290,12 @@ function FilterComponent({ vizData, onFilter }) {
             </label>
           ))}
         </div>
-
+        <button
+          onClick={unselectAllTextNames}
+          className="mt-2 p-2 bg-red-500 text-white rounded hover:bg-red-600"
+        >
+          Unselect All
+        </button>
       </div>
     </div>
   );
