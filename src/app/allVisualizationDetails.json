@@ -925,5 +925,14 @@
     "description": "<div class=\"space-y-3\"><p>This graph shows pairs of nouns and adjectives, where circles represent words, and links represent their co-occurrence. Larger circles indicate words that appear more frequently. Only pairs with nouns from the top 25 most frequent nouns were included. The graph illustrates how key nouns are described by adjectives in the text.</p></div>",
     "interactivity": true,
     "link": "/books/frankenstein/graph"
+  },
+    "/books/frankenstein/graph_2": {
+    "grade": "Grade 8",
+    "category": "Network Chart",
+    "title": "Character description",
+    "textName": "Frankenstein",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows adjectives and verbs, adjacent to Victor and creature, where circles represent words, and links represent their co-occurrence. Larger circles indicate words that appear more frequently. The graph illustrates how two characters are described by adjectives in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/frankenstein/graph_2"
   }
 }
