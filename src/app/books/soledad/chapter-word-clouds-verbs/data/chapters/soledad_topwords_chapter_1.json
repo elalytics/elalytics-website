@@ -1,0 +1,202 @@
+[
+  {
+    "word": "be",
+    "value": 122
+  },
+  {
+    "word": "have",
+    "value": 44
+  },
+  {
+    "word": "do",
+    "value": 41
+  },
+  {
+    "word": "say",
+    "value": 22
+  },
+  {
+    "word": "come",
+    "value": 21
+  },
+  {
+    "word": "get",
+    "value": 19
+  },
+  {
+    "word": "take",
+    "value": 17
+  },
+  {
+    "word": "tell",
+    "value": 16
+  },
+  {
+    "word": "go",
+    "value": 16
+  },
+  {
+    "word": "would",
+    "value": 15
+  },
+  {
+    "word": "work",
+    "value": 12
+  },
+  {
+    "word": "know",
+    "value": 10
+  },
+  {
+    "word": "see",
+    "value": 10
+  },
+  {
+    "word": "feel",
+    "value": 10
+  },
+  {
+    "word": "leave",
+    "value": 9
+  },
+  {
+    "word": "start",
+    "value": 9
+  },
+  {
+    "word": "give",
+    "value": 8
+  },
+  {
+    "word": "want",
+    "value": 8
+  },
+  {
+    "word": "put",
+    "value": 8
+  },
+  {
+    "word": "live",
+    "value": 7
+  },
+  {
+    "word": "eat",
+    "value": 7
+  },
+  {
+    "word": "will",
+    "value": 7
+  },
+  {
+    "word": "help",
+    "value": 6
+  },
+  {
+    "word": "pay",
+    "value": 6
+  },
+  {
+    "word": "bring",
+    "value": 6
+  },
+  {
+    "word": "can",
+    "value": 6
+  },
+  {
+    "word": "cry",
+    "value": 5
+  },
+  {
+    "word": "believe",
+    "value": 5
+  },
+  {
+    "word": "try",
+    "value": 5
+  },
+  {
+    "word": "look",
+    "value": 5
+  },
+  {
+    "word": "stay",
+    "value": 5
+  },
+  {
+    "word": "think",
+    "value": 5
+  },
+  {
+    "word": "bear",
+    "value": 4
+  },
+  {
+    "word": "hit",
+    "value": 4
+  },
+  {
+    "word": "make",
+    "value": 4
+  },
+  {
+    "word": "ask",
+    "value": 4
+  },
+  {
+    "word": "stop",
+    "value": 4
+  },
+  {
+    "word": "call",
+    "value": 4
+  },
+  {
+    "word": "find",
+    "value": 4
+  },
+  {
+    "word": "decide",
+    "value": 3
+  },
+  {
+    "word": "remember",
+    "value": 3
+  },
+  {
+    "word": "talk",
+    "value": 3
+  },
+  {
+    "word": "answer",
+    "value": 3
+  },
+  {
+    "word": "treat",
+    "value": 3
+  },
+  {
+    "word": "move",
+    "value": 3
+  },
+  {
+    "word": "become",
+    "value": 2
+  },
+  {
+    "word": "let",
+    "value": 2
+  },
+  {
+    "word": "touch",
+    "value": 2
+  },
+  {
+    "word": "run",
+    "value": 2
+  },
+  {
+    "word": "send",
+    "value": 2
+  }
+]

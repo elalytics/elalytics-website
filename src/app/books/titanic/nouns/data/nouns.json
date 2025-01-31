@@ -1,0 +1,202 @@
+[
+  {
+    "word": "ship",
+    "value": 56
+  },
+  {
+    "word": "passenger",
+    "value": 26
+  },
+  {
+    "word": "deck",
+    "value": 25
+  },
+  {
+    "word": "room",
+    "value": 25
+  },
+  {
+    "word": "water",
+    "value": 21
+  },
+  {
+    "word": "class",
+    "value": 19
+  },
+  {
+    "word": "radio",
+    "value": 19
+  },
+  {
+    "word": "lifeboat",
+    "value": 15
+  },
+  {
+    "word": "people",
+    "value": 14
+  },
+  {
+    "word": "boat",
+    "value": 14
+  },
+  {
+    "word": "iceberg",
+    "value": 13
+  },
+  {
+    "word": "call",
+    "value": 12
+  },
+  {
+    "word": "ice",
+    "value": 12
+  },
+  {
+    "word": "captain",
+    "value": 11
+  },
+  {
+    "word": "message",
+    "value": 11
+  },
+  {
+    "word": "man",
+    "value": 10
+  },
+  {
+    "word": "mother",
+    "value": 9
+  },
+  {
+    "word": "cabin",
+    "value": 9
+  },
+  {
+    "word": "bridge",
+    "value": 8
+  },
+  {
+    "word": "sea",
+    "value": 7
+  },
+  {
+    "word": "father",
+    "value": 7
+  },
+  {
+    "word": "help",
+    "value": 7
+  },
+  {
+    "word": "bed",
+    "value": 7
+  },
+  {
+    "word": "friend",
+    "value": 7
+  },
+  {
+    "word": "compartment",
+    "value": 7
+  },
+  {
+    "word": "officer",
+    "value": 7
+  },
+  {
+    "word": "time",
+    "value": 7
+  },
+  {
+    "word": "dinner",
+    "value": 6
+  },
+  {
+    "word": "side",
+    "value": 6
+  },
+  {
+    "word": "warning",
+    "value": 6
+  },
+  {
+    "word": "night",
+    "value": 6
+  },
+  {
+    "word": "story",
+    "value": 5
+  },
+  {
+    "word": "board",
+    "value": 5
+  },
+  {
+    "word": "liner",
+    "value": 5
+  },
+  {
+    "word": "word",
+    "value": 5
+  },
+  {
+    "word": "parent",
+    "value": 5
+  },
+  {
+    "word": "engine",
+    "value": 5
+  },
+  {
+    "word": "operator",
+    "value": 5
+  },
+  {
+    "word": "air",
+    "value": 5
+  },
+  {
+    "word": "child",
+    "value": 5
+  },
+  {
+    "word": "life",
+    "value": 4
+  },
+  {
+    "word": "thing",
+    "value": 4
+  },
+  {
+    "word": "party",
+    "value": 4
+  },
+  {
+    "word": "voyage",
+    "value": 4
+  },
+  {
+    "word": "crowd",
+    "value": 4
+  },
+  {
+    "word": "band",
+    "value": 4
+  },
+  {
+    "word": "world",
+    "value": 4
+  },
+  {
+    "word": "safety",
+    "value": 4
+  },
+  {
+    "word": "family",
+    "value": 4
+  },
+  {
+    "word": "hold",
+    "value": 4
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "word": "eloy",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "shu",
+    "category": "PROPN",
+    "value": 6
+  },
+  {
+    "word": "fiji",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "los estados unidos",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "mike",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "tener",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "salir",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "empezar",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "ir",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "venir",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "detenci\u00f3n",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "cosa",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "centro",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "a\u00f1o",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "tiempo",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "juvenil",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "malo",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "extra\u00f1o",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "cool",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "aislado",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "eboys",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "\u00faltimamente",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "mos",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "probablemente",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "simplemente",
+    "category": "ADV",
+    "value": 1
+  }
+]

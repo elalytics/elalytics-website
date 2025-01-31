@@ -934,5 +934,203 @@
     "description": "<div class=\"space-y-3\"><p>This visualization shows adjectives and verbs, adjacent to Victor and creature, where circles represent words, and links represent their co-occurrence. Larger circles indicate words that appear more frequently. The graph illustrates how two characters are described by adjectives in the text.</p></div>",
     "interactivity": true,
     "link": "/books/frankenstein/graph_2"
+  },
+  "/books/mike/chapter-word-clouds": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (by language)",
+    "textName": "Mike",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in Spanish and in English. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/mike/chapter-word-clouds"
+  },
+    "/books/mike/chapter-word-clouds-nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns (by language)",
+    "textName": "Mike",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in Spanish and in English. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/mike/chapter-word-clouds-nouns"
+  },
+    "/books/mike/chapter-word-clouds-verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs (by language)",
+    "textName": "Mike",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in Spanish and in English. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/mike/chapter-word-clouds-verbs"
+  },
+    "/books/mike/top-words-whole-bar-english": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (English, by part of speech)",
+    "textName": "Mike",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/mike/top-words-whole-bar-english"
+  },
+    "/books/mike/top-words-whole-bar-spanish": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (Spanish, by part of speech)",
+    "textName": "Mike",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/mike/top-words-whole-bar-spanish"
+  },
+    "/books/mike/sentence-length-english": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time (English)",
+    "textName": "Mike",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/mike/sentence-length-english"
+  },
+    "/books/mike/sentence-length-spanish": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time (Spanish)",
+    "textName": "Mike",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/mike/sentence-length-spanish"
+  },
+    "/books/soledad/chapter-word-clouds": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Words (by language)",
+    "textName": "Soledad",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in Spanish and in English. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/soledad/chapter-word-clouds"
+  },
+    "/books/soledad/chapter-word-clouds-nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns (by language)",
+    "textName": "Soledad",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in Spanish and in English. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/soledad/chapter-word-clouds-nouns"
+  },
+    "/books/soledad/chapter-word-clouds-verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs (by language)",
+    "textName": "Soledad",
+    "description": "<div class=\"space-y-3\"><p>This set of visualizations capture the most frequent words that occurs in Spanish and in English. The size of the words are proportionate to how frequently it occurs in the text. All words are converted to lowercase first. Punctuation and space characters can make the system treat something as a word that people would not consider to be a word. This visualization doesn&apos;t contain stop words. <strong>Stop words</strong> are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/soledad/chapter-word-clouds-verbs"
+  },
+    "/books/soledad/top-words-whole-bar-english": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (English, by part of speech)",
+    "textName": "Soledad",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/soledad/top-words-whole-bar-english"
+  },
+    "/books/soledad/top-words-whole-bar-spanish": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (Spanish, by part of speech)",
+    "textName": "Soledad",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/soledad/top-words-whole-bar-spanish"
+  },
+    "/books/soledad/sentence-length-english": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time (English)",
+    "textName": "Soledad",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/soledad/sentence-length-english"
+  },
+    "/books/soledad/sentence-length-spanish": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time (Spanish)",
+    "textName": "Soledad",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/soledad/sentence-length-spanish"
+  },
+    "/books/american_childhood/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "American Childhood",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/american_childhood/verbs"
+  },
+    "/books/american_childhood/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "American Childhood",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/american_childhood/nouns"
+  },
+    "/books/american_childhood/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "American Childhood",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/american_childhood/sentence-length"
+  },
+    "/books/american_childhood/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "American Childhood",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/american_childhood/top-words-whole-bar"
+  },
+    "/books/titanic/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Titanic",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/titanic/verbs"
+  },
+    "/books/titanic/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Titanic",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/titanic/nouns"
+  },
+    "/books/titanic/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Titanic",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/titanic/sentence-length"
+  },
+    "/books/titanic/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Titanic",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/titanic/top-words-whole-bar"
   }
 }

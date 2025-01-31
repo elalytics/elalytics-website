@@ -1,0 +1,127 @@
+[
+  {
+    "word": "a\u00f1o",
+    "category": "NOUN",
+    "value": 20
+  },
+  {
+    "word": "acogida",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "pap\u00e1",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "persona",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "familia",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "honduras",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "m\u00e9xico",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "san francisco",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "soledad",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "estados unidos",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "dif\u00edcil",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "suficiente",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "social",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "mala",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "pobre",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "tener",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "vivir",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "decir",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "ayudar",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "trabajar",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "cerca",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "realmente",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "lejos",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "all\u00e1",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "especialmente",
+    "category": "ADV",
+    "value": 1
+  }
+]

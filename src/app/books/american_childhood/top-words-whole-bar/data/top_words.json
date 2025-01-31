@@ -1,0 +1,127 @@
+[
+  {
+    "word": "backyard",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "boy",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "snow",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "car",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "run",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "chase",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "get",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "throw",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "new",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "snowy",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "black",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "hard",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "happy",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "perfectly",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "silently",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "perfunctorily",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "forever",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "mikey",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "buick",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "reynolds street",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "fahey",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "lloyd street",
+    "category": "PROPN",
+    "value": 2
+  }
+]

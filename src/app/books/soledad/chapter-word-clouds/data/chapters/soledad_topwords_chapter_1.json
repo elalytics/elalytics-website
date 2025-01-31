@@ -1,0 +1,127 @@
+[
+  {
+    "word": "father",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "family",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "people",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "house",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "san francisco",
+    "category": "PROPN",
+    "value": 8
+  },
+  {
+    "word": "the united states",
+    "category": "PROPN",
+    "value": 6
+  },
+  {
+    "word": "honduras",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "mexico",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "soledad",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 21
+  },
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "tell",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "get",
+    "category": "VERB",
+    "value": 13
+  },
+  {
+    "word": "work",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "foster",
+    "category": "ADJ",
+    "value": 17
+  },
+  {
+    "word": "new",
+    "category": "ADJ",
+    "value": 8
+  },
+  {
+    "word": "social",
+    "category": "ADJ",
+    "value": 8
+  },
+  {
+    "word": "bad",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "hard",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "finally",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "apart",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "barefoot",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "outside",
+    "category": "ADV",
+    "value": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "word": "life",
+    "value": 12
+  },
+  {
+    "word": "shit",
+    "value": 11
+  },
+  {
+    "word": "time",
+    "value": 10
+  },
+  {
+    "word": "people",
+    "value": 10
+  },
+  {
+    "word": "kid",
+    "value": 9
+  },
+  {
+    "word": "school",
+    "value": 8
+  },
+  {
+    "word": "immigration",
+    "value": 8
+  },
+  {
+    "word": "prison",
+    "value": 7
+  },
+  {
+    "word": "lot",
+    "value": 7
+  },
+  {
+    "word": "thing",
+    "value": 7
+  },
+  {
+    "word": "mind",
+    "value": 7
+  },
+  {
+    "word": "dad",
+    "value": 6
+  },
+  {
+    "word": "gangster",
+    "value": 6
+  },
+  {
+    "word": "street",
+    "value": 6
+  },
+  {
+    "word": "jail",
+    "value": 5
+  },
+  {
+    "word": "deportation",
+    "value": 5
+  },
+  {
+    "word": "detention",
+    "value": 5
+  },
+  {
+    "word": "sister",
+    "value": 5
+  },
+  {
+    "word": "mom",
+    "value": 5
+  },
+  {
+    "word": "front",
+    "value": 5
+  },
+  {
+    "word": "family",
+    "value": 4
+  },
+  {
+    "word": "brother",
+    "value": 4
+  },
+  {
+    "word": "guy",
+    "value": 4
+  },
+  {
+    "word": "college",
+    "value": 4
+  },
+  {
+    "word": "case",
+    "value": 4
+  },
+  {
+    "word": "cell",
+    "value": 4
+  },
+  {
+    "word": "job",
+    "value": 4
+  },
+  {
+    "word": "gang",
+    "value": 3
+  },
+  {
+    "word": "hall",
+    "value": 3
+  },
+  {
+    "word": "center",
+    "value": 3
+  },
+  {
+    "word": "threat",
+    "value": 3
+  },
+  {
+    "word": "homeboy",
+    "value": 3
+  },
+  {
+    "word": "citizen",
+    "value": 3
+  },
+  {
+    "word": "shower",
+    "value": 3
+  },
+  {
+    "word": "book",
+    "value": 3
+  },
+  {
+    "word": "work",
+    "value": 3
+  },
+  {
+    "word": "lawyer",
+    "value": 3
+  },
+  {
+    "word": "chance",
+    "value": 3
+  },
+  {
+    "word": "child",
+    "value": 2
+  },
+  {
+    "word": "isolation",
+    "value": 2
+  },
+  {
+    "word": "sentence",
+    "value": 2
+  },
+  {
+    "word": "card",
+    "value": 2
+  },
+  {
+    "word": "resident",
+    "value": 2
+  },
+  {
+    "word": "housekeeper",
+    "value": 2
+  },
+  {
+    "word": "house",
+    "value": 2
+  },
+  {
+    "word": "way",
+    "value": 2
+  },
+  {
+    "word": "cat",
+    "value": 2
+  },
+  {
+    "word": "gun",
+    "value": 2
+  },
+  {
+    "word": "juvie",
+    "value": 2
+  },
+  {
+    "word": "man",
+    "value": 2
+  }
+]

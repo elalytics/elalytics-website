@@ -1,0 +1,127 @@
+[
+  {
+    "word": "ship",
+    "category": "NOUN",
+    "value": 56
+  },
+  {
+    "word": "passenger",
+    "category": "NOUN",
+    "value": 26
+  },
+  {
+    "word": "deck",
+    "category": "NOUN",
+    "value": 25
+  },
+  {
+    "word": "room",
+    "category": "NOUN",
+    "value": 25
+  },
+  {
+    "word": "water",
+    "category": "NOUN",
+    "value": 21
+  },
+  {
+    "word": "titanic",
+    "category": "PROPN",
+    "value": 34
+  },
+  {
+    "word": "ruth",
+    "category": "PROPN",
+    "value": 19
+  },
+  {
+    "word": "captain",
+    "category": "PROPN",
+    "value": 15
+  },
+  {
+    "word": "smith",
+    "category": "PROPN",
+    "value": 14
+  },
+  {
+    "word": "jack",
+    "category": "PROPN",
+    "value": 12
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 18
+  },
+  {
+    "word": "go",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "begin",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "send",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "tell",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "big",
+    "category": "ADJ",
+    "value": 10
+  },
+  {
+    "word": "new",
+    "category": "ADJ",
+    "value": 10
+  },
+  {
+    "word": "cold",
+    "category": "ADJ",
+    "value": 7
+  },
+  {
+    "word": "huge",
+    "category": "ADJ",
+    "value": 6
+  },
+  {
+    "word": "great",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 14
+  },
+  {
+    "word": "finally",
+    "category": "ADV",
+    "value": 6
+  },
+  {
+    "word": "ahead",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "quickly",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "suddenly",
+    "category": "ADV",
+    "value": 4
+  }
+]
