@@ -1,202 +1,252 @@
 [
   {
     "word": "life",
-    "value": 12
+    "value": 12,
+    "translation": "vida"
   },
   {
     "word": "shit",
-    "value": 11
+    "value": 11,
+    "translation": "mierda"
   },
   {
     "word": "time",
-    "value": 10
+    "value": 10,
+    "translation": "tiempo"
   },
   {
     "word": "people",
-    "value": 10
+    "value": 10,
+    "translation": "gente"
   },
   {
     "word": "kid",
-    "value": 9
+    "value": 9,
+    "translation": "niño"
   },
   {
     "word": "school",
-    "value": 8
+    "value": 8,
+    "translation": "escuela"
   },
   {
     "word": "immigration",
-    "value": 8
+    "value": 8,
+    "translation": "inmigración"
   },
   {
     "word": "prison",
-    "value": 7
+    "value": 7,
+    "translation": "prisión"
   },
   {
     "word": "lot",
-    "value": 7
+    "value": 7,
+    "translation": "lote"
   },
   {
     "word": "thing",
-    "value": 7
+    "value": 7,
+    "translation": "cosa"
   },
   {
     "word": "mind",
-    "value": 7
+    "value": 7,
+    "translation": "mente"
   },
   {
     "word": "dad",
-    "value": 6
+    "value": 6,
+    "translation": "papá"
   },
   {
     "word": "gangster",
-    "value": 6
+    "value": 6,
+    "translation": "gánster"
   },
   {
     "word": "street",
-    "value": 6
+    "value": 6,
+    "translation": "calle"
   },
   {
     "word": "jail",
-    "value": 5
+    "value": 5,
+    "translation": "cárcel"
   },
   {
     "word": "deportation",
-    "value": 5
+    "value": 5,
+    "translation": "deportación"
   },
   {
     "word": "detention",
-    "value": 5
+    "value": 5,
+    "translation": "detención"
   },
   {
     "word": "sister",
-    "value": 5
+    "value": 5,
+    "translation": "hermana"
   },
   {
     "word": "mom",
-    "value": 5
+    "value": 5,
+    "translation": "mamá"
   },
   {
     "word": "front",
-    "value": 5
+    "value": 5,
+    "translation": "frente"
   },
   {
     "word": "family",
-    "value": 4
+    "value": 4,
+    "translation": "familia"
   },
   {
     "word": "brother",
-    "value": 4
+    "value": 4,
+    "translation": "hermano"
   },
   {
     "word": "guy",
-    "value": 4
+    "value": 4,
+    "translation": "chico"
   },
   {
     "word": "college",
-    "value": 4
+    "value": 4,
+    "translation": "universidad"
   },
   {
     "word": "case",
-    "value": 4
+    "value": 4,
+    "translation": "caso"
   },
   {
     "word": "cell",
-    "value": 4
+    "value": 4,
+    "translation": "celda"
   },
   {
     "word": "job",
-    "value": 4
+    "value": 4,
+    "translation": "trabajo"
   },
   {
     "word": "gang",
-    "value": 3
+    "value": 3,
+    "translation": "pandilla"
   },
   {
     "word": "hall",
-    "value": 3
+    "value": 3,
+    "translation": "pasillo"
   },
   {
     "word": "center",
-    "value": 3
+    "value": 3,
+    "translation": "centro"
   },
   {
     "word": "threat",
-    "value": 3
+    "value": 3,
+    "translation": "amenaza"
   },
   {
     "word": "homeboy",
-    "value": 3
+    "value": 3,
+    "translation": "amigo"
   },
   {
     "word": "citizen",
-    "value": 3
+    "value": 3,
+    "translation": "ciudadano"
   },
   {
     "word": "shower",
-    "value": 3
+    "value": 3,
+    "translation": "ducha"
   },
   {
     "word": "book",
-    "value": 3
+    "value": 3,
+    "translation": "libro"
   },
   {
     "word": "work",
-    "value": 3
+    "value": 3,
+    "translation": "trabajo"
   },
   {
     "word": "lawyer",
-    "value": 3
+    "value": 3,
+    "translation": "abogado"
   },
   {
     "word": "chance",
-    "value": 3
+    "value": 3,
+    "translation": "oportunidad"
   },
   {
     "word": "child",
-    "value": 2
+    "value": 2,
+    "translation": "niño"
   },
   {
     "word": "isolation",
-    "value": 2
+    "value": 2,
+    "translation": "aislamiento"
   },
   {
     "word": "sentence",
-    "value": 2
+    "value": 2,
+    "translation": "oración"
   },
   {
     "word": "card",
-    "value": 2
+    "value": 2,
+    "translation": "tarjeta"
   },
   {
     "word": "resident",
-    "value": 2
+    "value": 2,
+    "translation": "residente"
   },
   {
     "word": "housekeeper",
-    "value": 2
+    "value": 2,
+    "translation": "ama de llaves"
   },
   {
     "word": "house",
-    "value": 2
+    "value": 2,
+    "translation": "casa"
   },
   {
     "word": "way",
-    "value": 2
+    "value": 2,
+    "translation": "camino"
   },
   {
     "word": "cat",
-    "value": 2
+    "value": 2,
+    "translation": "gato"
   },
   {
     "word": "gun",
-    "value": 2
+    "value": 2,
+    "translation": "arma"
   },
   {
     "word": "juvie",
-    "value": 2
+    "value": 2,
+    "translation": "juvenil"
   },
   {
     "word": "man",
-    "value": 2
+    "value": 2,
+    "translation": "hombre"
   }
 ]

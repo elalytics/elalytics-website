@@ -2,126 +2,151 @@
   {
     "word": "eloy",
     "category": "PROPN",
-    "value": 7
+    "value": 7,
+    "translation": "eloy"
   },
   {
     "word": "shu",
     "category": "PROPN",
-    "value": 6
+    "value": 6,
+    "translation": "shu"
   },
   {
     "word": "fiji",
     "category": "PROPN",
-    "value": 5
+    "value": 5,
+    "translation": "fiji"
   },
   {
     "word": "los estados unidos",
     "category": "PROPN",
-    "value": 3
+    "value": 3,
+    "translation": "United States"
   },
   {
     "word": "mike",
     "category": "PROPN",
-    "value": 2
+    "value": 2,
+    "translation": "mike"
   },
   {
     "word": "tener",
     "category": "VERB",
-    "value": 16
+    "value": 16,
+    "translation": "have"
   },
   {
     "word": "salir",
     "category": "VERB",
-    "value": 8
+    "value": 8,
+    "translation": "exit"
   },
   {
     "word": "empezar",
     "category": "VERB",
-    "value": 7
+    "value": 7,
+    "translation": "begin"
   },
   {
     "word": "ir",
     "category": "VERB",
-    "value": 6
+    "value": 6,
+    "translation": "go"
   },
   {
     "word": "venir",
     "category": "VERB",
-    "value": 5
+    "value": 5,
+    "translation": "come"
   },
   {
     "word": "detenci\u00f3n",
     "category": "NOUN",
-    "value": 9
+    "value": 9,
+    "translation": "detention"
   },
   {
     "word": "cosa",
     "category": "NOUN",
-    "value": 9
+    "value": 9,
+    "translation": "thing"
   },
   {
     "word": "centro",
     "category": "NOUN",
-    "value": 8
+    "value": 8,
+    "translation": "center"
   },
   {
     "word": "a\u00f1o",
     "category": "NOUN",
-    "value": 8
+    "value": 8,
+    "translation": "year"
   },
   {
     "word": "tiempo",
     "category": "NOUN",
-    "value": 8
+    "value": 8,
+    "translation": "time"
   },
   {
     "word": "juvenil",
     "category": "ADJ",
-    "value": 5
+    "value": 5,
+    "translation": "youth"
   },
   {
     "word": "malo",
     "category": "ADJ",
-    "value": 5
+    "value": 5,
+    "translation": "bad"
   },
   {
     "word": "extra\u00f1o",
     "category": "ADJ",
-    "value": 3
+    "value": 3,
+    "translation": "strange"
   },
   {
     "word": "cool",
     "category": "ADJ",
-    "value": 3
+    "value": 3,
+    "translation": "cool"
   },
   {
     "word": "aislado",
     "category": "ADJ",
-    "value": 3
+    "value": 3,
+    "translation": "isolated"
   },
   {
     "word": "eboys",
     "category": "ADV",
-    "value": 2
+    "value": 2,
+    "translation": "eboys"
   },
   {
     "word": "\u00faltimamente",
     "category": "ADV",
-    "value": 2
+    "value": 2,
+    "translation": "lately"
   },
   {
     "word": "mos",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "mos"
   },
   {
     "word": "probablemente",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "probably"
   },
   {
     "word": "simplemente",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "simply"
   }
 ]

@@ -2,126 +2,151 @@
   {
     "word": "shu",
     "category": "PROPN",
-    "value": 8
+    "value": 8,
+    "translation": "shu"
   },
   {
     "word": "eloy",
     "category": "PROPN",
-    "value": 7
+    "value": 7,
+    "translation": "eloy"
   },
   {
     "word": "fiji",
     "category": "PROPN",
-    "value": 6
+    "value": 6,
+    "translation": "fiji"
   },
   {
     "word": "us",
     "category": "PROPN",
-    "value": 3
+    "value": 3,
+    "translation": "us"
   },
   {
     "word": "mike",
     "category": "PROPN",
-    "value": 2
+    "value": 2,
+    "translation": "mike"
   },
   {
     "word": "get",
     "category": "VERB",
-    "value": 20
+    "value": 20,
+    "translation": "obtener"
   },
   {
     "word": "know",
     "category": "VERB",
-    "value": 17
+    "value": 17,
+    "translation": "saber"
   },
   {
     "word": "think",
     "category": "VERB",
-    "value": 15
+    "value": 15,
+    "translation": "pensar"
   },
   {
     "word": "go",
     "category": "VERB",
-    "value": 14
+    "value": 14,
+    "translation": "ir"
   },
   {
     "word": "come",
     "category": "VERB",
-    "value": 13
+    "value": 13,
+    "translation": "venir"
   },
   {
     "word": "life",
     "category": "NOUN",
-    "value": 12
+    "value": 12,
+    "translation": "vida"
   },
   {
     "word": "people",
     "category": "NOUN",
-    "value": 12
+    "value": 12,
+    "translation": "gente"
   },
   {
     "word": "shit",
     "category": "NOUN",
-    "value": 11
+    "value": 11,
+    "translation": "mierda"
   },
   {
     "word": "time",
     "category": "NOUN",
-    "value": 10
+    "value": 10,
+    "translation": "tiempo"
   },
   {
     "word": "kid",
     "category": "NOUN",
-    "value": 9
+    "value": 9,
+    "translation": "niño"
   },
   {
     "word": "right",
     "category": "ADJ",
-    "value": 6
+    "value": 6,
+    "translation": "correcto"
   },
   {
     "word": "high",
     "category": "ADJ",
-    "value": 6
+    "value": 6,
+    "translation": "alto"
   },
   {
     "word": "good",
     "category": "ADJ",
-    "value": 6
+    "value": 6,
+    "translation": "bueno"
   },
   {
     "word": "bad",
     "category": "ADJ",
-    "value": 5
+    "value": 5,
+    "translation": "malo"
   },
   {
     "word": "cool",
     "category": "ADJ",
-    "value": 4
+    "value": 4,
+    "translation": "genial"
   },
   {
     "word": "instead",
     "category": "ADV",
-    "value": 3
+    "value": 3,
+    "translation": "en cambio"
   },
   {
     "word": "soon",
     "category": "ADV",
-    "value": 3
+    "value": 3,
+    "translation": "pronto"
   },
   {
     "word": "actually",
     "category": "ADV",
-    "value": 3
+    "value": 3,
+    "translation": "en realidad"
   },
   {
     "word": "well",
     "category": "ADV",
-    "value": 2
+    "value": 2,
+    "translation": "bueno"
   },
   {
     "word": "long",
     "category": "ADV",
-    "value": 2
+    "value": 2,
+    "translation": "largo"
   }
 ]

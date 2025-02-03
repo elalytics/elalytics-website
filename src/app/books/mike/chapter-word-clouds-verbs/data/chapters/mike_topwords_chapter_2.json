@@ -1,202 +1,242 @@
 [
   {
-    "word": "ser",
-    "value": 67
-  },
-  {
-    "word": "estar",
-    "value": 34
-  },
-  {
     "word": "tener",
-    "value": 30
+    "value": 30,
+    "translation": "have"
   },
   {
     "word": "hacer",
-    "value": 22
+    "value": 22,
+    "translation": "do"
   },
   {
     "word": "ir",
-    "value": 18
+    "value": 18,
+    "translation": "go"
   },
   {
     "word": "poder",
-    "value": 18
+    "value": 18,
+    "translation": "power"
   },
   {
     "word": "haber",
-    "value": 16
+    "value": 16,
+    "translation": "have"
   },
   {
     "word": "saber",
-    "value": 10
+    "value": 10,
+    "translation": "know"
   },
   {
     "word": "salir",
-    "value": 8
+    "value": 8,
+    "translation": "exit"
   },
   {
     "word": "empezar",
-    "value": 7
+    "value": 7,
+    "translation": "begin"
   },
   {
     "word": "ver",
-    "value": 7
+    "value": 7,
+    "translation": "see"
   },
   {
     "word": "pasar",
-    "value": 6
+    "value": 6,
+    "translation": "pass"
   },
   {
     "word": "dar",
-    "value": 6
+    "value": 6,
+    "translation": "give"
   },
   {
     "word": "venir",
-    "value": 5
+    "value": 5,
+    "translation": "come"
   },
   {
     "word": "vivir",
-    "value": 5
+    "value": 5,
+    "translation": "live"
   },
   {
     "word": "trabajar",
-    "value": 5
+    "value": 5,
+    "translation": "work"
   },
   {
     "word": "pensar",
-    "value": 5
+    "value": 5,
+    "translation": "think"
   },
   {
     "word": "intentar",
-    "value": 4
+    "value": 4,
+    "translation": "try"
   },
   {
     "word": "llorar",
-    "value": 4
+    "value": 4,
+    "translation": "cry"
   },
   {
     "word": "pelear",
-    "value": 4
+    "value": 4,
+    "translation": "fight"
   },
   {
     "word": "volver",
-    "value": 4
+    "value": 4,
+    "translation": "return"
   },
   {
     "word": "comenzar",
-    "value": 4
+    "value": 4,
+    "translation": "begin"
   },
   {
     "word": "querer",
-    "value": 4
+    "value": 4,
+    "translation": "want"
   },
   {
     "word": "nacer",
-    "value": 3
+    "value": 3,
+    "translation": "to be born"
   },
   {
     "word": "llevar",
-    "value": 3
+    "value": 3,
+    "translation": "carry"
   },
   {
     "word": "decir",
-    "value": 3
+    "value": 3,
+    "translation": "say"
   },
   {
     "word": "elegir",
-    "value": 3
+    "value": 3,
+    "translation": "choose"
   },
   {
     "word": "llegar",
-    "value": 3
+    "value": 3,
+    "translation": "arrive"
   },
   {
     "word": "leer",
-    "value": 3
+    "value": 3,
+    "translation": "read"
   },
   {
     "word": "sentir",
-    "value": 3
+    "value": 3,
+    "translation": "feel"
   },
   {
     "word": "detener",
-    "value": 2
+    "value": 2,
+    "translation": "stop"
   },
   {
     "word": "luchar",
-    "value": 2
+    "value": 2,
+    "translation": "fight"
   },
   {
     "word": "terminar",
-    "value": 2
+    "value": 2,
+    "translation": "end"
   },
   {
     "word": "seguir",
-    "value": 2
+    "value": 2,
+    "translation": "continue"
   },
   {
     "word": "usar \u00e9l",
-    "value": 2
+    "value": 2,
+    "translation": "use"
   },
   {
     "word": "tienes",
-    "value": 2
+    "value": 2,
+    "translation": "you have"
   },
   {
     "word": "convertir",
-    "value": 2
+    "value": 2,
+    "translation": "convert"
   },
   {
     "word": "dejar",
-    "value": 2
+    "value": 2,
+    "translation": "leave"
   },
   {
     "word": "imaginar",
-    "value": 2
+    "value": 2,
+    "translation": "imagine"
   },
   {
     "word": "entender",
-    "value": 2
+    "value": 2,
+    "translation": "entender"
   },
   {
     "word": "recibir",
-    "value": 2
+    "value": 2,
+    "translation": "recieve"
   },
   {
     "word": "pod\u00edas",
-    "value": 2
+    "value": 2,
+    "translation": "could"
   },
   {
     "word": "acu\u00e9rdate",
-    "value": 2
+    "value": 2,
+    "translation": "remember"
   },
   {
     "word": "recoger",
-    "value": 2
+    "value": 2,
+    "translation": "collect"
   },
   {
     "word": "deportarme",
-    "value": 2
+    "value": 2,
+    "translation": "deport me"
   },
   {
     "word": "enviar",
-    "value": 2
+    "value": 2,
+    "translation": "send"
   },
   {
     "word": "entrar",
-    "value": 2
+    "value": 2,
+    "translation": "enter"
   },
   {
     "word": "beber",
-    "value": 2
+    "value": 2,
+    "translation": "drink"
   },
   {
     "word": "deportar",
-    "value": 2
+    "value": 2,
+    "translation": "deport"
   },
   {
     "word": "tratar",
-    "value": 2
+    "value": 2,
+    "translation": "treat"
   }
 ]

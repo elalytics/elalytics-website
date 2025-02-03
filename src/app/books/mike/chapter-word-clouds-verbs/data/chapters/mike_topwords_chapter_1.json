@@ -1,202 +1,247 @@
 [
   {
-    "word": "be",
-    "value": 171
-  },
-  {
     "word": "get",
-    "value": 44
+    "value": 44,
+    "translation": "obtener"
   },
   {
     "word": "do",
-    "value": 44
+    "value": 44,
+    "translation": "hacer"
   },
   {
     "word": "go",
-    "value": 29
+    "value": 29,
+    "translation": "ir"
   },
   {
     "word": "have",
-    "value": 26
+    "value": 26,
+    "translation": "tener"
   },
   {
     "word": "know",
-    "value": 17
+    "value": 17,
+    "translation": "saber"
   },
   {
     "word": "think",
-    "value": 15
+    "value": 15,
+    "translation": "pensar"
   },
   {
     "word": "would",
-    "value": 15
+    "value": 15,
+    "translation": "querría"
   },
   {
     "word": "come",
-    "value": 13
+    "value": 13,
+    "translation": "venir"
   },
   {
     "word": "start",
-    "value": 13
+    "value": 13,
+    "translation": "empezar"
   },
   {
     "word": "can",
-    "value": 13
+    "value": 13,
+    "translation": "poder"
   },
   {
     "word": "make",
-    "value": 9
+    "value": 9,
+    "translation": "hacer"
   },
   {
     "word": "got",
-    "value": 8
+    "value": 8,
+    "translation": "obtuve"
   },
   {
     "word": "work",
-    "value": 7
+    "value": 7,
+    "translation": "trabajar"
   },
   {
     "word": "try",
-    "value": 7
+    "value": 7,
+    "translation": "intentar"
   },
   {
     "word": "look",
-    "value": 6
+    "value": 6,
+    "translation": "mirar"
   },
   {
     "word": "could",
-    "value": 6
+    "value": 6,
+    "translation": "podría"
   },
   {
     "word": "take",
-    "value": 6
+    "value": 6,
+    "translation": "tomar"
   },
   {
     "word": "see",
-    "value": 6
+    "value": 6,
+    "translation": "ver"
   },
   {
     "word": "cry",
-    "value": 5
+    "value": 5,
+    "translation": "llorar"
   },
   {
     "word": "lock",
-    "value": 5
+    "value": 5,
+    "translation": "cerrar"
   },
   {
     "word": "pick",
-    "value": 5
+    "value": 5,
+    "translation": "elegir"
   },
   {
     "word": "want",
-    "value": 5
+    "value": 5,
+    "translation": "querer"
   },
   {
     "word": "bear",
-    "value": 4
+    "value": 4,
+    "translation": "soportar"
   },
   {
     "word": "live",
-    "value": 4
+    "value": 4,
+    "translation": "vivir"
   },
   {
     "word": "happen",
-    "value": 4
+    "value": 4,
+    "translation": "suceder"
   },
   {
     "word": "leave",
-    "value": 4
+    "value": 4,
+    "translation": "dejar"
   },
   {
     "word": "imagine",
-    "value": 4
+    "value": 4,
+    "translation": "imaginar"
   },
   {
     "word": "remember",
-    "value": 4
+    "value": 4,
+    "translation": "recordar"
   },
   {
     "word": "fight",
-    "value": 4
+    "value": 4,
+    "translation": "luchar"
   },
   {
     "word": "break",
-    "value": 4
+    "value": 4,
+    "translation": "romper"
   },
   {
     "word": "bully",
-    "value": 3
+    "value": 3,
+    "translation": "intimidar"
   },
   {
     "word": "struggle",
-    "value": 3
+    "value": 3,
+    "translation": "luchar"
   },
   {
     "word": "grow",
-    "value": 3
+    "value": 3,
+    "translation": "crecer"
   },
   {
     "word": "like",
-    "value": 3
+    "value": 3,
+    "translation": "gustar"
   },
   {
     "word": "keep",
-    "value": 3
+    "value": 3,
+    "translation": "mantener"
   },
   {
     "word": "meet",
-    "value": 3
+    "value": 3,
+    "translation": "conocer"
   },
   {
     "word": "graduate",
-    "value": 3
+    "value": 3,
+    "translation": "graduarse"
   },
   {
     "word": "say",
-    "value": 3
+    "value": 3,
+    "translation": "decir"
   },
   {
     "word": "getting",
-    "value": 3
+    "value": 3,
+    "translation": "obtener"
   },
   {
     "word": "deport",
-    "value": 3
+    "value": 3,
+    "translation": "deportar"
   },
   {
     "word": "send",
-    "value": 3
+    "value": 3,
+    "translation": "enviar"
   },
   {
     "word": "drink",
-    "value": 3
+    "value": 3,
+    "translation": "beber"
   },
   {
     "word": "read",
-    "value": 3
+    "value": 3,
+    "translation": "leer"
   },
   {
     "word": "wonder",
-    "value": 3
+    "value": 3,
+    "translation": "preguntarse"
   },
   {
     "word": "trip",
-    "value": 3
+    "value": 3,
+    "translation": "viajar"
   },
   {
     "word": "change",
-    "value": 3
+    "value": 3,
+    "translation": "cambiar"
   },
   {
     "word": "isolate",
-    "value": 3
+    "value": 3,
+    "translation": "aislar"
   },
   {
     "word": "run",
-    "value": 2
+    "value": 2,
+    "translation": "correr"
   },
   {
     "word": "end",
-    "value": 2
+    "value": 2,
+    "translation": "finalizar"
   }
 ]

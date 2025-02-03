@@ -1,202 +1,252 @@
 [
   {
     "word": "detenci\u00f3n",
-    "value": 9
+    "value": 9,
+    "translation": "detention"
   },
   {
     "word": "cosa",
-    "value": 9
+    "value": 9,
+    "translation": "thing"
   },
   {
     "word": "centro",
-    "value": 8
+    "value": 8,
+    "translation": "center"
   },
   {
     "word": "a\u00f1o",
-    "value": 8
+    "value": 8,
+    "translation": "year"
   },
   {
     "word": "tiempo",
-    "value": 8
+    "value": 8,
+    "translation": "time"
   },
   {
     "word": "persona",
-    "value": 7
+    "value": 7,
+    "translation": "person"
   },
   {
     "word": "vida",
-    "value": 6
+    "value": 6,
+    "translation": "life"
   },
   {
     "word": "c\u00e1rcel",
-    "value": 6
+    "value": 6,
+    "translation": "prison"
   },
   {
     "word": "hijo",
-    "value": 6
+    "value": 6,
+    "translation": "son"
   },
   {
     "word": "pandillero",
-    "value": 6
+    "value": 6,
+    "translation": "gang member"
   },
   {
     "word": "vez",
-    "value": 6
+    "value": 6,
+    "translation": "time"
   },
   {
     "word": "mes",
-    "value": 6
+    "value": 6,
+    "translation": "month"
   },
   {
     "word": "prisi\u00f3n",
-    "value": 5
+    "value": 5,
+    "translation": "prison"
   },
   {
     "word": "pap\u00e1",
-    "value": 5
+    "value": 5,
+    "translation": "dad"
   },
   {
     "word": "calle",
-    "value": 5
+    "value": 5,
+    "translation": "street"
   },
   {
     "word": "deportaci\u00f3n",
-    "value": 4
+    "value": 4,
+    "translation": "deportation"
   },
   {
     "word": "escuela",
-    "value": 4
+    "value": 4,
+    "translation": "school"
   },
   {
     "word": "casa",
-    "value": 4
+    "value": 4,
+    "translation": "house"
   },
   {
     "word": "tipo",
-    "value": 4
+    "value": 4,
+    "translation": "type"
   },
   {
     "word": "hombre",
-    "value": 4
+    "value": 4,
+    "translation": "man"
   },
   {
     "word": "lugar",
-    "value": 4
+    "value": 4,
+    "translation": "place"
   },
   {
     "word": "universidad",
-    "value": 4
+    "value": 4,
+    "translation": "university"
   },
   {
     "word": "gente",
-    "value": 4
+    "value": 4,
+    "translation": "people"
   },
   {
     "word": "d\u00eda",
-    "value": 4
+    "value": 4,
+    "translation": "day"
   },
   {
     "word": "mente",
-    "value": 4
+    "value": 4,
+    "translation": "mind"
   },
   {
     "word": "oportunidad",
-    "value": 4
+    "value": 4,
+    "translation": "opportunity"
   },
   {
     "word": "trabajo",
-    "value": 4
+    "value": 4,
+    "translation": "work"
   },
   {
     "word": "familia",
-    "value": 3
+    "value": 3,
+    "translation": "family"
   },
   {
     "word": "pandilla",
-    "value": 3
+    "value": 3,
+    "translation": "gang"
   },
   {
     "word": "parte",
-    "value": 3
+    "value": 3,
+    "translation": "part"
   },
   {
     "word": "inmigrante",
-    "value": 3
+    "value": 3,
+    "translation": "immigrant"
   },
   {
     "word": "mam\u00e1",
-    "value": 3
+    "value": 3,
+    "translation": "mom"
   },
   {
     "word": "mierda",
-    "value": 3
+    "value": 3,
+    "translation": "shit"
   },
   {
     "word": "mundo",
-    "value": 3
+    "value": 3,
+    "translation": "world"
   },
   {
     "word": "arena",
-    "value": 3
+    "value": 3,
+    "translation": "sand"
   },
   {
     "word": "frente",
-    "value": 3
+    "value": 3,
+    "translation": "front"
   },
   {
     "word": "caso",
-    "value": 3
+    "value": 3,
+    "translation": "case"
   },
   {
     "word": "2003",
-    "value": 3
+    "value": 3,
+    "translation": "2003"
   },
   {
     "word": "celda",
-    "value": 3
+    "value": 3,
+    "translation": "cell"
   },
   {
     "word": "metro",
-    "value": 3
+    "value": 3,
+    "translation": "meter"
   },
   {
     "word": "libro",
-    "value": 3
+    "value": 3,
+    "translation": "book"
   },
   {
     "word": "tan",
-    "value": 3
+    "value": 3,
+    "translation": "so"
   },
   {
     "word": "pronto",
-    "value": 3
+    "value": 3,
+    "translation": "soon"
   },
   {
     "word": "ni\u00f1o",
-    "value": 2
+    "value": 2,
+    "translation": "child"
   },
   {
     "word": "bullying",
-    "value": 2
+    "value": 2,
+    "translation": "bullying"
   },
   {
     "word": "principio",
-    "value": 2
+    "value": 2,
+    "translation": "principle"
   },
   {
     "word": "sentencia",
-    "value": 2
+    "value": 2,
+    "translation": "sentence"
   },
   {
     "word": "amenaza",
-    "value": 2
+    "value": 2,
+    "translation": "threat"
   },
   {
     "word": "hermana",
-    "value": 2
+    "value": 2,
+    "translation": "sister"
   },
   {
     "word": "residente",
-    "value": 2
+    "value": 2,
+    "translation": "resident"
   }
 ]
