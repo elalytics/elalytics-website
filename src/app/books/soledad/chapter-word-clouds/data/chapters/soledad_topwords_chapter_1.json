@@ -2,126 +2,151 @@
   {
     "word": "father",
     "category": "NOUN",
-    "value": 12
+    "value": 12,
+    "translation": "padre"
   },
   {
     "word": "time",
     "category": "NOUN",
-    "value": 11
+    "value": 11,
+    "translation": "tiempo"
   },
   {
     "word": "family",
     "category": "NOUN",
-    "value": 9
+    "value": 9,
+    "translation": "familia"
   },
   {
     "word": "people",
     "category": "NOUN",
-    "value": 9
+    "value": 9,
+    "translation": "gente"
   },
   {
     "word": "house",
     "category": "NOUN",
-    "value": 9
+    "value": 9,
+    "translation": "casa"
   },
   {
     "word": "san francisco",
     "category": "PROPN",
-    "value": 8
+    "value": 8,
+    "translation": "san francisco"
   },
   {
     "word": "the united states",
     "category": "PROPN",
-    "value": 6
+    "value": 6,
+    "translation": "estados unidos"
   },
   {
     "word": "honduras",
     "category": "PROPN",
-    "value": 5
+    "value": 5,
+    "translation": "honduras"
   },
   {
     "word": "mexico",
     "category": "PROPN",
-    "value": 5
+    "value": 5,
+    "translation": "méxico"
   },
   {
     "word": "soledad",
     "category": "PROPN",
-    "value": 4
+    "value": 4,
+    "translation": "soledad"
   },
   {
     "word": "come",
     "category": "VERB",
-    "value": 21
+    "value": 21,
+    "translation": "venir"
   },
   {
     "word": "say",
     "category": "VERB",
-    "value": 17
+    "value": 17,
+    "translation": "decir"
   },
   {
     "word": "tell",
     "category": "VERB",
-    "value": 16
+    "value": 16,
+    "translation": "decir"
   },
   {
     "word": "get",
     "category": "VERB",
-    "value": 13
+    "value": 13,
+    "translation": "obtener"
   },
   {
     "word": "work",
     "category": "VERB",
-    "value": 12
+    "value": 12,
+    "translation": "trabajar"
   },
   {
     "word": "foster",
     "category": "ADJ",
-    "value": 17
+    "value": 17,
+    "translation": "fomentar"
   },
   {
     "word": "new",
     "category": "ADJ",
-    "value": 8
+    "value": 8,
+    "translation": "nuevo"
   },
   {
     "word": "social",
     "category": "ADJ",
-    "value": 8
+    "value": 8,
+    "translation": "social"
   },
   {
     "word": "bad",
     "category": "ADJ",
-    "value": 5
+    "value": 5,
+    "translation": "malo"
   },
   {
     "word": "hard",
     "category": "ADJ",
-    "value": 4
+    "value": 4,
+    "translation": "duro"
   },
   {
     "word": "away",
     "category": "ADV",
-    "value": 3
+    "value": 3,
+    "translation": "lejos"
   },
   {
     "word": "finally",
     "category": "ADV",
-    "value": 2
+    "value": 2,
+    "translation": "finalmente"
   },
   {
     "word": "apart",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "aparte"
   },
   {
     "word": "barefoot",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "descalzo"
   },
   {
     "word": "outside",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "exterior"
   }
 ]

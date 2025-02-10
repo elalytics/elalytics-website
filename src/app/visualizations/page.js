@@ -55,6 +55,10 @@ const VizItem = ({ item }) => {
     "Of Mice and Men": "/imgs/textCovers/mice.jpg",
     "Bless Me, Ultima": "/imgs/textCovers/ultima.jpg",
     "Frankenstein": "/imgs/textCovers/franc.jpg",
+    "American Childhood": "/imgs/textCovers/childhood.jpg",
+    "Titanic": "/imgs/textCovers/titanic.jpg",
+    "Soledad": "/imgs/textCovers/Soledad.jpg",
+    "Mike": "/imgs/textCovers/Mike.jpg"
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">
@@ -270,6 +274,12 @@ function FilterComponent({ vizData, onFilter }) {
           ))}
         </div>
       </div>
+              <button
+          onClick={unselectAllTextNames}
+          className="mt-2 p-2 bg-red-500 text-white rounded hover:bg-red-600"
+        >
+          Unselect All Texts
+        </button>
       <div className="mb-3">
         <h3 className="text-xl font-bold">Text Name</h3>
         <div className="flex flex-col max-h-[300px] overflow-y-scroll p-2 bg-white rounded">
@@ -290,12 +300,7 @@ function FilterComponent({ vizData, onFilter }) {
             </label>
           ))}
         </div>
-        <button
-          onClick={unselectAllTextNames}
-          className="mt-2 p-2 bg-red-500 text-white rounded hover:bg-red-600"
-        >
-          Unselect All
-        </button>
+
       </div>
     </div>
   );

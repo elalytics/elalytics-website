@@ -1,202 +1,252 @@
 [
   {
     "word": "a\u00f1o",
-    "value": 20
+    "value": 20,
+    "translation": "year"
   },
   {
     "word": "acogida",
-    "value": 12
+    "value": 12,
+    "translation": "welcome"
   },
   {
     "word": "pap\u00e1",
-    "value": 9
+    "value": 9,
+    "translation": "dad"
   },
   {
     "word": "persona",
-    "value": 9
+    "value": 9,
+    "translation": "person"
   },
   {
     "word": "familia",
-    "value": 8
+    "value": 8,
+    "translation": "family"
   },
   {
     "word": "casa",
-    "value": 8
+    "value": 8,
+    "translation": "house"
   },
   {
     "word": "trabajo",
-    "value": 6
+    "value": 6,
+    "translation": "work"
   },
   {
     "word": "vida",
-    "value": 6
+    "value": 6,
+    "translation": "life"
   },
   {
     "word": "d\u00eda",
-    "value": 6
+    "value": 6,
+    "translation": "day"
   },
   {
     "word": "sistema",
-    "value": 5
+    "value": 5,
+    "translation": "system"
   },
   {
     "word": "beb\u00e9",
-    "value": 5
+    "value": 5,
+    "translation": "baby"
   },
   {
     "word": "madre",
-    "value": 5
+    "value": 5,
+    "translation": "mother"
   },
   {
     "word": "camioneta",
-    "value": 5
+    "value": 5,
+    "translation": "truck"
   },
   {
     "word": "lugar",
-    "value": 5
+    "value": 5,
+    "translation": "place"
   },
   {
     "word": "vez",
-    "value": 5
+    "value": 5,
+    "translation": "time"
   },
   {
     "word": "joven",
-    "value": 5
+    "value": 5,
+    "translation": "young"
   },
   {
     "word": "universidad",
-    "value": 4
+    "value": 4,
+    "translation": "university"
   },
   {
     "word": "padrastro",
-    "value": 4
+    "value": 4,
+    "translation": "stepfather"
   },
   {
     "word": "padre",
-    "value": 4
+    "value": 4,
+    "translation": "father"
   },
   {
     "word": "mi pap\u00e1",
-    "value": 4
+    "value": 4,
+    "translation": "my dad"
   },
   {
     "word": "dinero",
-    "value": 4
+    "value": 4,
+    "translation": "money"
   },
   {
     "word": "viaje",
-    "value": 4
+    "value": 4,
+    "translation": "trip"
   },
   {
     "word": "escuela",
-    "value": 4
+    "value": 4,
+    "translation": "school"
   },
   {
     "word": "semana",
-    "value": 4
+    "value": 4,
+    "translation": "week"
   },
   {
     "word": "historia",
-    "value": 4
+    "value": 4,
+    "translation": "story"
   },
   {
     "word": "momento",
-    "value": 3
+    "value": 3,
+    "translation": "moment"
   },
   {
     "word": "mi madre",
-    "value": 3
+    "value": 3,
+    "translation": "my mother"
   },
   {
     "word": "lado",
-    "value": 3
+    "value": 3,
+    "translation": "side"
   },
   {
     "word": "mes",
-    "value": 3
+    "value": 3,
+    "translation": "month"
   },
   {
     "word": "cuerpo",
-    "value": 3
+    "value": 3,
+    "translation": "body"
   },
   {
     "word": "comida",
-    "value": 3
+    "value": 3,
+    "translation": "food"
   },
   {
     "word": "polic\u00eda",
-    "value": 3
+    "value": 3,
+    "translation": "police"
   },
   {
     "word": "renta",
-    "value": 3
+    "value": 3,
+    "translation": "rent"
   },
   {
     "word": "ensayo",
-    "value": 3
+    "value": 3,
+    "translation": "essay"
   },
   {
     "word": "cosa",
-    "value": 3
+    "value": 3,
+    "translation": "thing"
   },
   {
     "word": "ni\u00f1o",
-    "value": 2
+    "value": 2,
+    "translation": "child"
   },
   {
     "word": "miedo",
-    "value": 2
+    "value": 2,
+    "translation": "fear"
   },
   {
     "word": "decisi\u00f3n",
-    "value": 2
+    "value": 2,
+    "translation": "decision"
   },
   {
     "word": "uno d\u00eda",
-    "value": 2
+    "value": 2,
+    "translation": "one day"
   },
   {
     "word": "hija",
-    "value": 2
+    "value": 2,
+    "translation": "daughter"
   },
   {
     "word": "ayuda",
-    "value": 2
+    "value": 2,
+    "translation": "help"
   },
   {
     "word": "mam\u00e1",
-    "value": 2
+    "value": 2,
+    "translation": "mom"
   },
   {
     "word": "principio",
-    "value": 2
+    "value": 2,
+    "translation": "beginning"
   },
   {
     "word": "hambre",
-    "value": 2
+    "value": 2,
+    "translation": "hunger"
   },
   {
     "word": "edificio",
-    "value": 2
+    "value": 2,
+    "translation": "building"
   },
   {
     "word": "tiempo",
-    "value": 2
+    "value": 2,
+    "translation": "time"
   },
   {
     "word": "realidad",
-    "value": 2
+    "value": 2,
+    "translation": "reality"
   },
   {
     "word": "lavander\u00eda",
-    "value": 2
+    "value": 2,
+    "translation": "lavender"
   },
   {
     "word": "muchacho",
-    "value": 2
+    "value": 2,
+    "translation": "boy"
   },
   {
     "word": "siquiera",
-    "value": 2
+    "value": 2,
+    "translation": "even"
   }
 ]

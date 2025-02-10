@@ -1,202 +1,242 @@
 [
   {
     "word": "tener",
-    "value": 47
-  },
-  {
-    "word": "ser",
-    "value": 43
+    "value": 47,
+    "translation": "have"
   },
   {
     "word": "haber",
-    "value": 30
+    "value": 30,
+    "translation": "have"
   },
   {
     "word": "decir",
-    "value": 22
-  },
-  {
-    "word": "estar",
-    "value": 20
+    "value": 22,
+    "translation": "say"
   },
   {
     "word": "ir",
-    "value": 13
+    "value": 13,
+    "translation": "go"
   },
   {
     "word": "vivir",
-    "value": 8
+    "value": 8,
+    "translation": "live"
   },
   {
     "word": "poder",
-    "value": 8
+    "value": 8,
+    "translation": "power"
   },
   {
     "word": "ver",
-    "value": 8
+    "value": 8,
+    "translation": "see"
   },
   {
     "word": "ayudar",
-    "value": 7
+    "value": 7,
+    "translation": "help"
   },
   {
     "word": "trabajar",
-    "value": 7
+    "value": 7,
+    "translation": "work"
   },
   {
     "word": "dar",
-    "value": 7
+    "value": 7,
+    "translation": "give"
   },
   {
     "word": "empezar",
-    "value": 7
+    "value": 7,
+    "translation": "get started"
   },
   {
     "word": "hacer",
-    "value": 6
+    "value": 6,
+    "translation": "do"
   },
   {
     "word": "creer",
-    "value": 6
+    "value": 6,
+    "translation": "believe"
   },
   {
     "word": "comer",
-    "value": 6
+    "value": 6,
+    "translation": "eat"
   },
   {
     "word": "querer",
-    "value": 6
+    "value": 6,
+    "translation": "want"
   },
   {
     "word": "venir",
-    "value": 6
+    "value": 6,
+    "translation": "come"
   },
   {
     "word": "dejar",
-    "value": 5
+    "value": 5,
+    "translation": "leave"
   },
   {
     "word": "llegar",
-    "value": 5
+    "value": 5,
+    "translation": "arrive"
   },
   {
     "word": "saber",
-    "value": 5
+    "value": 5,
+    "translation": "know"
   },
   {
     "word": "poner",
-    "value": 5
+    "value": 5,
+    "translation": "put"
   },
   {
     "word": "llevar",
-    "value": 5
+    "value": 5,
+    "translation": "carry"
   },
   {
     "word": "tomar",
-    "value": 4
+    "value": 4,
+    "translation": "take"
   },
   {
     "word": "sentir",
-    "value": 4
+    "value": 4,
+    "translation": "feel"
   },
   {
     "word": "conocer",
-    "value": 4
+    "value": 4,
+    "translation": "know"
   },
   {
     "word": "parar",
-    "value": 4
+    "value": 4,
+    "translation": "stop"
   },
   {
     "word": "hablar",
-    "value": 4
+    "value": 4,
+    "translation": "speak"
   },
   {
     "word": "encontrar",
-    "value": 4
+    "value": 4,
+    "translation": "find"
   },
   {
     "word": "tratar",
-    "value": 4
+    "value": 4,
+    "translation": "try"
   },
   {
     "word": "cambiar",
-    "value": 4
+    "value": 4,
+    "translation": "change"
   },
   {
     "word": "nacer",
-    "value": 3
+    "value": 3,
+    "translation": "to be born"
   },
   {
     "word": "llorar",
-    "value": 3
+    "value": 3,
+    "translation": "cry"
   },
   {
     "word": "intentar",
-    "value": 3
+    "value": 3,
+    "translation": "try"
   },
   {
     "word": "decidir",
-    "value": 3
+    "value": 3,
+    "translation": "decide"
   },
   {
     "word": "pensar",
-    "value": 3
+    "value": 3,
+    "translation": "think"
   },
   {
     "word": "llamar",
-    "value": 3
+    "value": 3,
+    "translation": "call"
   },
   {
     "word": "seguir",
-    "value": 3
+    "value": 3,
+    "translation": "follow"
   },
   {
     "word": "\u00e9rar",
-    "value": 2
+    "value": 2,
+    "translation": "miss"
   },
   {
     "word": "pedir",
-    "value": 2
+    "value": 2,
+    "translation": "ask"
   },
   {
     "word": "pegar yo",
-    "value": 2
+    "value": 2,
+    "translation": "paste"
   },
   {
     "word": "cumplir",
-    "value": 2
+    "value": 2,
+    "translation": "fulfill"
   },
   {
     "word": "volver",
-    "value": 2
+    "value": 2,
+    "translation": "return"
   },
   {
     "word": "comenzar",
-    "value": 2
+    "value": 2,
+    "translation": "begin"
   },
   {
     "word": "llevar yo",
-    "value": 2
+    "value": 2,
+    "translation": "take me"
   },
   {
     "word": "quedar",
-    "value": 2
+    "value": 2,
+    "translation": "stay"
   },
   {
     "word": "sacar",
-    "value": 2
+    "value": 2,
+    "translation": "take out"
   },
   {
     "word": "tenia",
-    "value": 2
+    "value": 2,
+    "translation": "had"
   },
   {
     "word": "\u00edr",
-    "value": 2
+    "value": 2,
+    "translation": "go"
   },
   {
     "word": "respirar",
-    "value": 2
+    "value": 2,
+    "translation": "breathe"
   }
 ]

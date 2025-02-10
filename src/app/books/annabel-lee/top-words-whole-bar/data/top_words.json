@@ -115,28 +115,8 @@
     "value": 2
   },
   {
-    "word": "year",
-    "category": "NOUN",
-    "value": 1
-  },
-  {
-    "word": "thought",
-    "category": "NOUN",
-    "value": 1
-  },
-  {
-    "word": "winged",
-    "category": "ADJ",
-    "value": 1
-  },
-  {
     "word": "seraph",
     "category": "NOUN",
-    "value": 1
-  },
-  {
-    "word": "covet",
-    "category": "VERB",
     "value": 1
   },
   {
@@ -145,28 +125,8 @@
     "value": 1
   },
   {
-    "word": "blow",
-    "category": "VERB",
-    "value": 1
-  },
-  {
-    "word": "chill",
-    "category": "VERB",
-    "value": 1
-  },
-  {
-    "word": "highborn",
-    "category": "ADJ",
-    "value": 1
-  },
-  {
     "word": "kinsman",
     "category": "NOUN",
-    "value": 1
-  },
-  {
-    "word": "bear",
-    "category": "VERB",
     "value": 1
   },
   {
@@ -175,33 +135,8 @@
     "value": 1
   },
   {
-    "word": "shut",
-    "category": "VERB",
-    "value": 1
-  },
-  {
     "word": "half",
     "category": "ADV",
-    "value": 1
-  },
-  {
-    "word": "happy",
-    "category": "ADJ",
-    "value": 1
-  },
-  {
-    "word": "go",
-    "category": "VERB",
-    "value": 1
-  },
-  {
-    "word": "envy",
-    "category": "VERB",
-    "value": 1
-  },
-  {
-    "word": "yes",
-    "category": "INTJ",
     "value": 1
   },
   {
@@ -212,26 +147,6 @@
   {
     "word": "chilling",
     "category": "NOUN",
-    "value": 1
-  },
-  {
-    "word": "kill",
-    "category": "VERB",
-    "value": 1
-  },
-  {
-    "word": "strong",
-    "category": "ADJ",
-    "value": 1
-  },
-  {
-    "word": "old",
-    "category": "ADJ",
-    "value": 1
-  },
-  {
-    "word": "wise",
-    "category": "ADJ",
     "value": 1
   },
   {
@@ -250,16 +165,6 @@
     "value": 1
   },
   {
-    "word": "beam",
-    "category": "VERB",
-    "value": 1
-  },
-  {
-    "word": "bring",
-    "category": "VERB",
-    "value": 1
-  },
-  {
     "word": "dream",
     "category": "NOUN",
     "value": 1
@@ -270,21 +175,6 @@
     "value": 1
   },
   {
-    "word": "rise",
-    "category": "VERB",
-    "value": 1
-  },
-  {
-    "word": "feel",
-    "category": "VERB",
-    "value": 1
-  },
-  {
-    "word": "bright",
-    "category": "ADJ",
-    "value": 1
-  },
-  {
     "word": "eye",
     "category": "NOUN",
     "value": 1
@@ -292,11 +182,6 @@
   {
     "word": "tide",
     "category": "NOUN",
-    "value": 1
-  },
-  {
-    "word": "lie",
-    "category": "VERB",
     "value": 1
   },
   {
@@ -312,11 +197,6 @@
   {
     "word": "tomb",
     "category": "NOUN",
-    "value": 1
-  },
-  {
-    "word": "sound",
-    "category": "VERB",
     "value": 1
   }
 ]

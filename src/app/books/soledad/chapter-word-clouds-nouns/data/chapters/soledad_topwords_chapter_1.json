@@ -1,202 +1,252 @@
 [
   {
     "word": "father",
-    "value": 12
+    "value": 12,
+    "translation": "padre"
   },
   {
     "word": "time",
-    "value": 11
+    "value": 11,
+    "translation": "tiempo"
   },
   {
     "word": "family",
-    "value": 9
+    "value": 9,
+    "translation": "familia"
   },
   {
     "word": "people",
-    "value": 9
+    "value": 9,
+    "translation": "gente"
   },
   {
     "word": "house",
-    "value": 9
+    "value": 9,
+    "translation": "casa"
   },
   {
     "word": "life",
-    "value": 7
+    "value": 7,
+    "translation": "vida"
   },
   {
     "word": "guy",
-    "value": 7
+    "value": 7,
+    "translation": "chico"
   },
   {
     "word": "mom",
-    "value": 7
+    "value": 7,
+    "translation": "mamá"
   },
   {
     "word": "worker",
-    "value": 7
+    "value": 7,
+    "translation": "trabajador"
   },
   {
     "word": "job",
-    "value": 6
+    "value": 6,
+    "translation": "trabajo"
   },
   {
     "word": "money",
-    "value": 6
+    "value": 6,
+    "translation": "dinero"
   },
   {
     "word": "school",
-    "value": 6
+    "value": 6,
+    "translation": "escuela"
   },
   {
     "word": "youth",
-    "value": 6
+    "value": 6,
+    "translation": "juventud"
   },
   {
     "word": "college",
-    "value": 5
+    "value": 5,
+    "translation": "universidad"
   },
   {
     "word": "baby",
-    "value": 5
+    "value": 5,
+    "translation": "bebé"
   },
   {
     "word": "parent",
-    "value": 5
+    "value": 5,
+    "translation": "padre"
   },
   {
     "word": "food",
-    "value": 5
+    "value": 5,
+    "translation": "comida"
   },
   {
     "word": "van",
-    "value": 5
+    "value": 5,
+    "translation": "furgoneta"
   },
   {
     "word": "place",
-    "value": 5
+    "value": 5,
+    "translation": "lugar"
   },
   {
     "word": "story",
-    "value": 5
+    "value": 5,
+    "translation": "historia"
   },
   {
     "word": "care",
-    "value": 4
+    "value": 4,
+    "translation": "cuidado"
   },
   {
     "word": "system",
-    "value": 4
+    "value": 4,
+    "translation": "sistema"
   },
   {
     "word": "mother",
-    "value": 4
+    "value": 4,
+    "translation": "madre"
   },
   {
     "word": "stepfather",
-    "value": 4
+    "value": 4,
+    "translation": "padrastro"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "día"
   },
   {
     "word": "daughter",
-    "value": 4
+    "value": 4,
+    "translation": "hija"
   },
   {
     "word": "dad",
-    "value": 4
+    "value": 4,
+    "translation": "papá"
   },
   {
     "word": "help",
-    "value": 3
+    "value": 3,
+    "translation": "ayuda"
   },
   {
     "word": "lot",
-    "value": 3
+    "value": 3,
+    "translation": "lote"
   },
   {
     "word": "top",
-    "value": 3
+    "value": 3,
+    "translation": "arriba"
   },
   {
     "word": "trip",
-    "value": 3
+    "value": 3,
+    "translation": "viaje"
   },
   {
     "word": "police",
-    "value": 3
+    "value": 3,
+    "translation": "policía"
   },
   {
     "word": "friend",
-    "value": 3
+    "value": 3,
+    "translation": "amigo"
   },
   {
     "word": "way",
-    "value": 3
+    "value": 3,
+    "translation": "camino"
   },
   {
     "word": "teacher",
-    "value": 3
+    "value": 3,
+    "translation": "maestro"
   },
   {
     "word": "rent",
-    "value": 3
+    "value": 3,
+    "translation": "alquiler"
   },
   {
     "word": "essay",
-    "value": 3
+    "value": 3,
+    "translation": "ensayo"
   },
   {
     "word": "girl",
-    "value": 2
+    "value": 2,
+    "translation": "chica"
   },
   {
     "word": "other",
-    "value": 2
+    "value": 2,
+    "translation": "otro"
   },
   {
     "word": "child",
-    "value": 2
+    "value": 2,
+    "translation": "niño"
   },
   {
     "word": "decision",
-    "value": 2
+    "value": 2,
+    "translation": "decisión"
   },
   {
     "word": "the next day",
-    "value": 2
+    "value": 2,
+    "translation": "al día siguiente"
   },
   {
     "word": "year",
-    "value": 2
+    "value": 2,
+    "translation": "año"
   },
   {
     "word": "woman",
-    "value": 2
+    "value": 2,
+    "translation": "mujer"
   },
   {
     "word": "gangster",
-    "value": 2
+    "value": 2,
+    "translation": "gánster"
   },
   {
     "word": "gun",
-    "value": 2
+    "value": 2,
+    "translation": "pistola"
   },
   {
     "word": "head",
-    "value": 2
+    "value": 2,
+    "translation": "cabeza"
   },
   {
     "word": "hand",
-    "value": 2
+    "value": 2,
+    "translation": "mano"
   },
   {
     "word": "body",
-    "value": 2
+    "value": 2,
+    "translation": "cuerpo"
   },
   {
     "word": "one day",
-    "value": 2
+    "value": 2,
+    "translation": "un día"
   }
 ]

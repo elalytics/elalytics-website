@@ -2,126 +2,151 @@
   {
     "word": "a\u00f1o",
     "category": "NOUN",
-    "value": 20
+    "value": 20,
+    "translation": "year"
   },
   {
     "word": "acogida",
     "category": "NOUN",
-    "value": 12
+    "value": 12,
+    "translation": "welcome"
   },
   {
     "word": "pap\u00e1",
     "category": "NOUN",
-    "value": 9
+    "value": 9,
+    "translation": "dad"
   },
   {
     "word": "persona",
     "category": "NOUN",
-    "value": 9
+    "value": 9,
+    "translation": "person"
   },
   {
     "word": "familia",
     "category": "NOUN",
-    "value": 8
+    "value": 8,
+    "translation": "family"
   },
   {
     "word": "honduras",
     "category": "PROPN",
-    "value": 5
+    "value": 5,
+    "translation": "honduras"
   },
   {
     "word": "m\u00e9xico",
     "category": "PROPN",
-    "value": 5
+    "value": 5,
+    "translation": "mexico"
   },
   {
     "word": "san francisco",
     "category": "PROPN",
-    "value": 5
+    "value": 5,
+    "translation": "san francisco"
   },
   {
     "word": "soledad",
     "category": "PROPN",
-    "value": 4
+    "value": 4,
+    "translation": "soledad"
   },
   {
     "word": "estados unidos",
     "category": "PROPN",
-    "value": 3
+    "value": 3,
+    "translation": "united states"
   },
   {
     "word": "dif\u00edcil",
     "category": "ADJ",
-    "value": 4
+    "value": 4,
+    "translation": "difficult"
   },
   {
     "word": "suficiente",
     "category": "ADJ",
-    "value": 3
+    "value": 3,
+    "translation": "enough"
   },
   {
     "word": "social",
     "category": "ADJ",
-    "value": 3
+    "value": 3,
+    "translation": "social"
   },
   {
     "word": "mala",
     "category": "ADJ",
-    "value": 3
+    "value": 3,
+    "translation": "bad"
   },
   {
     "word": "pobre",
     "category": "ADJ",
-    "value": 2
+    "value": 2,
+    "translation": "poor"
   },
   {
     "word": "tener",
     "category": "VERB",
-    "value": 11
+    "value": 11,
+    "translation": "have"
   },
   {
     "word": "vivir",
     "category": "VERB",
-    "value": 8
+    "value": 8,
+    "translation": "live"
   },
   {
     "word": "decir",
     "category": "VERB",
-    "value": 8
+    "value": 8,
+    "translation": "say"
   },
   {
     "word": "ayudar",
     "category": "VERB",
-    "value": 7
+    "value": 7,
+    "translation": "help"
   },
   {
     "word": "trabajar",
     "category": "VERB",
-    "value": 7
+    "value": 7,
+    "translation": "work"
   },
   {
     "word": "cerca",
     "category": "ADV",
-    "value": 2
+    "value": 2,
+    "translation": "near"
   },
   {
     "word": "realmente",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "really"
   },
   {
     "word": "lejos",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "far away"
   },
   {
     "word": "all\u00e1",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "there"
   },
   {
     "word": "especialmente",
     "category": "ADV",
-    "value": 1
+    "value": 1,
+    "translation": "especially"
   }
 ]
