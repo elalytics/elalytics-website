@@ -58,7 +58,8 @@ const VizItem = ({ item }) => {
     "American Childhood": "/imgs/textCovers/childhood.jpg",
     "Titanic": "/imgs/textCovers/titanic.jpg",
     "Soledad": "/imgs/textCovers/Soledad.jpg",
-    "Mike": "/imgs/textCovers/Mike.jpg"
+    "Mike": "/imgs/textCovers/Mike.jpg",
+    "Narrative of the Life of Frederick Douglass, an American Slave": "/imgs/textCovers/douglass.jpg",
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">

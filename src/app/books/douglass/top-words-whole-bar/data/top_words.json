@@ -1,0 +1,127 @@
+[
+  {
+    "word": "slave",
+    "category": "NOUN",
+    "value": 274
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 144
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 142
+  },
+  {
+    "word": "master",
+    "category": "NOUN",
+    "value": 118
+  },
+  {
+    "word": "slavery",
+    "category": "NOUN",
+    "value": 80
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 89
+  },
+  {
+    "word": "go",
+    "category": "VERB",
+    "value": 87
+  },
+  {
+    "word": "give",
+    "category": "VERB",
+    "value": 76
+  },
+  {
+    "word": "find",
+    "category": "VERB",
+    "value": 74
+  },
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 71
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 56
+  },
+  {
+    "word": "great",
+    "category": "ADJ",
+    "value": 52
+  },
+  {
+    "word": "little",
+    "category": "ADJ",
+    "value": 50
+  },
+  {
+    "word": "white",
+    "category": "ADJ",
+    "value": 43
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 37
+  },
+  {
+    "word": "covey",
+    "category": "PROPN",
+    "value": 66
+  },
+  {
+    "word": "master",
+    "category": "PROPN",
+    "value": 44
+  },
+  {
+    "word": "baltimore",
+    "category": "PROPN",
+    "value": 43
+  },
+  {
+    "word": "colonel",
+    "category": "PROPN",
+    "value": 37
+  },
+  {
+    "word": "lloyd",
+    "category": "PROPN",
+    "value": 37
+  },
+  {
+    "word": "soon",
+    "category": "ADV",
+    "value": 34
+  },
+  {
+    "word": "long",
+    "category": "ADV",
+    "value": 29
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 28
+  },
+  {
+    "word": "seldom",
+    "category": "ADV",
+    "value": 20
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 19
+  }
+]
