@@ -88,6 +88,9 @@ const TopWordsBarChart = (props) => {
             y: {
               beginAtZero: true,
               grace: "5%",
+                ticks: {
+                  autoSkip: false
+                },
             },
           },
           responsive: true,
@@ -101,7 +104,7 @@ const TopWordsBarChart = (props) => {
   }
 
   return (
-    <div style={{ width: "100%" }}>
+    <div style={{ width: "100%"  }}>
       <div className="flex m-auto">
         {Object.entries(categoryColors).map(([key, value]) => {
           return (
