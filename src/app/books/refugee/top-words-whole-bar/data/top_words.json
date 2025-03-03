@@ -1,0 +1,127 @@
+[
+  {
+    "word": "mahmoud",
+    "category": "PROPN",
+    "value": 652
+  },
+  {
+    "word": "josef",
+    "category": "PROPN",
+    "value": 592
+  },
+  {
+    "word": "isabel",
+    "category": "PROPN",
+    "value": 435
+  },
+  {
+    "word": "iv\u00e1n",
+    "category": "PROPN",
+    "value": 126
+  },
+  {
+    "word": "lito",
+    "category": "PROPN",
+    "value": 110
+  },
+  {
+    "word": "father",
+    "category": "NOUN",
+    "value": 357
+  },
+  {
+    "word": "mother",
+    "category": "NOUN",
+    "value": 276
+  },
+  {
+    "word": "boat",
+    "category": "NOUN",
+    "value": 236
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 211
+  },
+  {
+    "word": "water",
+    "category": "NOUN",
+    "value": 158
+  },
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 437
+  },
+  {
+    "word": "go",
+    "category": "VERB",
+    "value": 212
+  },
+  {
+    "word": "tell",
+    "category": "VERB",
+    "value": 173
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 170
+  },
+  {
+    "word": "look",
+    "category": "VERB",
+    "value": 160
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 146
+  },
+  {
+    "word": "right",
+    "category": "ADV",
+    "value": 48
+  },
+  {
+    "word": "long",
+    "category": "ADV",
+    "value": 46
+  },
+  {
+    "word": "soon",
+    "category": "ADV",
+    "value": 40
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 39
+  },
+  {
+    "word": "little",
+    "category": "ADJ",
+    "value": 134
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 57
+  },
+  {
+    "word": "white",
+    "category": "ADJ",
+    "value": 54
+  },
+  {
+    "word": "big",
+    "category": "ADJ",
+    "value": 51
+  },
+  {
+    "word": "cuban",
+    "category": "ADJ",
+    "value": 51
+  }
+]

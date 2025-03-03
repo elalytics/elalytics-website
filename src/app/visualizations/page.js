@@ -60,6 +60,7 @@ const VizItem = ({ item }) => {
     "Soledad": "/imgs/textCovers/Soledad.jpg",
     "Mike": "/imgs/textCovers/Mike.jpg",
     "Narrative of the Life of Frederick Douglass, an American Slave": "/imgs/textCovers/douglass.jpg",
+    "Refugee": "/imgs/textCovers/refugee.jpg"
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">
