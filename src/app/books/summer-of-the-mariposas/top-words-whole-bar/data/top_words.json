@@ -1,0 +1,127 @@
+[
+  {
+    "word": "eye",
+    "category": "NOUN",
+    "value": 197
+  },
+  {
+    "word": "hand",
+    "category": "NOUN",
+    "value": 181
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 164
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 161
+  },
+  {
+    "word": "girl",
+    "category": "NOUN",
+    "value": 161
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 119
+  },
+  {
+    "word": "right",
+    "category": "ADJ",
+    "value": 102
+  },
+  {
+    "word": "little",
+    "category": "ADJ",
+    "value": 92
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 81
+  },
+  {
+    "word": "long",
+    "category": "ADJ",
+    "value": 71
+  },
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 641
+  },
+  {
+    "word": "look",
+    "category": "VERB",
+    "value": 397
+  },
+  {
+    "word": "go",
+    "category": "VERB",
+    "value": 289
+  },
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 281
+  },
+  {
+    "word": "ask",
+    "category": "VERB",
+    "value": 250
+  },
+  {
+    "word": "juanita",
+    "category": "PROPN",
+    "value": 402
+  },
+  {
+    "word": "pita",
+    "category": "PROPN",
+    "value": 325
+  },
+  {
+    "word": "mam\u00e1",
+    "category": "PROPN",
+    "value": 302
+  },
+  {
+    "word": "velia",
+    "category": "PROPN",
+    "value": 287
+  },
+  {
+    "word": "delia",
+    "category": "PROPN",
+    "value": 227
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 151
+  },
+  {
+    "word": "home",
+    "category": "ADV",
+    "value": 75
+  },
+  {
+    "word": "right",
+    "category": "ADV",
+    "value": 68
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 54
+  },
+  {
+    "word": "suddenly",
+    "category": "ADV",
+    "value": 51
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "Josef": {
+    "anger": 88,
+    "disgust": 50,
+    "fear": 120,
+    "joy": 76,
+    "sadness": 93,
+    "surprise": 54
+  },
+  "Isabel": {
+    "anger": 78,
+    "disgust": 50,
+    "fear": 116,
+    "joy": 69,
+    "sadness": 90,
+    "surprise": 51
+  },
+  "Mahmoud": {
+    "anger": 112,
+    "disgust": 73,
+    "fear": 156,
+    "joy": 92,
+    "sadness": 116,
+    "surprise": 74
+  }
+}

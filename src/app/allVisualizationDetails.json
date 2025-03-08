@@ -107,32 +107,14 @@
     "interactivity": false,
     "link": "https://drive.google.com/file/d/1lO0k4HZzHM8QHxU_q0qZtdu0FMRcSGtJ/view?usp=sharing"
   },
-  "https://drive.google.com/file/d/1nkH1qNeBGDRm16kJdpd5vsLD7VcwAK_v/view?usp=sharing": {
-    "grade": "Grade 7",
-    "category": "Line Graph",
-    "title": "Sentiment Over Time",
-    "textName": "Summer of the Mariposas",
-    "description": "<div class=\"space-y-3\"><p>In this visualization, the sentiment score for each of the chapter is computed using two different techniques (Flair and TextBlob). In both of the techniques, the scores are first computed for each word, then averaged for each line, then averaged across a whole chapter. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
-    "interactivity": false,
-    "link": "https://drive.google.com/file/d/1nkH1qNeBGDRm16kJdpd5vsLD7VcwAK_v/view?usp=sharing"
-  },
-  "https://drive.google.com/file/d/1P7NFv0lO2AYtmbIc3djiRfJc0X3AbhT8/view?usp=sharing": {
-    "grade": "Grade 7",
-    "category": "Line Graph",
-    "title": "Conflict Over TIme",
-    "textName": "Summer of the Mariposas",
-    "description": "<div class=\"space-y-3\"><p>This visualization shows the conflict score for each chapter in the text. The <strong>conflict score</strong> is first computed for each word, then averaged for all the lines and then again averaged to get the chapter&apos;s conflict score. The conflict score for each line is computed with the NRC Valence, Arousal, and Dominance lexicon. The NRC Valence, Arousal, and Dominance (VAD) Lexicon, which includes a list of more than 20,000 English words and their valence, arousal, and dominance scores. These scores represent how a word could contribute to the conflict of a sentence. It is possible for other systems to assign different scores than what has been assigned here.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
-    "interactivity": false,
-    "link": "https://drive.google.com/file/d/1P7NFv0lO2AYtmbIc3djiRfJc0X3AbhT8/view?usp=sharing"
-  },
-  "https://docs.google.com/document/d/1ahcQ2QC2ilMGR4rFITLcogMMfgrqt5Hq/edit?usp=sharing&ouid=111439942622270492134&rtpof=true&sd=true": {
+  "/books/summer-of-the-mariposas/words_by_chapter": {
     "grade": "Grade 7",
     "category": "Word Cloud",
     "title": "Word Cloud (by chapter)",
     "textName": "Summer of the Mariposas",
     "description": "<div class=\"space-y-3\"><p>These visualizations capture the most frequent words that occurs in each of the chapter. The size of the words are proportionate to the frequency of its occurence in the text. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
     "interactivity": false,
-    "link": "https://docs.google.com/document/d/1ahcQ2QC2ilMGR4rFITLcogMMfgrqt5Hq/edit?usp=sharing&ouid=111439942622270492134&rtpof=true&sd=true"
+    "link": "/books/summer-of-the-mariposas/words_by_chapter"
   },
   "https://drive.google.com/file/d/1RlkY9qhT1V207xo297l31RYSaIdEpUVZ/view?usp=drive_link": {
     "grade": "Grade 7",
@@ -142,6 +124,42 @@
     "description": "<div class=\"space-y-3\"><p>These visualizations capture the most frequent words that occurs in each of the three sections of the book. The size of the words are proportionate to the frequency of its occurence in the text. All words are changed to lowercase first. </p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words in a language, such as &quot;the,&quot; &quot;is,&quot; and &quot;at,&quot; which are often filtered out in text processing and search queries to focus on more meaningful words.</p></div>",
     "interactivity": false,
     "link": "https://drive.google.com/file/d/1RlkY9qhT1V207xo297l31RYSaIdEpUVZ/view?usp=drive_link"
+  },
+    "/books/summer-of-the-mariposas/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/summer-of-the-mariposas/verbs"
+  },
+    "/books/summer-of-the-mariposas/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the text.</p></div>",
+    "interactivity": true,
+    "link": "/books/summer-of-the-mariposas/nouns"
+  },
+    "/books/summer-of-the-mariposas/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/summer-of-the-mariposas/top-words-whole-bar"
+  },
+    "/books/summer-of-the-mariposas/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Summer of the Mariposas",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/summer-of-the-mariposas/sentence-length"
   },
   "/plays/christmas-carol/scrooge-common-words": {
     "grade": "Grade 7",
@@ -1204,5 +1222,14 @@
     "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": false,
     "link": "/books/refugee/top-words-whole-bar"
+  },
+    "/books/refugee/emotions": {
+    "grade": "Grade 8",
+    "category": "Bar Chart",
+    "title": "Most Common Emotions (by character)",
+    "textName": "Refugee",
+    "description": "<div class=\"space-y-3\"><p>These visualizations use an emotions classifier. The <strong>emotions classifier</strong> is a machine learning model that assigns scores to a text input. In this case, each word associated with the character gets a score from the classifier, and then the score for the word is matched to an emotion. This visualization represents the corresponding word-emotion distribution for the selected characters. The scores are provided for the following emotions: anger, disgust, fear, joy, neutral, sadness, surprise. The emotions are based on a specific classifier. It is possible for other classifiers to assign different emotions than what has been assigned here.</p><p>You can experiment with the emotions classifier here: <a href=\"https://huggingface.co/j-hartmann/emotion-english-distilroberta-base\" target=\"_blank\" class=\"text-cardinal-red hover:text-cardinal-red-dark underline\">https://huggingface.co/j-hartmann/emotion-english-distilroberta-base</a></p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": true,
+    "link": "/books/refugee/emotions"
   }
 }
