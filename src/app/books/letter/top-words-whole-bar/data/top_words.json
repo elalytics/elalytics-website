@@ -1,0 +1,127 @@
+[
+  {
+    "word": "diego",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "mexico",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "insurgentes 432",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "thursday, oct. 18, 1934",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "ella",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "stupid",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "long",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "convinced",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "wishful",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "thing",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "life",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "way",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "situation",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "think",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "live",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "imagine",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "want",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "sincerely",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "anymore",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "naturally",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "especially",
+    "category": "ADV",
+    "value": 1
+  }
+]

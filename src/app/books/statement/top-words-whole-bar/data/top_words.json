@@ -1,0 +1,122 @@
+[
+  {
+    "word": "speak",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "think",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "love",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "end",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "appear",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "painting",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "eye",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "hand",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "life",
+    "category": "NOUN",
+    "value": 2
+  },
+  {
+    "word": "diego",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "buddha",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "mexican",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "indians",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "fully",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "purely",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "barely",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "exclusively",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "wide",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "dark",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "intelligent",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "objective",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 1
+  }
+]

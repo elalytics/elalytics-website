@@ -1,0 +1,127 @@
+[
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "recall",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "give",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "paint",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "think",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "kahlo",
+    "category": "PROPN",
+    "value": 14
+  },
+  {
+    "word": "rivera",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "frida",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "g\u00f3mez arias",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "mexico city",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "artist",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "father",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "bed",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "child",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "eye",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "intelligent",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "right",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "favorite",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "dutiful",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "later",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "shortly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "fanatically",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "competitively",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "predominantly",
+    "category": "ADV",
+    "value": 1
+  }
+]

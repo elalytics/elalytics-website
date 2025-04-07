@@ -1249,5 +1249,329 @@
     "description": "<div class=\"space-y-3\"><p>These visualizations use an emotions classifier. The <strong>emotions classifier</strong> is a machine learning model that assigns scores to a text input. In this case, each word associated with the character gets a score from the classifier, and then the score for the word is matched to an emotion. This visualization represents the corresponding word-emotion distribution for the selected characters. The scores are provided for the following emotions: anger, disgust, fear, joy, neutral, sadness, surprise. The emotions are based on a specific classifier. It is possible for other classifiers to assign different emotions than what has been assigned here.</p><p>You can experiment with the emotions classifier here: <a href=\"https://huggingface.co/j-hartmann/emotion-english-distilroberta-base\" target=\"_blank\" class=\"text-cardinal-red hover:text-cardinal-red-dark underline\">https://huggingface.co/j-hartmann/emotion-english-distilroberta-base</a></p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": true,
     "link": "/books/refugee/emotions"
+  },
+      "/books/detroit/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Detroit Industry: The Murals of Diego Rivera",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/detroit/verbs"
+  },
+    "/books/detroit/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Detroit Industry: The Murals of Diego Rivera",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/detroit/nouns"
+  },
+    "/books/detroit/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Detroit Industry: The Murals of Diego Rivera",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/detroit/sentence-length"
+  },
+    "/books/detroit/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Detroit Industry: The Murals of Diego Rivera",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/detroit/top-words-whole-bar"
+  },
+    "/books/frida_becomes_my_wife/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Frida Becomes My Wife",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/frida_becomes_my_wife/verbs"
+  },
+    "/books/frida_becomes_my_wife/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Frida Becomes My Wife",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/frida_becomes_my_wife/nouns"
+  },
+    "/books/frida_becomes_my_wife/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Frida Becomes My Wife",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/frida_becomes_my_wife/sentence-length"
+  },
+    "/books/frida_becomes_my_wife/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Frida Becomes My Wife",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/frida_becomes_my_wife/top-words-whole-bar"
+  },
+      "/books/letter/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Letter to Ella and Bertram Wolfe",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/letter/verbs"
+  },
+    "/books/letter/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Letter to Ella and Bertram Wolfe",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/letter/nouns"
+  },
+    "/books/letter/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Letter to Ella and Bertram Wolfe",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/letter/sentence-length"
+  },
+    "/books/letter/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Letter to Ella and Bertram Wolfe",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/letter/top-words-whole-bar"
+  },
+      "/books/life_with_frida/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Life With Frida",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/life_with_frida/verbs"
+  },
+    "/books/life_with_frida/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Life With Frida",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/life_with_frida/nouns"
+  },
+    "/books/life_with_frida/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Life With Frida",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/life_with_frida/sentence-length"
+  },
+    "/books/life_with_frida/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Life With Frida",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/life_with_frida/top-words-whole-bar"
+  },
+      "/books/rat_hunt/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "The Great Rat Hunt",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/rat_hunt/verbs"
+  },
+    "/books/rat_hunt/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "The Great Rat Hunt",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/rat_hunt/nouns"
+  },
+    "/books/rat_hunt/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "The Great Rat Hunt",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/rat_hunt/sentence-length"
+  },
+    "/books/rat_hunt/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "The Great Rat Hunt",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/rat_hunt/top-words-whole-bar"
+  },
+      "/books/rockfellers_ban_lenin/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Rockefellers Ban Lenin in RCA Mural and Dismiss Rivera",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/rockfellers_ban_lenin/verbs"
+  },
+    "/books/rockfellers_ban_lenin/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Rockefellers Ban Lenin in RCA Mural and Dismiss Rivera",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/rockfellers_ban_lenin/nouns"
+  },
+    "/books/rockfellers_ban_lenin/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Rockefellers Ban Lenin in RCA Mural and Dismiss Rivera",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/rockfellers_ban_lenin/sentence-length"
+  },
+    "/books/rockfellers_ban_lenin/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Rockefellers Ban Lenin in RCA Mural and Dismiss Rivera",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/rockfellers_ban_lenin/top-words-whole-bar"
+  },
+      "/books/rule_of_the_game/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Rules of the Game",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/rule_of_the_game/verbs"
+  },
+    "/books/rule_of_the_game/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Rules of the Game",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/rule_of_the_game/nouns"
+  },
+    "/books/rule_of_the_game/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Rules of the Game",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/rule_of_the_game/sentence-length"
+  },
+    "/books/rule_of_the_game/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Rules of the Game",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/rule_of_the_game/top-words-whole-bar"
+  },
+      "/books/smithsonian/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Excerpt from Smithsonian: Frida Kahlo",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/smithsonian/verbs"
+  },
+    "/books/smithsonian/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Excerpt from Smithsonian: Frida Kahlo",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/smithsonian/nouns"
+  },
+    "/books/smithsonian/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Excerpt from Smithsonian: Frida Kahlo",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/smithsonian/sentence-length"
+  },
+    "/books/smithsonian/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Excerpt from Smithsonian: Frida Kahlo",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/smithsonian/top-words-whole-bar"
+  },
+      "/books/statement/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Statement by Frida Kahlo",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/statement/verbs"
+  },
+    "/books/statement/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Statement by Frida Kahlo",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/statement/nouns"
+  },
+    "/books/statement/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Statement by Frida Kahlo",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/statement/sentence-length"
+  },
+    "/books/statement/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Statement by Frida Kahlo",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/statement/top-words-whole-bar"
   }
 }

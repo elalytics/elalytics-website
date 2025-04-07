@@ -1,0 +1,127 @@
+[
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "want",
+    "category": "VERB",
+    "value": 8
+  },
+  {
+    "word": "look",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "ask",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "coyoac\u00e1n",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "frida",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "next sunday",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "avenida londres",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "cuernavaca",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "important",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "happy",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "uppermost",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "girl",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "painting",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "work",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "opinion",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "room",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "absolutely",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "professionally",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "immediately",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "usually",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "undoubtedly",
+    "category": "ADV",
+    "value": 1
+  }
+]

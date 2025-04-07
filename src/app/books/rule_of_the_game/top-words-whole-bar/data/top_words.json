@@ -1,0 +1,127 @@
+[
+  {
+    "word": "mother",
+    "category": "NOUN",
+    "value": 38
+  },
+  {
+    "word": "chess",
+    "category": "NOUN",
+    "value": 18
+  },
+  {
+    "word": "alley",
+    "category": "NOUN",
+    "value": 15
+  },
+  {
+    "word": "game",
+    "category": "NOUN",
+    "value": 14
+  },
+  {
+    "word": "piece",
+    "category": "NOUN",
+    "value": 14
+  },
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 29
+  },
+  {
+    "word": "play",
+    "category": "VERB",
+    "value": 20
+  },
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 13
+  },
+  {
+    "word": "lose",
+    "category": "VERB",
+    "value": 11
+  },
+  {
+    "word": "think",
+    "category": "VERB",
+    "value": 9
+  },
+  {
+    "word": "chinese",
+    "category": "ADJ",
+    "value": 13
+  },
+  {
+    "word": "white",
+    "category": "ADJ",
+    "value": 11
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 10
+  },
+  {
+    "word": "black",
+    "category": "ADJ",
+    "value": 9
+  },
+  {
+    "word": "small",
+    "category": "ADJ",
+    "value": 8
+  },
+  {
+    "word": "home",
+    "category": "ADV",
+    "value": 8
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "quietly",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "quickly",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "forward",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "vincent",
+    "category": "PROPN",
+    "value": 12
+  },
+  {
+    "word": "hong sing\u2019s",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "winston",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "lau po",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "chinatown",
+    "category": "PROPN",
+    "value": 3
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "word": "rat",
+    "value": 19
+  },
+  {
+    "word": "rifle",
+    "value": 17
+  },
+  {
+    "word": "father",
+    "value": 16
+  },
+  {
+    "word": "time",
+    "value": 12
+  },
+  {
+    "word": "store",
+    "value": 10
+  },
+  {
+    "word": "sport",
+    "value": 8
+  },
+  {
+    "word": "boy",
+    "value": 8
+  },
+  {
+    "word": "cartridge",
+    "value": 8
+  },
+  {
+    "word": "eye",
+    "value": 8
+  },
+  {
+    "word": "room",
+    "value": 7
+  },
+  {
+    "word": "head",
+    "value": 7
+  },
+  {
+    "word": "trophy",
+    "value": 6
+  },
+  {
+    "word": "door",
+    "value": 6
+  },
+  {
+    "word": "hole",
+    "value": 6
+  },
+  {
+    "word": "hand",
+    "value": 5
+  },
+  {
+    "word": "apartment",
+    "value": 4
+  },
+  {
+    "word": "game",
+    "value": 4
+  },
+  {
+    "word": "man",
+    "value": 4
+  },
+  {
+    "word": "pocket",
+    "value": 4
+  },
+  {
+    "word": "box",
+    "value": 4
+  },
+  {
+    "word": "moment",
+    "value": 4
+  },
+  {
+    "word": "sir",
+    "value": 4
+  },
+  {
+    "word": "face",
+    "value": 4
+  },
+  {
+    "word": "brother",
+    "value": 3
+  },
+  {
+    "word": "football",
+    "value": 3
+  },
+  {
+    "word": "basketball",
+    "value": 3
+  },
+  {
+    "word": "story",
+    "value": 3
+  },
+  {
+    "word": "storeroom",
+    "value": 3
+  },
+  {
+    "word": "corner",
+    "value": 3
+  },
+  {
+    "word": "wall",
+    "value": 3
+  },
+  {
+    "word": "word",
+    "value": 3
+  },
+  {
+    "word": "breath",
+    "value": 3
+  },
+  {
+    "word": "chicken",
+    "value": 3
+  },
+  {
+    "word": "part",
+    "value": 3
+  },
+  {
+    "word": "stair",
+    "value": 3
+  },
+  {
+    "word": "kid",
+    "value": 3
+  },
+  {
+    "word": "fireplace",
+    "value": 3
+  },
+  {
+    "word": "thing",
+    "value": 3
+  },
+  {
+    "word": "panic",
+    "value": 3
+  },
+  {
+    "word": "asthma",
+    "value": 2
+  },
+  {
+    "word": "book",
+    "value": 2
+  },
+  {
+    "word": "dance",
+    "value": 2
+  },
+  {
+    "word": "fact",
+    "value": 2
+  },
+  {
+    "word": "club",
+    "value": 2
+  },
+  {
+    "word": "bump",
+    "value": 2
+  },
+  {
+    "word": "baseball",
+    "value": 2
+  },
+  {
+    "word": "body",
+    "value": 2
+  },
+  {
+    "word": "medal",
+    "value": 2
+  },
+  {
+    "word": "lung",
+    "value": 2
+  },
+  {
+    "word": "lesson",
+    "value": 2
+  }
+]

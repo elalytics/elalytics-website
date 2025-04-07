@@ -1,0 +1,117 @@
+[
+  {
+    "word": "mural",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "image",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "worker",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "panel",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "industry",
+    "category": "NOUN",
+    "value": 3
+  },
+  {
+    "word": "mexican",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "different",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "american",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "iconic",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "frozen",
+    "category": "ADJ",
+    "value": 1
+  },
+  {
+    "word": "paint",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "depict",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "raise",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "start",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "call",
+    "category": "VERB",
+    "value": 2
+  },
+  {
+    "word": "rivera",
+    "category": "PROPN",
+    "value": 9
+  },
+  {
+    "word": "detroit",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "ford",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "henry ford",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "edsel ford",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "soon",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "foolishly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "publicly",
+    "category": "ADV",
+    "value": 1
+  }
+]

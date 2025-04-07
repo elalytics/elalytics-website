@@ -1,0 +1,202 @@
+[
+  {
+    "word": "have",
+    "value": 35
+  },
+  {
+    "word": "say",
+    "value": 12
+  },
+  {
+    "word": "would",
+    "value": 8
+  },
+  {
+    "word": "make",
+    "value": 7
+  },
+  {
+    "word": "do",
+    "value": 5
+  },
+  {
+    "word": "will",
+    "value": 5
+  },
+  {
+    "word": "find",
+    "value": 4
+  },
+  {
+    "word": "come",
+    "value": 4
+  },
+  {
+    "word": "appear",
+    "value": 4
+  },
+  {
+    "word": "give",
+    "value": 4
+  },
+  {
+    "word": "regard",
+    "value": 3
+  },
+  {
+    "word": "call",
+    "value": 3
+  },
+  {
+    "word": "take",
+    "value": 3
+  },
+  {
+    "word": "could",
+    "value": 3
+  },
+  {
+    "word": "raise",
+    "value": 3
+  },
+  {
+    "word": "object",
+    "value": 3
+  },
+  {
+    "word": "suggest",
+    "value": 3
+  },
+  {
+    "word": "receive",
+    "value": 3
+  },
+  {
+    "word": "include",
+    "value": 3
+  },
+  {
+    "word": "change",
+    "value": 3
+  },
+  {
+    "word": "feel",
+    "value": 3
+  },
+  {
+    "word": "should",
+    "value": 3
+  },
+  {
+    "word": "enclose",
+    "value": 2
+  },
+  {
+    "word": "manage",
+    "value": 2
+  },
+  {
+    "word": "refuse",
+    "value": 2
+  },
+  {
+    "word": "wait",
+    "value": 2
+  },
+  {
+    "word": "develop",
+    "value": 2
+  },
+  {
+    "word": "leave",
+    "value": 2
+  },
+  {
+    "word": "show",
+    "value": 2
+  },
+  {
+    "word": "portray",
+    "value": 2
+  },
+  {
+    "word": "tell",
+    "value": 2
+  },
+  {
+    "word": "go",
+    "value": 2
+  },
+  {
+    "word": "see",
+    "value": 2
+  },
+  {
+    "word": "date",
+    "value": 2
+  },
+  {
+    "word": "offend",
+    "value": 2
+  },
+  {
+    "word": "understand",
+    "value": 2
+  },
+  {
+    "word": "clarify",
+    "value": 2
+  },
+  {
+    "word": "represent",
+    "value": 2
+  },
+  {
+    "word": "halt",
+    "value": 1
+  },
+  {
+    "word": "envelop",
+    "value": 1
+  },
+  {
+    "word": "inform",
+    "value": 1
+  },
+  {
+    "word": "engage",
+    "value": 1
+  },
+  {
+    "word": "turn",
+    "value": 1
+  },
+  {
+    "word": "cut",
+    "value": 1
+  },
+  {
+    "word": "await",
+    "value": 1
+  },
+  {
+    "word": "complete",
+    "value": 1
+  },
+  {
+    "word": "promise",
+    "value": 1
+  },
+  {
+    "word": "express",
+    "value": 1
+  },
+  {
+    "word": "terminate",
+    "value": 1
+  },
+  {
+    "word": "contract",
+    "value": 1
+  }
+]

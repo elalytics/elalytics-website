@@ -60,7 +60,16 @@ const VizItem = ({ item }) => {
     "Soledad": "/imgs/textCovers/Soledad.jpg",
     "Mike": "/imgs/textCovers/Mike.jpg",
     "Narrative of the Life of Frederick Douglass, an American Slave": "/imgs/textCovers/douglass.jpg",
-    "Refugee": "/imgs/textCovers/refugee.jpg"
+    "Refugee": "/imgs/textCovers/refugee.jpg",
+    "Detroit Industry: The Murals of Diego Rivera": "/imgs/textCovers/frida.png",
+    "Frida Becomes My Wife": "/imgs/textCovers/frida.png",
+    "Letter to Ella and Bertram Wolfe": "/imgs/textCovers/frida.png",
+    "Life With Frida": "/imgs/textCovers/frida.png",
+    "The Great Rat Hunt": "/imgs/textCovers/rat_hunt.png",
+    "Rockefellers Ban Lenin in RCA Mural and Dismiss Rivera": "/imgs/textCovers/frida.png",
+    "Rules of the Game": "/imgs/textCovers/rules.png",
+    "Excerpt from Smithsonian: Frida Kahlo": "/imgs/textCovers/frida.png",
+    "Statement by Frida Kahlo": "/imgs/textCovers/frida.png"
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">

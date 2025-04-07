@@ -1,0 +1,202 @@
+[
+  {
+    "word": "mural",
+    "value": 13
+  },
+  {
+    "word": "building",
+    "value": 12
+  },
+  {
+    "word": "letter",
+    "value": 10
+  },
+  {
+    "word": "painting",
+    "value": 10
+  },
+  {
+    "word": "figure",
+    "value": 7
+  },
+  {
+    "word": "work",
+    "value": 6
+  },
+  {
+    "word": "artist",
+    "value": 6
+  },
+  {
+    "word": "police",
+    "value": 5
+  },
+  {
+    "word": "man",
+    "value": 5
+  },
+  {
+    "word": "conception",
+    "value": 5
+  },
+  {
+    "word": "matter",
+    "value": 5
+  },
+  {
+    "word": "crowd",
+    "value": 4
+  },
+  {
+    "word": "time",
+    "value": 4
+  },
+  {
+    "word": "sketch",
+    "value": 4
+  },
+  {
+    "word": "portrait",
+    "value": 4
+  },
+  {
+    "word": "scaffold",
+    "value": 3
+  },
+  {
+    "word": "check",
+    "value": 3
+  },
+  {
+    "word": "panel",
+    "value": 3
+  },
+  {
+    "word": "art",
+    "value": 3
+  },
+  {
+    "word": "agent",
+    "value": 3
+  },
+  {
+    "word": "force",
+    "value": 3
+  },
+  {
+    "word": "color",
+    "value": 3
+  },
+  {
+    "word": "thing",
+    "value": 3
+  },
+  {
+    "word": "situation",
+    "value": 3
+  },
+  {
+    "word": "feeling",
+    "value": 3
+  },
+  {
+    "word": "leader",
+    "value": 3
+  },
+  {
+    "word": "place",
+    "value": 3
+  },
+  {
+    "word": "last night",
+    "value": 2
+  },
+  {
+    "word": "story",
+    "value": 2
+  },
+  {
+    "word": "painter",
+    "value": 2
+  },
+  {
+    "word": "family",
+    "value": 2
+  },
+  {
+    "word": "assistant",
+    "value": 2
+  },
+  {
+    "word": "friend",
+    "value": 2
+  },
+  {
+    "word": "regret",
+    "value": 2
+  },
+  {
+    "word": "compromise",
+    "value": 2
+  },
+  {
+    "word": "behalf",
+    "value": 2
+  },
+  {
+    "word": "demonstration",
+    "value": 2
+  },
+  {
+    "word": "front",
+    "value": 2
+  },
+  {
+    "word": "demonstrator",
+    "value": 2
+  },
+  {
+    "word": "policeman",
+    "value": 2
+  },
+  {
+    "word": "side",
+    "value": 2
+  },
+  {
+    "word": "door",
+    "value": 2
+  },
+  {
+    "word": "nature",
+    "value": 2
+  },
+  {
+    "word": "decoration",
+    "value": 2
+  },
+  {
+    "word": "right",
+    "value": 2
+  },
+  {
+    "word": "mankind",
+    "value": 2
+  },
+  {
+    "word": "hand",
+    "value": 2
+  },
+  {
+    "word": "background",
+    "value": 2
+  },
+  {
+    "word": "circumstance",
+    "value": 2
+  },
+  {
+    "word": "yesterday",
+    "value": 2
+  }
+]

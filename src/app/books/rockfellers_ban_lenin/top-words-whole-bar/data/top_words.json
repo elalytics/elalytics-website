@@ -1,0 +1,127 @@
+[
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "find",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "appear",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "give",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "mural",
+    "category": "NOUN",
+    "value": 13
+  },
+  {
+    "word": "building",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "letter",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "painting",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "figure",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "se\u00f1or rivera",
+    "category": "PROPN",
+    "value": 15
+  },
+  {
+    "word": "lenin",
+    "category": "PROPN",
+    "value": 7
+  },
+  {
+    "word": "rockefeller center",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "rockefeller",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "rivera",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "great",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "human",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "sure",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "final",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "acceptable",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "long",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "frequently",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "sadly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "previously",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 1
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "word": "rat",
+    "category": "NOUN",
+    "value": 19
+  },
+  {
+    "word": "rifle",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "father",
+    "category": "NOUN",
+    "value": 16
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "store",
+    "category": "NOUN",
+    "value": 10
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 9
+  },
+  {
+    "word": "little",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "white",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "big",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "feel",
+    "category": "VERB",
+    "value": 14
+  },
+  {
+    "word": "try",
+    "category": "VERB",
+    "value": 12
+  },
+  {
+    "word": "get",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "father",
+    "category": "PROPN",
+    "value": 54
+  },
+  {
+    "word": "mother",
+    "category": "PROPN",
+    "value": 22
+  },
+  {
+    "word": "eddy",
+    "category": "PROPN",
+    "value": 16
+  },
+  {
+    "word": "chinatown",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "america",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 7
+  },
+  {
+    "word": "right",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "suddenly",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "worse",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 2
+  }
+]

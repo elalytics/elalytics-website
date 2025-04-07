@@ -1,0 +1,127 @@
+[
+  {
+    "word": "house",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "flower",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "color",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "fruit",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "effect",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "frida",
+    "category": "PROPN",
+    "value": 17
+  },
+  {
+    "word": "diego",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "coyoac\u00e1n",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "piquitos",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "the blue house",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "go",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "paint",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "call",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "live",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "grow",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "little",
+    "category": "ADJ",
+    "value": 6
+  },
+  {
+    "word": "white",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "black",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "red",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "great",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "inside",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "perfectly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "outside",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "especially",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "typically",
+    "category": "ADV",
+    "value": 1
+  }
+]
