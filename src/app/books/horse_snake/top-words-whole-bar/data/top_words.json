@@ -1,0 +1,117 @@
+[
+  {
+    "word": "snake",
+    "category": "NOUN",
+    "value": 48
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "horse",
+    "category": "NOUN",
+    "value": 15
+  },
+  {
+    "word": "son",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 9
+  },
+  {
+    "word": "minh",
+    "category": "PROPN",
+    "value": 6
+  },
+  {
+    "word": "tank",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "the south china sea",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "attack",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "hear",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "fight",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "strike",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "rush",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 10
+  },
+  {
+    "word": "dangerous",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "long",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "small",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "home",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "fast",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "close",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "outside",
+    "category": "ADV",
+    "value": 2
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 10
+  },
+  {
+    "word": "feel",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "wish",
+    "category": "VERB",
+    "value": 6
+  },
+  {
+    "word": "sit",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "sweater",
+    "category": "NOUN",
+    "value": 15
+  },
+  {
+    "word": "birthday",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "today",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "eye",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "desk",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "red",
+    "category": "ADJ",
+    "value": 9
+  },
+  {
+    "word": "little",
+    "category": "ADJ",
+    "value": 5
+  },
+  {
+    "word": "stupid",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "happy",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "maybe",
+    "category": "ADV",
+    "value": 8
+  },
+  {
+    "word": "right",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 5
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "instead",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "price",
+    "category": "PROPN",
+    "value": 12
+  },
+  {
+    "word": "rachel",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "mama",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "sylvia sald\u00edvar",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "papa",
+    "category": "PROPN",
+    "value": 2
+  }
+]

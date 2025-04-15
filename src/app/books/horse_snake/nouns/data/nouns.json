@@ -1,0 +1,202 @@
+[
+  {
+    "word": "snake",
+    "value": 48
+  },
+  {
+    "word": "man",
+    "value": 17
+  },
+  {
+    "word": "horse",
+    "value": 15
+  },
+  {
+    "word": "son",
+    "value": 12
+  },
+  {
+    "word": "time",
+    "value": 9
+  },
+  {
+    "word": "father",
+    "value": 9
+  },
+  {
+    "word": "pond",
+    "value": 9
+  },
+  {
+    "word": "field",
+    "value": 8
+  },
+  {
+    "word": "jungle",
+    "value": 6
+  },
+  {
+    "word": "rice",
+    "value": 6
+  },
+  {
+    "word": "hamlet",
+    "value": 6
+  },
+  {
+    "word": "cousin",
+    "value": 5
+  },
+  {
+    "word": "knife",
+    "value": 5
+  },
+  {
+    "word": "grandmother",
+    "value": 5
+  },
+  {
+    "word": "head",
+    "value": 5
+  },
+  {
+    "word": "tail",
+    "value": 5
+  },
+  {
+    "word": "fish",
+    "value": 5
+  },
+  {
+    "word": "area",
+    "value": 4
+  },
+  {
+    "word": "people",
+    "value": 4
+  },
+  {
+    "word": "village",
+    "value": 4
+  },
+  {
+    "word": "woodcutter",
+    "value": 4
+  },
+  {
+    "word": "load",
+    "value": 4
+  },
+  {
+    "word": "wood",
+    "value": 4
+  },
+  {
+    "word": "chief",
+    "value": 4
+  },
+  {
+    "word": "friend",
+    "value": 3
+  },
+  {
+    "word": "front",
+    "value": 3
+  },
+  {
+    "word": "house",
+    "value": 3
+  },
+  {
+    "word": "way",
+    "value": 3
+  },
+  {
+    "word": "sound",
+    "value": 3
+  },
+  {
+    "word": "bite",
+    "value": 3
+  },
+  {
+    "word": "bed",
+    "value": 3
+  },
+  {
+    "word": "mother",
+    "value": 3
+  },
+  {
+    "word": "story",
+    "value": 3
+  },
+  {
+    "word": "farmer",
+    "value": 3
+  },
+  {
+    "word": "help",
+    "value": 3
+  },
+  {
+    "word": "direction",
+    "value": 3
+  },
+  {
+    "word": "side",
+    "value": 3
+  },
+  {
+    "word": "river",
+    "value": 3
+  },
+  {
+    "word": "creature",
+    "value": 2
+  },
+  {
+    "word": "bamboo",
+    "value": 2
+  },
+  {
+    "word": "tree",
+    "value": 2
+  },
+  {
+    "word": "family",
+    "value": 2
+  },
+  {
+    "word": "cattle",
+    "value": 2
+  },
+  {
+    "word": "neighbor",
+    "value": 2
+  },
+  {
+    "word": "horn",
+    "value": 2
+  },
+  {
+    "word": "end",
+    "value": 2
+  },
+  {
+    "word": "that night",
+    "value": 2
+  },
+  {
+    "word": "hunting",
+    "value": 2
+  },
+  {
+    "word": "night",
+    "value": 2
+  },
+  {
+    "word": "group",
+    "value": 2
+  }
+]

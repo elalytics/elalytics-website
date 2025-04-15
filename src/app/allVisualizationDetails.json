@@ -1573,5 +1573,149 @@
     "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": false,
     "link": "/books/statement/top-words-whole-bar"
+  },
+      "/books/eleven/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Eleven",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/eleven/verbs"
+  },
+    "/books/eleven/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Eleven",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/eleven/nouns"
+  },
+    "/books/eleven/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Eleven",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/eleven/sentence-length"
+  },
+    "/books/eleven/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Eleven",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/eleven/top-words-whole-bar"
+  },
+      "/books/horse_snake/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "The Horse Snake",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/horse_snake/verbs"
+  },
+    "/books/horse_snake/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "The Horse Snake",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/horse_snake/nouns"
+  },
+    "/books/horse_snake/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "The Horse Snake",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/horse_snake/sentence-length"
+  },
+    "/books/horse_snake/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "The Horse Snake",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/horse_snake/top-words-whole-bar"
+  },
+      "/books/ride/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "Paul Revere's Ride",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/ride/verbs"
+  },
+    "/books/ride/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "Paul Revere's Ride",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/ride/nouns"
+  },
+    "/books/ride/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "Paul Revere's Ride",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/ride/sentence-length"
+  },
+    "/books/ride/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "Paul Revere's Ride",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/ride/top-words-whole-bar"
+  },
+    "/books/treasure/verbs": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Verbs",
+    "textName": "The Treasure of Lemon Brown",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used verbs in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/treasure/verbs"
+  },
+    "/books/treasure/nouns": {
+    "grade": "Grade 7",
+    "category": "Word Cloud",
+    "title": "Most Frequent Nouns",
+    "textName": "The Treasure of Lemon Brown",
+    "description": "<div class=\"space-y-3\"><p>This visualization highlights the most frequently used nouns in the poem.</p></div>",
+    "interactivity": true,
+    "link": "/books/treasure/nouns"
+  },
+    "/books/treasure/sentence-length": {
+    "grade": "Grade 7",
+    "category": "Line Graph",
+    "title": "Sentence Length Over Time",
+    "textName": "The Treasure of Lemon Brown",
+    "description": "<div class=\"space-y-3\"><p>This visualization compares the length of all the sentences across the story by counting words. The Y axis represents the sentence number whereas the X axis represents the number of words in that given sentence.</p></div>",
+    "interactivity": true,
+    "link": "/books/treasure/sentence-length"
+  },
+    "/books/treasure/top-words-whole-bar": {
+    "grade": "Grade 7",
+    "category": "Bar Chart",
+    "title": "Most Frequent Words (by part of speech)",
+    "textName": "The Treasure of Lemon Brown",
+    "description": "<div class=\"space-y-3\"><p>This visualization shows the 30 most frequent words grouped and color coded by part of speech.  Most words are converted to lowercase first.</p><p>This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
+    "interactivity": false,
+    "link": "/books/treasure/top-words-whole-bar"
   }
 }

@@ -69,7 +69,11 @@ const VizItem = ({ item }) => {
     "Rockefellers Ban Lenin in RCA Mural and Dismiss Rivera": "/imgs/textCovers/frida.png",
     "Rules of the Game": "/imgs/textCovers/rules.png",
     "Excerpt from Smithsonian: Frida Kahlo": "/imgs/textCovers/frida.png",
-    "Statement by Frida Kahlo": "/imgs/textCovers/frida.png"
+    "Statement by Frida Kahlo": "/imgs/textCovers/frida.png",
+    "Eleven": "/imgs/textCovers/eleven.png",
+    "The Horse Snake": "/imgs/textCovers/horse_snake.png",
+    "Paul Revere's Ride": "/imgs/textCovers/ride.png",
+    "The Treasure of Lemon Brown": "/imgs/textCovers/treasure.png"
   };
   return (
     <div className="bg-white w-[300px] rounded shadow hover:shadow-xl h-full flex flex-col justify-between">

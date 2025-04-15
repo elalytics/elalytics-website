@@ -1,0 +1,202 @@
+[
+  {
+    "word": "man",
+    "value": 30
+  },
+  {
+    "word": "treasure",
+    "value": 17
+  },
+  {
+    "word": "room",
+    "value": 13
+  },
+  {
+    "word": "rag",
+    "value": 13
+  },
+  {
+    "word": "window",
+    "value": 12
+  },
+  {
+    "word": "father",
+    "value": 11
+  },
+  {
+    "word": "stair",
+    "value": 11
+  },
+  {
+    "word": "voice",
+    "value": 10
+  },
+  {
+    "word": "eye",
+    "value": 8
+  },
+  {
+    "word": "light",
+    "value": 8
+  },
+  {
+    "word": "time",
+    "value": 7
+  },
+  {
+    "word": "rain",
+    "value": 6
+  },
+  {
+    "word": "noise",
+    "value": 6
+  },
+  {
+    "word": "street",
+    "value": 5
+  },
+  {
+    "word": "door",
+    "value": 5
+  },
+  {
+    "word": "floor",
+    "value": 5
+  },
+  {
+    "word": "side",
+    "value": 5
+  },
+  {
+    "word": "wall",
+    "value": 5
+  },
+  {
+    "word": "corner",
+    "value": 5
+  },
+  {
+    "word": "while",
+    "value": 5
+  },
+  {
+    "word": "sound",
+    "value": 5
+  },
+  {
+    "word": "breath",
+    "value": 5
+  },
+  {
+    "word": "leg",
+    "value": 5
+  },
+  {
+    "word": "head",
+    "value": 5
+  },
+  {
+    "word": "pipe",
+    "value": 5
+  },
+  {
+    "word": "hand",
+    "value": 5
+  },
+  {
+    "word": "flashlight",
+    "value": 5
+  },
+  {
+    "word": "clipping",
+    "value": 5
+  },
+  {
+    "word": "darkness",
+    "value": 4
+  },
+  {
+    "word": "step",
+    "value": 4
+  },
+  {
+    "word": "boy",
+    "value": 4
+  },
+  {
+    "word": "top",
+    "value": 4
+  },
+  {
+    "word": "money",
+    "value": 4
+  },
+  {
+    "word": "building",
+    "value": 3
+  },
+  {
+    "word": "letter",
+    "value": 3
+  },
+  {
+    "word": "math",
+    "value": 3
+  },
+  {
+    "word": "lecture",
+    "value": 3
+  },
+  {
+    "word": "a week",
+    "value": 3
+  },
+  {
+    "word": "flash",
+    "value": 3
+  },
+  {
+    "word": "lightning",
+    "value": 3
+  },
+  {
+    "word": "couch",
+    "value": 3
+  },
+  {
+    "word": "sign",
+    "value": 3
+  },
+  {
+    "word": "razor",
+    "value": 3
+  },
+  {
+    "word": "knee",
+    "value": 3
+  },
+  {
+    "word": "figure",
+    "value": 3
+  },
+  {
+    "word": "answer",
+    "value": 3
+  },
+  {
+    "word": "string",
+    "value": 3
+  },
+  {
+    "word": "back",
+    "value": 3
+  },
+  {
+    "word": "home",
+    "value": 3
+  },
+  {
+    "word": "none",
+    "value": 3
+  }
+]

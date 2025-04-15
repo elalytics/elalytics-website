@@ -1,0 +1,127 @@
+[
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 20
+  },
+  {
+    "word": "sure",
+    "category": "ADJ",
+    "value": 6
+  },
+  {
+    "word": "hard",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "right",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "dark",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "man",
+    "category": "NOUN",
+    "value": 30
+  },
+  {
+    "word": "treasure",
+    "category": "NOUN",
+    "value": 17
+  },
+  {
+    "word": "room",
+    "category": "NOUN",
+    "value": 13
+  },
+  {
+    "word": "rag",
+    "category": "NOUN",
+    "value": 13
+  },
+  {
+    "word": "window",
+    "category": "NOUN",
+    "value": 12
+  },
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 30
+  },
+  {
+    "word": "come",
+    "category": "VERB",
+    "value": 21
+  },
+  {
+    "word": "look",
+    "category": "VERB",
+    "value": 19
+  },
+  {
+    "word": "think",
+    "category": "VERB",
+    "value": 17
+  },
+  {
+    "word": "go",
+    "category": "VERB",
+    "value": 16
+  },
+  {
+    "word": "greg",
+    "category": "PROPN",
+    "value": 71
+  },
+  {
+    "word": "lemon brown",
+    "category": "PROPN",
+    "value": 35
+  },
+  {
+    "word": "sweet lemon brown",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "scorpions",
+    "category": "PROPN",
+    "value": 3
+  },
+  {
+    "word": "lemon brown\u2019s",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "home",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "sure",
+    "category": "ADV",
+    "value": 4
+  },
+  {
+    "word": "hard",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "carefully",
+    "category": "ADV",
+    "value": 3
+  },
+  {
+    "word": "outside",
+    "category": "ADV",
+    "value": 3
+  }
+]

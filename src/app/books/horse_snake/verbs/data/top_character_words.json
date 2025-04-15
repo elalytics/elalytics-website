@@ -1,0 +1,202 @@
+[
+  {
+    "word": "have",
+    "value": 23
+  },
+  {
+    "word": "could",
+    "value": 8
+  },
+  {
+    "word": "would",
+    "value": 8
+  },
+  {
+    "word": "attack",
+    "value": 6
+  },
+  {
+    "word": "hear",
+    "value": 6
+  },
+  {
+    "word": "become",
+    "value": 6
+  },
+  {
+    "word": "go",
+    "value": 6
+  },
+  {
+    "word": "fight",
+    "value": 5
+  },
+  {
+    "word": "see",
+    "value": 5
+  },
+  {
+    "word": "strike",
+    "value": 5
+  },
+  {
+    "word": "rush",
+    "value": 5
+  },
+  {
+    "word": "tell",
+    "value": 4
+  },
+  {
+    "word": "stay",
+    "value": 4
+  },
+  {
+    "word": "try",
+    "value": 3
+  },
+  {
+    "word": "call",
+    "value": 3
+  },
+  {
+    "word": "search",
+    "value": 3
+  },
+  {
+    "word": "look",
+    "value": 3
+  },
+  {
+    "word": "grab",
+    "value": 3
+  },
+  {
+    "word": "break",
+    "value": 3
+  },
+  {
+    "word": "give",
+    "value": 3
+  },
+  {
+    "word": "come",
+    "value": 3
+  },
+  {
+    "word": "run",
+    "value": 3
+  },
+  {
+    "word": "avoid",
+    "value": 2
+  },
+  {
+    "word": "grow",
+    "value": 2
+  },
+  {
+    "word": "move",
+    "value": 2
+  },
+  {
+    "word": "listen",
+    "value": 2
+  },
+  {
+    "word": "squeeze",
+    "value": 2
+  },
+  {
+    "word": "agree",
+    "value": 2
+  },
+  {
+    "word": "reach",
+    "value": 2
+  },
+  {
+    "word": "return",
+    "value": 2
+  },
+  {
+    "word": "wake",
+    "value": 2
+  },
+  {
+    "word": "carry",
+    "value": 2
+  },
+  {
+    "word": "throw",
+    "value": 2
+  },
+  {
+    "word": "draw",
+    "value": 2
+  },
+  {
+    "word": "decide",
+    "value": 2
+  },
+  {
+    "word": "help",
+    "value": 2
+  },
+  {
+    "word": "catch",
+    "value": 2
+  },
+  {
+    "word": "approach",
+    "value": 2
+  },
+  {
+    "word": "yell",
+    "value": 2
+  },
+  {
+    "word": "order",
+    "value": 2
+  },
+  {
+    "word": "surround",
+    "value": 2
+  },
+  {
+    "word": "creep",
+    "value": 2
+  },
+  {
+    "word": "receive",
+    "value": 2
+  },
+  {
+    "word": "escape",
+    "value": 1
+  },
+  {
+    "word": "bang",
+    "value": 1
+  },
+  {
+    "word": "ask",
+    "value": 1
+  },
+  {
+    "word": "let",
+    "value": 1
+  },
+  {
+    "word": "cross",
+    "value": 1
+  },
+  {
+    "word": "raise",
+    "value": 1
+  },
+  {
+    "word": "rouse",
+    "value": 1
+  }
+]

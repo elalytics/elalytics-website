@@ -1,0 +1,127 @@
+[
+  {
+    "word": "hear",
+    "category": "VERB",
+    "value": 7
+  },
+  {
+    "word": "ride",
+    "category": "VERB",
+    "value": 5
+  },
+  {
+    "word": "rise",
+    "category": "VERB",
+    "value": 4
+  },
+  {
+    "word": "listen",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "look",
+    "category": "VERB",
+    "value": 3
+  },
+  {
+    "word": "belfry",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "village",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "night",
+    "category": "NOUN",
+    "value": 5
+  },
+  {
+    "word": "town",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "shore",
+    "category": "NOUN",
+    "value": 4
+  },
+  {
+    "word": "paul revere",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "middlesex",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "the old north church",
+    "category": "PROPN",
+    "value": 2
+  },
+  {
+    "word": "british",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "north church",
+    "category": "PROPN",
+    "value": 1
+  },
+  {
+    "word": "beneath",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "far",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "hardly",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "aloft",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "silently",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "british",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "black",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "dead",
+    "category": "ADJ",
+    "value": 3
+  },
+  {
+    "word": "opposite",
+    "category": "ADJ",
+    "value": 2
+  },
+  {
+    "word": "eager",
+    "category": "ADJ",
+    "value": 2
+  }
+]
