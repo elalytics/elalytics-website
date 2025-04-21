@@ -1,21 +1,47 @@
 "use client";
 import { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faInfoCircle } from "@fortawesome/free-solid-svg-icons";
+import { faInfoCircle, faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { Tooltip } from "react-tooltip";
+import Link from "next/link";
 import visualizationListing from "@/app/allVisualizationDetails.json";
 import { cleanUrl } from "@/app/utils/functions/general-functions";
 
 const VisualizationContainerFrame = ({ children }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [path, setPath] = useState("");
+  const [bookName, setBookName] = useState("");
+
   useEffect(() => {
     if (typeof window !== "undefined") {
-      setPath(cleanUrl(window.location));
+      const currentPath = cleanUrl(window.location);
+      setPath(currentPath);
+      
+      // Extract book name from URL path
+      // Assuming the pattern is /books/[book-name]/...
+      const pathParts = currentPath.split('/');
+      if (pathParts.length > 2 && pathParts[1] === "books") {
+        setBookName(pathParts[2]);
+      }
     }
   }, []);
+
+  // Get the current visualization's text name from the visualization listing
+  const currentTextName = visualizationListing[path]?.textName || "";
+
   return (
     <div className="overflow-x-hidden bg-gray-100">
+      {path && (
+        <div className="max-w-3xl mx-auto pt-4 px-4">
+          <Link 
+            href={`/visualizations#filter=${encodeURIComponent(currentTextName)}`}
+            className="flex items-center gap-2 text-cardinal-red hover:underline"
+          >
+            <FontAwesomeIcon icon={faArrowLeft} />
+            <span>Back to {currentTextName} visualizations</span>
+          </Link>
+        </div>
+      )}
       <div className="my-8 text-center max-w-3xl m-auto">
         <span className="px-4 py-1 bg-stone-dark rounded text-white inline-block mb-1 text-sm font-bold">
           {visualizationListing[path]?.textName}
@@ -45,7 +71,6 @@ const VisualizationContainerFrame = ({ children }) => {
           ></div>
         )}
       </div>
-
       {children}
     </div>
   );

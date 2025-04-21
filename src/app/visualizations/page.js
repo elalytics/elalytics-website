@@ -61,15 +61,15 @@ const VizItem = ({ item }) => {
     "Mike": "/imgs/textCovers/Mike.jpg",
     "Narrative of the Life of Frederick Douglass, an American Slave": "/imgs/textCovers/douglass.jpg",
     "Refugee": "/imgs/textCovers/refugee.jpg",
-    "Detroit Industry: The Murals of Diego Rivera": "/imgs/textCovers/frida.png",
-    "Frida Becomes My Wife": "/imgs/textCovers/frida.png",
-    "Letter to Ella and Bertram Wolfe": "/imgs/textCovers/frida.png",
-    "Life With Frida": "/imgs/textCovers/frida.png",
+    "Frida: Detroit Industry: The Murals of Diego Rivera": "/imgs/textCovers/frida.png",
+    "Frida: Frida Becomes My Wife": "/imgs/textCovers/frida.png",
+    "Frida: Letter to Ella and Bertram Wolfe": "/imgs/textCovers/frida.png",
+    "Frida: Life With Frida": "/imgs/textCovers/frida.png",
     "The Great Rat Hunt": "/imgs/textCovers/rat_hunt.png",
-    "Rockefellers Ban Lenin in RCA Mural and Dismiss Rivera": "/imgs/textCovers/frida.png",
+    "Frida: Rockefellers Ban Lenin in RCA Mural and Dismiss Rivera": "/imgs/textCovers/frida.png",
     "Rules of the Game": "/imgs/textCovers/rules.png",
-    "Excerpt from Smithsonian: Frida Kahlo": "/imgs/textCovers/frida.png",
-    "Statement by Frida Kahlo": "/imgs/textCovers/frida.png",
+    "Frida: Excerpt from Smithsonian: Frida Kahlo": "/imgs/textCovers/frida.png",
+    "Frida: Statement by Frida Kahlo": "/imgs/textCovers/frida.png",
     "Eleven": "/imgs/textCovers/eleven.png",
     "The Horse Snake": "/imgs/textCovers/horse_snake.png",
     "Paul Revere's Ride": "/imgs/textCovers/ride.png",
@@ -197,11 +197,64 @@ function FilterComponent({ vizData, onFilter }) {
       uniqueCategories.map((category) => ({ label: category, checked: true }))
     );
 
+    // Get unique text names and sort them alphabetically
     const uniqueTextNames = [...new Set(vizData.map((item) => item.textName))];
+    uniqueTextNames.sort((a, b) => a.localeCompare(b)); // Sort alphabetically
+    
+    // Check if there's a hash fragment for filtering
+    if (typeof window !== "undefined") {
+      const hash = window.location.hash;
+      if (hash.startsWith('#filter=')) {
+        const filterValue = decodeURIComponent(hash.replace('#filter=', ''));
+        
+        // Set all text names to unchecked except the one matching the filter
+        setTextNames(
+          uniqueTextNames.map((textName) => ({ 
+            label: textName, 
+            checked: textName === filterValue 
+          }))
+        );
+        
+        // Remove the hash after applying the filter to prevent reapplying on refresh
+        setTimeout(() => {
+          window.location.hash = '';
+        }, 100);
+        
+        return; // Skip the default initialization
+      }
+    }
+    
+    // Default initialization if no filter hash
     setTextNames(
       uniqueTextNames.map((textName) => ({ label: textName, checked: true }))
     );
   }, [vizData]);
+
+  // Add a listener for hash changes
+  useEffect(() => {
+    const handleHashChange = () => {
+      const hash = window.location.hash;
+      if (hash.startsWith('#filter=')) {
+        const filterValue = decodeURIComponent(hash.replace('#filter=', ''));
+        
+        // Update the text filters based on the hash value
+        setTextNames(prev => 
+          prev.map((textName) => ({ 
+            ...textName, 
+            checked: textName.label === filterValue 
+          }))
+        );
+        
+        // Remove the hash after applying
+        setTimeout(() => {
+          window.location.hash = '';
+        }, 100);
+      }
+    };
+    
+    window.addEventListener('hashchange', handleHashChange);
+    return () => window.removeEventListener('hashchange', handleHashChange);
+  }, []);
 
   const handleFilter = () => {
     const selectedGrades = grades
@@ -217,7 +270,7 @@ function FilterComponent({ vizData, onFilter }) {
     const filteredData = vizData.filter(
       (item) =>
         selectedGrades.includes(item.grade) &&
-        selectedCategories.includes(item.category) &&
+        selectedCategories.includes(item.category || "Misc") &&
         selectedTextNames.includes(item.textName) &&
         (searchTerm
           ? item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -233,6 +286,10 @@ function FilterComponent({ vizData, onFilter }) {
   useEffect(() => {
     handleFilter();
   }, [grades, categories, textNames, searchTerm]);
+
+  const selectAllTextNames = () => {
+    setTextNames(textNames.map((textName) => ({ ...textName, checked: true })));
+  };
 
   const unselectAllTextNames = () => {
     setTextNames(textNames.map((textName) => ({ ...textName, checked: false })));
@@ -289,14 +346,22 @@ function FilterComponent({ vizData, onFilter }) {
           ))}
         </div>
       </div>
-              <button
-          onClick={unselectAllTextNames}
-          className="mt-2 p-2 bg-red-500 text-white rounded hover:bg-red-600"
-        >
-          Unselect All Texts
-        </button>
       <div className="mb-3">
         <h3 className="text-xl font-bold">Text Name</h3>
+        <div className="flex gap-2 mt-2 mb-2">
+          <button
+            onClick={selectAllTextNames}
+            className="p-2 bg-green-500 text-white rounded hover:bg-green-600"
+          >
+            Select All Texts
+          </button>
+          <button
+            onClick={unselectAllTextNames}
+            className="p-2 bg-red-500 text-white rounded hover:bg-red-600"
+          >
+            Unselect All Texts
+          </button>
+        </div>
         <div className="flex flex-col max-h-[300px] overflow-y-scroll p-2 bg-white rounded">
           {textNames.map((textName, index) => (
             <label key={index}>
@@ -315,9 +380,7 @@ function FilterComponent({ vizData, onFilter }) {
             </label>
           ))}
         </div>
-
       </div>
     </div>
   );
 }
-
