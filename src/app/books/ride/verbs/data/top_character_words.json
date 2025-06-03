@@ -1,202 +1,252 @@
 [
   {
     "word": "hear",
-    "value": 7
+    "value": 7,
+    "translation": "oír"
   },
   {
     "word": "ride",
-    "value": 5
+    "value": 5,
+    "translation": "montar"
   },
   {
     "word": "rise",
-    "value": 4
+    "value": 4,
+    "translation": "levantarse"
   },
   {
     "word": "listen",
-    "value": 3
+    "value": 3,
+    "translation": "escuchar"
   },
   {
     "word": "look",
-    "value": 3
+    "value": 3,
+    "translation": "mirar"
   },
   {
     "word": "go",
-    "value": 3
+    "value": 3,
+    "translation": "ir"
   },
   {
     "word": "feel",
-    "value": 3
+    "value": 3,
+    "translation": "sentir"
   },
   {
     "word": "gaze",
-    "value": 3
+    "value": 3,
+    "translation": "contemplar"
   },
   {
     "word": "would",
-    "value": 3
+    "value": 3,
+    "translation": "haría"
   },
   {
     "word": "shall",
-    "value": 2
+    "value": 2,
+    "translation": "deberá"
   },
   {
     "word": "say",
-    "value": 2
+    "value": 2,
+    "translation": "decir"
   },
   {
     "word": "march",
-    "value": 2
+    "value": 2,
+    "translation": "marchar"
   },
   {
     "word": "will",
-    "value": 2
+    "value": 2,
+    "translation": "hará"
   },
   {
     "word": "pause",
-    "value": 2
+    "value": 2,
+    "translation": "pausar"
   },
   {
     "word": "lie",
-    "value": 2
+    "value": 2,
+    "translation": "yacer"
   },
   {
     "word": "meet",
-    "value": 2
+    "value": 2,
+    "translation": "encontrar"
   },
   {
     "word": "mount",
-    "value": 2
+    "value": 2,
+    "translation": "montar"
   },
   {
     "word": "turn",
-    "value": 2
+    "value": 2,
+    "translation": "girar"
   },
   {
     "word": "pass",
-    "value": 2
+    "value": 2,
+    "translation": "pasar"
   },
   {
     "word": "strike",
-    "value": 2
+    "value": 2,
+    "translation": "golpear"
   },
   {
     "word": "have",
-    "value": 2
+    "value": 2,
+    "translation": "tener"
   },
   {
     "word": "cross",
-    "value": 2
+    "value": 2,
+    "translation": "cruzar"
   },
   {
     "word": "fire",
-    "value": 2
+    "value": 2,
+    "translation": "disparar"
   },
   {
     "word": "remember",
-    "value": 1
+    "value": 1,
+    "translation": "recordar"
   },
   {
     "word": "hang",
-    "value": 1
+    "value": 1,
+    "translation": "colgar"
   },
   {
     "word": "spread",
-    "value": 1
+    "value": 1,
+    "translation": "extender"
   },
   {
     "word": "arm",
-    "value": 1
+    "value": 1,
+    "translation": "armar"
   },
   {
     "word": "row",
-    "value": 1
+    "value": 1,
+    "translation": "remar"
   },
   {
     "word": "swinge",
-    "value": 1
+    "value": 1,
+    "translation": "azotar"
   },
   {
     "word": "lay",
-    "value": 1
+    "value": 1,
+    "translation": "poner"
   },
   {
     "word": "magnify",
-    "value": 1
+    "value": 1,
+    "translation": "magnificar"
   },
   {
     "word": "climb",
-    "value": 1
+    "value": 1,
+    "translation": "subir"
   },
   {
     "word": "startle",
-    "value": 1
+    "value": 1,
+    "translation": "sobresaltar"
   },
   {
     "word": "make",
-    "value": 1
+    "value": 1,
+    "translation": "hacer"
   },
   {
     "word": "move",
-    "value": 1
+    "value": 1,
+    "translation": "mover"
   },
   {
     "word": "tremble",
-    "value": 1
+    "value": 1,
+    "translation": "temblar"
   },
   {
     "word": "flow",
-    "value": 1
+    "value": 1,
+    "translation": "fluir"
   },
   {
     "word": "wrap",
-    "value": 1
+    "value": 1,
+    "translation": "envolver"
   },
   {
     "word": "could",
-    "value": 1
+    "value": 1,
+    "translation": "podría"
   },
   {
     "word": "creep",
-    "value": 1
+    "value": 1,
+    "translation": "arrastrarse"
   },
   {
     "word": "seem",
-    "value": 1
+    "value": 1,
+    "translation": "parecer"
   },
   {
     "word": "whisper",
-    "value": 1
+    "value": 1,
+    "translation": "susurrar"
   },
   {
     "word": "widen",
-    "value": 1
+    "value": 1,
+    "translation": "ensanchar"
   },
   {
     "word": "bend",
-    "value": 1
+    "value": 1,
+    "translation": "doblar"
   },
   {
     "word": "float",
-    "value": 1
+    "value": 1,
+    "translation": "flotar"
   },
   {
     "word": "boot",
-    "value": 1
+    "value": 1,
+    "translation": "patear"
   },
   {
     "word": "spur",
-    "value": 1
+    "value": 1,
+    "translation": "espolear"
   },
   {
     "word": "walk",
-    "value": 1
+    "value": 1,
+    "translation": "caminar"
   },
   {
     "word": "pat",
-    "value": 1
+    "value": 1,
+    "translation": "acariciar"
   },
   {
     "word": "stamp",
-    "value": 1
+    "value": 1,
+    "translation": "estampar"
   }
 ]

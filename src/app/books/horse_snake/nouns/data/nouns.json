@@ -1,202 +1,252 @@
 [
   {
     "word": "snake",
-    "value": 48
+    "value": 48,
+    "translation": "serpiente"
   },
   {
     "word": "man",
-    "value": 17
+    "value": 17,
+    "translation": "hombre"
   },
   {
     "word": "horse",
-    "value": 15
+    "value": 15,
+    "translation": "caballo"
   },
   {
     "word": "son",
-    "value": 12
+    "value": 12,
+    "translation": "hijo"
   },
   {
     "word": "time",
-    "value": 9
+    "value": 9,
+    "translation": "tiempo"
   },
   {
     "word": "father",
-    "value": 9
+    "value": 9,
+    "translation": "padre"
   },
   {
     "word": "pond",
-    "value": 9
+    "value": 9,
+    "translation": "estanque"
   },
   {
     "word": "field",
-    "value": 8
+    "value": 8,
+    "translation": "campo"
   },
   {
     "word": "jungle",
-    "value": 6
+    "value": 6,
+    "translation": "selva"
   },
   {
     "word": "rice",
-    "value": 6
+    "value": 6,
+    "translation": "arroz"
   },
   {
     "word": "hamlet",
-    "value": 6
+    "value": 6,
+    "translation": "aldea"
   },
   {
     "word": "cousin",
-    "value": 5
+    "value": 5,
+    "translation": "primo"
   },
   {
     "word": "knife",
-    "value": 5
+    "value": 5,
+    "translation": "cuchillo"
   },
   {
     "word": "grandmother",
-    "value": 5
+    "value": 5,
+    "translation": "abuela"
   },
   {
     "word": "head",
-    "value": 5
+    "value": 5,
+    "translation": "cabeza"
   },
   {
     "word": "tail",
-    "value": 5
+    "value": 5,
+    "translation": "cola"
   },
   {
     "word": "fish",
-    "value": 5
+    "value": 5,
+    "translation": "pez"
   },
   {
     "word": "area",
-    "value": 4
+    "value": 4,
+    "translation": "área"
   },
   {
     "word": "people",
-    "value": 4
+    "value": 4,
+    "translation": "gente"
   },
   {
     "word": "village",
-    "value": 4
+    "value": 4,
+    "translation": "pueblo"
   },
   {
     "word": "woodcutter",
-    "value": 4
+    "value": 4,
+    "translation": "leñador"
   },
   {
     "word": "load",
-    "value": 4
+    "value": 4,
+    "translation": "carga"
   },
   {
     "word": "wood",
-    "value": 4
+    "value": 4,
+    "translation": "madera"
   },
   {
     "word": "chief",
-    "value": 4
+    "value": 4,
+    "translation": "jefe"
   },
   {
     "word": "friend",
-    "value": 3
+    "value": 3,
+    "translation": "amigo"
   },
   {
     "word": "front",
-    "value": 3
+    "value": 3,
+    "translation": "frente"
   },
   {
     "word": "house",
-    "value": 3
+    "value": 3,
+    "translation": "casa"
   },
   {
     "word": "way",
-    "value": 3
+    "value": 3,
+    "translation": "camino"
   },
   {
     "word": "sound",
-    "value": 3
+    "value": 3,
+    "translation": "sonido"
   },
   {
     "word": "bite",
-    "value": 3
+    "value": 3,
+    "translation": "mordida"
   },
   {
     "word": "bed",
-    "value": 3
+    "value": 3,
+    "translation": "cama"
   },
   {
     "word": "mother",
-    "value": 3
+    "value": 3,
+    "translation": "madre"
   },
   {
     "word": "story",
-    "value": 3
+    "value": 3,
+    "translation": "historia"
   },
   {
     "word": "farmer",
-    "value": 3
+    "value": 3,
+    "translation": "granjero"
   },
   {
     "word": "help",
-    "value": 3
+    "value": 3,
+    "translation": "ayuda"
   },
   {
     "word": "direction",
-    "value": 3
+    "value": 3,
+    "translation": "dirección"
   },
   {
     "word": "side",
-    "value": 3
+    "value": 3,
+    "translation": "lado"
   },
   {
     "word": "river",
-    "value": 3
+    "value": 3,
+    "translation": "río"
   },
   {
     "word": "creature",
-    "value": 2
+    "value": 2,
+    "translation": "criatura"
   },
   {
     "word": "bamboo",
-    "value": 2
+    "value": 2,
+    "translation": "bambú"
   },
   {
     "word": "tree",
-    "value": 2
+    "value": 2,
+    "translation": "árbol"
   },
   {
     "word": "family",
-    "value": 2
+    "value": 2,
+    "translation": "familia"
   },
   {
     "word": "cattle",
-    "value": 2
+    "value": 2,
+    "translation": "ganado"
   },
   {
     "word": "neighbor",
-    "value": 2
+    "value": 2,
+    "translation": "vecino"
   },
   {
     "word": "horn",
-    "value": 2
+    "value": 2,
+    "translation": "cuerno"
   },
   {
     "word": "end",
-    "value": 2
+    "value": 2,
+    "translation": "fin"
   },
   {
     "word": "that night",
-    "value": 2
+    "value": 2,
+    "translation": "esa noche"
   },
   {
     "word": "hunting",
-    "value": 2
+    "value": 2,
+    "translation": "caza"
   },
   {
     "word": "night",
-    "value": 2
+    "value": 2,
+    "translation": "noche"
   },
   {
     "word": "group",
-    "value": 2
+    "value": 2,
+    "translation": "grupo"
   }
 ]

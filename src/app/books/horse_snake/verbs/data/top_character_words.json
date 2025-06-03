@@ -1,202 +1,252 @@
 [
   {
     "word": "have",
-    "value": 23
+    "value": 23,
+    "translation": "tener"
   },
   {
     "word": "could",
-    "value": 8
+    "value": 8,
+    "translation": "podría"
   },
   {
     "word": "would",
-    "value": 8
+    "value": 8,
+    "translation": "haría"
   },
   {
     "word": "attack",
-    "value": 6
+    "value": 6,
+    "translation": "atacar"
   },
   {
     "word": "hear",
-    "value": 6
+    "value": 6,
+    "translation": "oír"
   },
   {
     "word": "become",
-    "value": 6
+    "value": 6,
+    "translation": "convertirse"
   },
   {
     "word": "go",
-    "value": 6
+    "value": 6,
+    "translation": "ir"
   },
   {
     "word": "fight",
-    "value": 5
+    "value": 5,
+    "translation": "luchar"
   },
   {
     "word": "see",
-    "value": 5
+    "value": 5,
+    "translation": "ver"
   },
   {
     "word": "strike",
-    "value": 5
+    "value": 5,
+    "translation": "golpear"
   },
   {
     "word": "rush",
-    "value": 5
+    "value": 5,
+    "translation": "apresurarse"
   },
   {
     "word": "tell",
-    "value": 4
+    "value": 4,
+    "translation": "decir"
   },
   {
     "word": "stay",
-    "value": 4
+    "value": 4,
+    "translation": "quedarse"
   },
   {
     "word": "try",
-    "value": 3
+    "value": 3,
+    "translation": "intentar"
   },
   {
     "word": "call",
-    "value": 3
+    "value": 3,
+    "translation": "llamar"
   },
   {
     "word": "search",
-    "value": 3
+    "value": 3,
+    "translation": "buscar"
   },
   {
     "word": "look",
-    "value": 3
+    "value": 3,
+    "translation": "mirar"
   },
   {
     "word": "grab",
-    "value": 3
+    "value": 3,
+    "translation": "agarrar"
   },
   {
     "word": "break",
-    "value": 3
+    "value": 3,
+    "translation": "romper"
   },
   {
     "word": "give",
-    "value": 3
+    "value": 3,
+    "translation": "dar"
   },
   {
     "word": "come",
-    "value": 3
+    "value": 3,
+    "translation": "venir"
   },
   {
     "word": "run",
-    "value": 3
+    "value": 3,
+    "translation": "correr"
   },
   {
     "word": "avoid",
-    "value": 2
+    "value": 2,
+    "translation": "evitar"
   },
   {
     "word": "grow",
-    "value": 2
+    "value": 2,
+    "translation": "crecer"
   },
   {
     "word": "move",
-    "value": 2
+    "value": 2,
+    "translation": "mover"
   },
   {
     "word": "listen",
-    "value": 2
+    "value": 2,
+    "translation": "escuchar"
   },
   {
     "word": "squeeze",
-    "value": 2
+    "value": 2,
+    "translation": "apretar"
   },
   {
     "word": "agree",
-    "value": 2
+    "value": 2,
+    "translation": "estar de acuerdo"
   },
   {
     "word": "reach",
-    "value": 2
+    "value": 2,
+    "translation": "alcanzar"
   },
   {
     "word": "return",
-    "value": 2
+    "value": 2,
+    "translation": "regresar"
   },
   {
     "word": "wake",
-    "value": 2
+    "value": 2,
+    "translation": "despertar"
   },
   {
     "word": "carry",
-    "value": 2
+    "value": 2,
+    "translation": "llevar"
   },
   {
     "word": "throw",
-    "value": 2
+    "value": 2,
+    "translation": "lanzar"
   },
   {
     "word": "draw",
-    "value": 2
+    "value": 2,
+    "translation": "dibujar"
   },
   {
     "word": "decide",
-    "value": 2
+    "value": 2,
+    "translation": "decidir"
   },
   {
     "word": "help",
-    "value": 2
+    "value": 2,
+    "translation": "ayudar"
   },
   {
     "word": "catch",
-    "value": 2
+    "value": 2,
+    "translation": "atrapar"
   },
   {
     "word": "approach",
-    "value": 2
+    "value": 2,
+    "translation": "acercarse"
   },
   {
     "word": "yell",
-    "value": 2
+    "value": 2,
+    "translation": "gritar"
   },
   {
     "word": "order",
-    "value": 2
+    "value": 2,
+    "translation": "ordenar"
   },
   {
     "word": "surround",
-    "value": 2
+    "value": 2,
+    "translation": "rodear"
   },
   {
     "word": "creep",
-    "value": 2
+    "value": 2,
+    "translation": "arrastrarse"
   },
   {
     "word": "receive",
-    "value": 2
+    "value": 2,
+    "translation": "recibir"
   },
   {
     "word": "escape",
-    "value": 1
+    "value": 1,
+    "translation": "escapar"
   },
   {
     "word": "bang",
-    "value": 1
+    "value": 1,
+    "translation": "golpear"
   },
   {
     "word": "ask",
-    "value": 1
+    "value": 1,
+    "translation": "preguntar"
   },
   {
     "word": "let",
-    "value": 1
+    "value": 1,
+    "translation": "dejar"
   },
   {
     "word": "cross",
-    "value": 1
+    "value": 1,
+    "translation": "cruzar"
   },
   {
     "word": "raise",
-    "value": 1
+    "value": 1,
+    "translation": "levantar"
   },
   {
     "word": "rouse",
-    "value": 1
+    "value": 1,
+    "translation": "despertar"
   }
 ]

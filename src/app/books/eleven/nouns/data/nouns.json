@@ -1,202 +1,252 @@
 [
   {
     "word": "sweater",
-    "value": 15
+    "value": 15,
+    "translation": "suéter"
   },
   {
     "word": "birthday",
-    "value": 7
+    "value": 7,
+    "translation": "cumpleaños"
   },
   {
     "word": "today",
-    "value": 7
+    "value": 7,
+    "translation": "hoy"
   },
   {
     "word": "eye",
-    "value": 6
+    "value": 6,
+    "translation": "ojo"
   },
   {
     "word": "desk",
-    "value": 6
+    "value": 6,
+    "translation": "escritorio"
   },
   {
     "word": "part",
-    "value": 4
+    "value": 4,
+    "translation": "parte"
   },
   {
     "word": "arm",
-    "value": 4
+    "value": 4,
+    "translation": "brazo"
   },
   {
     "word": "face",
-    "value": 3
+    "value": 3,
+    "translation": "cara"
   },
   {
     "word": "mouth",
-    "value": 3
+    "value": 3,
+    "translation": "boca"
   },
   {
     "word": "head",
-    "value": 3
+    "value": 3,
+    "translation": "cabeza"
   },
   {
     "word": "front",
-    "value": 3
+    "value": 3,
+    "translation": "frente"
   },
   {
     "word": "some day",
-    "value": 2
+    "value": 2,
+    "translation": "algún día"
   },
   {
     "word": "way",
-    "value": 2
+    "value": 2,
+    "translation": "camino"
   },
   {
     "word": "sleeve",
-    "value": 2
+    "value": 2,
+    "translation": "manga"
   },
   {
     "word": "math",
-    "value": 2
+    "value": 2,
+    "translation": "matemáticas"
   },
   {
     "word": "cake",
-    "value": 2
+    "value": 2,
+    "translation": "pastel"
   },
   {
     "word": "tonight",
-    "value": 2
+    "value": 2,
+    "translation": "esta noche"
   },
   {
     "word": "corner",
-    "value": 2
+    "value": 2,
+    "translation": "esquina"
   },
   {
     "word": "yesterday",
-    "value": 1
+    "value": 1,
+    "translation": "ayer"
   },
   {
     "word": "the year",
-    "value": 1
+    "value": 1,
+    "translation": "el año"
   },
   {
     "word": "mama",
-    "value": 1
+    "value": 1,
+    "translation": "mamá"
   },
   {
     "word": "lap",
-    "value": 1
+    "value": 1,
+    "translation": "regazo"
   },
   {
     "word": "day",
-    "value": 1
+    "value": 1,
+    "translation": "día"
   },
   {
     "word": "onion",
-    "value": 1
+    "value": 1,
+    "translation": "cebolla"
   },
   {
     "word": "ring",
-    "value": 1
+    "value": 1,
+    "translation": "anillo"
   },
   {
     "word": "tree",
-    "value": 1
+    "value": 1,
+    "translation": "árbol"
   },
   {
     "word": "trunk",
-    "value": 1
+    "value": 1,
+    "translation": "tronco"
   },
   {
     "word": "doll",
-    "value": 1
+    "value": 1,
+    "translation": "muñeca"
   },
   {
     "word": "each year",
-    "value": 1
+    "value": 1,
+    "translation": "cada año"
   },
   {
     "word": "a few day",
-    "value": 1
+    "value": 1,
+    "translation": "unos días"
   },
   {
     "word": "week",
-    "value": 1
+    "value": 1,
+    "translation": "semana"
   },
   {
     "word": "month",
-    "value": 1
+    "value": 1,
+    "translation": "mes"
   },
   {
     "word": "only today",
-    "value": 1
+    "value": 1,
+    "translation": "solo hoy"
   },
   {
     "word": "only eleven year",
-    "value": 1
+    "value": 1,
+    "translation": "solo once años"
   },
   {
     "word": "penny",
-    "value": 1
+    "value": 1,
+    "translation": "centavo"
   },
   {
     "word": "tin",
-    "value": 1
+    "value": 1,
+    "translation": "lata"
   },
   {
     "word": "box",
-    "value": 1
+    "value": 1,
+    "translation": "caja"
   },
   {
     "word": "mine",
-    "value": 1
+    "value": 1,
+    "translation": "mío"
   },
   {
     "word": "look",
-    "value": 1
+    "value": 1,
+    "translation": "mirar"
   },
   {
     "word": "air",
-    "value": 1
+    "value": 1,
+    "translation": "aire"
   },
   {
     "word": "class",
-    "value": 1
+    "value": 1,
+    "translation": "clase"
   },
   {
     "word": "coatroom",
-    "value": 1
+    "value": 1,
+    "translation": "guardarropa"
   },
   {
     "word": "a month",
-    "value": 1
+    "value": 1,
+    "translation": "un mes"
   },
   {
     "word": "plastic",
-    "value": 1
+    "value": 1,
+    "translation": "plástico"
   },
   {
     "word": "button",
-    "value": 1
+    "value": 1,
+    "translation": "botón"
   },
   {
     "word": "collar",
-    "value": 1
+    "value": 1,
+    "translation": "cuello"
   },
   {
     "word": "jump",
-    "value": 1
+    "value": 1,
+    "translation": "saltar"
   },
   {
     "word": "rope",
-    "value": 1
+    "value": 1,
+    "translation": "cuerda"
   },
   {
     "word": "voice",
-    "value": 1
+    "value": 1,
+    "translation": "voz"
   },
   {
     "word": "teacher",
-    "value": 1
+    "value": 1,
+    "translation": "maestro"
   }
 ]

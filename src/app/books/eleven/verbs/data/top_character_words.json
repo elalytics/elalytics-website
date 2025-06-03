@@ -1,202 +1,252 @@
 [
   {
     "word": "\u2019",
-    "value": 26
+    "value": 26,
+    "translation": "\u2019"
   },
   {
     "word": "say",
-    "value": 15
+    "value": 15,
+    "translation": "decir"
   },
   {
     "word": "\u2019m",
-    "value": 12
+    "value": 12,
+    "translation": "soy/estoy"
   },
   {
     "word": "do",
-    "value": 11
+    "value": 11,
+    "translation": "hacer"
   },
   {
     "word": "\u2019re",
-    "value": 8
+    "value": 8,
+    "translation": "eres/estás"
   },
   {
     "word": "feel",
-    "value": 7
+    "value": 7,
+    "translation": "sentir"
   },
   {
     "word": "come",
-    "value": 7
+    "value": 7,
+    "translation": "venir"
   },
   {
     "word": "\u2019s",
-    "value": 6
+    "value": 6,
+    "translation": "es/está"
   },
   {
     "word": "wish",
-    "value": 6
+    "value": 6,
+    "translation": "desear"
   },
   {
     "word": "put",
-    "value": 6
+    "value": 6,
+    "translation": "poner"
   },
   {
     "word": "have",
-    "value": 5
+    "value": 5,
+    "translation": "tener"
   },
   {
     "word": "sit",
-    "value": 4
+    "value": 4,
+    "translation": "sentarse"
   },
   {
     "word": "cry",
-    "value": 4
+    "value": 4,
+    "translation": "llorar"
   },
   {
     "word": "take",
-    "value": 4
+    "value": 4,
+    "translation": "tomar"
   },
   {
     "word": "remember",
-    "value": 4
+    "value": 4,
+    "translation": "recordar"
   },
   {
     "word": "tell",
-    "value": 3
+    "value": 3,
+    "translation": "decir"
   },
   {
     "word": "open",
-    "value": 3
+    "value": 3,
+    "translation": "abrir"
   },
   {
     "word": "make",
-    "value": 3
+    "value": 3,
+    "translation": "hacer"
   },
   {
     "word": "need",
-    "value": 3
+    "value": 3,
+    "translation": "necesitar"
   },
   {
     "word": "will",
-    "value": 3
+    "value": 3,
+    "translation": "voluntad"
   },
   {
     "word": "know",
-    "value": 3
+    "value": 3,
+    "translation": "saber"
   },
   {
     "word": "\u2019ve",
-    "value": 3
+    "value": 3,
+    "translation": "he/has"
   },
   {
     "word": "see",
-    "value": 3
+    "value": 3,
+    "translation": "ver"
   },
   {
     "word": "belong",
-    "value": 3
+    "value": 3,
+    "translation": "pertenecer"
   },
   {
     "word": "can",
-    "value": 3
+    "value": 3,
+    "translation": "poder"
   },
   {
     "word": "move",
-    "value": 3
+    "value": 3,
+    "translation": "mover"
   },
   {
     "word": "might",
-    "value": 2
+    "value": 2,
+    "translation": "poder"
   },
   {
     "word": "grow",
-    "value": 2
+    "value": 2,
+    "translation": "crecer"
   },
   {
     "word": "would",
-    "value": 2
+    "value": 2,
+    "translation": "haría"
   },
   {
     "word": "hold",
-    "value": 2
+    "value": 2,
+    "translation": "sostener"
   },
   {
     "word": "think",
-    "value": 2
+    "value": 2,
+    "translation": "pensar"
   },
   {
     "word": "want",
-    "value": 2
+    "value": 2,
+    "translation": "querer"
   },
   {
     "word": "sing",
-    "value": 2
+    "value": 2,
+    "translation": "cantar"
   },
   {
     "word": "go",
-    "value": 2
+    "value": 2,
+    "translation": "ir"
   },
   {
     "word": "leave",
-    "value": 2
+    "value": 2,
+    "translation": "salir"
   },
   {
     "word": "hang",
-    "value": 2
+    "value": 2,
+    "translation": "colgar"
   },
   {
     "word": "hurt",
-    "value": 2
+    "value": 2,
+    "translation": "doler"
   },
   {
     "word": "\u2019ll",
-    "value": 2
+    "value": 2,
+    "translation": "haré/harás"
   },
   {
     "word": "understand",
-    "value": 1
+    "value": 1,
+    "translation": "entender"
   },
   {
     "word": "wake",
-    "value": 1
+    "value": 1,
+    "translation": "despertar"
   },
   {
     "word": "expect",
-    "value": 1
+    "value": 1,
+    "translation": "esperar"
   },
   {
     "word": "fit",
-    "value": 1
+    "value": 1,
+    "translation": "caber"
   },
   {
     "word": "ask",
-    "value": 1
+    "value": 1,
+    "translation": "preguntar"
   },
   {
     "word": "rattle",
-    "value": 1
+    "value": 1,
+    "translation": "cascabelear"
   },
   {
     "word": "\u2019d",
-    "value": 1
+    "value": 1,
+    "translation": "había/haría"
   },
   {
     "word": "keeps",
-    "value": 1
+    "value": 1,
+    "translation": "mantiene"
   },
   {
     "word": "stretch",
-    "value": 1
+    "value": 1,
+    "translation": "estirar"
   },
   {
     "word": "could",
-    "value": 1
+    "value": 1,
+    "translation": "podría"
   },
   {
     "word": "use",
-    "value": 1
+    "value": 1,
+    "translation": "usar"
   },
   {
     "word": "like",
-    "value": 1
+    "value": 1,
+    "translation": "gustar"
   }
 ]

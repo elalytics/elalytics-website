@@ -1,202 +1,252 @@
 [
   {
     "word": "belfry",
-    "value": 6
+    "value": 6,
+    "translation": "campanario"
   },
   {
     "word": "village",
-    "value": 6
+    "value": 6,
+    "translation": "pueblo"
   },
   {
     "word": "night",
-    "value": 5
+    "value": 5,
+    "translation": "noche"
   },
   {
     "word": "town",
-    "value": 4
+    "value": 4,
+    "translation": "ciudad"
   },
   {
     "word": "shore",
-    "value": 4
+    "value": 4,
+    "translation": "orilla"
   },
   {
     "word": "bridge",
-    "value": 4
+    "value": 4,
+    "translation": "puente"
   },
   {
     "word": "steed",
-    "value": 4
+    "value": 4,
+    "translation": "corcel"
   },
   {
     "word": "man",
-    "value": 3
+    "value": 3,
+    "translation": "hombre"
   },
   {
     "word": "land",
-    "value": 3
+    "value": 3,
+    "translation": "tierra"
   },
   {
     "word": "tower",
-    "value": 3
+    "value": 3,
+    "translation": "torre"
   },
   {
     "word": "light",
-    "value": 3
+    "value": 3,
+    "translation": "luz"
   },
   {
     "word": "tide",
-    "value": 3
+    "value": 3,
+    "translation": "marea"
   },
   {
     "word": "tread",
-    "value": 3
+    "value": 3,
+    "translation": "pisar"
   },
   {
     "word": "moonlight",
-    "value": 3
+    "value": 3,
+    "translation": "luz de luna"
   },
   {
     "word": "clock",
-    "value": 3
+    "value": 3,
+    "translation": "reloj"
   },
   {
     "word": "ball",
-    "value": 3
+    "value": 3,
+    "translation": "pelota"
   },
   {
     "word": "midnight",
-    "value": 2
+    "value": 2,
+    "translation": "medianoche"
   },
   {
     "word": "friend",
-    "value": 2
+    "value": 2,
+    "translation": "amigo"
   },
   {
     "word": "sea",
-    "value": 2
+    "value": 2,
+    "translation": "mar"
   },
   {
     "word": "alarm",
-    "value": 2
+    "value": 2,
+    "translation": "alarma"
   },
   {
     "word": "farm",
-    "value": 2
+    "value": 2,
+    "translation": "granja"
   },
   {
     "word": "moon",
-    "value": 2
+    "value": 2,
+    "translation": "luna"
   },
   {
     "word": "bay",
-    "value": 2
+    "value": 2,
+    "translation": "bahía"
   },
   {
     "word": "street",
-    "value": 2
+    "value": 2,
+    "translation": "calle"
   },
   {
     "word": "silence",
-    "value": 2
+    "value": 2,
+    "translation": "silencio"
   },
   {
     "word": "door",
-    "value": 2
+    "value": 2,
+    "translation": "puerta"
   },
   {
     "word": "tramp",
-    "value": 2
+    "value": 2,
+    "translation": "vagabundo"
   },
   {
     "word": "boat",
-    "value": 2
+    "value": 2,
+    "translation": "barco"
   },
   {
     "word": "shape",
-    "value": 2
+    "value": 2,
+    "translation": "forma"
   },
   {
     "word": "window",
-    "value": 2
+    "value": 2,
+    "translation": "ventana"
   },
   {
     "word": "wall",
-    "value": 2
+    "value": 2,
+    "translation": "pared"
   },
   {
     "word": "moment",
-    "value": 2
+    "value": 2,
+    "translation": "momento"
   },
   {
     "word": "hill",
-    "value": 2
+    "value": 2,
+    "translation": "colina"
   },
   {
     "word": "wind",
-    "value": 2
+    "value": 2,
+    "translation": "viento"
   },
   {
     "word": "tent",
-    "value": 2
+    "value": 2,
+    "translation": "tienda"
   },
   {
     "word": "river",
-    "value": 2
+    "value": 2,
+    "translation": "río"
   },
   {
     "word": "saddle",
-    "value": 2
+    "value": 2,
+    "translation": "silla de montar"
   },
   {
     "word": "hoof",
-    "value": 2
+    "value": 2,
+    "translation": "casco"
   },
   {
     "word": "spark",
-    "value": 2
+    "value": 2,
+    "translation": "chispa"
   },
   {
     "word": "farmer",
-    "value": 2
+    "value": 2,
+    "translation": "granjero"
   },
   {
     "word": "tree",
-    "value": 2
+    "value": 2,
+    "translation": "árbol"
   },
   {
     "word": "the night",
-    "value": 2
+    "value": 2,
+    "translation": "la noche"
   },
   {
     "word": "cry",
-    "value": 2
+    "value": 2,
+    "translation": "grito"
   },
   {
     "word": "darkness",
-    "value": 2
+    "value": 2,
+    "translation": "oscuridad"
   },
   {
     "word": "child",
-    "value": 1
+    "value": 1,
+    "translation": "niño"
   },
   {
     "word": "ride",
-    "value": 1
+    "value": 1,
+    "translation": "montar"
   },
   {
     "word": "day",
-    "value": 1
+    "value": 1,
+    "translation": "día"
   },
   {
     "word": "year",
-    "value": 1
+    "value": 1,
+    "translation": "año"
   },
   {
     "word": "lantern",
-    "value": 1
+    "value": 1,
+    "translation": "linterna"
   },
   {
     "word": "arch",
-    "value": 1
+    "value": 1,
+    "translation": "arco"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "man",
-    "value": 30
+    "value": 30,
+    "translation": "hombre"
   },
   {
     "word": "treasure",
-    "value": 17
+    "value": 17,
+    "translation": "tesoro"
   },
   {
     "word": "room",
-    "value": 13
+    "value": 13,
+    "translation": "habitación"
   },
   {
     "word": "rag",
-    "value": 13
+    "value": 13,
+    "translation": "trapo"
   },
   {
     "word": "window",
-    "value": 12
+    "value": 12,
+    "translation": "ventana"
   },
   {
     "word": "father",
-    "value": 11
+    "value": 11,
+    "translation": "padre"
   },
   {
     "word": "stair",
-    "value": 11
+    "value": 11,
+    "translation": "escalera"
   },
   {
     "word": "voice",
-    "value": 10
+    "value": 10,
+    "translation": "voz"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "light",
-    "value": 8
+    "value": 8,
+    "translation": "luz"
   },
   {
     "word": "time",
-    "value": 7
+    "value": 7,
+    "translation": "tiempo"
   },
   {
     "word": "rain",
-    "value": 6
+    "value": 6,
+    "translation": "lluvia"
   },
   {
     "word": "noise",
-    "value": 6
+    "value": 6,
+    "translation": "ruido"
   },
   {
     "word": "street",
-    "value": 5
+    "value": 5,
+    "translation": "calle"
   },
   {
     "word": "door",
-    "value": 5
+    "value": 5,
+    "translation": "puerta"
   },
   {
     "word": "floor",
-    "value": 5
+    "value": 5,
+    "translation": "piso"
   },
   {
     "word": "side",
-    "value": 5
+    "value": 5,
+    "translation": "lado"
   },
   {
     "word": "wall",
-    "value": 5
+    "value": 5,
+    "translation": "pared"
   },
   {
     "word": "corner",
-    "value": 5
+    "value": 5,
+    "translation": "esquina"
   },
   {
     "word": "while",
-    "value": 5
+    "value": 5,
+    "translation": "mientras"
   },
   {
     "word": "sound",
-    "value": 5
+    "value": 5,
+    "translation": "sonido"
   },
   {
     "word": "breath",
-    "value": 5
+    "value": 5,
+    "translation": "respiración"
   },
   {
     "word": "leg",
-    "value": 5
+    "value": 5,
+    "translation": "pierna"
   },
   {
     "word": "head",
-    "value": 5
+    "value": 5,
+    "translation": "cabeza"
   },
   {
     "word": "pipe",
-    "value": 5
+    "value": 5,
+    "translation": "tubo"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "flashlight",
-    "value": 5
+    "value": 5,
+    "translation": "linterna"
   },
   {
     "word": "clipping",
-    "value": 5
+    "value": 5,
+    "translation": "recorte"
   },
   {
     "word": "darkness",
-    "value": 4
+    "value": 4,
+    "translation": "oscuridad"
   },
   {
     "word": "step",
-    "value": 4
+    "value": 4,
+    "translation": "paso"
   },
   {
     "word": "boy",
-    "value": 4
+    "value": 4,
+    "translation": "niño"
   },
   {
     "word": "top",
-    "value": 4
+    "value": 4,
+    "translation": "parte superior"
   },
   {
     "word": "money",
-    "value": 4
+    "value": 4,
+    "translation": "dinero"
   },
   {
     "word": "building",
-    "value": 3
+    "value": 3,
+    "translation": "edificio"
   },
   {
     "word": "letter",
-    "value": 3
+    "value": 3,
+    "translation": "carta"
   },
   {
     "word": "math",
-    "value": 3
+    "value": 3,
+    "translation": "matemáticas"
   },
   {
     "word": "lecture",
-    "value": 3
+    "value": 3,
+    "translation": "conferencia"
   },
   {
     "word": "a week",
-    "value": 3
+    "value": 3,
+    "translation": "una semana"
   },
   {
     "word": "flash",
-    "value": 3
+    "value": 3,
+    "translation": "destello"
   },
   {
     "word": "lightning",
-    "value": 3
+    "value": 3,
+    "translation": "relámpago"
   },
   {
     "word": "couch",
-    "value": 3
+    "value": 3,
+    "translation": "sofá"
   },
   {
     "word": "sign",
-    "value": 3
+    "value": 3,
+    "translation": "señal"
   },
   {
     "word": "razor",
-    "value": 3
+    "value": 3,
+    "translation": "navaja"
   },
   {
     "word": "knee",
-    "value": 3
+    "value": 3,
+    "translation": "rodilla"
   },
   {
     "word": "figure",
-    "value": 3
+    "value": 3,
+    "translation": "figura"
   },
   {
     "word": "answer",
-    "value": 3
+    "value": 3,
+    "translation": "respuesta"
   },
   {
     "word": "string",
-    "value": 3
+    "value": 3,
+    "translation": "cuerda"
   },
   {
     "word": "back",
-    "value": 3
+    "value": 3,
+    "translation": "espalda"
   },
   {
     "word": "home",
-    "value": 3
+    "value": 3,
+    "translation": "hogar"
   },
   {
     "word": "none",
-    "value": 3
+    "value": 3,
+    "translation": "ninguno"
   }
 ]
