@@ -1,202 +1,252 @@
 [
   {
     "word": "have",
-    "value": 9
+    "value": 9,
+    "translation": "tener"
   },
   {
     "word": "know",
-    "value": 6
+    "value": 6,
+    "translation": "saber"
   },
   {
     "word": "would",
-    "value": 6
+    "value": 6,
+    "translation": "haría"
   },
   {
     "word": "become",
-    "value": 5
+    "value": 5,
+    "translation": "convertirse"
   },
   {
     "word": "recall",
-    "value": 4
+    "value": 4,
+    "translation": "recordar"
   },
   {
     "word": "give",
-    "value": 4
+    "value": 4,
+    "translation": "dar"
   },
   {
     "word": "paint",
-    "value": 3
+    "value": 3,
+    "translation": "pintar"
   },
   {
     "word": "do",
-    "value": 3
+    "value": 3,
+    "translation": "hacer"
   },
   {
     "word": "think",
-    "value": 2
+    "value": 2,
+    "translation": "pensar"
   },
   {
     "word": "die",
-    "value": 2
+    "value": 2,
+    "translation": "morir"
   },
   {
     "word": "include",
-    "value": 2
+    "value": 2,
+    "translation": "incluir"
   },
   {
     "word": "portray",
-    "value": 2
+    "value": 2,
+    "translation": "retratar"
   },
   {
     "word": "read",
-    "value": 2
+    "value": 2,
+    "translation": "leer"
   },
   {
     "word": "write",
-    "value": 2
+    "value": 2,
+    "translation": "escribir"
   },
   {
     "word": "play",
-    "value": 2
+    "value": 2,
+    "translation": "jugar"
   },
   {
     "word": "work",
-    "value": 2
+    "value": 2,
+    "translation": "trabajar"
   },
   {
     "word": "take",
-    "value": 2
+    "value": 2,
+    "translation": "tomar"
   },
   {
     "word": "break",
-    "value": 2
+    "value": 2,
+    "translation": "romper"
   },
   {
     "word": "bear",
-    "value": 1
+    "value": 1,
+    "translation": "soportar"
   },
   {
     "word": "live",
-    "value": 1
+    "value": 1,
+    "translation": "vivir"
   },
   {
     "word": "build",
-    "value": 1
+    "value": 1,
+    "translation": "construir"
   },
   {
     "word": "we",
-    "value": 1
+    "value": 1,
+    "translation": "nosotros"
   },
   {
     "word": "d",
-    "value": 1
+    "value": 1,
+    "translation": "d"
   },
   {
     "word": "warn",
-    "value": 1
+    "value": 1,
+    "translation": "advertir"
   },
   {
     "word": "reply",
-    "value": 1
+    "value": 1,
+    "translation": "responder"
   },
   {
     "word": "set",
-    "value": 1
+    "value": 1,
+    "translation": "establecer"
   },
   {
     "word": "immigrate",
-    "value": 1
+    "value": 1,
+    "translation": "inmigrar"
   },
   {
     "word": "marry",
-    "value": 1
+    "value": 1,
+    "translation": "casarse"
   },
   {
     "word": "adore",
-    "value": 1
+    "value": 1,
+    "translation": "adorar"
   },
   {
     "word": "inscribe",
-    "value": 1
+    "value": 1,
+    "translation": "inscribir"
   },
   {
     "word": "consider",
-    "value": 1
+    "value": 1,
+    "translation": "considerar"
   },
   {
     "word": "see",
-    "value": 1
+    "value": 1,
+    "translation": "ver"
   },
   {
     "word": "count",
-    "value": 1
+    "value": 1,
+    "translation": "contar"
   },
   {
     "word": "sparkle",
-    "value": 1
+    "value": 1,
+    "translation": "brillar"
   },
   {
     "word": "stricken",
-    "value": 1
+    "value": 1,
+    "translation": "golpeado"
   },
   {
     "word": "remain",
-    "value": 1
+    "value": 1,
+    "translation": "permanecer"
   },
   {
     "word": "stunt",
-    "value": 1
+    "value": 1,
+    "translation": "atrofiar"
   },
   {
     "word": "compensate",
-    "value": 1
+    "value": 1,
+    "translation": "compensar"
   },
   {
     "word": "box",
-    "value": 1
+    "value": 1,
+    "translation": "boxear"
   },
   {
     "word": "wrestle",
-    "value": 1
+    "value": 1,
+    "translation": "luchar"
   },
   {
     "word": "swim",
-    "value": 1
+    "value": 1,
+    "translation": "nadar"
   },
   {
     "word": "collect",
-    "value": 1
+    "value": 1,
+    "translation": "coleccionar"
   },
   {
     "word": "teach",
-    "value": 1
+    "value": 1,
+    "translation": "enseñar"
   },
   {
     "word": "retouch",
-    "value": 1
+    "value": 1,
+    "translation": "retocar"
   },
   {
     "word": "color",
-    "value": 1
+    "value": 1,
+    "translation": "colorear"
   },
   {
     "word": "enter",
-    "value": 1
+    "value": 1,
+    "translation": "entrar"
   },
   {
     "word": "locate",
-    "value": 1
+    "value": 1,
+    "translation": "ubicar"
   },
   {
     "word": "happen",
-    "value": 1
+    "value": 1,
+    "translation": "suceder"
   },
   {
     "word": "fly",
-    "value": 1
+    "value": 1,
+    "translation": "volar"
   },
   {
     "word": "seem",
-    "value": 1
+    "value": 1,
+    "translation": "parecer"
   }
 ]

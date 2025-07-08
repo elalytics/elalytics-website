@@ -1,202 +1,52 @@
 [
-  {
-    "word": "girl",
-    "value": 9
-  },
-  {
-    "word": "painting",
-    "value": 6
-  },
-  {
-    "word": "work",
-    "value": 4
-  },
-  {
-    "word": "name",
-    "value": 4
-  },
-  {
-    "word": "opinion",
-    "value": 3
-  },
-  {
-    "word": "room",
-    "value": 3
-  },
-  {
-    "word": "event",
-    "value": 2
-  },
-  {
-    "word": "life",
-    "value": 2
-  },
-  {
-    "word": "building",
-    "value": 2
-  },
-  {
-    "word": "day",
-    "value": 2
-  },
-  {
-    "word": "head",
-    "value": 2
-  },
-  {
-    "word": "face",
-    "value": 2
-  },
-  {
-    "word": "eye",
-    "value": 2
-  },
-  {
-    "word": "artist",
-    "value": 2
-  },
-  {
-    "word": "canvas",
-    "value": 2
-  },
-  {
-    "word": "man",
-    "value": 2
-  },
-  {
-    "word": "friend",
-    "value": 2
-  },
-  {
-    "word": "place",
-    "value": 2
-  },
-  {
-    "word": "moment",
-    "value": 2
-  },
-  {
-    "word": "school",
-    "value": 2
-  },
-  {
-    "word": "auditorium",
-    "value": 2
-  },
-  {
-    "word": "hand",
-    "value": 2
-  },
-  {
-    "word": "wedding",
-    "value": 2
-  },
-  {
-    "word": "fresco",
-    "value": 1
-  },
-  {
-    "word": "scaffold",
-    "value": 1
-  },
-  {
-    "word": "ground",
-    "value": 1
-  },
-  {
-    "word": "body",
-    "value": 1
-  },
-  {
-    "word": "hair",
-    "value": 1
-  },
-  {
-    "word": "eyebrow",
-    "value": 1
-  },
-  {
-    "word": "nose",
-    "value": 1
-  },
-  {
-    "word": "wing",
-    "value": 1
-  },
-  {
-    "word": "blackbird",
-    "value": 1
-  },
-  {
-    "word": "arch",
-    "value": 1
-  },
-  {
-    "word": "fun",
-    "value": 1
-  },
-  {
-    "word": "livelihood",
-    "value": 1
-  },
-  {
-    "word": "vanity",
-    "value": 1
-  },
-  {
-    "word": "while",
-    "value": 1
-  },
-  {
-    "word": "cubicle",
-    "value": 1
-  },
-  {
-    "word": "stairway",
-    "value": 1
-  },
-  {
-    "word": "wall",
-    "value": 1
-  },
-  {
-    "word": "portrait",
-    "value": 1
-  },
-  {
-    "word": "woman",
-    "value": 1
-  },
-  {
-    "word": "energy",
-    "value": 1
-  },
-  {
-    "word": "expression",
-    "value": 1
-  },
-  {
-    "word": "delineation",
-    "value": 1
-  },
-  {
-    "word": "character",
-    "value": 1
-  },
-  {
-    "word": "severity",
-    "value": 1
-  },
-  {
-    "word": "none",
-    "value": 1
-  },
-  {
-    "word": "trick",
-    "value": 1
-  },
-  {
-    "word": "originality",
-    "value": 1
-  }
+  { "word": "girl", "value": 9, "translation": "chica" },
+  { "word": "painting", "value": 6, "translation": "pintura" },
+  { "word": "work", "value": 4, "translation": "trabajo" },
+  { "word": "name", "value": 4, "translation": "nombre" },
+  { "word": "opinion", "value": 3, "translation": "opinión" },
+  { "word": "room", "value": 3, "translation": "habitación" },
+  { "word": "event", "value": 2, "translation": "evento" },
+  { "word": "life", "value": 2, "translation": "vida" },
+  { "word": "building", "value": 2, "translation": "edificio" },
+  { "word": "day", "value": 2, "translation": "día" },
+  { "word": "head", "value": 2, "translation": "cabeza" },
+  { "word": "face", "value": 2, "translation": "cara" },
+  { "word": "eye", "value": 2, "translation": "ojo" },
+  { "word": "artist", "value": 2, "translation": "artista" },
+  { "word": "canvas", "value": 2, "translation": "lienzo" },
+  { "word": "man", "value": 2, "translation": "hombre" },
+  { "word": "friend", "value": 2, "translation": "amigo" },
+  { "word": "place", "value": 2, "translation": "lugar" },
+  { "word": "moment", "value": 2, "translation": "momento" },
+  { "word": "school", "value": 2, "translation": "escuela" },
+  { "word": "auditorium", "value": 2, "translation": "auditorio" },
+  { "word": "hand", "value": 2, "translation": "mano" },
+  { "word": "wedding", "value": 2, "translation": "boda" },
+  { "word": "fresco", "value": 1, "translation": "fresco" },
+  { "word": "scaffold", "value": 1, "translation": "andamio" },
+  { "word": "ground", "value": 1, "translation": "suelo" },
+  { "word": "body", "value": 1, "translation": "cuerpo" },
+  { "word": "hair", "value": 1, "translation": "pelo" },
+  { "word": "eyebrow", "value": 1, "translation": "ceja" },
+  { "word": "nose", "value": 1, "translation": "nariz" },
+  { "word": "wing", "value": 1, "translation": "ala" },
+  { "word": "blackbird", "value": 1, "translation": "mirlo" },
+  { "word": "arch", "value": 1, "translation": "arco" },
+  { "word": "fun", "value": 1, "translation": "diversión" },
+  { "word": "livelihood", "value": 1, "translation": "sustento" },
+  { "word": "vanity", "value": 1, "translation": "vanidad" },
+  { "word": "while", "value": 1, "translation": "rato" },
+  { "word": "cubicle", "value": 1, "translation": "cubículo" },
+  { "word": "stairway", "value": 1, "translation": "escalera" },
+  { "word": "wall", "value": 1, "translation": "pared" },
+  { "word": "portrait", "value": 1, "translation": "retrato" },
+  { "word": "woman", "value": 1, "translation": "mujer" },
+  { "word": "energy", "value": 1, "translation": "energía" },
+  { "word": "expression", "value": 1, "translation": "expresión" },
+  { "word": "delineation", "value": 1, "translation": "delineación" },
+  { "word": "character", "value": 1, "translation": "carácter" },
+  { "word": "severity", "value": 1, "translation": "severidad" },
+  { "word": "none", "value": 1, "translation": "ninguno" },
+  { "word": "trick", "value": 1, "translation": "truco" },
+  { "word": "originality", "value": 1, "translation": "originalidad" }
 ]

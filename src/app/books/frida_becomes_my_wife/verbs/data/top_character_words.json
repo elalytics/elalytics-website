@@ -1,202 +1,52 @@
 [
-  {
-    "word": "have",
-    "value": 22
-  },
-  {
-    "word": "say",
-    "value": 11
-  },
-  {
-    "word": "come",
-    "value": 9
-  },
-  {
-    "word": "do",
-    "value": 8
-  },
-  {
-    "word": "want",
-    "value": 8
-  },
-  {
-    "word": "look",
-    "value": 6
-  },
-  {
-    "word": "see",
-    "value": 5
-  },
-  {
-    "word": "ask",
-    "value": 4
-  },
-  {
-    "word": "would",
-    "value": 4
-  },
-  {
-    "word": "go",
-    "value": 3
-  },
-  {
-    "word": "hear",
-    "value": 3
-  },
-  {
-    "word": "turn",
-    "value": 3
-  },
-  {
-    "word": "seem",
-    "value": 3
-  },
-  {
-    "word": "work",
-    "value": 3
-  },
-  {
-    "word": "could",
-    "value": 3
-  },
-  {
-    "word": "continue",
-    "value": 3
-  },
-  {
-    "word": "paint",
-    "value": 3
-  },
-  {
-    "word": "answer",
-    "value": 3
-  },
-  {
-    "word": "climb",
-    "value": 2
-  },
-  {
-    "word": "can",
-    "value": 2
-  },
-  {
-    "word": "tell",
-    "value": 2
-  },
-  {
-    "word": "become",
-    "value": 2
-  },
-  {
-    "word": "will",
-    "value": 2
-  },
-  {
-    "word": "follow",
-    "value": 2
-  },
-  {
-    "word": "leave",
-    "value": 2
-  },
-  {
-    "word": "show",
-    "value": 2
-  },
-  {
-    "word": "must",
-    "value": 2
-  },
-  {
-    "word": "reply",
-    "value": 2
-  },
-  {
-    "word": "put",
-    "value": 2
-  },
-  {
-    "word": "should",
-    "value": 2
-  },
-  {
-    "word": "like",
-    "value": 2
-  },
-  {
-    "word": "take",
-    "value": 2
-  },
-  {
-    "word": "know",
-    "value": 2
-  },
-  {
-    "word": "marry",
-    "value": 2
-  },
-  {
-    "word": "occur",
-    "value": 1
-  },
-  {
-    "word": "shout",
-    "value": 1
-  },
-  {
-    "word": "discuss",
-    "value": 1
-  },
-  {
-    "word": "stand",
-    "value": 1
-  },
-  {
-    "word": "top",
-    "value": 1
-  },
-  {
-    "word": "meet",
-    "value": 1
-  },
-  {
-    "word": "frame",
-    "value": 1
-  },
-  {
-    "word": "earn",
-    "value": 1
-  },
-  {
-    "word": "afford",
-    "value": 1
-  },
-  {
-    "word": "appease",
-    "value": 1
-  },
-  {
-    "word": "think",
-    "value": 1
-  },
-  {
-    "word": "make",
-    "value": 1
-  },
-  {
-    "word": "bring",
-    "value": 1
-  },
-  {
-    "word": "lean",
-    "value": 1
-  },
-  {
-    "word": "face",
-    "value": 1
-  },
-  {
-    "word": "impress",
-    "value": 1
-  }
+  { "word": "have", "value": 22, "translation": "tener" },
+  { "word": "say", "value": 11, "translation": "decir" },
+  { "word": "come", "value": 9, "translation": "venir" },
+  { "word": "do", "value": 8, "translation": "hacer" },
+  { "word": "want", "value": 8, "translation": "querer" },
+  { "word": "look", "value": 6, "translation": "mirar" },
+  { "word": "see", "value": 5, "translation": "ver" },
+  { "word": "ask", "value": 4, "translation": "preguntar" },
+  { "word": "would", "value": 4, "translation": "haría" },
+  { "word": "go", "value": 3, "translation": "ir" },
+  { "word": "hear", "value": 3, "translation": "oír" },
+  { "word": "turn", "value": 3, "translation": "girar" },
+  { "word": "seem", "value": 3, "translation": "parecer" },
+  { "word": "work", "value": 3, "translation": "trabajar" },
+  { "word": "could", "value": 3, "translation": "podría" },
+  { "word": "continue", "value": 3, "translation": "continuar" },
+  { "word": "paint", "value": 3, "translation": "pintar" },
+  { "word": "answer", "value": 3, "translation": "responder" },
+  { "word": "climb", "value": 2, "translation": "escalar" },
+  { "word": "can", "value": 2, "translation": "poder" },
+  { "word": "tell", "value": 2, "translation": "contar" },
+  { "word": "become", "value": 2, "translation": "convertirse" },
+  { "word": "will", "value": 2, "translation": "será" },
+  { "word": "follow", "value": 2, "translation": "seguir" },
+  { "word": "leave", "value": 2, "translation": "salir" },
+  { "word": "show", "value": 2, "translation": "mostrar" },
+  { "word": "must", "value": 2, "translation": "deber" },
+  { "word": "reply", "value": 2, "translation": "responder" },
+  { "word": "put", "value": 2, "translation": "poner" },
+  { "word": "should", "value": 2, "translation": "debería" },
+  { "word": "like", "value": 2, "translation": "gustar" },
+  { "word": "take", "value": 2, "translation": "tomar" },
+  { "word": "know", "value": 2, "translation": "saber" },
+  { "word": "marry", "value": 2, "translation": "casarse" },
+  { "word": "occur", "value": 1, "translation": "ocurrir" },
+  { "word": "shout", "value": 1, "translation": "gritar" },
+  { "word": "discuss", "value": 1, "translation": "discutir" },
+  { "word": "stand", "value": 1, "translation": "estar de pie" },
+  { "word": "top", "value": 1, "translation": "coronar" },
+  { "word": "meet", "value": 1, "translation": "encontrarse" },
+  { "word": "frame", "value": 1, "translation": "enmarcar" },
+  { "word": "earn", "value": 1, "translation": "ganar" },
+  { "word": "afford", "value": 1, "translation": "permitirse" },
+  { "word": "appease", "value": 1, "translation": "aplacar" },
+  { "word": "think", "value": 1, "translation": "pensar" },
+  { "word": "make", "value": 1, "translation": "hacer" },
+  { "word": "bring", "value": 1, "translation": "traer" },
+  { "word": "lean", "value": 1, "translation": "inclinarse" },
+  { "word": "face", "value": 1, "translation": "enfrentar" },
+  { "word": "impress", "value": 1, "translation": "impresionar" }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "have",
-    "value": 9
+    "value": 9,
+    "translation": "tener"
   },
   {
     "word": "can",
-    "value": 5
+    "value": 5,
+    "translation": "poder"
   },
   {
     "word": "speak",
-    "value": 3
+    "value": 3,
+    "translation": "hablar"
   },
   {
     "word": "think",
-    "value": 3
+    "value": 3,
+    "translation": "pensar"
   },
   {
     "word": "do",
-    "value": 3
+    "value": 3,
+    "translation": "hacer"
   },
   {
     "word": "will",
-    "value": 2
+    "value": 2,
+    "translation": "voluntad"
   },
   {
     "word": "love",
-    "value": 2
+    "value": 2,
+    "translation": "amar"
   },
   {
     "word": "shall",
-    "value": 2
+    "value": 2,
+    "translation": "deberá"
   },
   {
     "word": "end",
-    "value": 2
+    "value": 2,
+    "translation": "terminar"
   },
   {
     "word": "appear",
-    "value": 2
+    "value": 2,
+    "translation": "aparecer"
   },
   {
     "word": "seem",
-    "value": 2
+    "value": 2,
+    "translation": "parecer"
   },
   {
     "word": "would",
-    "value": 2
+    "value": 2,
+    "translation": "haría"
   },
   {
     "word": "warn",
-    "value": 1
+    "value": 1,
+    "translation": "advertir"
   },
   {
     "word": "acquaint",
-    "value": 1
+    "value": 1,
+    "translation": "familiarizar"
   },
   {
     "word": "apply",
-    "value": 1
+    "value": 1,
+    "translation": "aplicar"
   },
   {
     "word": "transcend",
-    "value": 1
+    "value": 1,
+    "translation": "trascender"
   },
   {
     "word": "attempt",
-    "value": 1
+    "value": 1,
+    "translation": "intentar"
   },
   {
     "word": "paint",
-    "value": 1
+    "value": 1,
+    "translation": "pintar"
   },
   {
     "word": "consider",
-    "value": 1
+    "value": 1,
+    "translation": "considerar"
   },
   {
     "word": "try",
-    "value": 1
+    "value": 1,
+    "translation": "intentar"
   },
   {
     "word": "sketch",
-    "value": 1
+    "value": 1,
+    "translation": "bosquejar"
   },
   {
     "word": "grow",
-    "value": 1
+    "value": 1,
+    "translation": "crecer"
   },
   {
     "word": "give",
-    "value": 1
+    "value": 1,
+    "translation": "dar"
   },
   {
     "word": "float",
-    "value": 1
+    "value": 1,
+    "translation": "flotar"
   },
   {
     "word": "look",
-    "value": 1
+    "value": 1,
+    "translation": "mirar"
   },
   {
     "word": "bulge",
-    "value": 1
+    "value": 1,
+    "translation": "sobresalir"
   },
   {
     "word": "hold",
-    "value": 1
+    "value": 1,
+    "translation": "sostener"
   },
   {
     "word": "protrude",
-    "value": 1
+    "value": 1,
+    "translation": "sobresalir"
   },
   {
     "word": "separate",
-    "value": 1
+    "value": 1,
+    "translation": "separar"
   },
   {
     "word": "enlarge",
-    "value": 1
+    "value": 1,
+    "translation": "agrandar"
   },
   {
     "word": "construct",
-    "value": 1
+    "value": 1,
+    "translation": "construir"
   },
   {
     "word": "produce",
-    "value": 1
+    "value": 1,
+    "translation": "producir"
   },
   {
     "word": "situate",
-    "value": 1
+    "value": 1,
+    "translation": "situar"
   },
   {
     "word": "encourage",
-    "value": 1
+    "value": 1,
+    "translation": "alentar"
   },
   {
     "word": "speculate",
-    "value": 1
+    "value": 1,
+    "translation": "especular"
   },
   {
     "word": "contain",
-    "value": 1
+    "value": 1,
+    "translation": "contener"
   },
   {
     "word": "see",
-    "value": 1
+    "value": 1,
+    "translation": "ver"
   },
   {
     "word": "remind",
-    "value": 1
+    "value": 1,
+    "translation": "recordar"
   },
   {
     "word": "stand",
-    "value": 1
+    "value": 1,
+    "translation": "estar de pie"
   },
   {
     "word": "progress",
-    "value": 1
+    "value": 1,
+    "translation": "progresar"
   },
   {
     "word": "taper",
-    "value": 1
+    "value": 1,
+    "translation": "disminuir gradualmente"
   },
   {
     "word": "make",
-    "value": 1
+    "value": 1,
+    "translation": "hacer"
   },
   {
     "word": "diminish",
-    "value": 1
+    "value": 1,
+    "translation": "disminuir"
   },
   {
     "word": "achieve",
-    "value": 1
+    "value": 1,
+    "translation": "lograr"
   },
   {
     "word": "work",
-    "value": 1
+    "value": 1,
+    "translation": "trabajar"
   },
   {
     "word": "draw",
-    "value": 1
+    "value": 1,
+    "translation": "dibujar"
   },
   {
     "word": "support",
-    "value": 1
+    "value": 1,
+    "translation": "apoyar"
   },
   {
     "word": "point",
-    "value": 1
+    "value": 1,
+    "translation": "señalar"
   },
   {
     "word": "mould",
-    "value": 1
+    "value": 1,
+    "translation": "moldear"
   },
   {
     "word": "cover",
-    "value": 1
+    "value": 1,
+    "translation": "cubrir"
   }
 ]

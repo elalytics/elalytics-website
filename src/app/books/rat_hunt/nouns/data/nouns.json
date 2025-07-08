@@ -1,202 +1,252 @@
 [
   {
     "word": "rat",
-    "value": 19
+    "value": 19,
+    "translation": "rata"
   },
   {
     "word": "rifle",
-    "value": 17
+    "value": 17,
+    "translation": "rifle"
   },
   {
     "word": "father",
-    "value": 16
+    "value": 16,
+    "translation": "padre"
   },
   {
     "word": "time",
-    "value": 12
+    "value": 12,
+    "translation": "tiempo"
   },
   {
     "word": "store",
-    "value": 10
+    "value": 10,
+    "translation": "tienda"
   },
   {
     "word": "sport",
-    "value": 8
+    "value": 8,
+    "translation": "deporte"
   },
   {
     "word": "boy",
-    "value": 8
+    "value": 8,
+    "translation": "niño"
   },
   {
     "word": "cartridge",
-    "value": 8
+    "value": 8,
+    "translation": "cartucho"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "room",
-    "value": 7
+    "value": 7,
+    "translation": "habitación"
   },
   {
     "word": "head",
-    "value": 7
+    "value": 7,
+    "translation": "cabeza"
   },
   {
     "word": "trophy",
-    "value": 6
+    "value": 6,
+    "translation": "trofeo"
   },
   {
     "word": "door",
-    "value": 6
+    "value": 6,
+    "translation": "puerta"
   },
   {
     "word": "hole",
-    "value": 6
+    "value": 6,
+    "translation": "agujero"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "apartment",
-    "value": 4
+    "value": 4,
+    "translation": "apartamento"
   },
   {
     "word": "game",
-    "value": 4
+    "value": 4,
+    "translation": "juego"
   },
   {
     "word": "man",
-    "value": 4
+    "value": 4,
+    "translation": "hombre"
   },
   {
     "word": "pocket",
-    "value": 4
+    "value": 4,
+    "translation": "bolsillo"
   },
   {
     "word": "box",
-    "value": 4
+    "value": 4,
+    "translation": "caja"
   },
   {
     "word": "moment",
-    "value": 4
+    "value": 4,
+    "translation": "momento"
   },
   {
     "word": "sir",
-    "value": 4
+    "value": 4,
+    "translation": "señor"
   },
   {
     "word": "face",
-    "value": 4
+    "value": 4,
+    "translation": "cara"
   },
   {
     "word": "brother",
-    "value": 3
+    "value": 3,
+    "translation": "hermano"
   },
   {
     "word": "football",
-    "value": 3
+    "value": 3,
+    "translation": "fútbol americano"
   },
   {
     "word": "basketball",
-    "value": 3
+    "value": 3,
+    "translation": "baloncesto"
   },
   {
     "word": "story",
-    "value": 3
+    "value": 3,
+    "translation": "historia"
   },
   {
     "word": "storeroom",
-    "value": 3
+    "value": 3,
+    "translation": "almacén"
   },
   {
     "word": "corner",
-    "value": 3
+    "value": 3,
+    "translation": "esquina"
   },
   {
     "word": "wall",
-    "value": 3
+    "value": 3,
+    "translation": "pared"
   },
   {
     "word": "word",
-    "value": 3
+    "value": 3,
+    "translation": "palabra"
   },
   {
     "word": "breath",
-    "value": 3
+    "value": 3,
+    "translation": "aliento"
   },
   {
     "word": "chicken",
-    "value": 3
+    "value": 3,
+    "translation": "pollo"
   },
   {
     "word": "part",
-    "value": 3
+    "value": 3,
+    "translation": "parte"
   },
   {
     "word": "stair",
-    "value": 3
+    "value": 3,
+    "translation": "escalón"
   },
   {
     "word": "kid",
-    "value": 3
+    "value": 3,
+    "translation": "niño"
   },
   {
     "word": "fireplace",
-    "value": 3
+    "value": 3,
+    "translation": "chimenea"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "panic",
-    "value": 3
+    "value": 3,
+    "translation": "pánico"
   },
   {
     "word": "asthma",
-    "value": 2
+    "value": 2,
+    "translation": "asma"
   },
   {
     "word": "book",
-    "value": 2
+    "value": 2,
+    "translation": "libro"
   },
   {
     "word": "dance",
-    "value": 2
+    "value": 2,
+    "translation": "baile"
   },
   {
     "word": "fact",
-    "value": 2
+    "value": 2,
+    "translation": "hecho"
   },
   {
     "word": "club",
-    "value": 2
+    "value": 2,
+    "translation": "club"
   },
   {
     "word": "bump",
-    "value": 2
+    "value": 2,
+    "translation": "golpe"
   },
   {
     "word": "baseball",
-    "value": 2
+    "value": 2,
+    "translation": "béisbol"
   },
   {
     "word": "body",
-    "value": 2
+    "value": 2,
+    "translation": "cuerpo"
   },
   {
     "word": "medal",
-    "value": 2
+    "value": 2,
+    "translation": "medalla"
   },
   {
     "word": "lung",
-    "value": 2
+    "value": 2,
+    "translation": "pulmón"
   },
   {
     "word": "lesson",
-    "value": 2
+    "value": 2,
+    "translation": "lección"
   }
 ]

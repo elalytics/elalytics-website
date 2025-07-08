@@ -1,202 +1,52 @@
 [
-  {
-    "word": "house",
-    "value": 5
-  },
-  {
-    "word": "flower",
-    "value": 5
-  },
-  {
-    "word": "color",
-    "value": 5
-  },
-  {
-    "word": "fruit",
-    "value": 5
-  },
-  {
-    "word": "effect",
-    "value": 4
-  },
-  {
-    "word": "garden",
-    "value": 4
-  },
-  {
-    "word": "place",
-    "value": 4
-  },
-  {
-    "word": "thing",
-    "value": 3
-  },
-  {
-    "word": "spirit",
-    "value": 3
-  },
-  {
-    "word": "earthenware",
-    "value": 3
-  },
-  {
-    "word": "vase",
-    "value": 3
-  },
-  {
-    "word": "day",
-    "value": 3
-  },
-  {
-    "word": "wall",
-    "value": 3
-  },
-  {
-    "word": "object",
-    "value": 3
-  },
-  {
-    "word": "expression",
-    "value": 3
-  },
-  {
-    "word": "basket",
-    "value": 3
-  },
-  {
-    "word": "table",
-    "value": 3
-  },
-  {
-    "word": "life",
-    "value": 3
-  },
-  {
-    "word": "red",
-    "value": 2
-  },
-  {
-    "word": "plant",
-    "value": 2
-  },
-  {
-    "word": "bouquet",
-    "value": 2
-  },
-  {
-    "word": "voice",
-    "value": 2
-  },
-  {
-    "word": "kitchen",
-    "value": 2
-  },
-  {
-    "word": "stove",
-    "value": 2
-  },
-  {
-    "word": "glass",
-    "value": 2
-  },
-  {
-    "word": "country",
-    "value": 2
-  },
-  {
-    "word": "collection",
-    "value": 2
-  },
-  {
-    "word": "word",
-    "value": 2
-  },
-  {
-    "word": "sister",
-    "value": 2
-  },
-  {
-    "word": "age",
-    "value": 2
-  },
-  {
-    "word": "watermelon",
-    "value": 2
-  },
-  {
-    "word": "outside",
-    "value": 2
-  },
-  {
-    "word": "plate",
-    "value": 2
-  },
-  {
-    "word": "hair",
-    "value": 2
-  },
-  {
-    "word": "eye",
-    "value": 2
-  },
-  {
-    "word": "studio",
-    "value": 2
-  },
-  {
-    "word": "painting",
-    "value": 2
-  },
-  {
-    "word": "owl",
-    "value": 2
-  },
-  {
-    "word": "front",
-    "value": 1
-  },
-  {
-    "word": "azul",
-    "value": 1
-  },
-  {
-    "word": "blue",
-    "value": 1
-  },
-  {
-    "word": "trim",
-    "value": 1
-  },
-  {
-    "word": "green",
-    "value": 1
-  },
-  {
-    "word": "feeling",
-    "value": 1
-  },
-  {
-    "word": "town",
-    "value": 1
-  },
-  {
-    "word": "part",
-    "value": 1
-  },
-  {
-    "word": "variety",
-    "value": 1
-  },
-  {
-    "word": "animal",
-    "value": 1
-  },
-  {
-    "word": "planter",
-    "value": 1
-  },
-  {
-    "word": "patio",
-    "value": 1
-  }
+  { "word": "house", "value": 5, "translation": "casa" },
+  { "word": "flower", "value": 5, "translation": "flor" },
+  { "word": "color", "value": 5, "translation": "color" },
+  { "word": "fruit", "value": 5, "translation": "fruta" },
+  { "word": "effect", "value": 4, "translation": "efecto" },
+  { "word": "garden", "value": 4, "translation": "jardín" },
+  { "word": "place", "value": 4, "translation": "lugar" },
+  { "word": "thing", "value": 3, "translation": "cosa" },
+  { "word": "spirit", "value": 3, "translation": "espíritu" },
+  { "word": "earthenware", "value": 3, "translation": "loza" },
+  { "word": "vase", "value": 3, "translation": "jarrón" },
+  { "word": "day", "value": 3, "translation": "día" },
+  { "word": "wall", "value": 3, "translation": "pared" },
+  { "word": "object", "value": 3, "translation": "objeto" },
+  { "word": "expression", "value": 3, "translation": "expresión" },
+  { "word": "basket", "value": 3, "translation": "canasta" },
+  { "word": "table", "value": 3, "translation": "mesa" },
+  { "word": "life", "value": 3, "translation": "vida" },
+  { "word": "red", "value": 2, "translation": "rojo" },
+  { "word": "plant", "value": 2, "translation": "planta" },
+  { "word": "bouquet", "value": 2, "translation": "ramo" },
+  { "word": "voice", "value": 2, "translation": "voz" },
+  { "word": "kitchen", "value": 2, "translation": "cocina" },
+  { "word": "stove", "value": 2, "translation": "estufa" },
+  { "word": "glass", "value": 2, "translation": "vaso" },
+  { "word": "country", "value": 2, "translation": "país" },
+  { "word": "collection", "value": 2, "translation": "colección" },
+  { "word": "word", "value": 2, "translation": "palabra" },
+  { "word": "sister", "value": 2, "translation": "hermana" },
+  { "word": "age", "value": 2, "translation": "edad" },
+  { "word": "watermelon", "value": 2, "translation": "sandía" },
+  { "word": "outside", "value": 2, "translation": "afuera" },
+  { "word": "plate", "value": 2, "translation": "plato" },
+  { "word": "hair", "value": 2, "translation": "cabello" },
+  { "word": "eye", "value": 2, "translation": "ojo" },
+  { "word": "studio", "value": 2, "translation": "estudio" },
+  { "word": "painting", "value": 2, "translation": "pintura" },
+  { "word": "owl", "value": 2, "translation": "búho" },
+  { "word": "front", "value": 1, "translation": "frente" },
+  { "word": "azul", "value": 1, "translation": "azul" },
+  { "word": "blue", "value": 1, "translation": "azul" },
+  { "word": "trim", "value": 1, "translation": "adorno" },
+  { "word": "green", "value": 1, "translation": "verde" },
+  { "word": "feeling", "value": 1, "translation": "sentimiento" },
+  { "word": "town", "value": 1, "translation": "pueblo" },
+  { "word": "part", "value": 1, "translation": "parte" },
+  { "word": "variety", "value": 1, "translation": "variedad" },
+  { "word": "animal", "value": 1, "translation": "animal" },
+  { "word": "planter", "value": 1, "translation": "maceta" },
+  { "word": "patio", "value": 1, "translation": "patio" }
 ]

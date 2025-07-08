@@ -1,202 +1,52 @@
 [
-  {
-    "word": "have",
-    "value": 29
-  },
-  {
-    "word": "do",
-    "value": 23
-  },
-  {
-    "word": "think",
-    "value": 16
-  },
-  {
-    "word": "will",
-    "value": 15
-  },
-  {
-    "word": "can",
-    "value": 13
-  },
-  {
-    "word": "know",
-    "value": 12
-  },
-  {
-    "word": "live",
-    "value": 9
-  },
-  {
-    "word": "imagine",
-    "value": 8
-  },
-  {
-    "word": "go",
-    "value": 8
-  },
-  {
-    "word": "would",
-    "value": 8
-  },
-  {
-    "word": "want",
-    "value": 6
-  },
-  {
-    "word": "write",
-    "value": 5
-  },
-  {
-    "word": "take",
-    "value": 5
-  },
-  {
-    "word": "tell",
-    "value": 4
-  },
-  {
-    "word": "come",
-    "value": 4
-  },
-  {
-    "word": "understand",
-    "value": 3
-  },
-  {
-    "word": "suffer",
-    "value": 3
-  },
-  {
-    "word": "could",
-    "value": 3
-  },
-  {
-    "word": "get",
-    "value": 3
-  },
-  {
-    "word": "make",
-    "value": 3
-  },
-  {
-    "word": "believe",
-    "value": 3
-  },
-  {
-    "word": "help",
-    "value": 3
-  },
-  {
-    "word": "say",
-    "value": 3
-  },
-  {
-    "word": "give",
-    "value": 2
-  },
-  {
-    "word": "happen",
-    "value": 2
-  },
-  {
-    "word": "see",
-    "value": 2
-  },
-  {
-    "word": "act",
-    "value": 2
-  },
-  {
-    "word": "hope",
-    "value": 2
-  },
-  {
-    "word": "work",
-    "value": 2
-  },
-  {
-    "word": "separate",
-    "value": 2
-  },
-  {
-    "word": "lose",
-    "value": 2
-  },
-  {
-    "word": "put",
-    "value": 2
-  },
-  {
-    "word": "mean",
-    "value": 2
-  },
-  {
-    "word": "let",
-    "value": 2
-  },
-  {
-    "word": "feel",
-    "value": 2
-  },
-  {
-    "word": "start",
-    "value": 1
-  },
-  {
-    "word": "last",
-    "value": 1
-  },
-  {
-    "word": "trust",
-    "value": 1
-  },
-  {
-    "word": "change",
-    "value": 1
-  },
-  {
-    "word": "should",
-    "value": 1
-  },
-  {
-    "word": "forget",
-    "value": 1
-  },
-  {
-    "word": "consider",
-    "value": 1
-  },
-  {
-    "word": "lie",
-    "value": 1
-  },
-  {
-    "word": "hide",
-    "value": 1
-  },
-  {
-    "word": "protect",
-    "value": 1
-  },
-  {
-    "word": "keep",
-    "value": 1
-  },
-  {
-    "word": "entertain",
-    "value": 1
-  },
-  {
-    "word": "look",
-    "value": 1
-  },
-  {
-    "word": "solve",
-    "value": 1
-  },
-  {
-    "word": "realize",
-    "value": 1
-  }
+  {"word": "have", "value": 29, "translation": "tener"},
+  {"word": "do", "value": 23, "translation": "hacer"},
+  {"word": "think", "value": 16, "translation": "pensar"},
+  {"word": "will", "value": 15, "translation": "querer (futuro)"},
+  {"word": "can", "value": 13, "translation": "poder"},
+  {"word": "know", "value": 12, "translation": "saber"},
+  {"word": "live", "value": 9, "translation": "vivir"},
+  {"word": "imagine", "value": 8, "translation": "imaginar"},
+  {"word": "go", "value": 8, "translation": "ir"},
+  {"word": "would", "value": 8, "translation": "haría / sería"},
+  {"word": "want", "value": 6, "translation": "querer"},
+  {"word": "write", "value": 5, "translation": "escribir"},
+  {"word": "take", "value": 5, "translation": "tomar"},
+  {"word": "tell", "value": 4, "translation": "decir / contar"},
+  {"word": "come", "value": 4, "translation": "venir"},
+  {"word": "understand", "value": 3, "translation": "entender"},
+  {"word": "suffer", "value": 3, "translation": "sufrir"},
+  {"word": "could", "value": 3, "translation": "podría"},
+  {"word": "get", "value": 3, "translation": "obtener / conseguir"},
+  {"word": "make", "value": 3, "translation": "hacer / crear"},
+  {"word": "believe", "value": 3, "translation": "creer"},
+  {"word": "help", "value": 3, "translation": "ayudar"},
+  {"word": "say", "value": 3, "translation": "decir"},
+  {"word": "give", "value": 2, "translation": "dar"},
+  {"word": "happen", "value": 2, "translation": "suceder"},
+  {"word": "see", "value": 2, "translation": "ver"},
+  {"word": "act", "value": 2, "translation": "actuar"},
+  {"word": "hope", "value": 2, "translation": "esperar (tener esperanza)"},
+  {"word": "work", "value": 2, "translation": "trabajar"},
+  {"word": "separate", "value": 2, "translation": "separar"},
+  {"word": "lose", "value": 2, "translation": "perder"},
+  {"word": "put", "value": 2, "translation": "poner"},
+  {"word": "mean", "value": 2, "translation": "significar"},
+  {"word": "let", "value": 2, "translation": "dejar"},
+  {"word": "feel", "value": 2, "translation": "sentir"},
+  {"word": "start", "value": 1, "translation": "empezar"},
+  {"word": "last", "value": 1, "translation": "durar"},
+  {"word": "trust", "value": 1, "translation": "confiar"},
+  {"word": "change", "value": 1, "translation": "cambiar"},
+  {"word": "should", "value": 1, "translation": "debería"},
+  {"word": "forget", "value": 1, "translation": "olvidar"},
+  {"word": "consider", "value": 1, "translation": "considerar"},
+  {"word": "lie", "value": 1, "translation": "mentir"},
+  {"word": "hide", "value": 1, "translation": "esconder"},
+  {"word": "protect", "value": 1, "translation": "proteger"},
+  {"word": "keep", "value": 1, "translation": "mantener / guardar"},
+  {"word": "entertain", "value": 1, "translation": "entretener"},
+  {"word": "look", "value": 1, "translation": "mirar"},
+  {"word": "solve", "value": 1, "translation": "resolver"},
+  {"word": "realize", "value": 1, "translation": "darse cuenta"}
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "have",
-    "value": 35
+    "value": 35,
+    "translation": "tener"
   },
   {
     "word": "say",
-    "value": 12
+    "value": 12,
+    "translation": "decir"
   },
   {
     "word": "would",
-    "value": 8
+    "value": 8,
+    "translation": "sería/haría"
   },
   {
     "word": "make",
-    "value": 7
+    "value": 7,
+    "translation": "hacer"
   },
   {
     "word": "do",
-    "value": 5
+    "value": 5,
+    "translation": "hacer"
   },
   {
     "word": "will",
-    "value": 5
+    "value": 5,
+    "translation": "será/hará"
   },
   {
     "word": "find",
-    "value": 4
+    "value": 4,
+    "translation": "encontrar"
   },
   {
     "word": "come",
-    "value": 4
+    "value": 4,
+    "translation": "venir"
   },
   {
     "word": "appear",
-    "value": 4
+    "value": 4,
+    "translation": "aparecer"
   },
   {
     "word": "give",
-    "value": 4
+    "value": 4,
+    "translation": "dar"
   },
   {
     "word": "regard",
-    "value": 3
+    "value": 3,
+    "translation": "considerar"
   },
   {
     "word": "call",
-    "value": 3
+    "value": 3,
+    "translation": "llamar"
   },
   {
     "word": "take",
-    "value": 3
+    "value": 3,
+    "translation": "tomar"
   },
   {
     "word": "could",
-    "value": 3
+    "value": 3,
+    "translation": "podría"
   },
   {
     "word": "raise",
-    "value": 3
+    "value": 3,
+    "translation": "levantar"
   },
   {
     "word": "object",
-    "value": 3
+    "value": 3,
+    "translation": "objetar"
   },
   {
     "word": "suggest",
-    "value": 3
+    "value": 3,
+    "translation": "sugerir"
   },
   {
     "word": "receive",
-    "value": 3
+    "value": 3,
+    "translation": "recibir"
   },
   {
     "word": "include",
-    "value": 3
+    "value": 3,
+    "translation": "incluir"
   },
   {
     "word": "change",
-    "value": 3
+    "value": 3,
+    "translation": "cambiar"
   },
   {
     "word": "feel",
-    "value": 3
+    "value": 3,
+    "translation": "sentir"
   },
   {
     "word": "should",
-    "value": 3
+    "value": 3,
+    "translation": "debería"
   },
   {
     "word": "enclose",
-    "value": 2
+    "value": 2,
+    "translation": "cerrar"
   },
   {
     "word": "manage",
-    "value": 2
+    "value": 2,
+    "translation": "manejar"
   },
   {
     "word": "refuse",
-    "value": 2
+    "value": 2,
+    "translation": "rechazar"
   },
   {
     "word": "wait",
-    "value": 2
+    "value": 2,
+    "translation": "esperar"
   },
   {
     "word": "develop",
-    "value": 2
+    "value": 2,
+    "translation": "desarrollar"
   },
   {
     "word": "leave",
-    "value": 2
+    "value": 2,
+    "translation": "dejar"
   },
   {
     "word": "show",
-    "value": 2
+    "value": 2,
+    "translation": "mostrar"
   },
   {
     "word": "portray",
-    "value": 2
+    "value": 2,
+    "translation": "retratar"
   },
   {
     "word": "tell",
-    "value": 2
+    "value": 2,
+    "translation": "contar"
   },
   {
     "word": "go",
-    "value": 2
+    "value": 2,
+    "translation": "ir"
   },
   {
     "word": "see",
-    "value": 2
+    "value": 2,
+    "translation": "ver"
   },
   {
     "word": "date",
-    "value": 2
+    "value": 2,
+    "translation": "fechar"
   },
   {
     "word": "offend",
-    "value": 2
+    "value": 2,
+    "translation": "ofender"
   },
   {
     "word": "understand",
-    "value": 2
+    "value": 2,
+    "translation": "entender"
   },
   {
     "word": "clarify",
-    "value": 2
+    "value": 2,
+    "translation": "aclarar"
   },
   {
     "word": "represent",
-    "value": 2
+    "value": 2,
+    "translation": "representar"
   },
   {
     "word": "halt",
-    "value": 1
+    "value": 1,
+    "translation": "parar"
   },
   {
     "word": "envelop",
-    "value": 1
+    "value": 1,
+    "translation": "envolver"
   },
   {
     "word": "inform",
-    "value": 1
+    "value": 1,
+    "translation": "informar"
   },
   {
     "word": "engage",
-    "value": 1
+    "value": 1,
+    "translation": "comprometer"
   },
   {
     "word": "turn",
-    "value": 1
+    "value": 1,
+    "translation": "girar"
   },
   {
     "word": "cut",
-    "value": 1
+    "value": 1,
+    "translation": "cortar"
   },
   {
     "word": "await",
-    "value": 1
+    "value": 1,
+    "translation": "aguardar"
   },
   {
     "word": "complete",
-    "value": 1
+    "value": 1,
+    "translation": "completar"
   },
   {
     "word": "promise",
-    "value": 1
+    "value": 1,
+    "translation": "prometer"
   },
   {
     "word": "express",
-    "value": 1
+    "value": 1,
+    "translation": "expresar"
   },
   {
     "word": "terminate",
-    "value": 1
+    "value": 1,
+    "translation": "terminar"
   },
   {
     "word": "contract",
-    "value": 1
+    "value": 1,
+    "translation": "contraer"
   }
 ]

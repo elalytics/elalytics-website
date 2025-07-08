@@ -1,202 +1,252 @@
 [
   {
     "word": "painting",
-    "value": 6
+    "value": 6,
+    "translation": "pintura"
   },
   {
     "word": "eye",
-    "value": 3
+    "value": 3,
+    "translation": "ojo"
   },
   {
     "word": "hand",
-    "value": 3
+    "value": 3,
+    "translation": "mano"
   },
   {
     "word": "time",
-    "value": 3
+    "value": 3,
+    "translation": "tiempo"
   },
   {
     "word": "life",
-    "value": 2
+    "value": 2,
+    "translation": "vida"
   },
   {
     "word": "husband",
-    "value": 2
+    "value": 2,
+    "translation": "esposo"
   },
   {
     "word": "air",
-    "value": 2
+    "value": 2,
+    "translation": "aire"
   },
   {
     "word": "face",
-    "value": 2
+    "value": 2,
+    "translation": "cara"
   },
   {
     "word": "frog",
-    "value": 2
+    "value": 2,
+    "translation": "rana"
   },
   {
     "word": "leg",
-    "value": 2
+    "value": 2,
+    "translation": "pierna"
   },
   {
     "word": "angle",
-    "value": 2
+    "value": 2,
+    "translation": "ángulo"
   },
   {
     "word": "his wake hour",
-    "value": 2
+    "value": 2,
+    "translation": "su hora de vigilia"
   },
   {
     "word": "work",
-    "value": 2
+    "value": 2,
+    "translation": "trabajo"
   },
   {
     "word": "picture",
-    "value": 1
+    "value": 1,
+    "translation": "imagen"
   },
   {
     "word": "color",
-    "value": 1
+    "value": 1,
+    "translation": "color"
   },
   {
     "word": "spectator",
-    "value": 1
+    "value": 1,
+    "translation": "espectador"
   },
   {
     "word": "term",
-    "value": 1
+    "value": 1,
+    "translation": "término"
   },
   {
     "word": "absurdity",
-    "value": 1
+    "value": 1,
+    "translation": "absurdo"
   },
   {
     "word": "lover",
-    "value": 1
+    "value": 1,
+    "translation": "amante"
   },
   {
     "word": "domain",
-    "value": 1
+    "value": 1,
+    "translation": "dominio"
   },
   {
     "word": "sex",
-    "value": 1
+    "value": 1,
+    "translation": "sexo"
   },
   {
     "word": "soul",
-    "value": 1
+    "value": 1,
+    "translation": "alma"
   },
   {
     "word": "emotion",
-    "value": 1
+    "value": 1,
+    "translation": "emoción"
   },
   {
     "word": "obstacle",
-    "value": 1
+    "value": 1,
+    "translation": "obstáculo"
   },
   {
     "word": "sentiment",
-    "value": 1
+    "value": 1,
+    "translation": "sentimiento"
   },
   {
     "word": "image",
-    "value": 1
+    "value": 1,
+    "translation": "imagen"
   },
   {
     "word": "ability",
-    "value": 1
+    "value": 1,
+    "translation": "habilidad"
   },
   {
     "word": "type",
-    "value": 1
+    "value": 1,
+    "translation": "tipo"
   },
   {
     "word": "head",
-    "value": 1
+    "value": 1,
+    "translation": "cabeza"
   },
   {
     "word": "hair",
-    "value": 1
+    "value": 1,
+    "translation": "cabello"
   },
   {
     "word": "impression",
-    "value": 1
+    "value": 1,
+    "translation": "impresión"
   },
   {
     "word": "baby",
-    "value": 1
+    "value": 1,
+    "translation": "bebé"
   },
   {
     "word": "place",
-    "value": 1
+    "value": 1,
+    "translation": "lugar"
   },
   {
     "word": "eyelid",
-    "value": 1
+    "value": 1,
+    "translation": "párpado"
   },
   {
     "word": "way",
-    "value": 1
+    "value": 1,
+    "translation": "manera"
   },
   {
     "word": "field",
-    "value": 1
+    "value": 1,
+    "translation": "campo"
   },
   {
     "word": "vision",
-    "value": 1
+    "value": 1,
+    "translation": "visión"
   },
   {
     "word": "person",
-    "value": 1
+    "value": 1,
+    "translation": "persona"
   },
   {
     "word": "painter",
-    "value": 1
+    "value": 1,
+    "translation": "pintor"
   },
   {
     "word": "space",
-    "value": 1
+    "value": 1,
+    "translation": "espacio"
   },
   {
     "word": "multitude",
-    "value": 1
+    "value": 1,
+    "translation": "multitud"
   },
   {
     "word": "effect",
-    "value": 1
+    "value": 1,
+    "translation": "efecto"
   },
   {
     "word": "age",
-    "value": 1
+    "value": 1,
+    "translation": "edad"
   },
   {
     "word": "knowledge",
-    "value": 1
+    "value": 1,
+    "translation": "conocimiento"
   },
   {
     "word": "occasion",
-    "value": 1
+    "value": 1,
+    "translation": "ocasión"
   },
   {
     "word": "smile",
-    "value": 1
+    "value": 1,
+    "translation": "sonrisa"
   },
   {
     "word": "lip",
-    "value": 1
+    "value": 1,
+    "translation": "labio"
   },
   {
     "word": "boy-",
-    "value": 1
+    "value": 1,
+    "translation": "niño-"
   },
   {
     "word": "skin",
-    "value": 1
+    "value": 1,
+    "translation": "piel"
   },
   {
     "word": "animal",
-    "value": 1
+    "value": 1,
+    "translation": "animal"
   }
 ]

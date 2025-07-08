@@ -1,202 +1,212 @@
 [
   {
     "word": "artist",
-    "value": 6
+    "value": 6,
+    "translation": "artista"
   },
   {
     "word": "father",
-    "value": 5
+    "value": 5,
+    "translation": "padre"
   },
   {
     "word": "bed",
-    "value": 4
+    "value": 4,
+    "translation": "cama"
   },
   {
     "word": "child",
-    "value": 3
+    "value": 3,
+    "translation": "niño"
   },
   {
     "word": "eye",
-    "value": 3
+    "value": 3,
+    "translation": "ojo"
   },
   {
     "word": "friend",
-    "value": 3
+    "value": 3,
+    "translation": "amigo"
   },
   {
     "word": "school",
-    "value": 3
+    "value": 3,
+    "translation": "escuela"
   },
   {
     "word": "hospital",
-    "value": 3
-  },
-  {
-    "word": "t",
-    "value": 2
-  },
-  {
-    "word": "e",
-    "value": 2
+    "value": 3,
+    "translation": "hospital"
   },
   {
     "word": "wife",
-    "value": 2
+    "value": 2,
+    "translation": "esposa"
   },
   {
     "word": "painting",
-    "value": 2
+    "value": 2,
+    "translation": "pintura"
   },
   {
     "word": "portrait",
-    "value": 2
+    "value": 2,
+    "translation": "retrato"
   },
   {
     "word": "mother",
-    "value": 2
+    "value": 2,
+    "translation": "madre"
   },
   {
     "word": "foot",
-    "value": 2
+    "value": 2,
+    "translation": "pie"
   },
   {
     "word": "doctor",
-    "value": 2
+    "value": 2,
+    "translation": "doctor"
   },
   {
     "word": "passion",
-    "value": 2
+    "value": 2,
+    "translation": "pasión"
   },
   {
     "word": "boyfriend",
-    "value": 2
+    "value": 2,
+    "translation": "novio"
   },
   {
     "word": "bus",
-    "value": 2
+    "value": 2,
+    "translation": "autobús"
   },
   {
     "word": "pelvis",
-    "value": 2
+    "value": 2,
+    "translation": "pelvis"
   },
   {
     "word": "life",
-    "value": 2
+    "value": 2,
+    "translation": "vida"
   },
   {
     "word": "work",
-    "value": 2
+    "value": 2,
+    "translation": "trabajo"
   },
   {
     "word": "companion",
-    "value": 2
+    "value": 2,
+    "translation": "compañero"
   },
   {
     "word": "photographer",
-    "value": 2
+    "value": 2,
+    "translation": "fotógrafo"
   },
   {
     "word": "house",
-    "value": 1
-  },
-  {
-    "word": "h",
-    "value": 1
-  },
-  {
-    "word": "n",
-    "value": 1
-  },
-  {
-    "word": "q",
-    "value": 1
-  },
-  {
-    "word": "u",
-    "value": 1
-  },
-  {
-    "word": "i",
-    "value": 1
+    "value": 1,
+    "translation": "casa"
   },
   {
     "word": "suburb",
-    "value": 1
+    "value": 1,
+    "translation": "suburbio"
   },
   {
     "word": "parent",
-    "value": 1
+    "value": 1,
+    "translation": "padre/madre"
   },
   {
     "word": "daughter",
-    "value": 1
+    "value": 1,
+    "translation": "hija"
   },
   {
     "word": "temperament",
-    "value": 1
+    "value": 1,
+    "translation": "temperamento"
   },
   {
     "word": "son",
-    "value": 1
+    "value": 1,
+    "translation": "hijo"
   },
   {
     "word": "law",
-    "value": 1
+    "value": 1,
+    "translation": "ley"
   },
   {
     "word": "age 42",
-    "value": 1
+    "value": 1,
+    "translation": "edad 42"
   },
   {
     "word": "mistress",
-    "value": 1
+    "value": 1,
+    "translation": "amante"
   },
   {
     "word": "devil",
-    "value": 1
+    "value": 1,
+    "translation": "diablo"
   },
   {
     "word": "mustache",
-    "value": 1
+    "value": 1,
+    "translation": "bigote"
   },
   {
     "word": "the age of 19",
-    "value": 1
+    "value": 1,
+    "translation": "la edad de 19"
   },
   {
     "word": "childbirth",
-    "value": 1
+    "value": 1,
+    "translation": "parto"
   },
   {
     "word": "ancestry",
-    "value": 1
+    "value": 1,
+    "translation": "ascendencia"
   },
   {
     "word": "general",
-    "value": 1
+    "value": 1,
+    "translation": "general"
   },
   {
     "word": "ethnicity",
-    "value": 1
-  },
-  {
-    "word": "my grandparent, my parent, and I (opposite",
-    "value": 1
+    "value": 1,
+    "translation": "etnia"
   },
   {
     "word": "word",
-    "value": 1
+    "value": 1,
+    "translation": "palabra"
   },
   {
     "word": "character",
-    "value": 1
+    "value": 1,
+    "translation": "carácter"
   },
   {
     "word": "feeling",
-    "value": 1
+    "value": 1,
+    "translation": "sentimiento"
   },
   {
     "word": "hand",
-    "value": 1
+    "value": 1,
+    "translation": "mano"
   }
 ]

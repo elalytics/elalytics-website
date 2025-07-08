@@ -1,202 +1,252 @@
 [
   {
     "word": "mother",
-    "value": 38
+    "value": 38,
+    "translation": "madre"
   },
   {
     "word": "chess",
-    "value": 18
+    "value": 18,
+    "translation": "ajedrez"
   },
   {
     "word": "alley",
-    "value": 15
+    "value": 15,
+    "translation": "callejón"
   },
   {
     "word": "game",
-    "value": 14
+    "value": 14,
+    "translation": "juego"
   },
   {
     "word": "piece",
-    "value": 14
+    "value": 14,
+    "translation": "pieza"
   },
   {
     "word": "wind",
-    "value": 13
+    "value": 13,
+    "translation": "viento"
   },
   {
     "word": "man",
-    "value": 12
+    "value": 12,
+    "translation": "hombre"
   },
   {
     "word": "time",
-    "value": 10
+    "value": 10,
+    "translation": "tiempo"
   },
   {
     "word": "brother",
-    "value": 10
+    "value": 10,
+    "translation": "hermano"
   },
   {
     "word": "people",
-    "value": 10
+    "value": 10,
+    "translation": "gente"
   },
   {
     "word": "box",
-    "value": 10
+    "value": 10,
+    "translation": "caja"
   },
   {
     "word": "hand",
-    "value": 9
+    "value": 9,
+    "translation": "mano"
   },
   {
     "word": "street",
-    "value": 9
+    "value": 9,
+    "translation": "calle"
   },
   {
     "word": "girl",
-    "value": 9
+    "value": 9,
+    "translation": "niña"
   },
   {
     "word": "pawn",
-    "value": 9
+    "value": 9,
+    "translation": "peón"
   },
   {
     "word": "door",
-    "value": 8
+    "value": 8,
+    "translation": "puerta"
   },
   {
     "word": "head",
-    "value": 8
+    "value": 8,
+    "translation": "cabeza"
   },
   {
     "word": "tournament",
-    "value": 8
+    "value": 8,
+    "translation": "torneo"
   },
   {
     "word": "rule",
-    "value": 7
+    "value": 7,
+    "translation": "regla"
   },
   {
     "word": "move",
-    "value": 7
+    "value": 7,
+    "translation": "movimiento"
   },
   {
     "word": "child",
-    "value": 6
+    "value": 6,
+    "translation": "niño"
   },
   {
     "word": "shop",
-    "value": 6
+    "value": 6,
+    "translation": "tienda"
   },
   {
     "word": "woman",
-    "value": 6
+    "value": 6,
+    "translation": "mujer"
   },
   {
     "word": "window",
-    "value": 6
+    "value": 6,
+    "translation": "ventana"
   },
   {
     "word": "side",
-    "value": 6
+    "value": 6,
+    "translation": "lado"
   },
   {
     "word": "eye",
-    "value": 6
+    "value": 6,
+    "translation": "ojo"
   },
   {
     "word": "school",
-    "value": 6
+    "value": 6,
+    "translation": "escuela"
   },
   {
     "word": "boy",
-    "value": 6
+    "value": 6,
+    "translation": "niño"
   },
   {
     "word": "secret",
-    "value": 6
+    "value": 6,
+    "translation": "secreto"
   },
   {
     "word": "bag",
-    "value": 5
+    "value": 5,
+    "translation": "bolsa"
   },
   {
     "word": "name",
-    "value": 5
+    "value": 5,
+    "translation": "nombre"
   },
   {
     "word": "table",
-    "value": 5
+    "value": 5,
+    "translation": "mesa"
   },
   {
     "word": "set",
-    "value": 5
+    "value": 5,
+    "translation": "conjunto"
   },
   {
     "word": "gift",
-    "value": 5
+    "value": 5,
+    "translation": "regalo"
   },
   {
     "word": "book",
-    "value": 5
+    "value": 5,
+    "translation": "libro"
   },
   {
     "word": "crowd",
-    "value": 5
+    "value": 5,
+    "translation": "multitud"
   },
   {
     "word": "point",
-    "value": 5
+    "value": 5,
+    "translation": "punto"
   },
   {
     "word": "opponent",
-    "value": 5
+    "value": 5,
+    "translation": "oponente"
   },
   {
     "word": "room",
-    "value": 5
+    "value": 5,
+    "translation": "habitación"
   },
   {
     "word": "flat",
-    "value": 4
+    "value": 4,
+    "translation": "piso"
   },
   {
     "word": "bed",
-    "value": 4
+    "value": 4,
+    "translation": "cama"
   },
   {
     "word": "playground",
-    "value": 4
+    "value": 4,
+    "translation": "patio de juegos"
   },
   {
     "word": "fish",
-    "value": 4
+    "value": 4,
+    "translation": "pez"
   },
   {
     "word": "tourist",
-    "value": 4
+    "value": 4,
+    "translation": "turista"
   },
   {
     "word": "row",
-    "value": 4
+    "value": 4,
+    "translation": "fila"
   },
   {
     "word": "night",
-    "value": 4
+    "value": 4,
+    "translation": "noche"
   },
   {
     "word": "daughter",
-    "value": 4
+    "value": 4,
+    "translation": "hija"
   },
   {
     "word": "hair",
-    "value": 4
+    "value": 4,
+    "translation": "cabello"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "día"
   },
   {
     "word": "torture",
-    "value": 4
+    "value": 4,
+    "translation": "tortura"
   }
 ]

@@ -1,202 +1,52 @@
 [
-  {
-    "word": "paint",
-    "value": 5
-  },
-  {
-    "word": "depict",
-    "value": 3
-  },
-  {
-    "word": "raise",
-    "value": 2
-  },
-  {
-    "word": "show",
-    "value": 2
-  },
-  {
-    "word": "start",
-    "value": 2
-  },
-  {
-    "word": "call",
-    "value": 2
-  },
-  {
-    "word": "question",
-    "value": 2
-  },
-  {
-    "word": "stand",
-    "value": 1
-  },
-  {
-    "word": "pay",
-    "value": 1
-  },
-  {
-    "word": "bow",
-    "value": 1
-  },
-  {
-    "word": "add",
-    "value": 1
-  },
-  {
-    "word": "seem",
-    "value": 1
-  },
-  {
-    "word": "watch",
-    "value": 1
-  },
-  {
-    "word": "challenge",
-    "value": 1
-  },
-  {
-    "word": "know",
-    "value": 1
-  },
-  {
-    "word": "consider",
-    "value": 1
-  },
-  {
-    "word": "bear",
-    "value": 1
-  },
-  {
-    "word": "commission",
-    "value": 1
-  },
-  {
-    "word": "must",
-    "value": 1
-  },
-  {
-    "word": "relate",
-    "value": 1
-  },
-  {
-    "word": "arrive",
-    "value": 1
-  },
-  {
-    "word": "begin",
-    "value": 1
-  },
-  {
-    "word": "study",
-    "value": 1
-  },
-  {
-    "word": "photograph",
-    "value": 1
-  },
-  {
-    "word": "fascinate",
-    "value": 1
-  },
-  {
-    "word": "inspire",
-    "value": 1
-  },
-  {
-    "word": "suggest",
-    "value": 1
-  },
-  {
-    "word": "agree",
-    "value": 1
-  },
-  {
-    "word": "expand",
-    "value": 1
-  },
-  {
-    "word": "spend",
-    "value": 1
-  },
-  {
-    "word": "complete",
-    "value": 1
-  },
-  {
-    "word": "make",
-    "value": 1
-  },
-  {
-    "word": "represent",
-    "value": 1
-  },
-  {
-    "word": "object",
-    "value": 1
-  },
-  {
-    "word": "unveil",
-    "value": 1
-  },
-  {
-    "word": "work",
-    "value": 1
-  },
-  {
-    "word": "label",
-    "value": 1
-  },
-  {
-    "word": "receive",
-    "value": 1
-  },
-  {
-    "word": "take",
-    "value": 1
-  },
-  {
-    "word": "want",
-    "value": 1
-  },
-  {
-    "word": "destroy",
-    "value": 1
-  },
-  {
-    "word": "cause",
-    "value": 1
-  },
-  {
-    "word": "have",
-    "value": 1
-  },
-  {
-    "word": "choose",
-    "value": 1
-  },
-  {
-    "word": "respond",
-    "value": 1
-  },
-  {
-    "word": "issue",
-    "value": 1
-  },
-  {
-    "word": "say",
-    "value": 1
-  },
-  {
-    "word": "admire",
-    "value": 1
-  },
-  {
-    "word": "believe",
-    "value": 1
-  },
-  {
-    "word": "try",
-    "value": 1
-  }
+  { "word": "paint", "value": 5, "translation": "pintar" },
+  { "word": "depict", "value": 3, "translation": "representar" },
+  { "word": "raise", "value": 2, "translation": "elevar" },
+  { "word": "show", "value": 2, "translation": "mostrar" },
+  { "word": "start", "value": 2, "translation": "empezar" },
+  { "word": "call", "value": 2, "translation": "llamar" },
+  { "word": "question", "value": 2, "translation": "preguntar" },
+  { "word": "stand", "value": 1, "translation": "estar de pie" },
+  { "word": "pay", "value": 1, "translation": "pagar" },
+  { "word": "bow", "value": 1, "translation": "inclinarse" },
+  { "word": "add", "value": 1, "translation": "agregar" },
+  { "word": "seem", "value": 1, "translation": "parecer" },
+  { "word": "watch", "value": 1, "translation": "ver" },
+  { "word": "challenge", "value": 1, "translation": "desafiar" },
+  { "word": "know", "value": 1, "translation": "saber" },
+  { "word": "consider", "value": 1, "translation": "considerar" },
+  { "word": "bear", "value": 1, "translation": "soportar" },
+  { "word": "commission", "value": 1, "translation": "comisionar" },
+  { "word": "must", "value": 1, "translation": "deber" },
+  { "word": "relate", "value": 1, "translation": "relacionar" },
+  { "word": "arrive", "value": 1, "translation": "llegar" },
+  { "word": "begin", "value": 1, "translation": "comenzar" },
+  { "word": "study", "value": 1, "translation": "estudiar" },
+  { "word": "photograph", "value": 1, "translation": "fotografiar" },
+  { "word": "fascinate", "value": 1, "translation": "fascinar" },
+  { "word": "inspire", "value": 1, "translation": "inspirar" },
+  { "word": "suggest", "value": 1, "translation": "sugerir" },
+  { "word": "agree", "value": 1, "translation": "estar de acuerdo" },
+  { "word": "expand", "value": 1, "translation": "expandir" },
+  { "word": "spend", "value": 1, "translation": "gastar" },
+  { "word": "complete", "value": 1, "translation": "completar" },
+  { "word": "make", "value": 1, "translation": "hacer" },
+  { "word": "represent", "value": 1, "translation": "representar" },
+  { "word": "object", "value": 1, "translation": "objetar" },
+  { "word": "unveil", "value": 1, "translation": "develar" },
+  { "word": "work", "value": 1, "translation": "trabajar" },
+  { "word": "label", "value": 1, "translation": "etiquetar" },
+  { "word": "receive", "value": 1, "translation": "recibir" },
+  { "word": "take", "value": 1, "translation": "tomar" },
+  { "word": "want", "value": 1, "translation": "querer" },
+  { "word": "destroy", "value": 1, "translation": "destruir" },
+  { "word": "cause", "value": 1, "translation": "causar" },
+  { "word": "have", "value": 1, "translation": "tener" },
+  { "word": "choose", "value": 1, "translation": "elegir" },
+  { "word": "respond", "value": 1, "translation": "responder" },
+  { "word": "issue", "value": 1, "translation": "emitir" },
+  { "word": "say", "value": 1, "translation": "decir" },
+  { "word": "admire", "value": 1, "translation": "admirar" },
+  { "word": "believe", "value": 1, "translation": "creer" },
+  { "word": "try", "value": 1, "translation": "intentar" }
 ]

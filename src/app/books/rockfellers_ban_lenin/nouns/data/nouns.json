@@ -1,202 +1,252 @@
 [
   {
     "word": "mural",
-    "value": 13
+    "value": 13,
+    "translation": "mural"
   },
   {
     "word": "building",
-    "value": 12
+    "value": 12,
+    "translation": "edificio"
   },
   {
     "word": "letter",
-    "value": 10
+    "value": 10,
+    "translation": "carta"
   },
   {
     "word": "painting",
-    "value": 10
+    "value": 10,
+    "translation": "pintura"
   },
   {
     "word": "figure",
-    "value": 7
+    "value": 7,
+    "translation": "figura"
   },
   {
     "word": "work",
-    "value": 6
+    "value": 6,
+    "translation": "trabajo"
   },
   {
     "word": "artist",
-    "value": 6
+    "value": 6,
+    "translation": "artista"
   },
   {
     "word": "police",
-    "value": 5
+    "value": 5,
+    "translation": "policía"
   },
   {
     "word": "man",
-    "value": 5
+    "value": 5,
+    "translation": "hombre"
   },
   {
     "word": "conception",
-    "value": 5
+    "value": 5,
+    "translation": "concepción"
   },
   {
     "word": "matter",
-    "value": 5
+    "value": 5,
+    "translation": "asunto"
   },
   {
     "word": "crowd",
-    "value": 4
+    "value": 4,
+    "translation": "multitud"
   },
   {
     "word": "time",
-    "value": 4
+    "value": 4,
+    "translation": "tiempo"
   },
   {
     "word": "sketch",
-    "value": 4
+    "value": 4,
+    "translation": "boceto"
   },
   {
     "word": "portrait",
-    "value": 4
+    "value": 4,
+    "translation": "retrato"
   },
   {
     "word": "scaffold",
-    "value": 3
+    "value": 3,
+    "translation": "andamio"
   },
   {
     "word": "check",
-    "value": 3
+    "value": 3,
+    "translation": "verificar"
   },
   {
     "word": "panel",
-    "value": 3
+    "value": 3,
+    "translation": "panel"
   },
   {
     "word": "art",
-    "value": 3
+    "value": 3,
+    "translation": "arte"
   },
   {
     "word": "agent",
-    "value": 3
+    "value": 3,
+    "translation": "agente"
   },
   {
     "word": "force",
-    "value": 3
+    "value": 3,
+    "translation": "fuerza"
   },
   {
     "word": "color",
-    "value": 3
+    "value": 3,
+    "translation": "color"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "situation",
-    "value": 3
+    "value": 3,
+    "translation": "situación"
   },
   {
     "word": "feeling",
-    "value": 3
+    "value": 3,
+    "translation": "sentimiento"
   },
   {
     "word": "leader",
-    "value": 3
+    "value": 3,
+    "translation": "líder"
   },
   {
     "word": "place",
-    "value": 3
+    "value": 3,
+    "translation": "lugar"
   },
   {
     "word": "last night",
-    "value": 2
+    "value": 2,
+    "translation": "anoche"
   },
   {
     "word": "story",
-    "value": 2
+    "value": 2,
+    "translation": "historia"
   },
   {
     "word": "painter",
-    "value": 2
+    "value": 2,
+    "translation": "pintor"
   },
   {
     "word": "family",
-    "value": 2
+    "value": 2,
+    "translation": "familia"
   },
   {
     "word": "assistant",
-    "value": 2
+    "value": 2,
+    "translation": "asistente"
   },
   {
     "word": "friend",
-    "value": 2
+    "value": 2,
+    "translation": "amigo"
   },
   {
     "word": "regret",
-    "value": 2
+    "value": 2,
+    "translation": "arrepentimiento"
   },
   {
     "word": "compromise",
-    "value": 2
+    "value": 2,
+    "translation": "compromiso"
   },
   {
     "word": "behalf",
-    "value": 2
+    "value": 2,
+    "translation": "nombre"
   },
   {
     "word": "demonstration",
-    "value": 2
+    "value": 2,
+    "translation": "manifestación"
   },
   {
     "word": "front",
-    "value": 2
+    "value": 2,
+    "translation": "frente"
   },
   {
     "word": "demonstrator",
-    "value": 2
+    "value": 2,
+    "translation": "manifestante"
   },
   {
     "word": "policeman",
-    "value": 2
+    "value": 2,
+    "translation": "policía"
   },
   {
     "word": "side",
-    "value": 2
+    "value": 2,
+    "translation": "lado"
   },
   {
     "word": "door",
-    "value": 2
+    "value": 2,
+    "translation": "puerta"
   },
   {
     "word": "nature",
-    "value": 2
+    "value": 2,
+    "translation": "naturaleza"
   },
   {
     "word": "decoration",
-    "value": 2
+    "value": 2,
+    "translation": "decoración"
   },
   {
     "word": "right",
-    "value": 2
+    "value": 2,
+    "translation": "derecho"
   },
   {
     "word": "mankind",
-    "value": 2
+    "value": 2,
+    "translation": "humanidad"
   },
   {
     "word": "hand",
-    "value": 2
+    "value": 2,
+    "translation": "mano"
   },
   {
     "word": "background",
-    "value": 2
+    "value": 2,
+    "translation": "fondo"
   },
   {
     "word": "circumstance",
-    "value": 2
+    "value": 2,
+    "translation": "circunstancia"
   },
   {
     "word": "yesterday",
-    "value": 2
+    "value": 2,
+    "translation": "ayer"
   }
 ]
