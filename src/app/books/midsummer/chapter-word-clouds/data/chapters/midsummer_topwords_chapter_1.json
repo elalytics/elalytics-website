@@ -1,202 +1,252 @@
 [
   {
     "word": "love",
-    "value": 17
+    "value": 17,
+    "translation": "amor"
   },
   {
     "word": "eye",
-    "value": 11
+    "value": 11,
+    "translation": "ojo"
   },
   {
     "word": "father",
-    "value": 8
+    "value": 8,
+    "translation": "padre"
   },
   {
     "word": "man",
-    "value": 7
+    "value": 7,
+    "translation": "hombre"
   },
   {
     "word": "night",
-    "value": 7
+    "value": 7,
+    "translation": "noche"
   },
   {
     "word": "moon",
-    "value": 5
+    "value": 5,
+    "translation": "luna"
   },
   {
     "word": "child",
-    "value": 5
+    "value": 5,
+    "translation": "niño"
   },
   {
     "word": "hermia",
-    "value": 5
+    "value": 5,
+    "translation": "Hermia"
   },
   {
     "word": "morrow",
-    "value": 5
+    "value": 5,
+    "translation": "mañana"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "día"
   },
   {
     "word": "time",
-    "value": 4
+    "value": 4,
+    "translation": "tiempo"
   },
   {
     "word": "death",
-    "value": 4
+    "value": 4,
+    "translation": "muerte"
   },
   {
     "word": "choice",
-    "value": 4
+    "value": 4,
+    "translation": "elección"
   },
   {
     "word": "life",
-    "value": 4
+    "value": 4,
+    "translation": "vida"
   },
   {
     "word": "mind",
-    "value": 4
+    "value": 4,
+    "translation": "mente"
   },
   {
     "word": "desire",
-    "value": 3
+    "value": 3,
+    "translation": "deseo"
   },
   {
     "word": "youth",
-    "value": 3
+    "value": 3,
+    "translation": "juventud"
   },
   {
     "word": "duke",
-    "value": 3
+    "value": 3,
+    "translation": "duque"
   },
   {
     "word": "daughter",
-    "value": 3
+    "value": 3,
+    "translation": "hija"
   },
   {
     "word": "voice",
-    "value": 3
+    "value": 3,
+    "translation": "voz"
   },
   {
     "word": "grace",
-    "value": 3
+    "value": 3,
+    "translation": "gracia"
   },
   {
     "word": "law",
-    "value": 3
+    "value": 3,
+    "translation": "ley"
   },
   {
     "word": "power",
-    "value": 3
+    "value": 3,
+    "translation": "poder"
   },
   {
     "word": "blood",
-    "value": 3
+    "value": 3,
+    "translation": "sangre"
   },
   {
     "word": "right",
-    "value": 3
+    "value": 3,
+    "translation": "derecho"
   },
   {
     "word": "dote",
-    "value": 3
+    "value": 3,
+    "translation": "adorar"
   },
   {
     "word": "lover",
-    "value": 3
+    "value": 3,
+    "translation": "amante"
   },
   {
     "word": "place",
-    "value": 3
+    "value": 3,
+    "translation": "lugar"
   },
   {
     "word": "wood",
-    "value": 3
+    "value": 3,
+    "translation": "bosque"
   },
   {
     "word": "tongue",
-    "value": 3
+    "value": 3,
+    "translation": "lengua"
   },
   {
     "word": "dowager",
-    "value": 2
+    "value": 2,
+    "translation": "viuda"
   },
   {
     "word": "revenue",
-    "value": 2
+    "value": 2,
+    "translation": "ingreso"
   },
   {
     "word": "bow",
-    "value": 2
+    "value": 2,
+    "translation": "arco"
   },
   {
     "word": "heaven",
-    "value": 2
+    "value": 2,
+    "translation": "cielo"
   },
   {
     "word": "philostrate",
-    "value": 2
+    "value": 2,
+    "translation": "Filóstrato"
   },
   {
     "word": "pomp",
-    "value": 2
+    "value": 2,
+    "translation": "pompa"
   },
   {
     "word": "exit",
-    "value": 2
+    "value": 2,
+    "translation": "salida"
   },
   {
     "word": "thank",
-    "value": 2
+    "value": 2,
+    "translation": "gracias"
   },
   {
     "word": "lord",
-    "value": 2
+    "value": 2,
+    "translation": "señor"
   },
   {
     "word": "bosom",
-    "value": 2
+    "value": 2,
+    "translation": "seno"
   },
   {
     "word": "hast",
-    "value": 2
+    "value": 2,
+    "translation": "tienes"
   },
   {
     "word": "heart",
-    "value": 2
+    "value": 2,
+    "translation": "corazón"
   },
   {
     "word": "turn\u2019d",
-    "value": 2
+    "value": 2,
+    "translation": "turn\u2019d"
   },
   {
     "word": "gentleman",
-    "value": 2
+    "value": 2,
+    "translation": "caballero"
   },
   {
     "word": "case",
-    "value": 2
+    "value": 2,
+    "translation": "caso"
   },
   {
     "word": "beauty",
-    "value": 2
+    "value": 2,
+    "translation": "belleza"
   },
   {
     "word": "form",
-    "value": 2
+    "value": 2,
+    "translation": "forma"
   },
   {
     "word": "look\u2019d",
-    "value": 2
+    "value": 2,
+    "translation": "look\u2019d"
   },
   {
     "word": "thought",
-    "value": 2
+    "value": 2,
+    "translation": "pensamiento"
   },
   {
     "word": "aye",
-    "value": 2
+    "value": 2,
+    "translation": "sí"
   }
 ]

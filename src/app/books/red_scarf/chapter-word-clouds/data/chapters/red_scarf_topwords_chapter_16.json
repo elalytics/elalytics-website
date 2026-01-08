@@ -1,202 +1,252 @@
 [
   {
     "word": "rice",
-    "value": 14
+    "value": 14,
+    "translation": "arroz"
   },
   {
     "word": "hand",
-    "value": 11
+    "value": 11,
+    "translation": "mano"
   },
   {
     "word": "work",
-    "value": 9
+    "value": 9,
+    "translation": "trabajar/funcionar"
   },
   {
     "word": "row",
-    "value": 9
+    "value": 9,
+    "translation": "fila"
   },
   {
     "word": "eye",
-    "value": 9
+    "value": 9,
+    "translation": "ojo"
   },
   {
     "word": "family",
-    "value": 8
+    "value": 8,
+    "translation": "familia"
   },
   {
     "word": "field",
-    "value": 8
+    "value": 8,
+    "translation": "campo"
   },
   {
     "word": "voice",
-    "value": 7
+    "value": 7,
+    "translation": "voz"
   },
   {
     "word": "face",
-    "value": 7
+    "value": 7,
+    "translation": "cara/rostro"
   },
   {
     "word": "sickle",
-    "value": 6
+    "value": 6,
+    "translation": "hoz"
   },
   {
     "word": "sun",
-    "value": 5
+    "value": 5,
+    "translation": "sol"
   },
   {
     "word": "back",
-    "value": 5
+    "value": 5,
+    "translation": "espalda/atr\u00e1s"
   },
   {
     "word": "sweat",
-    "value": 5
+    "value": 5,
+    "translation": "sudor"
   },
   {
     "word": "day",
-    "value": 5
+    "value": 5,
+    "translation": "d\u00eda"
   },
   {
     "word": "rush",
-    "value": 5
+    "value": 5,
+    "translation": "prisa/junco"
   },
   {
     "word": "morning",
-    "value": 5
+    "value": 5,
+    "translation": "ma\u00f1ana"
   },
   {
     "word": "body",
-    "value": 5
+    "value": 5,
+    "translation": "cuerpo"
   },
   {
     "word": "one",
-    "value": 5
+    "value": 5,
+    "translation": "uno"
   },
   {
     "word": "bundle",
-    "value": 5
+    "value": 5,
+    "translation": "fajo/paquete"
   },
   {
     "word": "office",
-    "value": 4
+    "value": 4,
+    "translation": "oficina"
   },
   {
     "word": "poster",
-    "value": 4
+    "value": 4,
+    "translation": "p\u00f3ster/cartel"
   },
   {
     "word": "time",
-    "value": 4
+    "value": 4,
+    "translation": "tiempo"
   },
   {
     "word": "summer",
-    "value": 4
+    "value": 4,
+    "translation": "verano"
   },
   {
     "word": "labor",
-    "value": 4
+    "value": 4,
+    "translation": "trabajo/labor"
   },
   {
     "word": "factory",
-    "value": 4
+    "value": 4,
+    "translation": "f\u00e1brica"
   },
   {
     "word": "people",
-    "value": 4
+    "value": 4,
+    "translation": "gente/personas"
   },
   {
     "word": "mat",
-    "value": 4
+    "value": 4,
+    "translation": "estera"
   },
   {
     "word": "plant",
-    "value": 4
+    "value": 4,
+    "translation": "planta"
   },
   {
     "word": "leg",
-    "value": 4
+    "value": 4,
+    "translation": "pierna"
   },
   {
     "word": "head",
-    "value": 4
+    "value": 4,
+    "translation": "cabeza"
   },
   {
     "word": "exhibition",
-    "value": 3
+    "value": 3,
+    "translation": "exposici\u00f3n"
   },
   {
     "word": "floor",
-    "value": 3
+    "value": 3,
+    "translation": "piso/suelo"
   },
   {
     "word": "water",
-    "value": 3
+    "value": 3,
+    "translation": "agua"
   },
   {
     "word": "brother",
-    "value": 3
+    "value": 3,
+    "translation": "hermano"
   },
   {
     "word": "countryside",
-    "value": 3
+    "value": 3,
+    "translation": "campo"
   },
   {
     "word": "year",
-    "value": 3
+    "value": 3,
+    "translation": "a\u00f1o"
   },
   {
     "word": "arm",
-    "value": 3
+    "value": 3,
+    "translation": "brazo"
   },
   {
     "word": "difficulty",
-    "value": 3
+    "value": 3,
+    "translation": "dificultad"
   },
   {
     "word": "child",
-    "value": 3
+    "value": 3,
+    "translation": "ni\u00f1o/hijo"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "straw",
-    "value": 3
+    "value": 3,
+    "translation": "paja"
   },
   {
     "word": "step",
-    "value": 3
+    "value": 3,
+    "translation": "pisar/dar un paso"
   },
   {
     "word": "minute",
-    "value": 3
+    "value": 3,
+    "translation": "minuto"
   },
   {
     "word": "front",
-    "value": 3
+    "value": 3,
+    "translation": "frente"
   },
   {
     "word": "towel",
-    "value": 3
+    "value": 3,
+    "translation": "toalla"
   },
   {
     "word": "thresher",
-    "value": 3
+    "value": 3,
+    "translation": "trilladora"
   },
   {
     "word": "school",
-    "value": 2
+    "value": 2,
+    "translation": "escuela"
   },
   {
     "word": "shade",
-    "value": 2
+    "value": 2,
+    "translation": "sombra"
   },
   {
     "word": "building",
-    "value": 2
+    "value": 2,
+    "translation": "edificio"
   },
   {
     "word": "air",
-    "value": 2
+    "value": 2,
+    "translation": "aire"
   }
 ]

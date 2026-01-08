@@ -1,152 +1,152 @@
 [
   {
-    "word": "eloy",
-    "category": "PROPN",
-    "value": 7,
-    "translation": "eloy"
-  },
-  {
-    "word": "shu",
-    "category": "PROPN",
-    "value": 6,
-    "translation": "shu"
-  },
-  {
-    "word": "fiji",
-    "category": "PROPN",
-    "value": 5,
-    "translation": "fiji"
-  },
-  {
-    "word": "los estados unidos",
-    "category": "PROPN",
-    "value": 3,
-    "translation": "United States"
-  },
-  {
-    "word": "mike",
-    "category": "PROPN",
-    "value": 2,
-    "translation": "mike"
+    "word": "llamar",
+    "category": "VERB",
+    "value": 13,
+    "translation": "to call"
   },
   {
     "word": "tener",
     "category": "VERB",
-    "value": 16,
-    "translation": "have"
+    "value": 9,
+    "translation": "to have"
   },
   {
-    "word": "salir",
+    "word": "hablar",
     "category": "VERB",
     "value": 8,
-    "translation": "exit"
+    "translation": "to speak"
   },
   {
-    "word": "empezar",
+    "word": "decir",
+    "category": "VERB",
+    "value": 8,
+    "translation": "to say"
+  },
+  {
+    "word": "querer",
     "category": "VERB",
     "value": 7,
-    "translation": "begin"
+    "translation": "to want"
   },
   {
-    "word": "ir",
-    "category": "VERB",
-    "value": 6,
-    "translation": "go"
+    "word": "ingl\u00e9s",
+    "category": "NOUN",
+    "value": 12,
+    "translation": "English"
   },
   {
-    "word": "venir",
-    "category": "VERB",
-    "value": 5,
-    "translation": "come"
-  },
-  {
-    "word": "detenci\u00f3n",
+    "word": "pap\u00e1",
     "category": "NOUN",
     "value": 9,
-    "translation": "detention"
-  },
-  {
-    "word": "cosa",
-    "category": "NOUN",
-    "value": 9,
-    "translation": "thing"
-  },
-  {
-    "word": "centro",
-    "category": "NOUN",
-    "value": 8,
-    "translation": "center"
+    "translation": "dad"
   },
   {
     "word": "a\u00f1o",
     "category": "NOUN",
-    "value": 8,
+    "value": 7,
     "translation": "year"
   },
   {
     "word": "tiempo",
     "category": "NOUN",
-    "value": 8,
+    "value": 7,
     "translation": "time"
   },
   {
-    "word": "juvenil",
-    "category": "ADJ",
-    "value": 5,
-    "translation": "youth"
+    "word": "cosa",
+    "category": "NOUN",
+    "value": 6,
+    "translation": "thing"
   },
   {
-    "word": "malo",
-    "category": "ADJ",
-    "value": 5,
-    "translation": "bad"
-  },
-  {
-    "word": "extra\u00f1o",
-    "category": "ADJ",
+    "word": "nom\u00e1s",
+    "category": "ADV",
     "value": 3,
-    "translation": "strange"
+    "translation": "just"
   },
   {
-    "word": "cool",
-    "category": "ADJ",
-    "value": 3,
-    "translation": "cool"
-  },
-  {
-    "word": "aislado",
-    "category": "ADJ",
-    "value": 3,
-    "translation": "isolated"
-  },
-  {
-    "word": "eboys",
+    "word": "directamente",
     "category": "ADV",
     "value": 2,
-    "translation": "eboys"
+    "translation": "directly"
   },
   {
-    "word": "\u00faltimamente",
+    "word": "especialmente",
     "category": "ADV",
     "value": 2,
-    "translation": "lately"
+    "translation": "especially"
   },
   {
-    "word": "mos",
+    "word": "igualmente",
     "category": "ADV",
-    "value": 1,
-    "translation": "mos"
+    "value": 2,
+    "translation": "equally"
   },
   {
-    "word": "probablemente",
+    "word": "personalmente",
     "category": "ADV",
     "value": 1,
-    "translation": "probably"
+    "translation": "personally"
   },
   {
-    "word": "simplemente",
-    "category": "ADV",
-    "value": 1,
-    "translation": "simply"
+    "word": "los estados unidos",
+    "category": "PROPN",
+    "value": 7,
+    "translation": "the United States"
+  },
+  {
+    "word": "m\u00e9xico",
+    "category": "PROPN",
+    "value": 6,
+    "translation": "Mexico"
+  },
+  {
+    "word": "high school",
+    "category": "PROPN",
+    "value": 6,
+    "translation": "high school"
+  },
+  {
+    "word": "tijuana",
+    "category": "PROPN",
+    "value": 4,
+    "translation": "Tijuana"
+  },
+  {
+    "word": "oeste",
+    "category": "PROPN",
+    "value": 3,
+    "translation": "West"
+  },
+  {
+    "word": "poquito",
+    "category": "ADJ",
+    "value": 7,
+    "translation": "a little bit"
+  },
+  {
+    "word": "dif\u00edcil",
+    "category": "ADJ",
+    "value": 7,
+    "translation": "difficult"
+  },
+  {
+    "word": "feliz",
+    "category": "ADJ",
+    "value": 3,
+    "translation": "happy"
+  },
+  {
+    "word": "chistoso",
+    "category": "ADJ",
+    "value": 3,
+    "translation": "funny"
+  },
+  {
+    "word": "educativo",
+    "category": "ADJ",
+    "value": 3,
+    "translation": "educational"
   }
 ]

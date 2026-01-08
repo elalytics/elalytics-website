@@ -1,202 +1,252 @@
 [
   {
     "word": "mother",
-    "value": 13
+    "value": 13,
+    "translation": "madre"
   },
   {
     "word": "school",
-    "value": 12
+    "value": 12,
+    "translation": "escuela"
   },
   {
     "word": "eye",
-    "value": 11
+    "value": 11,
+    "translation": "ojo"
   },
   {
     "word": "fate",
-    "value": 10
+    "value": 10,
+    "translation": "destino"
   },
   {
     "word": "teacher",
-    "value": 9
+    "value": 9,
+    "translation": "maestro/profesor"
   },
   {
     "word": "father",
-    "value": 9
+    "value": 9,
+    "translation": "padre"
   },
   {
     "word": "face",
-    "value": 8
+    "value": 8,
+    "translation": "cara/rostro"
   },
   {
     "word": "time",
-    "value": 7
+    "value": 7,
+    "translation": "tiempo"
   },
   {
     "word": "window",
-    "value": 7
+    "value": 7,
+    "translation": "ventana"
   },
   {
     "word": "year",
-    "value": 6
+    "value": 6,
+    "translation": "a\u00f1o"
   },
   {
     "word": "meeting",
-    "value": 5
+    "value": 5,
+    "translation": "reuni\u00f3n"
   },
   {
     "word": "day",
-    "value": 5
+    "value": 5,
+    "translation": "d\u00eda"
   },
   {
     "word": "head",
-    "value": 5
+    "value": 5,
+    "translation": "cabeza"
   },
   {
     "word": "alley",
-    "value": 5
+    "value": 5,
+    "translation": "callej\u00f3n"
   },
   {
     "word": "front",
-    "value": 5
+    "value": 5,
+    "translation": "frente"
   },
   {
     "word": "schoolbag",
-    "value": 5
+    "value": 5,
+    "translation": "mochila"
   },
   {
     "word": "truck",
-    "value": 5
+    "value": 5,
+    "translation": "cami\u00f3n"
   },
   {
     "word": "paper",
-    "value": 5
+    "value": 5,
+    "translation": "papel"
   },
   {
     "word": "struggle",
-    "value": 4
+    "value": 4,
+    "translation": "lucha"
   },
   {
     "word": "sign",
-    "value": 4
+    "value": 4,
+    "translation": "letrero/se\u00f1al"
   },
   {
     "word": "broom",
-    "value": 4
+    "value": 4,
+    "translation": "escoba"
   },
   {
     "word": "hand",
-    "value": 4
+    "value": 4,
+    "translation": "mano"
   },
   {
     "word": "step",
-    "value": 4
+    "value": 4,
+    "translation": "pisar/dar un paso"
   },
   {
     "word": "crowd",
-    "value": 4
+    "value": 4,
+    "translation": "multitud"
   },
   {
     "word": "body",
-    "value": 4
+    "value": 4,
+    "translation": "cuerpo"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "handkerchief",
-    "value": 4
+    "value": 4,
+    "translation": "pa\u00f1uelo"
   },
   {
     "word": "chimney",
-    "value": 4
+    "value": 4,
+    "translation": "chimenea"
   },
   {
     "word": "class",
-    "value": 3
+    "value": 3,
+    "translation": "clase"
   },
   {
     "word": "revolution",
-    "value": 3
+    "value": 3,
+    "translation": "revoluci\u00f3n"
   },
   {
     "word": "sister",
-    "value": 3
+    "value": 3,
+    "translation": "hermana"
   },
   {
     "word": "student",
-    "value": 3
+    "value": 3,
+    "translation": "estudiante"
   },
   {
     "word": "hair",
-    "value": 3
+    "value": 3,
+    "translation": "cabello/pelo"
   },
   {
     "word": "family",
-    "value": 3
+    "value": 3,
+    "translation": "familia"
   },
   {
     "word": "room",
-    "value": 3
+    "value": 3,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "voice",
-    "value": 3
+    "value": 3,
+    "translation": "voz"
   },
   {
     "word": "executioner",
-    "value": 3
+    "value": 3,
+    "translation": "verdugo"
   },
   {
     "word": "neck",
-    "value": 3
+    "value": 3,
+    "translation": "cuello"
   },
   {
     "word": "man",
-    "value": 3
+    "value": 3,
+    "translation": "hombre"
   },
   {
     "word": "wheel",
-    "value": 3
+    "value": 3,
+    "translation": "rueda"
   },
   {
     "word": "turn",
-    "value": 3
+    "value": 3,
+    "translation": "girar/voltear"
   },
   {
     "word": "word",
-    "value": 3
+    "value": 3,
+    "translation": "palabra"
   },
   {
     "word": "air",
-    "value": 3
+    "value": 3,
+    "translation": "aire"
   },
   {
     "word": "one",
-    "value": 2
+    "value": 2,
+    "translation": "uno"
   },
   {
     "word": "wall",
-    "value": 2
+    "value": 2,
+    "translation": "pared/muro"
   },
   {
     "word": "capitalist",
-    "value": 2
+    "value": 2,
+    "translation": "capitalista"
   },
   {
     "word": "monster",
-    "value": 2
+    "value": 2,
+    "translation": "monstruo"
   },
   {
     "word": "afternoon",
-    "value": 2
+    "value": 2,
+    "translation": "tarde"
   },
   {
     "word": "street",
-    "value": 2
+    "value": 2,
+    "translation": "calle"
   },
   {
     "word": "woman",
-    "value": 2
+    "value": 2,
+    "translation": "mujer"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 71
+    "value": 71,
+    "translation": "ser/estar"
   },
   {
     "word": "have",
-    "value": 28
+    "value": 28,
+    "translation": "tener"
   },
   {
     "word": "do",
-    "value": 11
+    "value": 11,
+    "translation": "hacer"
   },
   {
     "word": "work",
-    "value": 8
+    "value": 8,
+    "translation": "trabajar/funcionar"
   },
   {
     "word": "learn",
-    "value": 6
+    "value": 6,
+    "translation": "aprender"
   },
   {
     "word": "know",
-    "value": 6
+    "value": 6,
+    "translation": "saber/conocer"
   },
   {
     "word": "go",
-    "value": 5
+    "value": 5,
+    "translation": "ir"
   },
   {
     "word": "believe",
-    "value": 5
+    "value": 5,
+    "translation": "creer"
   },
   {
     "word": "take",
-    "value": 5
+    "value": 5,
+    "translation": "tomar/llevar"
   },
   {
     "word": "can",
-    "value": 5
+    "value": 5,
+    "translation": "poder"
   },
   {
     "word": "would",
-    "value": 5
+    "value": 5,
+    "translation": "har\u00eda/ser\u00eda"
   },
   {
     "word": "start",
-    "value": 4
+    "value": 4,
+    "translation": "empezar/comenzar"
   },
   {
     "word": "move",
-    "value": 4
+    "value": 4,
+    "translation": "mover(se)"
   },
   {
     "word": "become",
-    "value": 4
+    "value": 4,
+    "translation": "convertirse/volverse"
   },
   {
     "word": "feel",
-    "value": 4
+    "value": 4,
+    "translation": "sentir"
   },
   {
     "word": "hate",
-    "value": 3
+    "value": 3,
+    "translation": "odiar"
   },
   {
     "word": "write",
-    "value": 3
+    "value": 3,
+    "translation": "escribir"
   },
   {
     "word": "tell",
-    "value": 3
+    "value": 3,
+    "translation": "decir/contar"
   },
   {
     "word": "happen",
-    "value": 3
+    "value": 3,
+    "translation": "suceder/pasar"
   },
   {
     "word": "persecute",
-    "value": 3
+    "value": 3,
+    "translation": "perseguir"
   },
   {
     "word": "think",
-    "value": 3
+    "value": 3,
+    "translation": "pensar"
   },
   {
     "word": "lose",
-    "value": 3
+    "value": 3,
+    "translation": "perder"
   },
   {
     "word": "return",
-    "value": 3
+    "value": 3,
+    "translation": "regresar/devolver"
   },
   {
     "word": "make",
-    "value": 3
+    "value": 3,
+    "translation": "hacer"
   },
   {
     "word": "die",
-    "value": 3
+    "value": 3,
+    "translation": "morir"
   },
   {
     "word": "enjoy",
-    "value": 3
+    "value": 3,
+    "translation": "disfrutar"
   },
   {
     "word": "see",
-    "value": 3
+    "value": 3,
+    "translation": "ver"
   },
   {
     "word": "will",
-    "value": 3
+    "value": 3,
+    "translation": "har\u00e1/ser\u00e1"
   },
   {
     "word": "ask",
-    "value": 2
+    "value": 2,
+    "translation": "preguntar"
   },
   {
     "word": "hear",
-    "value": 2
+    "value": 2,
+    "translation": "o\u00edr/escuchar"
   },
   {
     "word": "force",
-    "value": 2
+    "value": 2,
+    "translation": "forzar"
   },
   {
     "word": "prevent",
-    "value": 2
+    "value": 2,
+    "translation": "prevenir"
   },
   {
     "word": "come",
-    "value": 2
+    "value": 2,
+    "translation": "venir"
   },
   {
     "word": "change",
-    "value": 2
+    "value": 2,
+    "translation": "cambiar"
   },
   {
     "word": "detain",
-    "value": 2
+    "value": 2,
+    "translation": "detener"
   },
   {
     "word": "deny",
-    "value": 2
+    "value": 2,
+    "translation": "negar"
   },
   {
     "word": "express",
-    "value": 2
+    "value": 2,
+    "translation": "expresar"
   },
   {
     "word": "love",
-    "value": 2
+    "value": 2,
+    "translation": "amar"
   },
   {
     "word": "could",
-    "value": 2
+    "value": 2,
+    "translation": "podr\u00eda"
   },
   {
     "word": "live",
-    "value": 2
+    "value": 2,
+    "translation": "vivir"
   },
   {
     "word": "help",
-    "value": 2
+    "value": 2,
+    "translation": "ayudar"
   },
   {
     "word": "send",
-    "value": 2
+    "value": 2,
+    "translation": "enviar/mandar"
   },
   {
     "word": "suppose",
-    "value": 2
+    "value": 2,
+    "translation": "suponer"
   },
   {
     "word": "criticize",
-    "value": 2
+    "value": 2,
+    "translation": "criticar"
   },
   {
     "word": "realize",
-    "value": 2
+    "value": 2,
+    "translation": "darse cuenta"
   },
   {
     "word": "brainwash",
-    "value": 1
+    "value": 1,
+    "translation": "lavar el cerebro"
   },
   {
     "word": "control",
-    "value": 1
+    "value": 1,
+    "translation": "controlar"
   },
   {
     "word": "read",
-    "value": 1
+    "value": 1,
+    "translation": "leer"
   },
   {
     "word": "say",
-    "value": 1
+    "value": 1,
+    "translation": "decir"
   },
   {
     "word": "climb",
-    "value": 1
+    "value": 1,
+    "translation": "escalar/subir"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "picture",
-    "value": 13
+    "value": 13,
+    "translation": "imagen/foto"
   },
   {
     "word": "cap",
-    "value": 13
+    "value": 13,
+    "translation": "gorra"
   },
   {
     "word": "floor",
-    "value": 12
+    "value": 12,
+    "translation": "piso/suelo"
   },
   {
     "word": "time",
-    "value": 11
+    "value": 11,
+    "translation": "tiempo"
   },
   {
     "word": "park",
-    "value": 10
+    "value": 10,
+    "translation": "parque"
   },
   {
     "word": "stamp",
-    "value": 10
+    "value": 10,
+    "translation": "estampilla/sello"
   },
   {
     "word": "house",
-    "value": 9
+    "value": 9,
+    "translation": "casa"
   },
   {
     "word": "day",
-    "value": 9
+    "value": 9,
+    "translation": "d\u00eda"
   },
   {
     "word": "thing",
-    "value": 8
+    "value": 8,
+    "translation": "cosa"
   },
   {
     "word": "family",
-    "value": 8
+    "value": 8,
+    "translation": "familia"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "door",
-    "value": 8
+    "value": 8,
+    "translation": "puerta"
   },
   {
     "word": "album",
-    "value": 8
+    "value": 8,
+    "translation": "\u00e1lbum"
   },
   {
     "word": "mom",
-    "value": 7
+    "value": 7,
+    "translation": "mam\u00e1"
   },
   {
     "word": "landlord",
-    "value": 7
+    "value": 7,
+    "translation": "terrateniente"
   },
   {
     "word": "army",
-    "value": 7
+    "value": 7,
+    "translation": "ej\u00e9rcito"
   },
   {
     "word": "boy",
-    "value": 7
+    "value": 7,
+    "translation": "ni\u00f1o/muchacho"
   },
   {
     "word": "chest",
-    "value": 7
+    "value": 7,
+    "translation": "pecho/cofre"
   },
   {
     "word": "apartment",
-    "value": 6
+    "value": 6,
+    "translation": "apartamento"
   },
   {
     "word": "bench",
-    "value": 6
+    "value": 6,
+    "translation": "banco/banca"
   },
   {
     "word": "head",
-    "value": 6
+    "value": 6,
+    "translation": "cabeza"
   },
   {
     "word": "one",
-    "value": 6
+    "value": 6,
+    "translation": "uno"
   },
   {
     "word": "friend",
-    "value": 6
+    "value": 6,
+    "translation": "amigo"
   },
   {
     "word": "home",
-    "value": 6
+    "value": 6,
+    "translation": "hogar/casa"
   },
   {
     "word": "bathroom",
-    "value": 6
+    "value": 6,
+    "translation": "ba\u00f1o"
   },
   {
     "word": "drawer",
-    "value": 6
+    "value": 6,
+    "translation": "caj\u00f3n"
   },
   {
     "word": "wife",
-    "value": 5
+    "value": 5,
+    "translation": "esposa"
   },
   {
     "word": "bed",
-    "value": 5
+    "value": 5,
+    "translation": "cama"
   },
   {
     "word": "book",
-    "value": 5
+    "value": 5,
+    "translation": "libro"
   },
   {
     "word": "face",
-    "value": 5
+    "value": 5,
+    "translation": "cara/rostro"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "father",
-    "value": 5
+    "value": 5,
+    "translation": "padre"
   },
   {
     "word": "foot",
-    "value": 5
+    "value": 5,
+    "translation": "pie"
   },
   {
     "word": "girl",
-    "value": 5
+    "value": 5,
+    "translation": "ni\u00f1a/muchacha"
   },
   {
     "word": "fire",
-    "value": 5
+    "value": 5,
+    "translation": "[traducci\u00f3n de 'fire']"
   },
   {
     "word": "camel",
-    "value": 5
+    "value": 5,
+    "translation": "camello"
   },
   {
     "word": "weapon",
-    "value": 5
+    "value": 5,
+    "translation": "arma"
   },
   {
     "word": "child",
-    "value": 4
+    "value": 4,
+    "translation": "ni\u00f1o/hijo"
   },
   {
     "word": "voice",
-    "value": 4
+    "value": 4,
+    "translation": "voz"
   },
   {
     "word": "place",
-    "value": 4
+    "value": 4,
+    "translation": "lugar"
   },
   {
     "word": "people",
-    "value": 4
+    "value": 4,
+    "translation": "gente/personas"
   },
   {
     "word": "knitting",
-    "value": 4
+    "value": 4,
+    "translation": "tejido"
   },
   {
     "word": "mop",
-    "value": 4
+    "value": 4,
+    "translation": "trapeador"
   },
   {
     "word": "year",
-    "value": 4
+    "value": 4,
+    "translation": "a\u00f1o"
   },
   {
     "word": "neighbor",
-    "value": 4
+    "value": 4,
+    "translation": "vecino"
   },
   {
     "word": "room",
-    "value": 4
+    "value": 4,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "fourold",
-    "value": 4
+    "value": 4,
+    "translation": "cuatro viejos"
   },
   {
     "word": "glass",
-    "value": 4
+    "value": 4,
+    "translation": "vidrio/vaso"
   },
   {
     "word": "month",
-    "value": 3
+    "value": 3,
+    "translation": "mes"
   },
   {
     "word": "lunch",
-    "value": 3
+    "value": 3,
+    "translation": "almuerzo"
   }
 ]

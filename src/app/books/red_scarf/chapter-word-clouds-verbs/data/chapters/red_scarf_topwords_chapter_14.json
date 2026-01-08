@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 69
+    "value": 69,
+    "translation": "ser/estar"
   },
   {
     "word": "have",
-    "value": 47
+    "value": 47,
+    "translation": "tener"
   },
   {
     "word": "do",
-    "value": 25
+    "value": 25,
+    "translation": "hacer"
   },
   {
     "word": "come",
-    "value": 18
+    "value": 18,
+    "translation": "venir"
   },
   {
     "word": "say",
-    "value": 17
+    "value": 17,
+    "translation": "decir"
   },
   {
     "word": "look",
-    "value": 15
+    "value": 15,
+    "translation": "mirar"
   },
   {
     "word": "go",
-    "value": 13
+    "value": 13,
+    "translation": "ir"
   },
   {
     "word": "want",
-    "value": 12
+    "value": 12,
+    "translation": "querer"
   },
   {
     "word": "could",
-    "value": 12
+    "value": 12,
+    "translation": "podr\u00eda"
   },
   {
     "word": "see",
-    "value": 11
+    "value": 11,
+    "translation": "ver"
   },
   {
     "word": "turn",
-    "value": 9
+    "value": 9,
+    "translation": "girar/voltear"
   },
   {
     "word": "tell",
-    "value": 9
+    "value": 9,
+    "translation": "decir/contar"
   },
   {
     "word": "make",
-    "value": 8
+    "value": 8,
+    "translation": "hacer"
   },
   {
     "word": "hear",
-    "value": 7
+    "value": 7,
+    "translation": "o\u00edr/escuchar"
   },
   {
     "word": "walk",
-    "value": 7
+    "value": 7,
+    "translation": "caminar"
   },
   {
     "word": "think",
-    "value": 6
+    "value": 6,
+    "translation": "pensar"
   },
   {
     "word": "stop",
-    "value": 6
+    "value": 6,
+    "translation": "parar/detener"
   },
   {
     "word": "ask",
-    "value": 6
+    "value": 6,
+    "translation": "preguntar"
   },
   {
     "word": "take",
-    "value": 6
+    "value": 6,
+    "translation": "tomar/llevar"
   },
   {
     "word": "change",
-    "value": 6
+    "value": 6,
+    "translation": "cambiar"
   },
   {
     "word": "can",
-    "value": 6
+    "value": 6,
+    "translation": "poder"
   },
   {
     "word": "would",
-    "value": 5
+    "value": 5,
+    "translation": "har\u00eda/ser\u00eda"
   },
   {
     "word": "get",
-    "value": 5
+    "value": 5,
+    "translation": "obtener/conseguir"
   },
   {
     "word": "bring",
-    "value": 4
+    "value": 4,
+    "translation": "traer"
   },
   {
     "word": "give",
-    "value": 4
+    "value": 4,
+    "translation": "dar"
   },
   {
     "word": "seem",
-    "value": 4
+    "value": 4,
+    "translation": "parecer"
   },
   {
     "word": "follow",
-    "value": 4
+    "value": 4,
+    "translation": "seguir"
   },
   {
     "word": "\u2019m",
-    "value": 4
+    "value": 4,
+    "translation": "soy/estoy"
   },
   {
     "word": "know",
-    "value": 4
+    "value": 4,
+    "translation": "saber/conocer"
   },
   {
     "word": "\u2019ll",
-    "value": 4
+    "value": 4,
+    "translation": "har\u00e1/ser\u00e1"
   },
   {
     "word": "choose",
-    "value": 4
+    "value": 4,
+    "translation": "elegir/escoger"
   },
   {
     "word": "listen",
-    "value": 3
+    "value": 3,
+    "translation": "escuchar"
   },
   {
     "word": "detain",
-    "value": 3
+    "value": 3,
+    "translation": "detener"
   },
   {
     "word": "use",
-    "value": 3
+    "value": 3,
+    "translation": "usar"
   },
   {
     "word": "find",
-    "value": 3
+    "value": 3,
+    "translation": "encontrar"
   },
   {
     "word": "buy",
-    "value": 3
+    "value": 3,
+    "translation": "comprar"
   },
   {
     "word": "run",
-    "value": 3
+    "value": 3,
+    "translation": "correr"
   },
   {
     "word": "start",
-    "value": 3
+    "value": 3,
+    "translation": "empezar/comenzar"
   },
   {
     "word": "pick",
-    "value": 3
+    "value": 3,
+    "translation": "escoger/recoger"
   },
   {
     "word": "watch",
-    "value": 3
+    "value": 3,
+    "translation": "mirar/observar"
   },
   {
     "word": "sit",
-    "value": 3
+    "value": 3,
+    "translation": "sentar(se)"
   },
   {
     "word": "call",
-    "value": 3
+    "value": 3,
+    "translation": "llamar"
   },
   {
     "word": "let",
-    "value": 3
+    "value": 3,
+    "translation": "dejar/permitir"
   },
   {
     "word": "talk",
-    "value": 3
+    "value": 3,
+    "translation": "hablar"
   },
   {
     "word": "\u2019",
-    "value": 3
+    "value": 3,
+    "translation": "es/est\u00e1"
   },
   {
     "word": "treat",
-    "value": 2
+    "value": 2,
+    "translation": "tratar"
   },
   {
     "word": "try",
-    "value": 2
+    "value": 2,
+    "translation": "intentar"
   },
   {
     "word": "put",
-    "value": 2
+    "value": 2,
+    "translation": "poner"
   },
   {
     "word": "shout",
-    "value": 2
+    "value": 2,
+    "translation": "gritar"
   },
   {
     "word": "shake",
-    "value": 2
+    "value": 2,
+    "translation": "sacudir/temblar"
   }
 ]

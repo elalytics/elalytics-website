@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 50
+    "value": 50,
+    "translation": "ser"
   },
   {
     "word": "do",
-    "value": 24
+    "value": 24,
+    "translation": "hacer"
   },
   {
     "word": "make",
-    "value": 13
+    "value": 13,
+    "translation": "hacer"
   },
   {
     "word": "have",
-    "value": 10
+    "value": 10,
+    "translation": "tener"
   },
   {
     "word": "will",
-    "value": 9
+    "value": 9,
+    "translation": "voluntad"
   },
   {
     "word": "see",
-    "value": 8
+    "value": 8,
+    "translation": "ver"
   },
   {
     "word": "go",
-    "value": 8
+    "value": 8,
+    "translation": "ir"
   },
   {
     "word": "\u2019ll",
-    "value": 8
+    "value": 8,
+    "translation": "\u2019ll"
   },
   {
     "word": "come",
-    "value": 8
+    "value": 8,
+    "translation": "venir"
   },
   {
     "word": "shall",
-    "value": 8
+    "value": 8,
+    "translation": "deber"
   },
   {
     "word": "can",
-    "value": 7
+    "value": 7,
+    "translation": "poder"
   },
   {
     "word": "know",
-    "value": 6
+    "value": 6,
+    "translation": "saber"
   },
   {
     "word": "follow",
-    "value": 6
+    "value": 6,
+    "translation": "seguir"
   },
   {
     "word": "take",
-    "value": 5
+    "value": 5,
+    "translation": "tomar"
   },
   {
     "word": "fall",
-    "value": 5
+    "value": 5,
+    "translation": "caer"
   },
   {
     "word": "hath",
-    "value": 5
+    "value": 5,
+    "translation": "tiene"
   },
   {
     "word": "look",
-    "value": 5
+    "value": 5,
+    "translation": "mirar"
   },
   {
     "word": "love",
-    "value": 5
+    "value": 5,
+    "translation": "amar"
   },
   {
     "word": "leave",
-    "value": 5
+    "value": 5,
+    "translation": "dejar"
   },
   {
     "word": "meet",
-    "value": 4
+    "value": 4,
+    "translation": "encontrar"
   },
   {
     "word": "give",
-    "value": 4
+    "value": 4,
+    "translation": "dar"
   },
   {
     "word": "pursue",
-    "value": 4
+    "value": 4,
+    "translation": "perseguir"
   },
   {
     "word": "must",
-    "value": 3
+    "value": 3,
+    "translation": "deber"
   },
   {
     "word": "seek",
-    "value": 3
+    "value": 3,
+    "translation": "buscar"
   },
   {
     "word": "steal",
-    "value": 3
+    "value": 3,
+    "translation": "robar"
   },
   {
     "word": "would",
-    "value": 3
+    "value": 3,
+    "translation": "haría"
   },
   {
     "word": "sit",
-    "value": 3
+    "value": 3,
+    "translation": "sentarse"
   },
   {
     "word": "set",
-    "value": 3
+    "value": 3,
+    "translation": "poner"
   },
   {
     "word": "should",
-    "value": 3
+    "value": 3,
+    "translation": "debería"
   },
   {
     "word": "grow",
-    "value": 3
+    "value": 3,
+    "translation": "crecer"
   },
   {
     "word": "fetch",
-    "value": 3
+    "value": 3,
+    "translation": "buscar"
   },
   {
     "word": "stay",
-    "value": 3
+    "value": 3,
+    "translation": "quedarse"
   },
   {
     "word": "fly",
-    "value": 3
+    "value": 3,
+    "translation": "volar"
   },
   {
     "word": "draw",
-    "value": 3
+    "value": 3,
+    "translation": "dibujar"
   },
   {
     "word": "use",
-    "value": 3
+    "value": 3,
+    "translation": "usar"
   },
   {
     "word": "may",
-    "value": 3
+    "value": 3,
+    "translation": "poder"
   },
   {
     "word": "wander",
-    "value": 2
+    "value": 2,
+    "translation": "vagar"
   },
   {
     "word": "doth",
-    "value": 2
+    "value": 2,
+    "translation": "hace"
   },
   {
     "word": "pass",
-    "value": 2
+    "value": 2,
+    "translation": "pasar"
   },
   {
     "word": "hide",
-    "value": 2
+    "value": 2,
+    "translation": "esconder"
   },
   {
     "word": "laugh",
-    "value": 2
+    "value": 2,
+    "translation": "reír"
   },
   {
     "word": "call",
-    "value": 2
+    "value": 2,
+    "translation": "llamar"
   },
   {
     "word": "tell",
-    "value": 2
+    "value": 2,
+    "translation": "contar"
   },
   {
     "word": "hold",
-    "value": 2
+    "value": 2,
+    "translation": "sostener"
   },
   {
     "word": "hast",
-    "value": 2
+    "value": 2,
+    "translation": "tienes"
   },
   {
     "word": "dance",
-    "value": 2
+    "value": 2,
+    "translation": "bailar"
   },
   {
     "word": "lose",
-    "value": 2
+    "value": 2,
+    "translation": "perder"
   },
   {
     "word": "change",
-    "value": 2
+    "value": 2,
+    "translation": "cambiar"
   },
   {
     "word": "beg",
-    "value": 2
+    "value": 2,
+    "translation": "rogar"
   },
   {
     "word": "die",
-    "value": 2
+    "value": 2,
+    "translation": "morir"
   }
 ]

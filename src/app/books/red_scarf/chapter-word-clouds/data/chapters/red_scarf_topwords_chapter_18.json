@@ -1,202 +1,252 @@
 [
   {
     "word": "care",
-    "value": 7
+    "value": 7,
+    "translation": "importarle/cuidar"
   },
   {
     "word": "day",
-    "value": 6
+    "value": 6,
+    "translation": "d\u00eda"
   },
   {
     "word": "family",
-    "value": 6
+    "value": 6,
+    "translation": "familia"
   },
   {
     "word": "mom",
-    "value": 5
+    "value": 5,
+    "translation": "mam\u00e1"
   },
   {
     "word": "life",
-    "value": 5
+    "value": 5,
+    "translation": "[traducci\u00f3n de 'life']"
   },
   {
     "word": "broom",
-    "value": 3
+    "value": 3,
+    "translation": "escoba"
   },
   {
     "word": "window",
-    "value": 2
+    "value": 2,
+    "translation": "ventana"
   },
   {
     "word": "curtain",
-    "value": 2
+    "value": 2,
+    "translation": "cortina"
   },
   {
     "word": "yesterday",
-    "value": 2
+    "value": 2,
+    "translation": "ayer"
   },
   {
     "word": "pavement",
-    "value": 2
+    "value": 2,
+    "translation": "pavimento"
   },
   {
     "word": "alley",
-    "value": 2
+    "value": 2,
+    "translation": "callej\u00f3n"
   },
   {
     "word": "neighbor",
-    "value": 2
+    "value": 2,
+    "translation": "vecino"
   },
   {
     "word": "straw",
-    "value": 2
+    "value": 2,
+    "translation": "paja"
   },
   {
     "word": "mat",
-    "value": 2
+    "value": 2,
+    "translation": "estera"
   },
   {
     "word": "floor",
-    "value": 2
+    "value": 2,
+    "translation": "piso/suelo"
   },
   {
     "word": "ransack",
-    "value": 2
+    "value": 2,
+    "translation": "saqueo"
   },
   {
     "word": "crate",
-    "value": 2
+    "value": 2,
+    "translation": "caja"
   },
   {
     "word": "school",
-    "value": 2
+    "value": 2,
+    "translation": "escuela"
   },
   {
     "word": "worry",
-    "value": 2
+    "value": 2,
+    "translation": "preocuparse"
   },
   {
     "word": "landlord",
-    "value": 2
+    "value": 2,
+    "translation": "terrateniente"
   },
   {
     "word": "letter",
-    "value": 2
+    "value": 2,
+    "translation": "carta"
   },
   {
     "word": "sister",
-    "value": 2
+    "value": 2,
+    "translation": "hermana"
   },
   {
     "word": "tear",
-    "value": 2
+    "value": 2,
+    "translation": "l\u00e1grima"
   },
   {
     "word": "eye",
-    "value": 2
+    "value": 2,
+    "translation": "ojo"
   },
   {
     "word": "promise",
-    "value": 2
+    "value": 2,
+    "translation": "promesa"
   },
   {
     "word": "head",
-    "value": 2
+    "value": 2,
+    "translation": "cabeza"
   },
   {
     "word": "turn",
-    "value": 2
+    "value": 2,
+    "translation": "girar/voltear"
   },
   {
     "word": "bamboo",
-    "value": 1
+    "value": 1,
+    "translation": "bamb\u00fa"
   },
   {
     "word": "stool",
-    "value": 1
+    "value": 1,
+    "translation": "taburete"
   },
   {
     "word": "autumn",
-    "value": 1
+    "value": 1,
+    "translation": "oto\u00f1o"
   },
   {
     "word": "rain",
-    "value": 1
+    "value": 1,
+    "translation": "lluvia"
   },
   {
     "word": "leave",
-    "value": 1
+    "value": 1,
+    "translation": "dejar/salir"
   },
   {
     "word": "scrap",
-    "value": 1
+    "value": 1,
+    "translation": "chatarra"
   },
   {
     "word": "paper",
-    "value": 1
+    "value": 1,
+    "translation": "papel"
   },
   {
     "word": "body",
-    "value": 1
+    "value": 1,
+    "translation": "cuerpo"
   },
   {
     "word": "classmate",
-    "value": 1
+    "value": 1,
+    "translation": "compa\u00f1ero de clase"
   },
   {
     "word": "moan",
-    "value": 1
+    "value": 1,
+    "translation": "gemir/quejarse"
   },
   {
     "word": "face",
-    "value": 1
+    "value": 1,
+    "translation": "cara/rostro"
   },
   {
     "word": "temple",
-    "value": 1
+    "value": 1,
+    "translation": "templo"
   },
   {
     "word": "week",
-    "value": 1
+    "value": 1,
+    "translation": "semana"
   },
   {
     "word": "home",
-    "value": 1
+    "value": 1,
+    "translation": "hogar/casa"
   },
   {
     "word": "warehouse",
-    "value": 1
+    "value": 1,
+    "translation": "almac\u00e9n"
   },
   {
     "word": "bed",
-    "value": 1
+    "value": 1,
+    "translation": "cama"
   },
   {
     "word": "clothe",
-    "value": 1
+    "value": 1,
+    "translation": "ropa"
   },
   {
     "word": "packing",
-    "value": 1
+    "value": 1,
+    "translation": "empaque"
   },
   {
     "word": "street",
-    "value": 1
+    "value": 1,
+    "translation": "calle"
   },
   {
     "word": "table",
-    "value": 1
+    "value": 1,
+    "translation": "mesa"
   },
   {
     "word": "lid",
-    "value": 1
+    "value": 1,
+    "translation": "tapa"
   },
   {
     "word": "bench",
-    "value": 1
+    "value": 1,
+    "translation": "banco/banca"
   },
   {
     "word": "piece",
-    "value": 1
+    "value": 1,
+    "translation": "pedazo/pieza"
   }
 ]

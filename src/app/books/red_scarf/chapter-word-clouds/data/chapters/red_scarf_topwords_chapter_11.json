@@ -1,202 +1,252 @@
 [
   {
     "word": "class",
-    "value": 45
+    "value": 45,
+    "translation": "clase"
   },
   {
     "word": "teacher",
-    "value": 24
+    "value": 24,
+    "translation": "maestro/profesor"
   },
   {
     "word": "school",
-    "value": 10
+    "value": 10,
+    "translation": "escuela"
   },
   {
     "word": "hand",
-    "value": 10
+    "value": 10,
+    "translation": "mano"
   },
   {
     "word": "boy",
-    "value": 9
+    "value": 9,
+    "translation": "ni\u00f1o/muchacho"
   },
   {
     "word": "classroom",
-    "value": 9
+    "value": 9,
+    "translation": "aula"
   },
   {
     "word": "blackboard",
-    "value": 9
+    "value": 9,
+    "translation": "pizarra"
   },
   {
     "word": "voice",
-    "value": 9
+    "value": 9,
+    "translation": "voz"
   },
   {
     "word": "year",
-    "value": 8
+    "value": 8,
+    "translation": "a\u00f1o"
   },
   {
     "word": "classmate",
-    "value": 8
+    "value": 8,
+    "translation": "compa\u00f1ero de clase"
   },
   {
     "word": "desk",
-    "value": 8
+    "value": 8,
+    "translation": "escritorio"
   },
   {
     "word": "eye",
-    "value": 7
+    "value": 7,
+    "translation": "ojo"
   },
   {
     "word": "time",
-    "value": 7
+    "value": 7,
+    "translation": "tiempo"
   },
   {
     "word": "day",
-    "value": 6
+    "value": 6,
+    "translation": "d\u00eda"
   },
   {
     "word": "face",
-    "value": 6
+    "value": 6,
+    "translation": "cara/rostro"
   },
   {
     "word": "life",
-    "value": 6
+    "value": 6,
+    "translation": "[traducci\u00f3n de 'life']"
   },
   {
     "word": "front",
-    "value": 5
+    "value": 5,
+    "translation": "frente"
   },
   {
     "word": "room",
-    "value": 5
+    "value": 5,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "deskmate",
-    "value": 5
+    "value": 5,
+    "translation": "compa\u00f1ero de escritorio"
   },
   {
     "word": "study",
-    "value": 5
+    "value": 5,
+    "translation": "estudiar"
   },
   {
     "word": "back",
-    "value": 5
+    "value": 5,
+    "translation": "espalda/atr\u00e1s"
   },
   {
     "word": "head",
-    "value": 5
+    "value": 5,
+    "translation": "cabeza"
   },
   {
     "word": "row",
-    "value": 4
+    "value": 4,
+    "translation": "fila"
   },
   {
     "word": "arm",
-    "value": 4
+    "value": 4,
+    "translation": "brazo"
   },
   {
     "word": "people",
-    "value": 4
+    "value": 4,
+    "translation": "gente/personas"
   },
   {
     "word": "one",
-    "value": 4
+    "value": 4,
+    "translation": "uno"
   },
   {
     "word": "work",
-    "value": 4
+    "value": 4,
+    "translation": "trabajar/funcionar"
   },
   {
     "word": "handout",
-    "value": 4
+    "value": 4,
+    "translation": "folleto"
   },
   {
     "word": "newspaper",
-    "value": 4
+    "value": 4,
+    "translation": "peri\u00f3dico"
   },
   {
     "word": "pocket",
-    "value": 4
+    "value": 4,
+    "translation": "bolsillo"
   },
   {
     "word": "student",
-    "value": 3
+    "value": 3,
+    "translation": "estudiante"
   },
   {
     "word": "speech",
-    "value": 3
+    "value": 3,
+    "translation": "discurso"
   },
   {
     "word": "building",
-    "value": 3
+    "value": 3,
+    "translation": "edificio"
   },
   {
     "word": "man",
-    "value": 3
+    "value": 3,
+    "translation": "hombre"
   },
   {
     "word": "document",
-    "value": 3
+    "value": 3,
+    "translation": "documento"
   },
   {
     "word": "word",
-    "value": 3
+    "value": 3,
+    "translation": "palabra"
   },
   {
     "word": "glass",
-    "value": 3
+    "value": 3,
+    "translation": "vidrio/vaso"
   },
   {
     "word": "jacket",
-    "value": 3
+    "value": 3,
+    "translation": "chaqueta"
   },
   {
     "word": "fact",
-    "value": 3
+    "value": 3,
+    "translation": "hecho"
   },
   {
     "word": "exercise",
-    "value": 3
+    "value": 3,
+    "translation": "ejercicio"
   },
   {
     "word": "door",
-    "value": 3
+    "value": 3,
+    "translation": "puerta"
   },
   {
     "word": "mistake",
-    "value": 3
+    "value": 3,
+    "translation": "error"
   },
   {
     "word": "family",
-    "value": 3
+    "value": 3,
+    "translation": "familia"
   },
   {
     "word": "cover",
-    "value": 3
+    "value": 3,
+    "translation": "cubierta/tapa"
   },
   {
     "word": "note",
-    "value": 3
+    "value": 3,
+    "translation": "nota"
   },
   {
     "word": "morning",
-    "value": 2
+    "value": 2,
+    "translation": "ma\u00f1ana"
   },
   {
     "word": "auditorium",
-    "value": 2
+    "value": 2,
+    "translation": "auditorio"
   },
   {
     "word": "chairman",
-    "value": 2
+    "value": 2,
+    "translation": "presidente"
   },
   {
     "word": "attention",
-    "value": 2
+    "value": 2,
+    "translation": "atenci\u00f3n"
   },
   {
     "word": "ear",
-    "value": 2
+    "value": 2,
+    "translation": "oreja/o\u00eddo"
   }
 ]

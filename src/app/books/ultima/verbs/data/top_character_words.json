@@ -1,198 +1,247 @@
 [
   {
     "word": "have",
-    "value": 1117
+    "value": 1117,
+    "translation": "tener"
   },
   {
     "word": "do",
-    "value": 644
+    "value": 644,
+    "translation": "hacer"
   },
   {
     "word": "say",
-    "value": 605
+    "value": 605,
+    "translation": "decir"
   },
   {
     "word": "would",
-    "value": 380
+    "value": 380,
+    "translation": "haría"
   },
   {
     "word": "go",
-    "value": 375
+    "value": 375,
+    "translation": "ir"
   },
   {
     "word": "see",
-    "value": 370
+    "value": 370,
+    "translation": "ver"
   },
   {
     "word": "know",
-    "value": 350
+    "value": 350,
+    "translation": "saber"
   },
   {
     "word": "come",
-    "value": 342
+    "value": 342,
+    "translation": "venir"
   },
   {
     "word": "will",
-    "value": 285
+    "value": 285,
+    "translation": "voluntad"
   },
   {
     "word": "make",
-    "value": 271
+    "value": 271,
+    "translation": "hacer"
   },
   {
     "word": "could",
-    "value": 255
+    "value": 255,
+    "translation": "podría"
   },
   {
     "word": "ask",
-    "value": 231
+    "value": 231,
+    "translation": "preguntar"
   },
   {
     "word": "look",
-    "value": 215
+    "value": 215,
+    "translation": "mirar"
   },
   {
     "word": "cry",
-    "value": 192
+    "value": 192,
+    "translation": "llorar"
   },
   {
     "word": "take",
-    "value": 189
+    "value": 189,
+    "translation": "tomar"
   },
   {
     "word": "hear",
-    "value": 189
+    "value": 189,
+    "translation": "oír"
   },
   {
     "word": "think",
-    "value": 173
+    "value": 173,
+    "translation": "pensar"
   },
   {
     "word": "feel",
-    "value": 154
+    "value": 154,
+    "translation": "sentir"
   },
   {
     "word": "get",
-    "value": 144
+    "value": 144,
+    "translation": "obtener"
   },
   {
     "word": "tell",
-    "value": 142
+    "value": 142,
+    "translation": "contar"
   },
   {
     "word": "turn",
-    "value": 137
+    "value": 137,
+    "translation": "girar"
   },
   {
     "word": "call",
-    "value": 136
+    "value": 136,
+    "translation": "llamar"
   },
   {
     "word": "want",
-    "value": 136
+    "value": 136,
+    "translation": "querer"
   },
   {
     "word": "run",
-    "value": 135
+    "value": 135,
+    "translation": "correr"
   },
   {
     "word": "can",
-    "value": 125
+    "value": 125,
+    "translation": "poder"
   },
   {
     "word": "answer",
-    "value": 125
+    "value": 125,
+    "translation": "responder"
   },
   {
     "word": "shout",
-    "value": 121
+    "value": 121,
+    "translation": "gritar"
   },
   {
     "word": "hold",
-    "value": 121
+    "value": 121,
+    "translation": "sostener"
   },
   {
     "word": "must",
-    "value": 119
+    "value": 119,
+    "translation": "deber"
   },
   {
     "word": "\u2019",
-    "value": 113
+    "value": 113,
+    "translation": "\u2019"
   },
   {
     "word": "stand",
-    "value": 112
+    "value": 112,
+    "translation": "estar de pie"
   },
   {
     "word": "nod",
-    "value": 108
+    "value": 108,
+    "translation": "asentir"
   },
   {
     "word": "smile",
-    "value": 103
+    "value": 103,
+    "translation": "sonreír"
   },
   {
     "word": "seem",
-    "value": 94
+    "value": 94,
+    "translation": "parecer"
   },
   {
     "word": "walk",
-    "value": 89
+    "value": 89,
+    "translation": "caminar"
   },
   {
     "word": "laugh",
-    "value": 89
+    "value": 89,
+    "translation": "reír"
   },
   {
     "word": "speak",
-    "value": 87
+    "value": 87,
+    "translation": "hablar"
   },
   {
     "word": "leave",
-    "value": 85
+    "value": 85,
+    "translation": "salir"
   },
   {
     "word": "let",
-    "value": 80
+    "value": 80,
+    "translation": "dejar"
   },
   {
     "word": "grow",
-    "value": 80
+    "value": 80,
+    "translation": "crecer"
   },
   {
     "word": "whisper",
-    "value": 79
+    "value": 79,
+    "translation": "susurrar"
   },
   {
     "word": "find",
-    "value": 76
+    "value": 76,
+    "translation": "encontrar"
   },
   {
     "word": "give",
-    "value": 75
+    "value": 75,
+    "translation": "dar"
   },
   {
     "word": "work",
-    "value": 74
+    "value": 74,
+    "translation": "trabajar"
   },
   {
     "word": "begin",
-    "value": 72
+    "value": 72,
+    "translation": "comenzar"
   },
   {
     "word": "help",
-    "value": 72
+    "value": 72,
+    "translation": "ayudar"
   },
   {
     "word": "wait",
-    "value": 72
+    "value": 72,
+    "translation": "esperar"
   },
   {
     "word": "understand",
-    "value": 69
+    "value": 69,
+    "translation": "entender"
   },
   {
     "word": "move",
-    "value": 69
+    "value": 69,
+    "translation": "mover"
   }
 ]

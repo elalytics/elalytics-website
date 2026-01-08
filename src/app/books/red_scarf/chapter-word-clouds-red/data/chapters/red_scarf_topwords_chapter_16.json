@@ -1,22 +1,27 @@
 [
   {
     "word": "slogan",
-    "value": 1
+    "value": 1,
+    "translation": "eslogan/lema"
   },
   {
     "word": "poster",
-    "value": 1
+    "value": 1,
+    "translation": "p\u00f3ster/cartel"
   },
   {
     "word": "armband",
-    "value": 1
+    "value": 1,
+    "translation": "brazalete"
   },
   {
     "word": "flag",
-    "value": 1
+    "value": 1,
+    "translation": "bandera"
   },
   {
     "word": "bean",
-    "value": 1
+    "value": 1,
+    "translation": "frijol/jud\u00eda"
   }
 ]

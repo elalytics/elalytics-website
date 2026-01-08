@@ -1,202 +1,252 @@
 [
   {
     "word": "slave",
-    "value": 274
+    "value": 274,
+    "translation": "esclavo"
   },
   {
     "word": "time",
-    "value": 144
+    "value": 144,
+    "translation": "tiempo"
   },
   {
     "word": "man",
-    "value": 142
+    "value": 142,
+    "translation": "hombre"
   },
   {
     "word": "master",
-    "value": 118
+    "value": 118,
+    "translation": "amo"
   },
   {
     "word": "slavery",
-    "value": 80
+    "value": 80,
+    "translation": "esclavitud"
   },
   {
     "word": "hand",
-    "value": 67
+    "value": 67,
+    "translation": "mano"
   },
   {
     "word": "thing",
-    "value": 54
+    "value": 54,
+    "translation": "cosa"
   },
   {
     "word": "slaveholder",
-    "value": 52
+    "value": 52,
+    "translation": "esclavista"
   },
   {
     "word": "child",
-    "value": 43
+    "value": 43,
+    "translation": "niño"
   },
   {
     "word": "name",
-    "value": 41
+    "value": 41,
+    "translation": "nombre"
   },
   {
     "word": "work",
-    "value": 40
+    "value": 40,
+    "translation": "trabajo"
   },
   {
     "word": "word",
-    "value": 40
+    "value": 40,
+    "translation": "palabra"
   },
   {
     "word": "house",
-    "value": 38
+    "value": 38,
+    "translation": "casa"
   },
   {
     "word": "life",
-    "value": 38
+    "value": 38,
+    "translation": "vida"
   },
   {
     "word": "plantation",
-    "value": 37
+    "value": 37,
+    "translation": "plantación"
   },
   {
     "word": "way",
-    "value": 37
+    "value": 37,
+    "translation": "camino"
   },
   {
     "word": "woman",
-    "value": 35
+    "value": 35,
+    "translation": "mujer"
   },
   {
     "word": "blood",
-    "value": 34
+    "value": 34,
+    "translation": "sangre"
   },
   {
     "word": "one",
-    "value": 33
+    "value": 33,
+    "translation": "uno"
   },
   {
     "word": "home",
-    "value": 33
+    "value": 33,
+    "translation": "hogar"
   },
   {
     "word": "part",
-    "value": 32
+    "value": 32,
+    "translation": "parte"
   },
   {
     "word": "soul",
-    "value": 32
+    "value": 32,
+    "translation": "alma"
   },
   {
     "word": "place",
-    "value": 32
+    "value": 32,
+    "translation": "lugar"
   },
   {
     "word": "heart",
-    "value": 31
+    "value": 31,
+    "translation": "corazón"
   },
   {
     "word": "day",
-    "value": 31
+    "value": 31,
+    "translation": "día"
   },
   {
     "word": "death",
-    "value": 31
+    "value": 31,
+    "translation": "muerte"
   },
   {
     "word": "freedom",
-    "value": 30
+    "value": 30,
+    "translation": "libertad"
   },
   {
     "word": "fact",
-    "value": 29
+    "value": 29,
+    "translation": "hecho"
   },
   {
     "word": "other",
-    "value": 28
+    "value": 28,
+    "translation": "otro"
   },
   {
     "word": "mind",
-    "value": 27
+    "value": 27,
+    "translation": "mente"
   },
   {
     "word": "head",
-    "value": 27
+    "value": 27,
+    "translation": "cabeza"
   },
   {
     "word": "wood",
-    "value": 27
+    "value": 27,
+    "translation": "madera"
   },
   {
     "word": "field",
-    "value": 26
+    "value": 26,
+    "translation": "campo"
   },
   {
     "word": "overseer",
-    "value": 26
+    "value": 26,
+    "translation": "capataz"
   },
   {
     "word": "side",
-    "value": 25
+    "value": 25,
+    "translation": "lado"
   },
   {
     "word": "condition",
-    "value": 25
+    "value": 25,
+    "translation": "condición"
   },
   {
     "word": "brother",
-    "value": 24
+    "value": 24,
+    "translation": "hermano"
   },
   {
     "word": "farm",
-    "value": 24
+    "value": 24,
+    "translation": "granja"
   },
   {
     "word": "case",
-    "value": 23
+    "value": 23,
+    "translation": "caso"
   },
   {
     "word": "friend",
-    "value": 22
+    "value": 22,
+    "translation": "amigo"
   },
   {
     "word": "thought",
-    "value": 22
+    "value": 22,
+    "translation": "pensamiento"
   },
   {
     "word": "moment",
-    "value": 21
+    "value": 21,
+    "translation": "momento"
   },
   {
     "word": "horse",
-    "value": 21
+    "value": 21,
+    "translation": "caballo"
   },
   {
     "word": "course",
-    "value": 20
+    "value": 20,
+    "translation": "curso"
   },
   {
     "word": "feeling",
-    "value": 20
+    "value": 20,
+    "translation": "sentimiento"
   },
   {
     "word": "mother",
-    "value": 20
+    "value": 20,
+    "translation": "madre"
   },
   {
     "word": "people",
-    "value": 19
+    "value": 19,
+    "translation": "gente"
   },
   {
     "word": "religion",
-    "value": 19
+    "value": 19,
+    "translation": "religión"
   },
   {
     "word": "hope",
-    "value": 18
+    "value": 18,
+    "translation": "esperanza"
   },
   {
     "word": "number",
-    "value": 18
+    "value": 18,
+    "translation": "número"
   }
 ]

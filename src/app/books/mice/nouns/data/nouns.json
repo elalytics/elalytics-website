@@ -1,202 +1,252 @@
 [
   {
     "word": "guy",
-    "value": 144
+    "value": 144,
+    "translation": "tipo"
   },
   {
     "word": "hand",
-    "value": 91
+    "value": 91,
+    "translation": "mano"
   },
   {
     "word": "man",
-    "value": 77
+    "value": 77,
+    "translation": "hombre"
   },
   {
     "word": "rabbit",
-    "value": 74
+    "value": 74,
+    "translation": "conejo"
   },
   {
     "word": "time",
-    "value": 62
+    "value": 62,
+    "translation": "tiempo"
   },
   {
     "word": "hell",
-    "value": 61
+    "value": 61,
+    "translation": "infierno"
   },
   {
     "word": "eye",
-    "value": 60
+    "value": 60,
+    "translation": "ojo"
   },
   {
     "word": "head",
-    "value": 58
+    "value": 58,
+    "translation": "cabeza"
   },
   {
     "word": "place",
-    "value": 54
+    "value": 54,
+    "translation": "lugar"
   },
   {
     "word": "face",
-    "value": 49
+    "value": 49,
+    "translation": "cara"
   },
   {
     "word": "candy",
-    "value": 49
+    "value": 49,
+    "translation": "dulce"
   },
   {
     "word": "door",
-    "value": 44
+    "value": 44,
+    "translation": "puerta"
   },
   {
     "word": "thing",
-    "value": 43
+    "value": 43,
+    "translation": "cosa"
   },
   {
     "word": "room",
-    "value": 43
+    "value": 43,
+    "translation": "habitación"
   },
   {
     "word": "bunk",
-    "value": 41
+    "value": 41,
+    "translation": "litera"
   },
   {
     "word": "pup",
-    "value": 39
+    "value": 39,
+    "translation": "cachorro"
   },
   {
     "word": "barn",
-    "value": 38
+    "value": 38,
+    "translation": "granero"
   },
   {
     "word": "crook",
-    "value": 36
+    "value": 36,
+    "translation": "sinvergüenza"
   },
   {
     "word": "dog",
-    "value": 35
+    "value": 35,
+    "translation": "perro"
   },
   {
     "word": "voice",
-    "value": 33
+    "value": 33,
+    "translation": "voz"
   },
   {
     "word": "wife",
-    "value": 32
+    "value": 32,
+    "translation": "esposa"
   },
   {
     "word": "card",
-    "value": 31
+    "value": 31,
+    "translation": "carta"
   },
   {
     "word": "side",
-    "value": 30
+    "value": 30,
+    "translation": "lado"
   },
   {
     "word": "trouble",
-    "value": 29
+    "value": 29,
+    "translation": "problema"
   },
   {
     "word": "mouse",
-    "value": 29
+    "value": 29,
+    "translation": "ratón"
   },
   {
     "word": "house",
-    "value": 28
+    "value": 28,
+    "translation": "casa"
   },
   {
     "word": "water",
-    "value": 27
+    "value": 27,
+    "translation": "agua"
   },
   {
     "word": "pool",
-    "value": 27
+    "value": 27,
+    "translation": "piscina"
   },
   {
     "word": "ranch",
-    "value": 27
+    "value": 27,
+    "translation": "rancho"
   },
   {
     "word": "brush",
-    "value": 26
+    "value": 26,
+    "translation": "cepillo"
   },
   {
     "word": "night",
-    "value": 26
+    "value": 26,
+    "translation": "noche"
   },
   {
     "word": "moment",
-    "value": 25
+    "value": 25,
+    "translation": "momento"
   },
   {
     "word": "boss",
-    "value": 25
+    "value": 25,
+    "translation": "jefe"
   },
   {
     "word": "foot",
-    "value": 24
+    "value": 24,
+    "translation": "pie"
   },
   {
     "word": "buck",
-    "value": 24
+    "value": 24,
+    "translation": "dólar"
   },
   {
     "word": "wall",
-    "value": 22
+    "value": 22,
+    "translation": "pared"
   },
   {
     "word": "hay",
-    "value": 22
+    "value": 22,
+    "translation": "heno"
   },
   {
     "word": "girl",
-    "value": 21
+    "value": 21,
+    "translation": "niña"
   },
   {
     "word": "way",
-    "value": 20
+    "value": 20,
+    "translation": "camino"
   },
   {
     "word": "bastard",
-    "value": 20
+    "value": 20,
+    "translation": "bastardo"
   },
   {
     "word": "work",
-    "value": 20
+    "value": 20,
+    "translation": "trabajo"
   },
   {
     "word": "sound",
-    "value": 19
+    "value": 19,
+    "translation": "sonido"
   },
   {
     "word": "back",
-    "value": 19
+    "value": 19,
+    "translation": "espalda"
   },
   {
     "word": "finger",
-    "value": 19
+    "value": 19,
+    "translation": "dedo"
   },
   {
     "word": "light",
-    "value": 19
+    "value": 19,
+    "translation": "luz"
   },
   {
     "word": "hat",
-    "value": 18
+    "value": 18,
+    "translation": "sombrero"
   },
   {
     "word": "none",
-    "value": 18
+    "value": 18,
+    "translation": "ninguno"
   },
   {
     "word": "word",
-    "value": 18
+    "value": 18,
+    "translation": "palabra"
   },
   {
     "word": "river",
-    "value": 17
+    "value": 17,
+    "translation": "río"
   },
   {
     "word": "fire",
-    "value": 17
+    "value": 17,
+    "translation": "fuego"
   }
 ]

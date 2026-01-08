@@ -1,0 +1,127 @@
+[
+  {
+    "word": "time",
+    "category": "NOUN",
+    "value": 261
+  },
+  {
+    "word": "eye",
+    "category": "NOUN",
+    "value": 235
+  },
+  {
+    "word": "thing",
+    "category": "NOUN",
+    "value": 182
+  },
+  {
+    "word": "god",
+    "category": "NOUN",
+    "value": 165
+  },
+  {
+    "word": "hand",
+    "category": "NOUN",
+    "value": 163
+  },
+  {
+    "word": "say",
+    "category": "VERB",
+    "value": 1042
+  },
+  {
+    "word": "look",
+    "category": "VERB",
+    "value": 530
+  },
+  {
+    "word": "tell",
+    "category": "VERB",
+    "value": 402
+  },
+  {
+    "word": "know",
+    "category": "VERB",
+    "value": 388
+  },
+  {
+    "word": "get",
+    "category": "VERB",
+    "value": 372
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 179
+  },
+  {
+    "word": "little",
+    "category": "ADJ",
+    "value": 150
+  },
+  {
+    "word": "old",
+    "category": "ADJ",
+    "value": 129
+  },
+  {
+    "word": "big",
+    "category": "ADJ",
+    "value": 118
+  },
+  {
+    "word": "black",
+    "category": "ADJ",
+    "value": 101
+  },
+  {
+    "word": "grover",
+    "category": "PROPN",
+    "value": 537
+  },
+  {
+    "word": "annabeth",
+    "category": "PROPN",
+    "value": 459
+  },
+  {
+    "word": "percy",
+    "category": "PROPN",
+    "value": 303
+  },
+  {
+    "word": "chiron",
+    "category": "PROPN",
+    "value": 218
+  },
+  {
+    "word": "ares",
+    "category": "PROPN",
+    "value": 159
+  },
+  {
+    "word": "away",
+    "category": "ADV",
+    "value": 118
+  },
+  {
+    "word": "right",
+    "category": "ADV",
+    "value": 103
+  },
+  {
+    "word": "maybe",
+    "category": "ADV",
+    "value": 90
+  },
+  {
+    "word": "long",
+    "category": "ADV",
+    "value": 65
+  },
+  {
+    "word": "soon",
+    "category": "ADV",
+    "value": 53
+  }
+]

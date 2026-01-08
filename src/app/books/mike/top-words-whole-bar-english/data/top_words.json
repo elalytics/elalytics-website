@@ -1,127 +1,127 @@
 [
   {
-    "word": "shu",
-    "category": "PROPN",
-    "value": 8
-  },
-  {
-    "word": "eloy",
-    "category": "PROPN",
-    "value": 7
-  },
-  {
-    "word": "fiji",
-    "category": "PROPN",
-    "value": 6
-  },
-  {
-    "word": "us",
-    "category": "PROPN",
-    "value": 3
-  },
-  {
-    "word": "mike",
-    "category": "PROPN",
-    "value": 2
-  },
-  {
-    "word": "get",
+    "word": "tell",
     "category": "VERB",
-    "value": 20
-  },
-  {
-    "word": "know",
-    "category": "VERB",
-    "value": 17
+    "value": 9
   },
   {
     "word": "think",
     "category": "VERB",
-    "value": 15
+    "value": 9
   },
   {
     "word": "go",
     "category": "VERB",
-    "value": 14
+    "value": 8
   },
   {
-    "word": "come",
+    "word": "want",
     "category": "VERB",
-    "value": 13
+    "value": 7
   },
   {
-    "word": "life",
-    "category": "NOUN",
-    "value": 12
+    "word": "live",
+    "category": "VERB",
+    "value": 6
   },
   {
-    "word": "people",
-    "category": "NOUN",
-    "value": 12
-  },
-  {
-    "word": "shit",
-    "category": "NOUN",
-    "value": 11
-  },
-  {
-    "word": "time",
-    "category": "NOUN",
-    "value": 10
-  },
-  {
-    "word": "kid",
-    "category": "NOUN",
-    "value": 9
+    "word": "personally",
+    "category": "ADV",
+    "value": 2
   },
   {
     "word": "right",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "honestly",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "differently",
+    "category": "ADV",
+    "value": 2
+  },
+  {
+    "word": "super",
+    "category": "ADV",
+    "value": 1
+  },
+  {
+    "word": "good",
+    "category": "ADJ",
+    "value": 7
+  },
+  {
+    "word": "little",
     "category": "ADJ",
     "value": 6
   },
   {
     "word": "high",
     "category": "ADJ",
-    "value": 6
-  },
-  {
-    "word": "good",
-    "category": "ADJ",
-    "value": 6
-  },
-  {
-    "word": "bad",
-    "category": "ADJ",
     "value": 5
   },
   {
-    "word": "cool",
+    "word": "new",
     "category": "ADJ",
     "value": 4
   },
   {
-    "word": "instead",
-    "category": "ADV",
+    "word": "sad",
+    "category": "ADJ",
+    "value": 4
+  },
+  {
+    "word": "school",
+    "category": "NOUN",
+    "value": 11
+  },
+  {
+    "word": "education",
+    "category": "NOUN",
+    "value": 8
+  },
+  {
+    "word": "thing",
+    "category": "NOUN",
+    "value": 7
+  },
+  {
+    "word": "parent",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "system",
+    "category": "NOUN",
+    "value": 6
+  },
+  {
+    "word": "english",
+    "category": "PROPN",
+    "value": 10
+  },
+  {
+    "word": "mexico",
+    "category": "PROPN",
+    "value": 5
+  },
+  {
+    "word": "tijuana",
+    "category": "PROPN",
+    "value": 4
+  },
+  {
+    "word": "pescadero",
+    "category": "PROPN",
     "value": 3
   },
   {
-    "word": "soon",
-    "category": "ADV",
+    "word": "the united states",
+    "category": "PROPN",
     "value": 3
-  },
-  {
-    "word": "actually",
-    "category": "ADV",
-    "value": 3
-  },
-  {
-    "word": "well",
-    "category": "ADV",
-    "value": 2
-  },
-  {
-    "word": "long",
-    "category": "ADV",
-    "value": 2
   }
 ]

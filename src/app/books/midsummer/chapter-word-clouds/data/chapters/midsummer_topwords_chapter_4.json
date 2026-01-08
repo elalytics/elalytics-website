@@ -1,202 +1,252 @@
 [
   {
     "word": "love",
-    "value": 12
+    "value": 12,
+    "translation": "amor"
   },
   {
     "word": "eye",
-    "value": 9
+    "value": 9,
+    "translation": "ojo"
   },
   {
     "word": "heart",
-    "value": 5
+    "value": 5,
+    "translation": "corazón"
   },
   {
     "word": "bed",
-    "value": 4
+    "value": 4,
+    "translation": "cama"
   },
   {
     "word": "bosom",
-    "value": 4
+    "value": 4,
+    "translation": "seno"
   },
   {
     "word": "man",
-    "value": 4
+    "value": 4,
+    "translation": "hombre"
   },
   {
     "word": "fairy",
-    "value": 3
+    "value": 3,
+    "translation": "hada"
   },
   {
     "word": "lullaby",
-    "value": 3
+    "value": 3,
+    "translation": "canción de cuna"
   },
   {
     "word": "night",
-    "value": 3
+    "value": 3,
+    "translation": "noche"
   },
   {
     "word": "sake",
-    "value": 3
+    "value": 3,
+    "translation": "bien"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "troth",
-    "value": 3
+    "value": 3,
+    "translation": "fe"
   },
   {
     "word": "maid",
-    "value": 3
+    "value": 3,
+    "translation": "doncella"
   },
   {
     "word": "fear",
-    "value": 3
+    "value": 3,
+    "translation": "miedo"
   },
   {
     "word": "reason",
-    "value": 3
+    "value": 3,
+    "translation": "razón"
   },
   {
     "word": "minute",
-    "value": 2
+    "value": 2,
+    "translation": "minuto"
   },
   {
     "word": "worm",
-    "value": 2
+    "value": 2,
+    "translation": "gusano"
   },
   {
     "word": "melody",
-    "value": 2
+    "value": 2,
+    "translation": "melodía"
   },
   {
     "word": "charm",
-    "value": 2
+    "value": 2,
+    "translation": "encanto"
   },
   {
     "word": "lady",
-    "value": 2
+    "value": 2,
+    "translation": "dama"
   },
   {
     "word": "bear",
-    "value": 2
+    "value": 2,
+    "translation": "oso"
   },
   {
     "word": "lie",
-    "value": 2
+    "value": 2,
+    "translation": "mentira"
   },
   {
     "word": "manner",
-    "value": 2
+    "value": 2,
+    "translation": "manera"
   },
   {
     "word": "friend",
-    "value": 2
+    "value": 2,
+    "translation": "amigo"
   },
   {
     "word": "courtesy",
-    "value": 2
+    "value": 2,
+    "translation": "cortesía"
   },
   {
     "word": "life",
-    "value": 2
+    "value": 2,
+    "translation": "vida"
   },
   {
     "word": "prayer",
-    "value": 2
+    "value": 2,
+    "translation": "oración"
   },
   {
     "word": "sound",
-    "value": 2
+    "value": 2,
+    "translation": "sonido"
   },
   {
     "word": "ground",
-    "value": 2
+    "value": 2,
+    "translation": "suelo"
   },
   {
     "word": "power",
-    "value": 2
+    "value": 2,
+    "translation": "poder"
   },
   {
     "word": "word",
-    "value": 2
+    "value": 2,
+    "translation": "palabra"
   },
   {
     "word": "will",
-    "value": 2
+    "value": 2,
+    "translation": "voluntad"
   },
   {
     "word": "surfeit",
-    "value": 2
+    "value": 2,
+    "translation": "exceso"
   },
   {
     "word": "heresy",
-    "value": 2
+    "value": 2,
+    "translation": "herejía"
   },
   {
     "word": "serpent",
-    "value": 2
+    "value": 2,
+    "translation": "serpiente"
   },
   {
     "word": "roundel",
-    "value": 1
+    "value": 1,
+    "translation": "rondel"
   },
   {
     "word": "song",
-    "value": 1
+    "value": 1,
+    "translation": "canción"
   },
   {
     "word": "part",
-    "value": 1
+    "value": 1,
+    "translation": "parte"
   },
   {
     "word": "canker",
-    "value": 1
+    "value": 1,
+    "translation": "úlcera"
   },
   {
     "word": "musk",
-    "value": 1
+    "value": 1,
+    "translation": "almizcle"
   },
   {
     "word": "bud",
-    "value": 1
+    "value": 1,
+    "translation": "capullo"
   },
   {
     "word": "war",
-    "value": 1
+    "value": 1,
+    "translation": "guerra"
   },
   {
     "word": "rere",
-    "value": 1
+    "value": 1,
+    "translation": "rere"
   },
   {
     "word": "mouse",
-    "value": 1
+    "value": 1,
+    "translation": "ratón"
   },
   {
     "word": "leathern",
-    "value": 1
+    "value": 1,
+    "translation": "de cuero"
   },
   {
     "word": "wing",
-    "value": 1
+    "value": 1,
+    "translation": "ala"
   },
   {
     "word": "elf",
-    "value": 1
+    "value": 1,
+    "translation": "elfo"
   },
   {
     "word": "coat",
-    "value": 1
+    "value": 1,
+    "translation": "abrigo"
   },
   {
     "word": "owl",
-    "value": 1
+    "value": 1,
+    "translation": "búho"
   },
   {
     "word": "wonder",
-    "value": 1
+    "value": 1,
+    "translation": "maravilla"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "wall",
-    "value": 18
+    "value": 18,
+    "translation": "pared"
   },
   {
     "word": "man",
-    "value": 15
+    "value": 15,
+    "translation": "hombre"
   },
   {
     "word": "lover",
-    "value": 14
+    "value": 14,
+    "translation": "amante"
   },
   {
     "word": "night",
-    "value": 12
+    "value": 12,
+    "translation": "noche"
   },
   {
     "word": "lion",
-    "value": 12
+    "value": 12,
+    "translation": "león"
   },
   {
     "word": "play",
-    "value": 9
+    "value": 9,
+    "translation": "obra"
   },
   {
     "word": "moon",
-    "value": 9
+    "value": 9,
+    "translation": "luna"
   },
   {
     "word": "love",
-    "value": 8
+    "value": 8,
+    "translation": "amor"
   },
   {
     "word": "hand",
-    "value": 7
+    "value": 7,
+    "translation": "mano"
   },
   {
     "word": "fairy",
-    "value": 6
+    "value": 6,
+    "translation": "hada"
   },
   {
     "word": "eye",
-    "value": 6
+    "value": 6,
+    "translation": "ojo"
   },
   {
     "word": "philostrate",
-    "value": 6
+    "value": 6,
+    "translation": "Filóstrato"
   },
   {
     "word": "lord",
-    "value": 6
+    "value": 6,
+    "translation": "señor"
   },
   {
     "word": "tongue",
-    "value": 6
+    "value": 6,
+    "translation": "lengua"
   },
   {
     "word": "imagination",
-    "value": 5
+    "value": 5,
+    "translation": "imaginación"
   },
   {
     "word": "friend",
-    "value": 5
+    "value": 5,
+    "translation": "amigo"
   },
   {
     "word": "bed",
-    "value": 5
+    "value": 5,
+    "translation": "cama"
   },
   {
     "word": "time",
-    "value": 5
+    "value": 5,
+    "translation": "tiempo"
   },
   {
     "word": "word",
-    "value": 5
+    "value": 5,
+    "translation": "palabra"
   },
   {
     "word": "discretion",
-    "value": 5
+    "value": 5,
+    "translation": "discreción"
   },
   {
     "word": "joy",
-    "value": 4
+    "value": 4,
+    "translation": "alegría"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "día"
   },
   {
     "word": "heart",
-    "value": 4
+    "value": 4,
+    "translation": "corazón"
   },
   {
     "word": "read",
-    "value": 4
+    "value": 4,
+    "translation": "lectura"
   },
   {
     "word": "duty",
-    "value": 4
+    "value": 4,
+    "translation": "deber"
   },
   {
     "word": "grace",
-    "value": 4
+    "value": 4,
+    "translation": "gracia"
   },
   {
     "word": "tomb",
-    "value": 4
+    "value": 4,
+    "translation": "tumba"
   },
   {
     "word": "beast",
-    "value": 4
+    "value": 4,
+    "translation": "bestia"
   },
   {
     "word": "stone",
-    "value": 4
+    "value": 4,
+    "translation": "piedra"
   },
   {
     "word": "light",
-    "value": 4
+    "value": 4,
+    "translation": "luz"
   },
   {
     "word": "poet",
-    "value": 3
+    "value": 3,
+    "translation": "poeta"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "name",
-    "value": 3
+    "value": 3,
+    "translation": "nombre"
   },
   {
     "word": "bush",
-    "value": 3
+    "value": 3,
+    "translation": "arbusto"
   },
   {
     "word": "mirth",
-    "value": 3
+    "value": 3,
+    "translation": "alegría"
   },
   {
     "word": "sport",
-    "value": 3
+    "value": 3,
+    "translation": "diversión"
   },
   {
     "word": "death",
-    "value": 3
+    "value": 3,
+    "translation": "muerte"
   },
   {
     "word": "passion",
-    "value": 3
+    "value": 3,
+    "translation": "pasión"
   },
   {
     "word": "place",
-    "value": 3
+    "value": 3,
+    "translation": "lugar"
   },
   {
     "word": "lady",
-    "value": 3
+    "value": 3,
+    "translation": "dama"
   },
   {
     "word": "welcome",
-    "value": 3
+    "value": 3,
+    "translation": "bienvenida"
   },
   {
     "word": "silence",
-    "value": 3
+    "value": 3,
+    "translation": "silencio"
   },
   {
     "word": "truth",
-    "value": 3
+    "value": 3,
+    "translation": "verdad"
   },
   {
     "word": "lime",
-    "value": 3
+    "value": 3,
+    "translation": "cal"
   },
   {
     "word": "chink",
-    "value": 3
+    "value": 3,
+    "translation": "grieta"
   },
   {
     "word": "dog",
-    "value": 3
+    "value": 3,
+    "translation": "perro"
   },
   {
     "word": "mantle",
-    "value": 3
+    "value": 3,
+    "translation": "manto"
   },
   {
     "word": "blade",
-    "value": 3
+    "value": 3,
+    "translation": "espada"
   },
   {
     "word": "rest",
-    "value": 3
+    "value": 3,
+    "translation": "descanso"
   },
   {
     "word": "hole",
-    "value": 3
+    "value": 3,
+    "translation": "agujero"
   }
 ]

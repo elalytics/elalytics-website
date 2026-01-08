@@ -1,202 +1,252 @@
 [
   {
     "word": "statue",
-    "value": 17
+    "value": 17,
+    "translation": "estatua"
   },
   {
     "word": "head",
-    "value": 13
+    "value": 13,
+    "translation": "cabeza"
   },
   {
     "word": "eye",
-    "value": 11
+    "value": 11,
+    "translation": "ojo"
   },
   {
     "word": "woman",
-    "value": 11
+    "value": 11,
+    "translation": "mujer"
   },
   {
     "word": "face",
-    "value": 11
+    "value": 11,
+    "translation": "cara"
   },
   {
     "word": "child",
-    "value": 9
+    "value": 9,
+    "translation": "niño"
   },
   {
     "word": "food",
-    "value": 8
+    "value": 8,
+    "translation": "comida"
   },
   {
     "word": "sound",
-    "value": 8
+    "value": 8,
+    "translation": "sonido"
   },
   {
     "word": "foot",
-    "value": 8
+    "value": 8,
+    "translation": "pie"
   },
   {
     "word": "monster",
-    "value": 7
+    "value": 7,
+    "translation": "monstruo"
   },
   {
     "word": "voice",
-    "value": 7
+    "value": 7,
+    "translation": "voz"
   },
   {
     "word": "side",
-    "value": 7
+    "value": 7,
+    "translation": "lado"
   },
   {
     "word": "garden",
-    "value": 7
+    "value": 7,
+    "translation": "jardín"
   },
   {
     "word": "glass",
-    "value": 7
+    "value": 7,
+    "translation": "vaso"
   },
   {
     "word": "cement",
-    "value": 6
+    "value": 6,
+    "translation": "cemento"
   },
   {
     "word": "warehouse",
-    "value": 6
+    "value": 6,
+    "translation": "almacén"
   },
   {
     "word": "hand",
-    "value": 6
+    "value": 6,
+    "translation": "mano"
   },
   {
     "word": "ball",
-    "value": 6
+    "value": 6,
+    "translation": "pelota"
   },
   {
     "word": "tree",
-    "value": 5
+    "value": 5,
+    "translation": "árbol"
   },
   {
     "word": "size",
-    "value": 5
+    "value": 5,
+    "translation": "tamaño"
   },
   {
     "word": "dear",
-    "value": 5
+    "value": 5,
+    "translation": "querido"
   },
   {
     "word": "way",
-    "value": 4
+    "value": 4,
+    "translation": "camino"
   },
   {
     "word": "god",
-    "value": 4
+    "value": 4,
+    "translation": "dios"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "ear",
-    "value": 4
+    "value": 4,
+    "translation": "oreja"
   },
   {
     "word": "hair",
-    "value": 4
+    "value": 4,
+    "translation": "cabello"
   },
   {
     "word": "neon",
-    "value": 4
+    "value": 4,
+    "translation": "neón"
   },
   {
     "word": "gas",
-    "value": 4
+    "value": 4,
+    "translation": "gasolina"
   },
   {
     "word": "satyr",
-    "value": 4
+    "value": 4,
+    "translation": "sátiro"
   },
   {
     "word": "door",
-    "value": 4
+    "value": 4,
+    "translation": "puerta"
   },
   {
     "word": "burger",
-    "value": 4
+    "value": 4,
+    "translation": "hamburguesa"
   },
   {
     "word": "lady",
-    "value": 4
+    "value": 4,
+    "translation": "dama"
   },
   {
     "word": "people",
-    "value": 4
+    "value": 4,
+    "translation": "gente"
   },
   {
     "word": "table",
-    "value": 4
+    "value": 4,
+    "translation": "mesa"
   },
   {
     "word": "time",
-    "value": 4
+    "value": 4,
+    "translation": "tiempo"
   },
   {
-    "word": "\u201dShe",
-    "value": 4
+    "word": "\"She",
+    "value": 4,
+    "translation": "\"She"
   },
   {
     "word": "reflection",
-    "value": 4
+    "value": 4,
+    "translation": "reflejo"
   },
   {
     "word": "bus",
-    "value": 3
+    "value": 3,
+    "translation": "autobús"
   },
   {
     "word": "blood",
-    "value": 3
+    "value": 3,
+    "translation": "sangre"
   },
   {
     "word": "sky",
-    "value": 3
+    "value": 3,
+    "translation": "cielo"
   },
   {
     "word": "smell",
-    "value": 3
+    "value": 3,
+    "translation": "olor"
   },
   {
     "word": "can",
-    "value": 3
+    "value": 3,
+    "translation": "lata"
   },
   {
     "word": "bag",
-    "value": 3
+    "value": 3,
+    "translation": "bolsa"
   },
   {
-    "word": "\u201dWe",
-    "value": 3
+    "word": "\"We",
+    "value": 3,
+    "translation": "\"We"
   },
   {
     "word": "ground",
-    "value": 3
+    "value": 3,
+    "translation": "suelo"
   },
   {
     "word": "quest",
-    "value": 3
+    "value": 3,
+    "translation": "búsqueda"
   },
   {
     "word": "word",
-    "value": 3
+    "value": 3,
+    "translation": "palabra"
   },
   {
     "word": "toot",
-    "value": 3
+    "value": 3,
+    "translation": "bocina"
   },
   {
     "word": "light",
-    "value": 3
+    "value": 3,
+    "translation": "luz"
   },
   {
     "word": "cheese",
-    "value": 3
+    "value": 3,
+    "translation": "queso"
   }
 ]

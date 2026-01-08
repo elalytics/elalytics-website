@@ -1,202 +1,252 @@
 [
   {
     "word": "voice",
-    "value": 11
+    "value": 11,
+    "translation": "voz"
   },
   {
     "word": "time",
-    "value": 10
+    "value": 10,
+    "translation": "tiempo"
   },
   {
     "word": "foot",
-    "value": 9
+    "value": 9,
+    "translation": "pie"
   },
   {
     "word": "kid",
-    "value": 9
+    "value": 9,
+    "translation": "niño"
   },
   {
     "word": "sea",
-    "value": 8
+    "value": 8,
+    "translation": "mar"
   },
   {
     "word": "bed",
-    "value": 8
+    "value": 8,
+    "translation": "cama"
   },
   {
     "word": "thing",
-    "value": 7
+    "value": 7,
+    "translation": "cosa"
   },
   {
     "word": "water",
-    "value": 7
+    "value": 7,
+    "translation": "agua"
   },
   {
     "word": "hand",
-    "value": 7
+    "value": 7,
+    "translation": "mano"
   },
   {
     "word": "bolt",
-    "value": 6
+    "value": 6,
+    "translation": "rayo"
   },
   {
     "word": "rope",
-    "value": 6
+    "value": 6,
+    "translation": "cuerda"
   },
   {
     "word": "eye",
-    "value": 5
+    "value": 5,
+    "translation": "ojo"
   },
   {
     "word": "child",
-    "value": 5
+    "value": 5,
+    "translation": "niño"
   },
   {
     "word": "neck",
-    "value": 5
+    "value": 5,
+    "translation": "cuello"
   },
   {
     "word": "friend",
-    "value": 5
+    "value": 5,
+    "translation": "amigo"
   },
   {
     "word": "light",
-    "value": 4
+    "value": 4,
+    "translation": "luz"
   },
   {
     "word": "head",
-    "value": 4
+    "value": 4,
+    "translation": "cabeza"
   },
   {
     "word": "god",
-    "value": 4
+    "value": 4,
+    "translation": "dios"
   },
   {
     "word": "lot",
-    "value": 4
+    "value": 4,
+    "translation": "mucho"
   },
   {
     "word": "guy",
-    "value": 4
+    "value": 4,
+    "translation": "tipo"
   },
   {
     "word": "beach",
-    "value": 4
+    "value": 4,
+    "translation": "playa"
   },
   {
     "word": "wave",
-    "value": 4
+    "value": 4,
+    "translation": "ola"
   },
   {
     "word": "bottom",
-    "value": 4
+    "value": 4,
+    "translation": "fondo"
   },
   {
     "word": "gift",
-    "value": 4
+    "value": 4,
+    "translation": "regalo"
   },
   {
     "word": "sword",
-    "value": 4
+    "value": 4,
+    "translation": "espada"
   },
   {
     "word": "mattress",
-    "value": 4
+    "value": 4,
+    "translation": "colchón"
   },
   {
     "word": "driver",
-    "value": 3
+    "value": 3,
+    "translation": "conductor"
   },
   {
     "word": "card",
-    "value": 3
+    "value": 3,
+    "translation": "carta"
   },
   {
     "word": "sign",
-    "value": 3
+    "value": 3,
+    "translation": "señal"
   },
   {
     "word": "dream",
-    "value": 3
+    "value": 3,
+    "translation": "sueño"
   },
   {
     "word": "pit",
-    "value": 3
+    "value": 3,
+    "translation": "foso"
   },
   {
     "word": "thought",
-    "value": 3
+    "value": 3,
+    "translation": "pensamiento"
   },
   {
-    "word": "\u201dShe",
-    "value": 3
+    "word": "\"She",
+    "value": 3,
+    "translation": "\"She"
   },
   {
     "word": "heart",
-    "value": 3
+    "value": 3,
+    "translation": "corazón"
   },
   {
     "word": "way",
-    "value": 3
+    "value": 3,
+    "translation": "camino"
   },
   {
     "word": "sand",
-    "value": 3
+    "value": 3,
+    "translation": "arena"
   },
   {
     "word": "surface",
-    "value": 3
+    "value": 3,
+    "translation": "superficie"
   },
   {
     "word": "chest",
-    "value": 3
+    "value": 3,
+    "translation": "pecho"
   },
   {
     "word": "darkness",
-    "value": 3
+    "value": 3,
+    "translation": "oscuridad"
   },
   {
     "word": "woman",
-    "value": 3
+    "value": 3,
+    "translation": "mujer"
   },
   {
     "word": "horse",
-    "value": 3
+    "value": 3,
+    "translation": "caballo"
   },
   {
     "word": "boy",
-    "value": 3
+    "value": 3,
+    "translation": "niño"
   },
   {
     "word": "pearl",
-    "value": 3
+    "value": 3,
+    "translation": "perla"
   },
   {
     "word": "store",
-    "value": 3
+    "value": 3,
+    "translation": "tienda"
   },
   {
     "word": "window",
-    "value": 3
+    "value": 3,
+    "translation": "ventana"
   },
   {
     "word": "street",
-    "value": 3
+    "value": 3,
+    "translation": "calle"
   },
   {
     "word": "size",
-    "value": 3
+    "value": 3,
+    "translation": "tamaño"
   },
   {
     "word": "finger",
-    "value": 3
+    "value": 3,
+    "translation": "dedo"
   },
   {
     "word": "c",
-    "value": 3
+    "value": 3,
+    "translation": "c"
   },
   {
     "word": "giant",
-    "value": 3
+    "value": 3,
+    "translation": "gigante"
   }
 ]

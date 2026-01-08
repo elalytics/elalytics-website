@@ -1,10 +1,12 @@
 [
   {
     "word": "seed",
-    "value": 1
+    "value": 1,
+    "translation": "semilla"
   },
   {
     "word": "family",
-    "value": 2
+    "value": 2,
+    "translation": "familia"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "ball",
-    "value": 14
+    "value": 14,
+    "translation": "pelota"
   },
   {
     "word": "spirit",
-    "value": 10
+    "value": 10,
+    "translation": "espíritu"
   },
   {
     "word": "monster",
-    "value": 10
+    "value": 10,
+    "translation": "monstruo"
   },
   {
     "word": "head",
-    "value": 10
+    "value": 10,
+    "translation": "cabeza"
   },
   {
     "word": "people",
-    "value": 8
+    "value": 8,
+    "translation": "gente"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "coin",
-    "value": 8
+    "value": 8,
+    "translation": "moneda"
   },
   {
     "word": "dog",
-    "value": 8
+    "value": 8,
+    "translation": "perro"
   },
   {
     "word": "plan",
-    "value": 7
+    "value": 7,
+    "translation": "plan"
   },
   {
     "word": "elevator",
-    "value": 7
+    "value": 7,
+    "translation": "ascensor"
   },
   {
     "word": "security",
-    "value": 6
+    "value": 6,
+    "translation": "seguridad"
   },
   {
     "word": "death",
-    "value": 6
+    "value": 6,
+    "translation": "muerte"
   },
   {
     "word": "line",
-    "value": 6
+    "value": 6,
+    "translation": "línea"
   },
   {
     "word": "desk",
-    "value": 5
+    "value": 5,
+    "translation": "escritorio"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "glass",
-    "value": 4
+    "value": 4,
+    "translation": "vaso"
   },
   {
     "word": "door",
-    "value": 4
+    "value": 4,
+    "translation": "puerta"
   },
   {
     "word": "lobby",
-    "value": 4
+    "value": 4,
+    "translation": "vestíbulo"
   },
   {
-    "word": "\u201dWe",
-    "value": 4
+    "word": "\"We",
+    "value": 4,
+    "translation": "\"We"
   },
   {
     "word": "mouth",
-    "value": 4
+    "value": 4,
+    "translation": "boca"
   },
   {
     "word": "lip",
-    "value": 4
+    "value": 4,
+    "translation": "labio"
   },
   {
     "word": "ghoul",
-    "value": 4
+    "value": 4,
+    "translation": "demonio"
   },
   {
     "word": "foot",
-    "value": 4
+    "value": 4,
+    "translation": "pie"
   },
   {
     "word": "seat",
-    "value": 3
+    "value": 3,
+    "translation": "asiento"
   },
   {
     "word": "tag",
-    "value": 3
+    "value": 3,
+    "translation": "etiqueta"
   },
   {
     "word": "name",
-    "value": 3
+    "value": 3,
+    "translation": "nombre"
   },
   {
     "word": "mate",
-    "value": 3
+    "value": 3,
+    "translation": "compañero"
   },
   {
     "word": "finger",
-    "value": 3
+    "value": 3,
+    "translation": "dedo"
   },
   {
     "word": "man",
-    "value": 3
+    "value": 3,
+    "translation": "hombre"
   },
   {
     "word": "pay",
-    "value": 3
+    "value": 3,
+    "translation": "pago"
   },
   {
     "word": "raise",
-    "value": 3
+    "value": 3,
+    "translation": "aumento"
   },
   {
     "word": "year",
-    "value": 3
+    "value": 3,
+    "translation": "año"
   },
   {
     "word": "boat",
-    "value": 3
+    "value": 3,
+    "translation": "bote"
   },
   {
     "word": "voice",
-    "value": 3
+    "value": 3,
+    "translation": "voz"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "way",
-    "value": 3
+    "value": 3,
+    "translation": "camino"
   },
   {
     "word": "one",
-    "value": 3
+    "value": 3,
+    "translation": "uno"
   },
   {
     "word": "air",
-    "value": 3
+    "value": 3,
+    "translation": "aire"
   },
   {
     "word": "robe",
-    "value": 3
+    "value": 3,
+    "translation": "túnica"
   },
   {
     "word": "floor",
-    "value": 3
+    "value": 3,
+    "translation": "piso"
   },
   {
     "word": "face",
-    "value": 3
+    "value": 3,
+    "translation": "cara"
   },
   {
     "word": "human",
-    "value": 3
+    "value": 3,
+    "translation": "humano"
   },
   {
     "word": "gloom",
-    "value": 3
+    "value": 3,
+    "translation": "penumbra"
   },
   {
     "word": "light",
-    "value": 3
+    "value": 3,
+    "translation": "luz"
   },
   {
     "word": "entrance",
-    "value": 3
+    "value": 3,
+    "translation": "entrada"
   },
   {
     "word": "attention",
-    "value": 3
+    "value": 3,
+    "translation": "atención"
   },
   {
     "word": "stick",
-    "value": 3
+    "value": 3,
+    "translation": "palo"
   },
   {
     "word": "gold",
-    "value": 2
+    "value": 2,
+    "translation": "oro"
   },
   {
     "word": "guard",
-    "value": 2
+    "value": 2,
+    "translation": "guardia"
   },
   {
     "word": "friend",
-    "value": 2
+    "value": 2,
+    "translation": "amigo"
   }
 ]

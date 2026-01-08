@@ -1,186 +1,232 @@
 [
   {
     "word": "day",
-    "value": 5
+    "value": 5,
+    "translation": "día"
   },
   {
     "word": "flute",
-    "value": 4
+    "value": 4,
+    "translation": "flauta"
   },
   {
     "word": "man",
-    "value": 4
+    "value": 4,
+    "translation": "hombre"
   },
   {
     "word": "duke",
-    "value": 3
+    "value": 3,
+    "translation": "duque"
   },
   {
     "word": "sixpence",
-    "value": 3
+    "value": 3,
+    "translation": "seis peniques"
   },
   {
     "word": "play",
-    "value": 2
+    "value": 2,
+    "translation": "obra"
   },
   {
     "word": "thing",
-    "value": 2
+    "value": 2,
+    "translation": "cosa"
   },
   {
     "word": "word",
-    "value": 2
+    "value": 2,
+    "translation": "palabra"
   },
   {
     "word": "lion",
-    "value": 2
+    "value": 2,
+    "translation": "león"
   },
   {
     "word": "house",
-    "value": 1
+    "value": 1,
+    "translation": "casa"
   },
   {
     "word": "starveling",
-    "value": 1
+    "value": 1,
+    "translation": "hambriento"
   },
   {
     "word": "doubt",
-    "value": 1
+    "value": 1,
+    "translation": "duda"
   },
   {
     "word": "no",
-    "value": 1
+    "value": 1,
+    "translation": "no"
   },
   {
     "word": "wit",
-    "value": 1
+    "value": 1,
+    "translation": "ingenio"
   },
   {
     "word": "handicraft",
-    "value": 1
+    "value": 1,
+    "translation": "artesanía"
   },
   {
     "word": "person",
-    "value": 1
+    "value": 1,
+    "translation": "persona"
   },
   {
     "word": "voice",
-    "value": 1
+    "value": 1,
+    "translation": "voz"
   },
   {
     "word": "paragon",
-    "value": 1
+    "value": 1,
+    "translation": "modelo"
   },
   {
     "word": "temple",
-    "value": 1
+    "value": 1,
+    "translation": "templo"
   },
   {
     "word": "lord",
-    "value": 1
+    "value": 1,
+    "translation": "señor"
   },
   {
     "word": "lady",
-    "value": 1
+    "value": 1,
+    "translation": "dama"
   },
   {
     "word": "sport",
-    "value": 1
+    "value": 1,
+    "translation": "deporte"
   },
   {
     "word": "o",
-    "value": 1
+    "value": 1,
+    "translation": "oh"
   },
   {
     "word": "bully",
-    "value": 1
+    "value": 1,
+    "translation": "bravucón"
   },
   {
     "word": "life",
-    "value": 1
+    "value": 1,
+    "translation": "vida"
   },
   {
     "word": "lad",
-    "value": 1
+    "value": 1,
+    "translation": "muchacho"
   },
   {
     "word": "heart",
-    "value": 1
+    "value": 1,
+    "translation": "corazón"
   },
   {
     "word": "hour",
-    "value": 1
+    "value": 1,
+    "translation": "hora"
   },
   {
     "word": "discourse",
-    "value": 1
+    "value": 1,
+    "translation": "discurso"
   },
   {
     "word": "wonder",
-    "value": 1
+    "value": 1,
+    "translation": "maravilla"
   },
   {
     "word": "apparel",
-    "value": 1
+    "value": 1,
+    "translation": "vestimenta"
   },
   {
     "word": "string",
-    "value": 1
+    "value": 1,
+    "translation": "cuerda"
   },
   {
     "word": "beard",
-    "value": 1
+    "value": 1,
+    "translation": "barba"
   },
   {
     "word": "ribbon",
-    "value": 1
+    "value": 1,
+    "translation": "cinta"
   },
   {
     "word": "pump",
-    "value": 1
+    "value": 1,
+    "translation": "bomba"
   },
   {
     "word": "palace",
-    "value": 1
+    "value": 1,
+    "translation": "palacio"
   },
   {
     "word": "part",
-    "value": 1
+    "value": 1,
+    "translation": "parte"
   },
   {
     "word": "case",
-    "value": 1
+    "value": 1,
+    "translation": "caso"
   },
   {
     "word": "linen",
-    "value": 1
+    "value": 1,
+    "translation": "lino"
   },
   {
     "word": "nail",
-    "value": 1
+    "value": 1,
+    "translation": "uña"
   },
   {
     "word": "claw",
-    "value": 1
+    "value": 1,
+    "translation": "garra"
   },
   {
     "word": "actor",
-    "value": 1
+    "value": 1,
+    "translation": "actor"
   },
   {
     "word": "onion",
-    "value": 1
+    "value": 1,
+    "translation": "cebolla"
   },
   {
     "word": "garlic",
-    "value": 1
+    "value": 1,
+    "translation": "ajo"
   },
   {
     "word": "breath",
-    "value": 1
+    "value": 1,
+    "translation": "aliento"
   },
   {
     "word": "comedy",
-    "value": 1
+    "value": 1,
+    "translation": "comedia"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 38
+    "value": 38,
+    "translation": "ser"
   },
   {
     "word": "will",
-    "value": 13
+    "value": 13,
+    "translation": "voluntad"
   },
   {
     "word": "do",
-    "value": 13
+    "value": 13,
+    "translation": "hacer"
   },
   {
     "word": "must",
-    "value": 13
+    "value": 13,
+    "translation": "deber"
   },
   {
     "word": "have",
-    "value": 11
+    "value": 11,
+    "translation": "tener"
   },
   {
     "word": "shall",
-    "value": 10
+    "value": 10,
+    "translation": "deber"
   },
   {
     "word": "make",
-    "value": 7
+    "value": 7,
+    "translation": "hacer"
   },
   {
     "word": "say",
-    "value": 7
+    "value": 7,
+    "translation": "decir"
   },
   {
     "word": "see",
-    "value": 7
+    "value": 7,
+    "translation": "ver"
   },
   {
     "word": "would",
-    "value": 7
+    "value": 7,
+    "translation": "haría"
   },
   {
     "word": "\u2019ll",
-    "value": 6
+    "value": 6,
+    "translation": "\u2019ll"
   },
   {
     "word": "let",
-    "value": 5
+    "value": 5,
+    "translation": "dejar"
   },
   {
     "word": "speak",
-    "value": 5
+    "value": 5,
+    "translation": "hablar"
   },
   {
     "word": "come",
-    "value": 5
+    "value": 5,
+    "translation": "venir"
   },
   {
     "word": "go",
-    "value": 5
+    "value": 5,
+    "translation": "ir"
   },
   {
     "word": "can",
-    "value": 4
+    "value": 4,
+    "translation": "poder"
   },
   {
     "word": "bring",
-    "value": 4
+    "value": 4,
+    "translation": "traer"
   },
   {
     "word": "enter",
-    "value": 4
+    "value": 4,
+    "translation": "entrar"
   },
   {
     "word": "desire",
-    "value": 4
+    "value": 4,
+    "translation": "desear"
   },
   {
     "word": "meet",
-    "value": 3
+    "value": 3,
+    "translation": "encontrar"
   },
   {
     "word": "answer",
-    "value": 3
+    "value": 3,
+    "translation": "responder"
   },
   {
     "word": "write",
-    "value": 3
+    "value": 3,
+    "translation": "escribir"
   },
   {
     "word": "tell",
-    "value": 3
+    "value": 3,
+    "translation": "contar"
   },
   {
     "word": "look",
-    "value": 3
+    "value": 3,
+    "translation": "mirar"
   },
   {
     "word": "shine",
-    "value": 3
+    "value": 3,
+    "translation": "brillar"
   },
   {
     "word": "play",
-    "value": 3
+    "value": 3,
+    "translation": "actuar"
   },
   {
     "word": "doth",
-    "value": 3
+    "value": 3,
+    "translation": "hace"
   },
   {
     "word": "may",
-    "value": 3
+    "value": 3,
+    "translation": "poder"
   },
   {
     "word": "tire",
-    "value": 3
+    "value": 3,
+    "translation": "cansar"
   },
   {
     "word": "pray",
-    "value": 3
+    "value": 3,
+    "translation": "rezar"
   },
   {
     "word": "sing",
-    "value": 3
+    "value": 3,
+    "translation": "cantar"
   },
   {
     "word": "\u2019",
-    "value": 2
+    "value": 2,
+    "translation": "\u2019"
   },
   {
     "word": "kill",
-    "value": 2
+    "value": 2,
+    "translation": "matar"
   },
   {
     "word": "starvele",
-    "value": 2
+    "value": 2,
+    "translation": "starvele"
   },
   {
     "word": "leave",
-    "value": 2
+    "value": 2,
+    "translation": "dejar"
   },
   {
     "word": "fear",
-    "value": 2
+    "value": 2,
+    "translation": "temer"
   },
   {
     "word": "promise",
-    "value": 2
+    "value": 2,
+    "translation": "prometer"
   },
   {
     "word": "ought",
-    "value": 2
+    "value": 2,
+    "translation": "deber"
   },
   {
     "word": "name",
-    "value": 2
+    "value": 2,
+    "translation": "nombrar"
   },
   {
     "word": "know",
-    "value": 2
+    "value": 2,
+    "translation": "saber"
   },
   {
     "word": "find",
-    "value": 2
+    "value": 2,
+    "translation": "encontrar"
   },
   {
     "word": "present",
-    "value": 2
+    "value": 2,
+    "translation": "presentar"
   },
   {
     "word": "hear",
-    "value": 2
+    "value": 2,
+    "translation": "oír"
   },
   {
     "word": "lead",
-    "value": 2
+    "value": 2,
+    "translation": "guiar"
   },
   {
     "word": "give",
-    "value": 2
+    "value": 2,
+    "translation": "dar"
   },
   {
     "word": "cry",
-    "value": 2
+    "value": 2,
+    "translation": "llorar"
   },
   {
     "word": "love",
-    "value": 2
+    "value": 2,
+    "translation": "amar"
   },
   {
     "word": "sleep",
-    "value": 2
+    "value": 2,
+    "translation": "dormir"
   },
   {
     "word": "beseech",
-    "value": 2
+    "value": 2,
+    "translation": "suplicar"
   },
   {
     "word": "weep",
-    "value": 2
+    "value": 2,
+    "translation": "llorar"
   }
 ]

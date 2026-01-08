@@ -1,202 +1,252 @@
 [
   {
     "word": "family",
-    "value": 15
+    "value": 15,
+    "translation": "familia"
   },
   {
     "word": "audition",
-    "value": 11
+    "value": 11,
+    "translation": "audici\u00f3n"
   },
   {
     "word": "room",
-    "value": 10
+    "value": 10,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "time",
-    "value": 10
+    "value": 10,
+    "translation": "tiempo"
   },
   {
     "word": "class",
-    "value": 9
+    "value": 9,
+    "translation": "clase"
   },
   {
     "word": "head",
-    "value": 8
+    "value": 8,
+    "translation": "cabeza"
   },
   {
     "word": "school",
-    "value": 8
+    "value": 8,
+    "translation": "escuela"
   },
   {
     "word": "woman",
-    "value": 7
+    "value": 7,
+    "translation": "mujer"
   },
   {
     "word": "classmate",
-    "value": 6
+    "value": 6,
+    "translation": "compa\u00f1ero de clase"
   },
   {
     "word": "year",
-    "value": 6
+    "value": 6,
+    "translation": "a\u00f1o"
   },
   {
     "word": "teacher",
-    "value": 5
+    "value": 5,
+    "translation": "maestro/profesor"
   },
   {
     "word": "soldier",
-    "value": 5
+    "value": 5,
+    "translation": "soldado"
   },
   {
     "word": "office",
-    "value": 5
+    "value": 5,
+    "translation": "oficina"
   },
   {
     "word": "student",
-    "value": 5
+    "value": 5,
+    "translation": "estudiante"
   },
   {
     "word": "word",
-    "value": 5
+    "value": 5,
+    "translation": "palabra"
   },
   {
     "word": "mom",
-    "value": 5
+    "value": 5,
+    "translation": "mam\u00e1"
   },
   {
     "word": "investigation",
-    "value": 5
+    "value": 5,
+    "translation": "investigaci\u00f3n"
   },
   {
     "word": "face",
-    "value": 5
+    "value": 5,
+    "translation": "cara/rostro"
   },
   {
     "word": "eye",
-    "value": 4
+    "value": 4,
+    "translation": "ojo"
   },
   {
     "word": "braid",
-    "value": 4
+    "value": 4,
+    "translation": "trenza"
   },
   {
     "word": "principal",
-    "value": 4
+    "value": 4,
+    "translation": "director"
   },
   {
     "word": "boy",
-    "value": 4
+    "value": 4,
+    "translation": "ni\u00f1o/muchacho"
   },
   {
     "word": "father",
-    "value": 4
+    "value": 4,
+    "translation": "padre"
   },
   {
     "word": "bun",
-    "value": 4
+    "value": 4,
+    "translation": "bollo"
   },
   {
     "word": "building",
-    "value": 4
+    "value": 4,
+    "translation": "edificio"
   },
   {
     "word": "way",
-    "value": 4
+    "value": 4,
+    "translation": "camino/manera"
   },
   {
     "word": "window",
-    "value": 3
+    "value": 3,
+    "translation": "ventana"
   },
   {
     "word": "door",
-    "value": 3
+    "value": 3,
+    "translation": "puerta"
   },
   {
     "word": "gym",
-    "value": 3
+    "value": 3,
+    "translation": "gimnasio"
   },
   {
     "word": "leg",
-    "value": 3
+    "value": 3,
+    "translation": "pierna"
   },
   {
     "word": "girl",
-    "value": 3
+    "value": 3,
+    "translation": "ni\u00f1a/muchacha"
   },
   {
     "word": "world",
-    "value": 3
+    "value": 3,
+    "translation": "mundo"
   },
   {
     "word": "table",
-    "value": 3
+    "value": 3,
+    "translation": "mesa"
   },
   {
     "word": "hand",
-    "value": 3
+    "value": 3,
+    "translation": "mano"
   },
   {
     "word": "problem",
-    "value": 3
+    "value": 3,
+    "translation": "problema"
   },
   {
     "word": "background",
-    "value": 3
+    "value": 3,
+    "translation": "antecedentes/fondo"
   },
   {
     "word": "note",
-    "value": 3
+    "value": 3,
+    "translation": "nota"
   },
   {
     "word": "actor",
-    "value": 3
+    "value": 3,
+    "translation": "actor"
   },
   {
     "word": "child",
-    "value": 3
+    "value": 3,
+    "translation": "ni\u00f1o/hijo"
   },
   {
     "word": "home",
-    "value": 3
+    "value": 3,
+    "translation": "hogar/casa"
   },
   {
     "word": "actress",
-    "value": 3
+    "value": 3,
+    "translation": "actriz"
   },
   {
     "word": "bathroom",
-    "value": 3
+    "value": 3,
+    "translation": "ba\u00f1o"
   },
   {
     "word": "place",
-    "value": 2
+    "value": 2,
+    "translation": "lugar"
   },
   {
     "word": "sound",
-    "value": 2
+    "value": 2,
+    "translation": "sonar/sonido"
   },
   {
     "word": "afternoon",
-    "value": 2
+    "value": 2,
+    "translation": "tarde"
   },
   {
     "word": "breeze",
-    "value": 2
+    "value": 2,
+    "translation": "brisa"
   },
   {
     "word": "paper",
-    "value": 2
+    "value": 2,
+    "translation": "papel"
   },
   {
     "word": "study",
-    "value": 2
+    "value": 2,
+    "translation": "estudiar"
   },
   {
     "word": "piece",
-    "value": 2
+    "value": 2,
+    "translation": "pedazo/pieza"
   },
   {
     "word": "work",
-    "value": 2
+    "value": 2,
+    "translation": "trabajar/funcionar"
   }
 ]

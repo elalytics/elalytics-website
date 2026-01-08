@@ -1,202 +1,252 @@
 [
   {
     "word": "love",
-    "value": 12
+    "value": 12,
+    "translation": "amor"
   },
   {
     "word": "fairy",
-    "value": 10
+    "value": 10,
+    "translation": "hada"
   },
   {
     "word": "night",
-    "value": 10
+    "value": 10,
+    "translation": "noche"
   },
   {
     "word": "boy",
-    "value": 6
+    "value": 6,
+    "translation": "niño"
   },
   {
     "word": "flower",
-    "value": 5
+    "value": 5,
+    "translation": "flor"
   },
   {
     "word": "wood",
-    "value": 5
+    "value": 5,
+    "translation": "bosque"
   },
   {
     "word": "moon",
-    "value": 4
+    "value": 4,
+    "translation": "luna"
   },
   {
     "word": "grove",
-    "value": 4
+    "value": 4,
+    "translation": "arboleda"
   },
   {
     "word": "land",
-    "value": 4
+    "value": 4,
+    "translation": "tierra"
   },
   {
     "word": "sea",
-    "value": 4
+    "value": 4,
+    "translation": "mar"
   },
   {
     "word": "man",
-    "value": 4
+    "value": 4,
+    "translation": "hombre"
   },
   {
     "word": "world",
-    "value": 4
+    "value": 4,
+    "translation": "mundo"
   },
   {
     "word": "heart",
-    "value": 4
+    "value": 4,
+    "translation": "corazón"
   },
   {
     "word": "eye",
-    "value": 4
+    "value": 4,
+    "translation": "ojo"
   },
   {
     "word": "spirit",
-    "value": 3
+    "value": 3,
+    "translation": "espíritu"
   },
   {
     "word": "flood",
-    "value": 3
+    "value": 3,
+    "translation": "inundación"
   },
   {
     "word": "queen",
-    "value": 3
+    "value": 3,
+    "translation": "reina"
   },
   {
     "word": "train",
-    "value": 3
+    "value": 3,
+    "translation": "séquito"
   },
   {
     "word": "wanderer",
-    "value": 3
+    "value": 3,
+    "translation": "vagabundo"
   },
   {
     "word": "lady",
-    "value": 3
+    "value": 3,
+    "translation": "dama"
   },
   {
     "word": "summer",
-    "value": 3
+    "value": 3,
+    "translation": "verano"
   },
   {
     "word": "wind",
-    "value": 3
+    "value": 3,
+    "translation": "viento"
   },
   {
     "word": "herb",
-    "value": 3
+    "value": 3,
+    "translation": "hierba"
   },
   {
     "word": "juice",
-    "value": 3
+    "value": 3,
+    "translation": "jugo"
   },
   {
     "word": "place",
-    "value": 3
+    "value": 3,
+    "translation": "lugar"
   },
   {
     "word": "hill",
-    "value": 2
+    "value": 2,
+    "translation": "colina"
   },
   {
     "word": "sphere",
-    "value": 2
+    "value": 2,
+    "translation": "esfera"
   },
   {
     "word": "green",
-    "value": 2
+    "value": 2,
+    "translation": "verde"
   },
   {
     "word": "cowslip",
-    "value": 2
+    "value": 2,
+    "translation": "prímula"
   },
   {
     "word": "elf",
-    "value": 2
+    "value": 2,
+    "translation": "elfo"
   },
   {
     "word": "king",
-    "value": 2
+    "value": 2,
+    "translation": "rey"
   },
   {
     "word": "revel",
-    "value": 2
+    "value": 2,
+    "translation": "juerga"
   },
   {
     "word": "sight",
-    "value": 2
+    "value": 2,
+    "translation": "vista"
   },
   {
     "word": "changeling",
-    "value": 2
+    "value": 2,
+    "translation": "niño cambiado"
   },
   {
     "word": "child",
-    "value": 2
+    "value": 2,
+    "translation": "niño"
   },
   {
     "word": "forest",
-    "value": 2
+    "value": 2,
+    "translation": "bosque"
   },
   {
     "word": "joy",
-    "value": 2
+    "value": 2,
+    "translation": "alegría"
   },
   {
     "word": "fountain",
-    "value": 2
+    "value": 2,
+    "translation": "fuente"
   },
   {
     "word": "shape",
-    "value": 2
+    "value": 2,
+    "translation": "forma"
   },
   {
     "word": "maiden",
-    "value": 2
+    "value": 2,
+    "translation": "doncella"
   },
   {
     "word": "milk",
-    "value": 2
+    "value": 2,
+    "translation": "leche"
   },
   {
     "word": "likeness",
-    "value": 2
+    "value": 2,
+    "translation": "semejanza"
   },
   {
     "word": "mistress",
-    "value": 2
+    "value": 2,
+    "translation": "señora"
   },
   {
     "word": "side",
-    "value": 2
+    "value": 2,
+    "translation": "lado"
   },
   {
     "word": "moonlight",
-    "value": 2
+    "value": 2,
+    "translation": "luz de luna"
   },
   {
     "word": "bed",
-    "value": 2
+    "value": 2,
+    "translation": "cama"
   },
   {
     "word": "company",
-    "value": 2
+    "value": 2,
+    "translation": "compañía"
   },
   {
     "word": "day",
-    "value": 2
+    "value": 2,
+    "translation": "día"
   },
   {
     "word": "spring",
-    "value": 2
+    "value": 2,
+    "translation": "primavera"
   },
   {
     "word": "youth",
-    "value": 2
+    "value": 2,
+    "translation": "juventud"
   }
 ]

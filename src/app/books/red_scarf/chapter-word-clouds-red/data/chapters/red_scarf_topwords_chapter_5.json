@@ -1,14 +1,17 @@
 [
   {
     "word": "flag",
-    "value": 1
+    "value": 1,
+    "translation": "bandera"
   },
   {
     "word": "scarf",
-    "value": 1
+    "value": 1,
+    "translation": "bufanda"
   },
   {
     "word": "armband",
-    "value": 1
+    "value": 1,
+    "translation": "brazalete"
   }
 ]

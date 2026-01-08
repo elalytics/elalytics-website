@@ -1,202 +1,252 @@
 [
   {
     "word": "lion",
-    "value": 6
+    "value": 6,
+    "translation": "león"
   },
   {
     "word": "eye",
-    "value": 6
+    "value": 6,
+    "translation": "ojo"
   },
   {
     "word": "thing",
-    "value": 5
+    "value": 5,
+    "translation": "cosa"
   },
   {
     "word": "name",
-    "value": 5
+    "value": 5,
+    "translation": "nombre"
   },
   {
     "word": "man",
-    "value": 5
+    "value": 5,
+    "translation": "hombre"
   },
   {
     "word": "lady",
-    "value": 4
+    "value": 4,
+    "translation": "dama"
   },
   {
     "word": "prologue",
-    "value": 4
+    "value": 4,
+    "translation": "prólogo"
   },
   {
     "word": "wall",
-    "value": 4
+    "value": 4,
+    "translation": "pared"
   },
   {
     "word": "horse",
-    "value": 4
+    "value": 4,
+    "translation": "caballo"
   },
   {
     "word": "art",
-    "value": 4
+    "value": 4,
+    "translation": "arte"
   },
   {
     "word": "chamber",
-    "value": 3
+    "value": 3,
+    "translation": "cámara"
   },
   {
     "word": "moon",
-    "value": 3
+    "value": 3,
+    "translation": "luna"
   },
   {
     "word": "night",
-    "value": 3
+    "value": 3,
+    "translation": "noche"
   },
   {
     "word": "cue",
-    "value": 3
+    "value": 3,
+    "translation": "señal"
   },
   {
     "word": "flower",
-    "value": 3
+    "value": 3,
+    "translation": "flor"
   },
   {
     "word": "flute",
-    "value": 3
+    "value": 3,
+    "translation": "flauta"
   },
   {
     "word": "note",
-    "value": 3
+    "value": 3,
+    "translation": "nota"
   },
   {
     "word": "love",
-    "value": 3
+    "value": 3,
+    "translation": "amor"
   },
   {
     "word": "gentleman",
-    "value": 3
+    "value": 3,
+    "translation": "caballero"
   },
   {
     "word": "hail",
-    "value": 3
+    "value": 3,
+    "translation": "granizo"
   },
   {
     "word": "acquaintance",
-    "value": 3
+    "value": 3,
+    "translation": "conocido"
   },
   {
     "word": "place",
-    "value": 2
+    "value": 2,
+    "translation": "lugar"
   },
   {
     "word": "house",
-    "value": 2
+    "value": 2,
+    "translation": "casa"
   },
   {
     "word": "sword",
-    "value": 2
+    "value": 2,
+    "translation": "espada"
   },
   {
     "word": "fear",
-    "value": 2
+    "value": 2,
+    "translation": "miedo"
   },
   {
     "word": "life",
-    "value": 2
+    "value": 2,
+    "translation": "vida"
   },
   {
     "word": "pity",
-    "value": 2
+    "value": 2,
+    "translation": "lástima"
   },
   {
     "word": "moonlight",
-    "value": 2
+    "value": 2,
+    "translation": "luz de luna"
   },
   {
     "word": "play",
-    "value": 2
+    "value": 2,
+    "translation": "obra"
   },
   {
     "word": "calendar",
-    "value": 2
+    "value": 2,
+    "translation": "calendario"
   },
   {
     "word": "moonshine",
-    "value": 2
+    "value": 2,
+    "translation": "luz de luna"
   },
   {
     "word": "casement",
-    "value": 2
+    "value": 2,
+    "translation": "ventana"
   },
   {
     "word": "finger",
-    "value": 2
+    "value": 2,
+    "translation": "dedo"
   },
   {
     "word": "mother",
-    "value": 2
+    "value": 2,
+    "translation": "madre"
   },
   {
     "word": "part",
-    "value": 2
+    "value": 2,
+    "translation": "parte"
   },
   {
     "word": "brake",
-    "value": 2
+    "value": 2,
+    "translation": "matorral"
   },
   {
     "word": "fairy",
-    "value": 2
+    "value": 2,
+    "translation": "hada"
   },
   {
     "word": "odour",
-    "value": 2
+    "value": 2,
+    "translation": "olor"
   },
   {
     "word": "hue",
-    "value": 2
+    "value": 2,
+    "translation": "tono"
   },
   {
     "word": "tomb",
-    "value": 2
+    "value": 2,
+    "translation": "tumba"
   },
   {
     "word": "master",
-    "value": 2
+    "value": 2,
+    "translation": "maestro"
   },
   {
     "word": "hound",
-    "value": 2
+    "value": 2,
+    "translation": "sabueso"
   },
   {
     "word": "hog",
-    "value": 2
+    "value": 2,
+    "translation": "cerdo"
   },
   {
     "word": "bear",
-    "value": 2
+    "value": 2,
+    "translation": "oso"
   },
   {
     "word": "fire",
-    "value": 2
+    "value": 2,
+    "translation": "fuego"
   },
   {
     "word": "turn",
-    "value": 2
+    "value": 2,
+    "translation": "turno"
   },
   {
     "word": "knavery",
-    "value": 2
+    "value": 2,
+    "translation": "picardía"
   },
   {
     "word": "bed",
-    "value": 2
+    "value": 2,
+    "translation": "cama"
   },
   {
     "word": "cuckoo",
-    "value": 2
+    "value": 2,
+    "translation": "cuco"
   },
   {
     "word": "wit",
-    "value": 2
+    "value": 2,
+    "translation": "ingenio"
   }
 ]

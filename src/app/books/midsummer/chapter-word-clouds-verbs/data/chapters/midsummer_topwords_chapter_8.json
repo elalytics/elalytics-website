@@ -1,174 +1,217 @@
 [
   {
     "word": "be",
-    "value": 20
+    "value": 20,
+    "translation": "ser"
   },
   {
     "word": "have",
-    "value": 8
+    "value": 8,
+    "translation": "tener"
   },
   {
     "word": "come",
-    "value": 3
+    "value": 3,
+    "translation": "venir"
   },
   {
     "word": "hear",
-    "value": 3
+    "value": 3,
+    "translation": "oír"
   },
   {
     "word": "go",
-    "value": 3
+    "value": 3,
+    "translation": "ir"
   },
   {
     "word": "hath",
-    "value": 3
+    "value": 3,
+    "translation": "tiene"
   },
   {
     "word": "tell",
-    "value": 3
+    "value": 3,
+    "translation": "contar"
   },
   {
     "word": "say",
-    "value": 2
+    "value": 2,
+    "translation": "decir"
   },
   {
     "word": "play",
-    "value": 2
+    "value": 2,
+    "translation": "actuar"
   },
   {
     "word": "hang",
-    "value": 2
+    "value": 2,
+    "translation": "colgar"
   },
   {
     "word": "will",
-    "value": 2
+    "value": 2,
+    "translation": "voluntad"
   },
   {
     "word": "let",
-    "value": 2
+    "value": 2,
+    "translation": "dejar"
   },
   {
     "word": "send",
-    "value": 1
+    "value": 1,
+    "translation": "enviar"
   },
   {
     "word": "can",
-    "value": 1
+    "value": 1,
+    "translation": "poder"
   },
   {
     "word": "transport",
-    "value": 1
+    "value": 1,
+    "translation": "transportar"
   },
   {
     "word": "mar",
-    "value": 1
+    "value": 1,
+    "translation": "estropear"
   },
   {
     "word": "doth",
-    "value": 1
+    "value": 1,
+    "translation": "hace"
   },
   {
     "word": "discharge",
-    "value": 1
+    "value": 1,
+    "translation": "descargar"
   },
   {
     "word": "must",
-    "value": 1
+    "value": 1,
+    "translation": "deber"
   },
   {
     "word": "bless",
-    "value": 1
+    "value": 1,
+    "translation": "bendecir"
   },
   {
     "word": "make",
-    "value": 1
+    "value": 1,
+    "translation": "hacer"
   },
   {
     "word": "lose",
-    "value": 1
+    "value": 1,
+    "translation": "perder"
   },
   {
     "word": "could",
-    "value": 1
+    "value": 1,
+    "translation": "podría"
   },
   {
     "word": "scape",
-    "value": 1
+    "value": 1,
+    "translation": "escapar"
   },
   {
     "word": "give",
-    "value": 1
+    "value": 1,
+    "translation": "dar"
   },
   {
     "word": "\u2019ll",
-    "value": 1
+    "value": 1,
+    "translation": "\u2019ll"
   },
   {
     "word": "would",
-    "value": 1
+    "value": 1,
+    "translation": "haría"
   },
   {
     "word": "deserve",
-    "value": 1
+    "value": 1,
+    "translation": "merecer"
   },
   {
     "word": "sixpence",
-    "value": 1
+    "value": 1,
+    "translation": "seis peniques"
   },
   {
     "word": "ask",
-    "value": 1
+    "value": 1,
+    "translation": "preguntar"
   },
   {
     "word": "fall",
-    "value": 1
+    "value": 1,
+    "translation": "caer"
   },
   {
     "word": "Let",
-    "value": 1
+    "value": 1,
+    "translation": "dejar"
   },
   {
     "word": "dine",
-    "value": 1
+    "value": 1,
+    "translation": "cenar"
   },
   {
     "word": "get",
-    "value": 1
+    "value": 1,
+    "translation": "obtener"
   },
   {
     "word": "meet",
-    "value": 1
+    "value": 1,
+    "translation": "encontrar"
   },
   {
     "word": "look",
-    "value": 1
+    "value": 1,
+    "translation": "mirar"
   },
   {
     "word": "prefer",
-    "value": 1
+    "value": 1,
+    "translation": "preferir"
   },
   {
     "word": "pair",
-    "value": 1
+    "value": 1,
+    "translation": "emparejar"
   },
   {
     "word": "shall",
-    "value": 1
+    "value": 1,
+    "translation": "deber"
   },
   {
     "word": "eat",
-    "value": 1
+    "value": 1,
+    "translation": "comer"
   },
   {
     "word": "utter",
-    "value": 1
+    "value": 1,
+    "translation": "pronunciar"
   },
   {
     "word": "do",
-    "value": 1
+    "value": 1,
+    "translation": "hacer"
   },
   {
     "word": "doubt",
-    "value": 1
+    "value": 1,
+    "translation": "dudar"
   }
 ]

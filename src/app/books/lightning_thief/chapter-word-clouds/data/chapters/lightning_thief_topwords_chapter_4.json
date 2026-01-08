@@ -1,202 +1,252 @@
 [
   {
     "word": "mother",
-    "value": 16
+    "value": 16,
+    "translation": "madre"
   },
   {
     "word": "man",
-    "value": 16
+    "value": 16,
+    "translation": "hombre"
   },
   {
     "word": "bull",
-    "value": 15
+    "value": 15,
+    "translation": "toro"
   },
   {
     "word": "monster",
-    "value": 14
+    "value": 14,
+    "translation": "monstruo"
   },
   {
     "word": "head",
-    "value": 11
+    "value": 11,
+    "translation": "cabeza"
   },
   {
     "word": "mom",
-    "value": 10
+    "value": 10,
+    "translation": "mamá"
   },
   {
     "word": "side",
-    "value": 10
+    "value": 10,
+    "translation": "lado"
   },
   {
     "word": "rain",
-    "value": 9
+    "value": 9,
+    "translation": "lluvia"
   },
   {
     "word": "eye",
-    "value": 9
+    "value": 9,
+    "translation": "ojo"
   },
   {
     "word": "time",
-    "value": 8
+    "value": 8,
+    "translation": "tiempo"
   },
   {
     "word": "flash",
-    "value": 7
+    "value": 7,
+    "translation": "destello"
   },
   {
     "word": "tree",
-    "value": 7
+    "value": 7,
+    "translation": "árbol"
   },
   {
     "word": "horn",
-    "value": 7
+    "value": 7,
+    "translation": "cuerno"
   },
   {
     "word": "way",
-    "value": 6
+    "value": 6,
+    "translation": "camino"
   },
   {
     "word": "car",
-    "value": 6
+    "value": 6,
+    "translation": "coche"
   },
   {
     "word": "hand",
-    "value": 6
+    "value": 6,
+    "translation": "mano"
   },
   {
     "word": "light",
-    "value": 6
+    "value": 6,
+    "translation": "luz"
   },
   {
     "word": "road",
-    "value": 5
+    "value": 5,
+    "translation": "carretera"
   },
   {
     "word": "lightning",
-    "value": 5
+    "value": 5,
+    "translation": "relámpago"
   },
   {
     "word": "friend",
-    "value": 5
+    "value": 5,
+    "translation": "amigo"
   },
   {
     "word": "thing",
-    "value": 5
+    "value": 5,
+    "translation": "cosa"
   },
   {
     "word": "grass",
-    "value": 5
+    "value": 5,
+    "translation": "hierba"
   },
   {
     "word": "farmhouse",
-    "value": 4
+    "value": 4,
+    "translation": "granja"
   },
   {
     "word": "hill",
-    "value": 4
+    "value": 4,
+    "translation": "colina"
   },
   {
     "word": "neck",
-    "value": 4
+    "value": 4,
+    "translation": "cuello"
   },
   {
     "word": "door",
-    "value": 4
+    "value": 4,
+    "translation": "puerta"
   },
   {
     "word": "roof",
-    "value": 4
+    "value": 4,
+    "translation": "techo"
   },
   {
     "word": "pine",
-    "value": 4
+    "value": 4,
+    "translation": "pino"
   },
   {
     "word": "arm",
-    "value": 4
+    "value": 4,
+    "translation": "brazo"
   },
   {
     "word": "smell",
-    "value": 3
+    "value": 3,
+    "translation": "olor"
   },
   {
     "word": "waist",
-    "value": 3
+    "value": 3,
+    "translation": "cintura"
   },
   {
     "word": "lady",
-    "value": 3
+    "value": 3,
+    "translation": "dama"
   },
   {
     "word": "moment",
-    "value": 3
+    "value": 3,
+    "translation": "momento"
   },
   {
     "word": "mud",
-    "value": 3
+    "value": 3,
+    "translation": "barro"
   },
   {
     "word": "shoulder",
-    "value": 3
+    "value": 3,
+    "translation": "hombro"
   },
   {
     "word": "blanket",
-    "value": 3
+    "value": 3,
+    "translation": "manta"
   },
   {
     "word": "rage",
-    "value": 3
+    "value": 3,
+    "translation": "rabia"
   },
   {
     "word": "fear",
-    "value": 3
+    "value": 3,
+    "translation": "miedo"
   },
   {
     "word": "ground",
-    "value": 3
+    "value": 3,
+    "translation": "suelo"
   },
   {
     "word": "jacket",
-    "value": 3
+    "value": 3,
+    "translation": "chaqueta"
   },
   {
     "word": "idea",
-    "value": 3
+    "value": 3,
+    "translation": "idea"
   },
   {
     "word": "foot",
-    "value": 2
+    "value": 2,
+    "translation": "pie"
   },
   {
     "word": "backseat",
-    "value": 2
+    "value": 2,
+    "translation": "asiento trasero"
   },
   {
     "word": "kind",
-    "value": 2
+    "value": 2,
+    "translation": "tipo"
   },
   {
     "word": "barnyard",
-    "value": 2
+    "value": 2,
+    "translation": "corral"
   },
   {
     "word": "animal",
-    "value": 2
+    "value": 2,
+    "translation": "animal"
   },
   {
     "word": "human",
-    "value": 2
+    "value": 2,
+    "translation": "humano"
   },
   {
     "word": "noise",
-    "value": 2
+    "value": 2,
+    "translation": "ruido"
   },
   {
     "word": "blood",
-    "value": 2
+    "value": 2,
+    "translation": "sangre"
   },
   {
     "word": "left",
-    "value": 2
+    "value": 2,
+    "translation": "izquierda"
   }
 ]

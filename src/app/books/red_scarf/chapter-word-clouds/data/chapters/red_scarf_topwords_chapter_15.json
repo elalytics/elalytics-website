@@ -1,202 +1,252 @@
 [
   {
     "word": "eye",
-    "value": 18
+    "value": 18,
+    "translation": "ojo"
   },
   {
     "word": "face",
-    "value": 10
+    "value": 10,
+    "translation": "cara/rostro"
   },
   {
     "word": "exhibition",
-    "value": 9
+    "value": 9,
+    "translation": "exposici\u00f3n"
   },
   {
     "word": "landlord",
-    "value": 9
+    "value": 9,
+    "translation": "terrateniente"
   },
   {
     "word": "father",
-    "value": 9
+    "value": 9,
+    "translation": "padre"
   },
   {
     "word": "school",
-    "value": 8
+    "value": 8,
+    "translation": "escuela"
   },
   {
     "word": "presentation",
-    "value": 8
+    "value": 8,
+    "translation": "[traducci\u00f3n de 'presentation']"
   },
   {
     "word": "booth",
-    "value": 6
+    "value": 6,
+    "translation": "caseta/stand"
   },
   {
     "word": "family",
-    "value": 6
+    "value": 6,
+    "translation": "familia"
   },
   {
     "word": "class",
-    "value": 6
+    "value": 6,
+    "translation": "clase"
   },
   {
     "word": "teacher",
-    "value": 6
+    "value": 6,
+    "translation": "maestro/profesor"
   },
   {
     "word": "hall",
-    "value": 5
+    "value": 5,
+    "translation": "sala"
   },
   {
     "word": "tear",
-    "value": 5
+    "value": 5,
+    "translation": "l\u00e1grima"
   },
   {
     "word": "front",
-    "value": 5
+    "value": 5,
+    "translation": "frente"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "d\u00eda"
   },
   {
     "word": "granddaughter",
-    "value": 4
+    "value": 4,
+    "translation": "nieta"
   },
   {
     "word": "voice",
-    "value": 4
+    "value": 4,
+    "translation": "voz"
   },
   {
     "word": "hand",
-    "value": 4
+    "value": 4,
+    "translation": "mano"
   },
   {
     "word": "other",
-    "value": 4
+    "value": 4,
+    "translation": "otro"
   },
   {
     "word": "door",
-    "value": 4
+    "value": 4,
+    "translation": "puerta"
   },
   {
     "word": "child",
-    "value": 4
+    "value": 4,
+    "translation": "ni\u00f1o/hijo"
   },
   {
     "word": "leader",
-    "value": 3
+    "value": 3,
+    "translation": "l\u00edder"
   },
   {
     "word": "article",
-    "value": 3
+    "value": 3,
+    "translation": "art\u00edculo"
   },
   {
     "word": "life",
-    "value": 3
+    "value": 3,
+    "translation": "[traducci\u00f3n de 'life']"
   },
   {
     "word": "office",
-    "value": 3
+    "value": 3,
+    "translation": "oficina"
   },
   {
     "word": "people",
-    "value": 3
+    "value": 3,
+    "translation": "gente/personas"
   },
   {
     "word": "night",
-    "value": 3
+    "value": 3,
+    "translation": "noche"
   },
   {
     "word": "job",
-    "value": 3
+    "value": 3,
+    "translation": "trabajo"
   },
   {
     "word": "statue",
-    "value": 3
+    "value": 3,
+    "translation": "estatua"
   },
   {
     "word": "book",
-    "value": 3
+    "value": 3,
+    "translation": "libro"
   },
   {
     "word": "head",
-    "value": 3
+    "value": 3,
+    "translation": "cabeza"
   },
   {
     "word": "classroom",
-    "value": 3
+    "value": 3,
+    "translation": "aula"
   },
   {
     "word": "theater",
-    "value": 3
+    "value": 3,
+    "translation": "teatro"
   },
   {
     "word": "study",
-    "value": 3
+    "value": 3,
+    "translation": "estudiar"
   },
   {
     "word": "woman",
-    "value": 3
+    "value": 3,
+    "translation": "mujer"
   },
   {
     "word": "table",
-    "value": 3
+    "value": 3,
+    "translation": "mesa"
   },
   {
     "word": "preview",
-    "value": 2
+    "value": 2,
+    "translation": "vista previa"
   },
   {
     "word": "revolt",
-    "value": 2
+    "value": 2,
+    "translation": "revuelta"
   },
   {
     "word": "determination",
-    "value": 2
+    "value": 2,
+    "translation": "determinaci\u00f3n"
   },
   {
     "word": "building",
-    "value": 2
+    "value": 2,
+    "translation": "edificio"
   },
   {
     "word": "grandfather",
-    "value": 2
+    "value": 2,
+    "translation": "abuelo"
   },
   {
     "word": "food",
-    "value": 2
+    "value": 2,
+    "translation": "comida"
   },
   {
     "word": "debt",
-    "value": 2
+    "value": 2,
+    "translation": "deuda"
   },
   {
     "word": "year",
-    "value": 2
+    "value": 2,
+    "translation": "a\u00f1o"
   },
   {
     "word": "stool",
-    "value": 2
+    "value": 2,
+    "translation": "taburete"
   },
   {
     "word": "window",
-    "value": 2
+    "value": 2,
+    "translation": "ventana"
   },
   {
     "word": "back",
-    "value": 2
+    "value": 2,
+    "translation": "espalda/atr\u00e1s"
   },
   {
     "word": "enemy",
-    "value": 2
+    "value": 2,
+    "translation": "enemigo"
   },
   {
     "word": "work",
-    "value": 2
+    "value": 2,
+    "translation": "trabajar/funcionar"
   },
   {
     "word": "end",
-    "value": 2
+    "value": 2,
+    "translation": "fin"
   }
 ]

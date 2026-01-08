@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 25
+    "value": 25,
+    "translation": "ser"
   },
   {
     "word": "will",
-    "value": 18
+    "value": 18,
+    "translation": "voluntad"
   },
   {
     "word": "play",
-    "value": 12
+    "value": 12,
+    "translation": "actuar"
   },
   {
     "word": "let",
-    "value": 6
+    "value": 6,
+    "translation": "dejar"
   },
   {
     "word": "roar",
-    "value": 6
+    "value": 6,
+    "translation": "rugir"
   },
   {
     "word": "shall",
-    "value": 5
+    "value": 5,
+    "translation": "deber"
   },
   {
     "word": "must",
-    "value": 5
+    "value": 5,
+    "translation": "deber"
   },
   {
     "word": "do",
-    "value": 4
+    "value": 4,
+    "translation": "hacer"
   },
   {
     "word": "have",
-    "value": 4
+    "value": 4,
+    "translation": "tener"
   },
   {
     "word": "may",
-    "value": 4
+    "value": 4,
+    "translation": "poder"
   },
   {
     "word": "would",
-    "value": 4
+    "value": 4,
+    "translation": "haría"
   },
   {
     "word": "meet",
-    "value": 4
+    "value": 4,
+    "translation": "encontrar"
   },
   {
     "word": "call",
-    "value": 3
+    "value": 3,
+    "translation": "llamar"
   },
   {
     "word": "make",
-    "value": 3
+    "value": 3,
+    "translation": "hacer"
   },
   {
     "word": "hang",
-    "value": 3
+    "value": 3,
+    "translation": "colgar"
   },
   {
     "word": "say",
-    "value": 2
+    "value": 2,
+    "translation": "decir"
   },
   {
     "word": "name",
-    "value": 2
+    "value": 2,
+    "translation": "nombrar"
   },
   {
     "word": "proceed",
-    "value": 2
+    "value": 2,
+    "translation": "proceder"
   },
   {
     "word": "take",
-    "value": 2
+    "value": 2,
+    "translation": "tomar"
   },
   {
     "word": "speak",
-    "value": 2
+    "value": 2,
+    "translation": "hablar"
   },
   {
     "word": "pray",
-    "value": 2
+    "value": 2,
+    "translation": "rezar"
   },
   {
     "word": "should",
-    "value": 2
+    "value": 2,
+    "translation": "debería"
   },
   {
     "word": "fright",
-    "value": 2
+    "value": 2,
+    "translation": "asustar"
   },
   {
     "word": "rehearse",
-    "value": 2
+    "value": 2,
+    "translation": "ensayar"
   },
   {
     "word": "accord",
-    "value": 1
+    "value": 1,
+    "translation": "acordar"
   },
   {
     "word": "think",
-    "value": 1
+    "value": 1,
+    "translation": "pensar"
   },
   {
     "word": "treat",
-    "value": 1
+    "value": 1,
+    "translation": "tratar"
   },
   {
     "word": "read",
-    "value": 1
+    "value": 1,
+    "translation": "leer"
   },
   {
     "word": "grow",
-    "value": 1
+    "value": 1,
+    "translation": "crecer"
   },
   {
     "word": "assure",
-    "value": 1
+    "value": 1,
+    "translation": "asegurar"
   },
   {
     "word": "spread",
-    "value": 1
+    "value": 1,
+    "translation": "extender"
   },
   {
     "word": "set",
-    "value": 1
+    "value": 1,
+    "translation": "poner"
   },
   {
     "word": "kill",
-    "value": 1
+    "value": 1,
+    "translation": "matar"
   },
   {
     "word": "ask",
-    "value": 1
+    "value": 1,
+    "translation": "preguntar"
   },
   {
     "word": "look",
-    "value": 1
+    "value": 1,
+    "translation": "mirar"
   },
   {
     "word": "move",
-    "value": 1
+    "value": 1,
+    "translation": "mover"
   },
   {
     "word": "condole",
-    "value": 1
+    "value": 1,
+    "translation": "condolerse"
   },
   {
     "word": "could",
-    "value": 1
+    "value": 1,
+    "translation": "podría"
   },
   {
     "word": "tear",
-    "value": 1
+    "value": 1,
+    "translation": "rasgar"
   },
   {
     "word": "rage",
-    "value": 1
+    "value": 1,
+    "translation": "enfurecer"
   },
   {
     "word": "shiver",
-    "value": 1
+    "value": 1,
+    "translation": "temblar"
   },
   {
     "word": "break",
-    "value": 1
+    "value": 1,
+    "translation": "romper"
   },
   {
     "word": "shine",
-    "value": 1
+    "value": 1,
+    "translation": "brillar"
   },
   {
     "word": "mar",
-    "value": 1
+    "value": 1,
+    "translation": "estropear"
   },
   {
     "word": "wander",
-    "value": 1
+    "value": 1,
+    "translation": "vagar"
   },
   {
     "word": "love",
-    "value": 1
+    "value": 1,
+    "translation": "amar"
   },
   {
     "word": "come",
-    "value": 1
+    "value": 1,
+    "translation": "venir"
   },
   {
     "word": "\u2019",
-    "value": 1
+    "value": 1,
+    "translation": "\u2019"
   },
   {
     "word": "hide",
-    "value": 1
+    "value": 1,
+    "translation": "esconder"
   },
   {
     "word": "\u2019ll",
-    "value": 1
+    "value": 1,
+    "translation": "\u2019ll"
   }
 ]

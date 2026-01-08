@@ -1,202 +1,252 @@
 [
   {
     "word": "year",
-    "value": 12
+    "value": 12,
+    "translation": "a\u00f1o"
   },
   {
     "word": "factory",
-    "value": 7
+    "value": 7,
+    "translation": "f\u00e1brica"
   },
   {
     "word": "country",
-    "value": 7
+    "value": 7,
+    "translation": "pa\u00eds"
   },
   {
     "word": "story",
-    "value": 5
+    "value": 5,
+    "translation": "historia/piso"
   },
   {
     "word": "book",
-    "value": 4
+    "value": 4,
+    "translation": "libro"
   },
   {
     "word": "student",
-    "value": 4
+    "value": 4,
+    "translation": "estudiante"
   },
   {
     "word": "company",
-    "value": 4
+    "value": 4,
+    "translation": "compa\u00f1\u00eda"
   },
   {
     "word": "countryside",
-    "value": 4
+    "value": 4,
+    "translation": "campo"
   },
   {
     "word": "friend",
-    "value": 3
+    "value": 3,
+    "translation": "amigo"
   },
   {
     "word": "school",
-    "value": 3
+    "value": 3,
+    "translation": "escuela"
   },
   {
     "word": "other",
-    "value": 3
+    "value": 3,
+    "translation": "otro"
   },
   {
     "word": "people",
-    "value": 3
+    "value": 3,
+    "translation": "gente/personas"
   },
   {
     "word": "power",
-    "value": 3
+    "value": 3,
+    "translation": "poder"
   },
   {
     "word": "struggle",
-    "value": 3
+    "value": 3,
+    "translation": "lucha"
   },
   {
     "word": "childhood",
-    "value": 3
+    "value": 3,
+    "translation": "infancia"
   },
   {
     "word": "time",
-    "value": 3
+    "value": 3,
+    "translation": "tiempo"
   },
   {
     "word": "experience",
-    "value": 3
+    "value": 3,
+    "translation": "experiencia"
   },
   {
     "word": "family",
-    "value": 3
+    "value": 3,
+    "translation": "familia"
   },
   {
     "word": "mother",
-    "value": 2
+    "value": 2,
+    "translation": "madre"
   },
   {
     "word": "system",
-    "value": 2
+    "value": 2,
+    "translation": "sistema"
   },
   {
     "word": "death",
-    "value": 2
+    "value": 2,
+    "translation": "muerte"
   },
   {
     "word": "part",
-    "value": 2
+    "value": 2,
+    "translation": "parte"
   },
   {
     "word": "group",
-    "value": 2
+    "value": 2,
+    "translation": "grupo"
   },
   {
     "word": "control",
-    "value": 2
+    "value": 2,
+    "translation": "control"
   },
   {
     "word": "girl",
-    "value": 2
+    "value": 2,
+    "translation": "ni\u00f1a/muchacha"
   },
   {
     "word": "result",
-    "value": 2
+    "value": 2,
+    "translation": "resultado"
   },
   {
     "word": "age",
-    "value": 2
+    "value": 2,
+    "translation": "edad"
   },
   {
     "word": "ransack",
-    "value": 2
+    "value": 2,
+    "translation": "saqueo"
   },
   {
     "word": "landlord",
-    "value": 2
+    "value": 2,
+    "translation": "terrateniente"
   },
   {
     "word": "university",
-    "value": 2
+    "value": 2,
+    "translation": "universidad"
   },
   {
     "word": "education",
-    "value": 2
+    "value": 2,
+    "translation": "educaci\u00f3n"
   },
   {
     "word": "father",
-    "value": 2
+    "value": 2,
+    "translation": "padre"
   },
   {
     "word": "promotion",
-    "value": 2
+    "value": 2,
+    "translation": "promoci\u00f3n"
   },
   {
     "word": "parent",
-    "value": 2
+    "value": 2,
+    "translation": "padre/madre"
   },
   {
     "word": "farmer",
-    "value": 2
+    "value": 2,
+    "translation": "granjero"
   },
   {
     "word": "farm",
-    "value": 2
+    "value": 2,
+    "translation": "granja"
   },
   {
     "word": "home",
-    "value": 2
+    "value": 2,
+    "translation": "hogar/casa"
   },
   {
     "word": "freedom",
-    "value": 2
+    "value": 2,
+    "translation": "libertad"
   },
   {
     "word": "answer",
-    "value": 1
+    "value": 1,
+    "translation": "respuesta"
   },
   {
     "word": "thing",
-    "value": 1
+    "value": 1,
+    "translation": "cosa"
   },
   {
     "word": "fault",
-    "value": 1
+    "value": 1,
+    "translation": "culpa/falta"
   },
   {
     "word": "chimney",
-    "value": 1
+    "value": 1,
+    "translation": "chimenea"
   },
   {
     "word": "revisionism",
-    "value": 1
+    "value": 1,
+    "translation": "revisionismo"
   },
   {
     "word": "capitalism",
-    "value": 1
+    "value": 1,
+    "translation": "capitalismo"
   },
   {
     "word": "mistake",
-    "value": 1
+    "value": 1,
+    "translation": "error"
   },
   {
     "word": "movement",
-    "value": 1
+    "value": 1,
+    "translation": "movimiento"
   },
   {
     "word": "favor",
-    "value": 1
+    "value": 1,
+    "translation": "favor"
   },
   {
     "word": "level",
-    "value": 1
+    "value": 1,
+    "translation": "nivel"
   },
   {
     "word": "leader",
-    "value": 1
+    "value": 1,
+    "translation": "l\u00edder"
   },
   {
     "word": "advantage",
-    "value": 1
+    "value": 1,
+    "translation": "ventaja"
   }
 ]

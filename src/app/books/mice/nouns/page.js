@@ -1,6 +1,6 @@
 "use client";
 
-import WordCloudDraggable from "@/app/utils/charts/WordCloudDraggable";
+import WordCloudDraggable from "@/app/utils/charts/WordCloudDraggableAndBilingual";
 import { filterWordCloudData } from "@/app/utils/functions/general-functions";
 import data from "./data/nouns.json";
 import VisualizationContainerFrame from "@/app/utils/components/VisualizationContainerFrame";

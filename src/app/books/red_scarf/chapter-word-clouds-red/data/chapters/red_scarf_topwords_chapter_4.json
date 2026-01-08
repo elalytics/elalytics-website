@@ -1,18 +1,22 @@
 [
   {
     "word": "socialist",
-    "value": 1
+    "value": 1,
+    "translation": "socialista"
   },
   {
     "word": "ink",
-    "value": 1
+    "value": 1,
+    "translation": "tinta"
   },
   {
     "word": "x",
-    "value": 1
+    "value": 1,
+    "translation": "x"
   },
   {
     "word": "character",
-    "value": 1
+    "value": 1,
+    "translation": "personaje/car\u00e1cter"
   }
 ]

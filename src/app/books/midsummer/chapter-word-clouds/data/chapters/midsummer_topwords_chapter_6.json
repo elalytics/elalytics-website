@@ -1,202 +1,252 @@
 [
   {
     "word": "love",
-    "value": 27
+    "value": 27,
+    "translation": "amor"
   },
   {
     "word": "eye",
-    "value": 17
+    "value": 17,
+    "translation": "ojo"
   },
   {
     "word": "night",
-    "value": 11
+    "value": 11,
+    "translation": "noche"
   },
   {
     "word": "man",
-    "value": 10
+    "value": 10,
+    "translation": "hombre"
   },
   {
     "word": "day",
-    "value": 8
+    "value": 8,
+    "translation": "día"
   },
   {
     "word": "sport",
-    "value": 7
+    "value": 7,
+    "translation": "deporte"
   },
   {
     "word": "heart",
-    "value": 7
+    "value": 7,
+    "translation": "corazón"
   },
   {
     "word": "art",
-    "value": 7
+    "value": 7,
+    "translation": "arte"
   },
   {
     "word": "thing",
-    "value": 6
+    "value": 6,
+    "translation": "cosa"
   },
   {
     "word": "part",
-    "value": 5
+    "value": 5,
+    "translation": "parte"
   },
   {
     "word": "vow",
-    "value": 5
+    "value": 5,
+    "translation": "voto"
   },
   {
     "word": "sort",
-    "value": 4
+    "value": 4,
+    "translation": "tipo"
   },
   {
     "word": "sight",
-    "value": 4
+    "value": 4,
+    "translation": "vista"
   },
   {
     "word": "thou",
-    "value": 4
+    "value": 4,
+    "translation": "tú"
   },
   {
     "word": "thine",
-    "value": 4
+    "value": 4,
+    "translation": "tuyo"
   },
   {
     "word": "hermia",
-    "value": 4
+    "value": 4,
+    "translation": "Hermia"
   },
   {
     "word": "oath",
-    "value": 4
+    "value": 4,
+    "translation": "juramento"
   },
   {
     "word": "hand",
-    "value": 4
+    "value": 4,
+    "translation": "mano"
   },
   {
     "word": "lover",
-    "value": 4
+    "value": 4,
+    "translation": "amante"
   },
   {
     "word": "scorn",
-    "value": 4
+    "value": 4,
+    "translation": "desprecio"
   },
   {
     "word": "derision",
-    "value": 4
+    "value": 4,
+    "translation": "burla"
   },
   {
     "word": "light",
-    "value": 4
+    "value": 4,
+    "translation": "luz"
   },
   {
     "word": "soul",
-    "value": 4
+    "value": 4,
+    "translation": "alma"
   },
   {
     "word": "death",
-    "value": 4
+    "value": 4,
+    "translation": "muerte"
   },
   {
     "word": "way",
-    "value": 4
+    "value": 4,
+    "translation": "camino"
   },
   {
     "word": "spirit",
-    "value": 3
+    "value": 3,
+    "translation": "espíritu"
   },
   {
     "word": "hour",
-    "value": 3
+    "value": 3,
+    "translation": "hora"
   },
   {
     "word": "fear",
-    "value": 3
+    "value": 3,
+    "translation": "miedo"
   },
   {
     "word": "side",
-    "value": 3
+    "value": 3,
+    "translation": "lado"
   },
   {
     "word": "sleep",
-    "value": 3
+    "value": 3,
+    "translation": "sueño"
   },
   {
     "word": "blood",
-    "value": 3
+    "value": 3,
+    "translation": "sangre"
   },
   {
     "word": "yonder",
-    "value": 3
+    "value": 3,
+    "translation": "allá"
   },
   {
     "word": "adder",
-    "value": 3
+    "value": 3,
+    "translation": "víbora"
   },
   {
     "word": "tongue",
-    "value": 3
+    "value": 3,
+    "translation": "lengua"
   },
   {
     "word": "sorrow",
-    "value": 3
+    "value": 3,
+    "translation": "tristeza"
   },
   {
     "word": "truth",
-    "value": 3
+    "value": 3,
+    "translation": "verdad"
   },
   {
     "word": "fray",
-    "value": 3
+    "value": 3,
+    "translation": "pelea"
   },
   {
     "word": "none",
-    "value": 3
+    "value": 3,
+    "translation": "ninguno"
   },
   {
     "word": "show",
-    "value": 3
+    "value": 3,
+    "translation": "espectáculo"
   },
   {
     "word": "spite",
-    "value": 3
+    "value": 3,
+    "translation": "rencor"
   },
   {
     "word": "rival",
-    "value": 3
+    "value": 3,
+    "translation": "rival"
   },
   {
     "word": "maid",
-    "value": 3
+    "value": 3,
+    "translation": "doncella"
   },
   {
     "word": "word",
-    "value": 3
+    "value": 3,
+    "translation": "palabra"
   },
   {
     "word": "life",
-    "value": 3
+    "value": 3,
+    "translation": "vida"
   },
   {
     "word": "company",
-    "value": 3
+    "value": 3,
+    "translation": "compañía"
   },
   {
     "word": "leg",
-    "value": 3
+    "value": 3,
+    "translation": "pierna"
   },
   {
     "word": "rule",
-    "value": 2
+    "value": 2,
+    "translation": "regla"
   },
   {
     "word": "grove",
-    "value": 2
+    "value": 2,
+    "translation": "arboleda"
   },
   {
     "word": "puck",
-    "value": 2
+    "value": 2,
+    "translation": "Puck"
   },
   {
     "word": "mistress",
-    "value": 2
+    "value": 2,
+    "translation": "señora"
   }
 ]

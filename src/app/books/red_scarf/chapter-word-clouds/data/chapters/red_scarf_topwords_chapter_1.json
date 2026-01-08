@@ -1,66 +1,82 @@
 [
   {
     "word": "year",
-    "value": 4
+    "value": 4,
+    "translation": "a\u00f1o"
   },
   {
     "word": "parent",
-    "value": 1
+    "value": 1,
+    "translation": "padre/madre"
   },
   {
     "word": "name",
-    "value": 1
+    "value": 1,
+    "translation": "nombre"
   },
   {
     "word": "girl",
-    "value": 1
+    "value": 1,
+    "translation": "ni\u00f1a/muchacha"
   },
   {
     "word": "world",
-    "value": 1
+    "value": 1,
+    "translation": "mundo"
   },
   {
     "word": "earth",
-    "value": 1
+    "value": 1,
+    "translation": "tierra"
   },
   {
     "word": "kindness",
-    "value": 1
+    "value": 1,
+    "translation": "bondad"
   },
   {
     "word": "father",
-    "value": 1
+    "value": 1,
+    "translation": "padre"
   },
   {
     "word": "mother",
-    "value": 1
+    "value": 1,
+    "translation": "madre"
   },
   {
     "word": "scarf",
-    "value": 1
+    "value": 1,
+    "translation": "bufanda"
   },
   {
     "word": "emblem",
-    "value": 1
+    "value": 1,
+    "translation": "emblema"
   },
   {
     "word": "neck",
-    "value": 1
+    "value": 1,
+    "translation": "cuello"
   },
   {
     "word": "heart",
-    "value": 1
+    "value": 1,
+    "translation": "coraz\u00f3n"
   },
   {
     "word": "joy",
-    "value": 1
+    "value": 1,
+    "translation": "alegr\u00eda"
   },
   {
     "word": "day",
-    "value": 1
+    "value": 1,
+    "translation": "d\u00eda"
   },
   {
     "word": "grade",
-    "value": 1
+    "value": 1,
+    "translation": "grado/calificaci\u00f3n"
   }
 ]

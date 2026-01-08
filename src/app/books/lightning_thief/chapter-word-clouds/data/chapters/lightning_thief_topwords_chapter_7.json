@@ -1,202 +1,252 @@
 [
   {
     "word": "kid",
-    "value": 11
+    "value": 11,
+    "translation": "niño"
   },
   {
     "word": "cabin",
-    "value": 11
+    "value": 11,
+    "translation": "cabaña"
   },
   {
     "word": "god",
-    "value": 11
+    "value": 11,
+    "translation": "dios"
   },
   {
     "word": "year",
-    "value": 9
+    "value": 9,
+    "translation": "año"
   },
   {
     "word": "camper",
-    "value": 7
+    "value": 7,
+    "translation": "campista"
   },
   {
     "word": "time",
-    "value": 7
+    "value": 7,
+    "translation": "tiempo"
   },
   {
     "word": "summer",
-    "value": 7
+    "value": 7,
+    "translation": "verano"
   },
   {
     "word": "table",
-    "value": 7
+    "value": 7,
+    "translation": "mesa"
   },
   {
     "word": "dad",
-    "value": 5
+    "value": 5,
+    "translation": "papá"
   },
   {
     "word": "thing",
-    "value": 5
+    "value": 5,
+    "translation": "cosa"
   },
   {
     "word": "monster",
-    "value": 4
+    "value": 4,
+    "translation": "monstruo"
   },
   {
     "word": "quest",
-    "value": 4
+    "value": 4,
+    "translation": "búsqueda"
   },
   {
     "word": "solstice",
-    "value": 4
+    "value": 4,
+    "translation": "solsticio"
   },
   {
     "word": "course",
-    "value": 4
+    "value": 4,
+    "translation": "curso"
   },
   {
     "word": "floor",
-    "value": 4
+    "value": 4,
+    "translation": "piso"
   },
   {
     "word": "smile",
-    "value": 4
+    "value": 4,
+    "translation": "sonrisa"
   },
   {
     "word": "horn",
-    "value": 4
+    "value": 4,
+    "translation": "cuerno"
   },
   {
     "word": "wood",
-    "value": 4
+    "value": 4,
+    "translation": "madera"
   },
   {
     "word": "glass",
-    "value": 4
+    "value": 4,
+    "translation": "vaso"
   },
   {
     "word": "place",
-    "value": 3
+    "value": 3,
+    "translation": "lugar"
   },
   {
     "word": "marble",
-    "value": 3
+    "value": 3,
+    "translation": "mármol"
   },
   {
     "word": "wall",
-    "value": 3
+    "value": 3,
+    "translation": "pared"
   },
   {
     "word": "lake",
-    "value": 3
+    "value": 3,
+    "translation": "lago"
   },
   {
     "word": "girl",
-    "value": 3
+    "value": 3,
+    "translation": "niña"
   },
   {
     "word": "pier",
-    "value": 3
+    "value": 3,
+    "translation": "muelle"
   },
   {
     "word": "naiad",
-    "value": 3
+    "value": 3,
+    "translation": "náyade"
   },
   {
     "word": "human",
-    "value": 3
+    "value": 3,
+    "translation": "humano"
   },
   {
     "word": "mom",
-    "value": 3
+    "value": 3,
+    "translation": "mamá"
   },
   {
     "word": "story",
-    "value": 3
+    "value": 3,
+    "translation": "historia"
   },
   {
     "word": "world",
-    "value": 3
+    "value": 3,
+    "translation": "mundo"
   },
   {
     "word": "head",
-    "value": 3
+    "value": 3,
+    "translation": "cabeza"
   },
   {
     "word": "counselor",
-    "value": 3
+    "value": 3,
+    "translation": "consejero"
   },
   {
     "word": "satyr",
-    "value": 3
+    "value": 3,
+    "translation": "sátiro"
   },
   {
     "word": "smoke",
-    "value": 3
+    "value": 3,
+    "translation": "humo"
   },
   {
     "word": "scar",
-    "value": 3
+    "value": 3,
+    "translation": "cicatriz"
   },
   {
     "word": "camp",
-    "value": 3
+    "value": 3,
+    "translation": "campamento"
   },
   {
     "word": "guy",
-    "value": 3
+    "value": 3,
+    "translation": "tipo"
   },
   {
     "word": "pavilion",
-    "value": 3
+    "value": 3,
+    "translation": "pabellón"
   },
   {
     "word": "food",
-    "value": 3
+    "value": 3,
+    "translation": "comida"
   },
   {
     "word": "fire",
-    "value": 3
+    "value": 3,
+    "translation": "fuego"
   },
   {
     "word": "bathroom",
-    "value": 2
+    "value": 2,
+    "translation": "baño"
   },
   {
     "word": "toilet",
-    "value": 2
+    "value": 2,
+    "translation": "inodoro"
   },
   {
     "word": "room",
-    "value": 2
+    "value": 2,
+    "translation": "habitación"
   },
   {
     "word": "canoeing",
-    "value": 2
+    "value": 2,
+    "translation": "piragüismo"
   },
   {
     "word": "training",
-    "value": 2
+    "value": 2,
+    "translation": "entrenamiento"
   },
   {
     "word": "hall",
-    "value": 2
+    "value": 2,
+    "translation": "salón"
   },
   {
     "word": "fault",
-    "value": 2
+    "value": 2,
+    "translation": "culpa"
   },
   {
     "word": "t",
-    "value": 2
+    "value": 2,
+    "translation": "t"
   },
   {
     "word": "shirt",
-    "value": 2
+    "value": 2,
+    "translation": "camisa"
   },
   {
     "word": "hair",
-    "value": 2
+    "value": 2,
+    "translation": "cabello"
   }
 ]

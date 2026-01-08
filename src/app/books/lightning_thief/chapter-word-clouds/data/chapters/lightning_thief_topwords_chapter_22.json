@@ -1,202 +1,252 @@
 [
   {
     "word": "time",
-    "value": 19
+    "value": 19,
+    "translation": "tiempo"
   },
   {
     "word": "camp",
-    "value": 13
+    "value": 13,
+    "translation": "campamento"
   },
   {
     "word": "quest",
-    "value": 13
+    "value": 13,
+    "translation": "búsqueda"
   },
   {
     "word": "year",
-    "value": 13
+    "value": 13,
+    "translation": "año"
   },
   {
     "word": "cabin",
-    "value": 12
+    "value": 12,
+    "translation": "cabaña"
   },
   {
     "word": "sword",
-    "value": 10
+    "value": 10,
+    "translation": "espada"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "friend",
-    "value": 8
+    "value": 8,
+    "translation": "amigo"
   },
   {
     "word": "life",
-    "value": 7
+    "value": 7,
+    "translation": "vida"
   },
   {
     "word": "hand",
-    "value": 7
+    "value": 7,
+    "translation": "mano"
   },
   {
     "word": "summer",
-    "value": 7
+    "value": 7,
+    "translation": "verano"
   },
   {
     "word": "god",
-    "value": 7
+    "value": 7,
+    "translation": "dios"
   },
   {
     "word": "world",
-    "value": 7
+    "value": 7,
+    "translation": "mundo"
   },
   {
     "word": "scorpion",
-    "value": 7
+    "value": 7,
+    "translation": "escorpión"
   },
   {
     "word": "face",
-    "value": 6
+    "value": 6,
+    "translation": "cara"
   },
   {
     "word": "foot",
-    "value": 6
+    "value": 6,
+    "translation": "pie"
   },
   {
     "word": "way",
-    "value": 6
+    "value": 6,
+    "translation": "camino"
   },
   {
     "word": "thing",
-    "value": 6
+    "value": 6,
+    "translation": "cosa"
   },
   {
     "word": "monster",
-    "value": 6
+    "value": 6,
+    "translation": "monstruo"
   },
   {
     "word": "hero",
-    "value": 5
+    "value": 5,
+    "translation": "héroe"
   },
   {
     "word": "head",
-    "value": 5
+    "value": 5,
+    "translation": "cabeza"
   },
   {
     "word": "night",
-    "value": 5
+    "value": 5,
+    "translation": "noche"
   },
   {
     "word": "father",
-    "value": 5
+    "value": 5,
+    "translation": "padre"
   },
   {
     "word": "round",
-    "value": 5
+    "value": 5,
+    "translation": "ronda"
   },
   {
     "word": "wood",
-    "value": 5
+    "value": 5,
+    "translation": "madera"
   },
   {
     "word": "bolt",
-    "value": 5
+    "value": 5,
+    "translation": "rayo"
   },
   {
     "word": "camper",
-    "value": 5
+    "value": 5,
+    "translation": "campista"
   },
   {
     "word": "blood",
-    "value": 5
+    "value": 5,
+    "translation": "sangre"
   },
   {
     "word": "bed",
-    "value": 5
+    "value": 5,
+    "translation": "cama"
   },
   {
     "word": "voice",
-    "value": 5
+    "value": 5,
+    "translation": "voz"
   },
   {
     "word": "one",
-    "value": 4
+    "value": 4,
+    "translation": "uno"
   },
   {
     "word": "home",
-    "value": 4
+    "value": 4,
+    "translation": "hogar"
   },
   {
     "word": "edge",
-    "value": 4
+    "value": 4,
+    "translation": "borde"
   },
   {
     "word": "master",
-    "value": 4
+    "value": 4,
+    "translation": "amo"
   },
   {
     "word": "helm",
-    "value": 4
+    "value": 4,
+    "translation": "yelmo"
   },
   {
     "word": "darkness",
-    "value": 4
+    "value": 4,
+    "translation": "oscuridad"
   },
   {
     "word": "part",
-    "value": 4
+    "value": 4,
+    "translation": "parte"
   },
   {
     "word": "pit",
-    "value": 4
+    "value": 4,
+    "translation": "foso"
   },
   {
     "word": "dummy",
-    "value": 4
+    "value": 4,
+    "translation": "muñeco"
   },
   {
     "word": "blade",
-    "value": 4
+    "value": 4,
+    "translation": "hoja"
   },
   {
     "word": "smile",
-    "value": 4
+    "value": 4,
+    "translation": "sonrisa"
   },
   {
     "word": "shroud",
-    "value": 3
+    "value": 3,
+    "translation": "sudario"
   },
   {
     "word": "horn",
-    "value": 3
+    "value": 3,
+    "translation": "cuerno"
   },
   {
     "word": "day",
-    "value": 3
+    "value": 3,
+    "translation": "día"
   },
   {
     "word": "sea",
-    "value": 3
+    "value": 3,
+    "translation": "mar"
   },
   {
     "word": "chance",
-    "value": 3
+    "value": 3,
+    "translation": "oportunidad"
   },
   {
     "word": "letter",
-    "value": 3
+    "value": 3,
+    "translation": "carta"
   },
   {
     "word": "feeling",
-    "value": 3
+    "value": 3,
+    "translation": "sentimiento"
   },
   {
     "word": "size",
-    "value": 3
+    "value": 3,
+    "translation": "tamaño"
   },
   {
     "word": "work",
-    "value": 3
+    "value": 3,
+    "translation": "trabajo"
   }
 ]

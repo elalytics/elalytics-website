@@ -1,202 +1,252 @@
 [
   {
     "word": "bus",
-    "value": 18
+    "value": 18,
+    "translation": "autobús"
   },
   {
     "word": "time",
-    "value": 12
+    "value": 12,
+    "translation": "tiempo"
   },
   {
     "word": "hand",
-    "value": 12
+    "value": 12,
+    "translation": "mano"
   },
   {
     "word": "pen",
-    "value": 11
+    "value": 11,
+    "translation": "bolígrafo"
   },
   {
     "word": "cap",
-    "value": 10
+    "value": 10,
+    "translation": "gorra"
   },
   {
     "word": "mom",
-    "value": 9
+    "value": 9,
+    "translation": "mamá"
   },
   {
     "word": "monster",
-    "value": 9
+    "value": 9,
+    "translation": "monstruo"
   },
   {
     "word": "sword",
-    "value": 9
+    "value": 9,
+    "translation": "espada"
   },
   {
     "word": "seat",
-    "value": 8
+    "value": 8,
+    "translation": "asiento"
   },
   {
     "word": "driver",
-    "value": 8
+    "value": 8,
+    "translation": "conductor"
   },
   {
     "word": "whip",
-    "value": 8
+    "value": 8,
+    "translation": "látigo"
   },
   {
     "word": "god",
-    "value": 7
+    "value": 7,
+    "translation": "dios"
   },
   {
     "word": "mortal",
-    "value": 7
+    "value": 7,
+    "translation": "mortal"
   },
   {
     "word": "emergency",
-    "value": 6
+    "value": 6,
+    "translation": "emergencia"
   },
   {
     "word": "pocket",
-    "value": 6
+    "value": 6,
+    "translation": "bolsillo"
   },
   {
     "word": "back",
-    "value": 6
+    "value": 6,
+    "translation": "espalda"
   },
   {
     "word": "lady",
-    "value": 6
+    "value": 6,
+    "translation": "dama"
   },
   {
     "word": "aisle",
-    "value": 6
+    "value": 6,
+    "translation": "pasillo"
   },
   {
     "word": "fury",
-    "value": 6
+    "value": 6,
+    "translation": "furia"
   },
   {
     "word": "side",
-    "value": 5
+    "value": 5,
+    "translation": "lado"
   },
   {
     "word": "head",
-    "value": 5
+    "value": 5,
+    "translation": "cabeza"
   },
   {
     "word": "eye",
-    "value": 5
+    "value": 5,
+    "translation": "ojo"
   },
   {
     "word": "thing",
-    "value": 5
+    "value": 5,
+    "translation": "cosa"
   },
   {
     "word": "hill",
-    "value": 5
+    "value": 5,
+    "translation": "colina"
   },
   {
     "word": "shoe",
-    "value": 5
+    "value": 5,
+    "translation": "zapato"
   },
   {
     "word": "backpack",
-    "value": 4
+    "value": 4,
+    "translation": "mochila"
   },
   {
     "word": "bronze",
-    "value": 4
+    "value": 4,
+    "translation": "bronce"
   },
   {
     "word": "knife",
-    "value": 4
+    "value": 4,
+    "translation": "cuchillo"
   },
   {
     "word": "apple",
-    "value": 4
+    "value": 4,
+    "translation": "manzana"
   },
   {
     "word": "wing",
-    "value": 4
+    "value": 4,
+    "translation": "ala"
   },
   {
     "word": "quest",
-    "value": 4
+    "value": 4,
+    "translation": "búsqueda"
   },
   {
     "word": "gift",
-    "value": 4
+    "value": 4,
+    "translation": "regalo"
   },
   {
     "word": "idea",
-    "value": 4
+    "value": 4,
+    "translation": "idea"
   },
   {
     "word": "blade",
-    "value": 4
+    "value": 4,
+    "translation": "hoja"
   },
   {
     "word": "child",
-    "value": 4
+    "value": 4,
+    "translation": "niño"
   },
   {
     "word": "passenger",
-    "value": 4
+    "value": 4,
+    "translation": "pasajero"
   },
   {
     "word": "exit",
-    "value": 4
+    "value": 4,
+    "translation": "salida"
   },
   {
     "word": "sister",
-    "value": 4
+    "value": 4,
+    "translation": "hermana"
   },
   {
     "word": "horn",
-    "value": 3
+    "value": 3,
+    "translation": "cuerno"
   },
   {
     "word": "camp",
-    "value": 3
+    "value": 3,
+    "translation": "campamento"
   },
   {
     "word": "bag",
-    "value": 3
+    "value": 3,
+    "translation": "bolsa"
   },
   {
     "word": "metal",
-    "value": 3
+    "value": 3,
+    "translation": "metal"
   },
   {
     "word": "foot",
-    "value": 3
+    "value": 3,
+    "translation": "pie"
   },
   {
     "word": "room",
-    "value": 3
+    "value": 3,
+    "translation": "habitación"
   },
   {
     "word": "guy",
-    "value": 3
+    "value": 3,
+    "translation": "tipo"
   },
   {
     "word": "face",
-    "value": 3
+    "value": 3,
+    "translation": "cara"
   },
   {
     "word": "city",
-    "value": 3
+    "value": 3,
+    "translation": "ciudad"
   },
   {
     "word": "day",
-    "value": 3
+    "value": 3,
+    "translation": "día"
   },
   {
     "word": "man",
-    "value": 3
+    "value": 3,
+    "translation": "hombre"
   },
   {
     "word": "lot",
-    "value": 3
+    "value": 3,
+    "translation": "mucho"
   }
 ]

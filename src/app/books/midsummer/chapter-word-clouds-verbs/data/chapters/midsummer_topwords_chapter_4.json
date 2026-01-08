@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 35
+    "value": 35,
+    "translation": "ser"
   },
   {
     "word": "do",
-    "value": 17
+    "value": 17,
+    "translation": "hacer"
   },
   {
     "word": "say",
-    "value": 7
+    "value": 7,
+    "translation": "decir"
   },
   {
     "word": "lie",
-    "value": 6
+    "value": 6,
+    "translation": "yacer"
   },
   {
     "word": "come",
-    "value": 5
+    "value": 5,
+    "translation": "venir"
   },
   {
     "word": "make",
-    "value": 4
+    "value": 4,
+    "translation": "hacer"
   },
   {
     "word": "see",
-    "value": 4
+    "value": 4,
+    "translation": "ver"
   },
   {
     "word": "will",
-    "value": 4
+    "value": 4,
+    "translation": "voluntad"
   },
   {
     "word": "love",
-    "value": 4
+    "value": 4,
+    "translation": "amar"
   },
   {
     "word": "go",
-    "value": 4
+    "value": 4,
+    "translation": "ir"
   },
   {
     "word": "sing",
-    "value": 3
+    "value": 3,
+    "translation": "cantar"
   },
   {
     "word": "rest",
-    "value": 3
+    "value": 3,
+    "translation": "descansar"
   },
   {
     "word": "speak",
-    "value": 3
+    "value": 3,
+    "translation": "hablar"
   },
   {
     "word": "have",
-    "value": 3
+    "value": 3,
+    "translation": "tener"
   },
   {
     "word": "find",
-    "value": 3
+    "value": 3,
+    "translation": "encontrar"
   },
   {
     "word": "sleep",
-    "value": 3
+    "value": 3,
+    "translation": "dormir"
   },
   {
     "word": "must",
-    "value": 3
+    "value": 3,
+    "translation": "deber"
   },
   {
     "word": "run",
-    "value": 3
+    "value": 3,
+    "translation": "correr"
   },
   {
     "word": "kill",
-    "value": 2
+    "value": 2,
+    "translation": "matar"
   },
   {
     "word": "let",
-    "value": 2
+    "value": 2,
+    "translation": "dejar"
   },
   {
     "word": "wake",
-    "value": 2
+    "value": 2,
+    "translation": "despertar"
   },
   {
     "word": "shall",
-    "value": 2
+    "value": 2,
+    "translation": "deber"
   },
   {
     "word": "\u2019ll",
-    "value": 2
+    "value": 2,
+    "translation": "\u2019ll"
   },
   {
     "word": "think",
-    "value": 2
+    "value": 2,
+    "translation": "pensar"
   },
   {
     "word": "take",
-    "value": 2
+    "value": 2,
+    "translation": "tomar"
   },
   {
     "word": "mean",
-    "value": 2
+    "value": 2,
+    "translation": "significar"
   },
   {
     "word": "can",
-    "value": 2
+    "value": 2,
+    "translation": "poder"
   },
   {
     "word": "become",
-    "value": 2
+    "value": 2,
+    "translation": "convertirse"
   },
   {
     "word": "end",
-    "value": 2
+    "value": 2,
+    "translation": "terminar"
   },
   {
     "word": "might",
-    "value": 2
+    "value": 2,
+    "translation": "podría"
   },
   {
     "word": "doth",
-    "value": 2
+    "value": 2,
+    "translation": "hace"
   },
   {
     "word": "leave",
-    "value": 2
+    "value": 2,
+    "translation": "dejar"
   },
   {
     "word": "deserve",
-    "value": 2
+    "value": 2,
+    "translation": "merecer"
   },
   {
     "word": "hate",
-    "value": 2
+    "value": 2,
+    "translation": "odiar"
   },
   {
     "word": "help",
-    "value": 2
+    "value": 2,
+    "translation": "ayudar"
   },
   {
     "word": "rise",
-    "value": 1
+    "value": 1,
+    "translation": "levantarse"
   },
   {
     "word": "keep",
-    "value": 1
+    "value": 1,
+    "translation": "mantener"
   },
   {
     "word": "hoot",
-    "value": 1
+    "value": 1,
+    "translation": "ulular"
   },
   {
     "word": "spot",
-    "value": 1
+    "value": 1,
+    "translation": "manchar"
   },
   {
     "word": "harm",
-    "value": 1
+    "value": 1,
+    "translation": "dañar"
   },
   {
     "word": "weave",
-    "value": 1
+    "value": 1,
+    "translation": "tejer"
   },
   {
     "word": "approach",
-    "value": 1
+    "value": 1,
+    "translation": "acercarse"
   },
   {
     "word": "seest",
-    "value": 1
+    "value": 1,
+    "translation": "ves"
   },
   {
     "word": "languish",
-    "value": 1
+    "value": 1,
+    "translation": "languidecer"
   },
   {
     "word": "appear",
-    "value": 1
+    "value": 1,
+    "translation": "aparecer"
   },
   {
     "word": "faint",
-    "value": 1
+    "value": 1,
+    "translation": "desmayarse"
   },
   {
     "word": "wander",
-    "value": 1
+    "value": 1,
+    "translation": "vagar"
   },
   {
     "word": "forget",
-    "value": 1
+    "value": 1,
+    "translation": "olvidar"
   },
   {
     "word": "tarry",
-    "value": 1
+    "value": 1,
+    "translation": "demorarse"
   },
   {
     "word": "serve",
-    "value": 1
+    "value": 1,
+    "translation": "servir"
   }
 ]

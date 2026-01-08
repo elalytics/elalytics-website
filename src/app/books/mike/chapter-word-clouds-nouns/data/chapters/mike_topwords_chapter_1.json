@@ -1,48 +1,13 @@
 [
   {
-    "word": "life",
-    "value": 12,
-    "translation": "vida"
-  },
-  {
-    "word": "shit",
-    "value": 11,
-    "translation": "mierda"
-  },
-  {
-    "word": "time",
-    "value": 10,
-    "translation": "tiempo"
-  },
-  {
-    "word": "people",
-    "value": 10,
-    "translation": "gente"
-  },
-  {
-    "word": "kid",
-    "value": 9,
-    "translation": "niño"
-  },
-  {
     "word": "school",
-    "value": 8,
+    "value": 11,
     "translation": "escuela"
   },
   {
-    "word": "immigration",
+    "word": "education",
     "value": 8,
-    "translation": "inmigración"
-  },
-  {
-    "word": "prison",
-    "value": 7,
-    "translation": "prisión"
-  },
-  {
-    "word": "lot",
-    "value": 7,
-    "translation": "lote"
+    "translation": "educación"
   },
   {
     "word": "thing",
@@ -50,203 +15,238 @@
     "translation": "cosa"
   },
   {
-    "word": "mind",
-    "value": 7,
-    "translation": "mente"
-  },
-  {
-    "word": "dad",
+    "word": "parent",
     "value": 6,
-    "translation": "papá"
+    "translation": "padre"
   },
   {
-    "word": "gangster",
+    "word": "system",
     "value": 6,
-    "translation": "gánster"
+    "translation": "sistema"
   },
   {
-    "word": "street",
-    "value": 6,
-    "translation": "calle"
-  },
-  {
-    "word": "jail",
+    "word": "name",
     "value": 5,
-    "translation": "cárcel"
+    "translation": "nombre"
   },
   {
-    "word": "deportation",
+    "word": "kid",
     "value": 5,
-    "translation": "deportación"
-  },
-  {
-    "word": "detention",
-    "value": 5,
-    "translation": "detención"
-  },
-  {
-    "word": "sister",
-    "value": 5,
-    "translation": "hermana"
-  },
-  {
-    "word": "mom",
-    "value": 5,
-    "translation": "mamá"
-  },
-  {
-    "word": "front",
-    "value": 5,
-    "translation": "frente"
-  },
-  {
-    "word": "family",
-    "value": 4,
-    "translation": "familia"
-  },
-  {
-    "word": "brother",
-    "value": 4,
-    "translation": "hermano"
-  },
-  {
-    "word": "guy",
-    "value": 4,
-    "translation": "chico"
-  },
-  {
-    "word": "college",
-    "value": 4,
-    "translation": "universidad"
-  },
-  {
-    "word": "case",
-    "value": 4,
-    "translation": "caso"
-  },
-  {
-    "word": "cell",
-    "value": 4,
-    "translation": "celda"
-  },
-  {
-    "word": "job",
-    "value": 4,
-    "translation": "trabajo"
-  },
-  {
-    "word": "gang",
-    "value": 3,
-    "translation": "pandilla"
-  },
-  {
-    "word": "hall",
-    "value": 3,
-    "translation": "pasillo"
-  },
-  {
-    "word": "center",
-    "value": 3,
-    "translation": "centro"
-  },
-  {
-    "word": "threat",
-    "value": 3,
-    "translation": "amenaza"
-  },
-  {
-    "word": "homeboy",
-    "value": 3,
-    "translation": "amigo"
-  },
-  {
-    "word": "citizen",
-    "value": 3,
-    "translation": "ciudadano"
-  },
-  {
-    "word": "shower",
-    "value": 3,
-    "translation": "ducha"
-  },
-  {
-    "word": "book",
-    "value": 3,
-    "translation": "libro"
-  },
-  {
-    "word": "work",
-    "value": 3,
-    "translation": "trabajo"
-  },
-  {
-    "word": "lawyer",
-    "value": 3,
-    "translation": "abogado"
-  },
-  {
-    "word": "chance",
-    "value": 3,
-    "translation": "oportunidad"
-  },
-  {
-    "word": "child",
-    "value": 2,
     "translation": "niño"
   },
   {
-    "word": "isolation",
-    "value": 2,
-    "translation": "aislamiento"
+    "word": "life",
+    "value": 4,
+    "translation": "vida"
   },
   {
-    "word": "sentence",
-    "value": 2,
-    "translation": "oración"
+    "word": "friend",
+    "value": 4,
+    "translation": "amigo"
   },
   {
-    "word": "card",
-    "value": 2,
-    "translation": "tarjeta"
+    "word": "time",
+    "value": 4,
+    "translation": "tiempo"
   },
   {
-    "word": "resident",
-    "value": 2,
-    "translation": "residente"
+    "word": "family",
+    "value": 3,
+    "translation": "familia"
   },
   {
-    "word": "housekeeper",
-    "value": 2,
-    "translation": "ama de llaves"
+    "word": "classmate",
+    "value": 3,
+    "translation": "compañero de clase"
   },
   {
-    "word": "house",
-    "value": 2,
-    "translation": "casa"
+    "word": "mom",
+    "value": 3,
+    "translation": "mamá"
   },
   {
-    "word": "way",
-    "value": 2,
-    "translation": "camino"
+    "word": "dad",
+    "value": 3,
+    "translation": "papá"
   },
   {
-    "word": "cat",
-    "value": 2,
-    "translation": "gato"
+    "word": "class",
+    "value": 3,
+    "translation": "clase"
   },
   {
-    "word": "gun",
-    "value": 2,
-    "translation": "arma"
+    "word": "teacher",
+    "value": 3,
+    "translation": "maestro"
   },
   {
-    "word": "juvie",
-    "value": 2,
-    "translation": "juvenil"
+    "word": "college",
+    "value": 3,
+    "translation": "universidad"
   },
   {
-    "word": "man",
+    "word": "student",
     "value": 2,
-    "translation": "hombre"
+    "translation": "estudiante"
+  },
+  {
+    "word": "experience",
+    "value": 2,
+    "translation": "experiencia"
+  },
+  {
+    "word": "father",
+    "value": 2,
+    "translation": "padre"
+  },
+  {
+    "word": "sibling",
+    "value": 2,
+    "translation": "hermano"
+  },
+  {
+    "word": "sister",
+    "value": 2,
+    "translation": "hermana"
+  },
+  {
+    "word": "place",
+    "value": 2,
+    "translation": "lugar"
+  },
+  {
+    "word": "pastime",
+    "value": 2,
+    "translation": "pasatiempo"
+  },
+  {
+    "word": "contact",
+    "value": 2,
+    "translation": "contacto"
+  },
+  {
+    "word": "decision",
+    "value": 2,
+    "translation": "decisión"
+  },
+  {
+    "word": "country",
+    "value": 2,
+    "translation": "país"
+  },
+  {
+    "word": "clothe",
+    "value": 2,
+    "translation": "ropa"
+  },
+  {
+    "word": "woman",
+    "value": 2,
+    "translation": "mujer"
+  },
+  {
+    "word": "story",
+    "value": 2,
+    "translation": "historia"
+  },
+  {
+    "word": "pressure",
+    "value": 2,
+    "translation": "presión"
+  },
+  {
+    "word": "field",
+    "value": 2,
+    "translation": "campo"
+  },
+  {
+    "word": "pass",
+    "value": 2,
+    "translation": "pase"
+  },
+  {
+    "word": "adult",
+    "value": 2,
+    "translation": "adulto"
+  },
+  {
+    "word": "insurance",
+    "value": 2,
+    "translation": "seguro"
+  },
+  {
+    "word": "dream",
+    "value": 2,
+    "translation": "sueño"
+  },
+  {
+    "word": "science",
+    "value": 2,
+    "translation": "ciencia"
+  },
+  {
+    "word": "people",
+    "value": 1,
+    "translation": "gente"
+  },
+  {
+    "word": "research",
+    "value": 1,
+    "translation": "investigación"
+  },
+  {
+    "word": "name?ah",
+    "value": 1,
+    "translation": "name?ah"
+  },
+  {
+    "word": "name?my",
+    "value": 1,
+    "translation": "name?my"
+  },
+  {
+    "word": "mother",
+    "value": 1,
+    "translation": "madre"
+  },
+  {
+    "word": "brother",
+    "value": 1,
+    "translation": "hermano"
+  },
+  {
+    "word": "moment",
+    "value": 1,
+    "translation": "momento"
+  },
+  {
+    "word": "circumstance",
+    "value": 1,
+    "translation": "circunstancia"
+  },
+  {
+    "word": "immigration",
+    "value": 1,
+    "translation": "inmigración"
+  },
+  {
+    "word": "status",
+    "value": 1,
+    "translation": "estatus"
+  },
+  {
+    "word": "movie",
+    "value": 1,
+    "translation": "película"
+  },
+  {
+    "word": "embroidery",
+    "value": 1,
+    "translation": "bordado"
+  },
+  {
+    "word": "party",
+    "value": 1,
+    "translation": "fiesta"
   }
 ]

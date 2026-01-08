@@ -1,202 +1,252 @@
 [
   {
     "word": "letter",
-    "value": 26
+    "value": 26,
+    "translation": "carta"
   },
   {
     "word": "face",
-    "value": 23
+    "value": 23,
+    "translation": "cara/rostro"
   },
   {
     "word": "mom",
-    "value": 13
+    "value": 13,
+    "translation": "mam\u00e1"
   },
   {
     "word": "room",
-    "value": 11
+    "value": 11,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "landlord",
-    "value": 10
+    "value": 10,
+    "translation": "terrateniente"
   },
   {
     "word": "wife",
-    "value": 9
+    "value": 9,
+    "translation": "esposa"
   },
   {
     "word": "book",
-    "value": 9
+    "value": 9,
+    "translation": "libro"
   },
   {
     "word": "bed",
-    "value": 8
+    "value": 8,
+    "translation": "cama"
   },
   {
     "word": "man",
-    "value": 8
+    "value": 8,
+    "translation": "hombre"
   },
   {
     "word": "eye",
-    "value": 7
+    "value": 7,
+    "translation": "ojo"
   },
   {
     "word": "body",
-    "value": 6
+    "value": 6,
+    "translation": "cuerpo"
   },
   {
     "word": "bathroom",
-    "value": 6
+    "value": 6,
+    "translation": "ba\u00f1o"
   },
   {
     "word": "stair",
-    "value": 6
+    "value": 6,
+    "translation": "escalera"
   },
   {
     "word": "hand",
-    "value": 6
+    "value": 6,
+    "translation": "mano"
   },
   {
     "word": "theater",
-    "value": 5
+    "value": 5,
+    "translation": "teatro"
   },
   {
     "word": "door",
-    "value": 5
+    "value": 5,
+    "translation": "puerta"
   },
   {
     "word": "paper",
-    "value": 5
+    "value": 5,
+    "translation": "papel"
   },
   {
     "word": "day",
-    "value": 5
+    "value": 5,
+    "translation": "d\u00eda"
   },
   {
     "word": "alley",
-    "value": 5
+    "value": 5,
+    "translation": "callej\u00f3n"
   },
   {
     "word": "light",
-    "value": 4
+    "value": 4,
+    "translation": "luz"
   },
   {
     "word": "chest",
-    "value": 4
+    "value": 4,
+    "translation": "pecho/cofre"
   },
   {
     "word": "head",
-    "value": 4
+    "value": 4,
+    "translation": "cabeza"
   },
   {
     "word": "roof",
-    "value": 4
+    "value": 4,
+    "translation": "techo"
   },
   {
     "word": "clothe",
-    "value": 4
+    "value": 4,
+    "translation": "ropa"
   },
   {
     "word": "window",
-    "value": 4
+    "value": 4,
+    "translation": "ventana"
   },
   {
     "word": "box",
-    "value": 4
+    "value": 4,
+    "translation": "caja"
   },
   {
     "word": "time",
-    "value": 4
+    "value": 4,
+    "translation": "tiempo"
   },
   {
     "word": "front",
-    "value": 4
+    "value": 4,
+    "translation": "frente"
   },
   {
     "word": "pile",
-    "value": 4
+    "value": 4,
+    "translation": "pila/mont\u00f3n"
   },
   {
     "word": "mind",
-    "value": 3
+    "value": 3,
+    "translation": "mente"
   },
   {
     "word": "voice",
-    "value": 3
+    "value": 3,
+    "translation": "voz"
   },
   {
     "word": "minute",
-    "value": 3
+    "value": 3,
+    "translation": "minuto"
   },
   {
     "word": "one",
-    "value": 3
+    "value": 3,
+    "translation": "uno"
   },
   {
     "word": "rest",
-    "value": 3
+    "value": 3,
+    "translation": "descanso"
   },
   {
     "word": "people",
-    "value": 3
+    "value": 3,
+    "translation": "gente/personas"
   },
   {
     "word": "prisoner",
-    "value": 3
+    "value": 3,
+    "translation": "prisionero"
   },
   {
     "word": "trouble",
-    "value": 3
+    "value": 3,
+    "translation": "problema"
   },
   {
     "word": "tear",
-    "value": 3
+    "value": 3,
+    "translation": "l\u00e1grima"
   },
   {
     "word": "search",
-    "value": 3
+    "value": 3,
+    "translation": "b\u00fasqueda"
   },
   {
     "word": "ashe",
-    "value": 3
+    "value": 3,
+    "translation": "cenizas"
   },
   {
     "word": "corner",
-    "value": 3
+    "value": 3,
+    "translation": "esquina"
   },
   {
     "word": "tomorrow",
-    "value": 3
+    "value": 3,
+    "translation": "ma\u00f1ana"
   },
   {
     "word": "wall",
-    "value": 3
+    "value": 3,
+    "translation": "pared/muro"
   },
   {
     "word": "silence",
-    "value": 3
+    "value": 3,
+    "translation": "silencio"
   },
   {
     "word": "work",
-    "value": 3
+    "value": 3,
+    "translation": "trabajar/funcionar"
   },
   {
     "word": "piece",
-    "value": 2
+    "value": 2,
+    "translation": "pedazo/pieza"
   },
   {
     "word": "nightstand",
-    "value": 2
+    "value": 2,
+    "translation": "mesita de noche"
   },
   {
     "word": "nose",
-    "value": 2
+    "value": 2,
+    "translation": "nariz"
   },
   {
     "word": "water",
-    "value": 2
+    "value": 2,
+    "translation": "agua"
   },
   {
     "word": "situation",
-    "value": 2
+    "value": 2,
+    "translation": "situaci\u00f3n"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "fourold",
-    "value": 23
+    "value": 23,
+    "translation": "cuatro viejos"
   },
   {
     "word": "man",
-    "value": 19
+    "value": 19,
+    "translation": "hombre"
   },
   {
     "word": "sign",
-    "value": 13
+    "value": 13,
+    "translation": "letrero/se\u00f1al"
   },
   {
     "word": "pant",
-    "value": 13
+    "value": 13,
+    "translation": "pantal\u00f3n"
   },
   {
     "word": "crowd",
-    "value": 12
+    "value": 12,
+    "translation": "multitud"
   },
   {
     "word": "shoe",
-    "value": 12
+    "value": 12,
+    "translation": "zapato"
   },
   {
     "word": "hand",
-    "value": 9
+    "value": 9,
+    "translation": "mano"
   },
   {
     "word": "store",
-    "value": 9
+    "value": 9,
+    "translation": "tienda"
   },
   {
     "word": "people",
-    "value": 9
+    "value": 9,
+    "translation": "gente/personas"
   },
   {
     "word": "teacher",
-    "value": 9
+    "value": 9,
+    "translation": "maestro/profesor"
   },
   {
     "word": "student",
-    "value": 9
+    "value": 9,
+    "translation": "estudiante"
   },
   {
     "word": "book",
-    "value": 8
+    "value": 8,
+    "translation": "libro"
   },
   {
     "word": "alley",
-    "value": 8
+    "value": 8,
+    "translation": "callej\u00f3n"
   },
   {
     "word": "board",
-    "value": 8
+    "value": 8,
+    "translation": "tablero"
   },
   {
     "word": "boy",
-    "value": 8
+    "value": 8,
+    "translation": "ni\u00f1o/muchacho"
   },
   {
     "word": "street",
-    "value": 7
+    "value": 7,
+    "translation": "calle"
   },
   {
     "word": "way",
-    "value": 7
+    "value": 7,
+    "translation": "camino/manera"
   },
   {
     "word": "day",
-    "value": 6
+    "value": 6,
+    "translation": "d\u00eda"
   },
   {
     "word": "leg",
-    "value": 6
+    "value": 6,
+    "translation": "pierna"
   },
   {
     "word": "bookstall",
-    "value": 5
+    "value": 5,
+    "translation": "puesto de libros"
   },
   {
     "word": "glass",
-    "value": 5
+    "value": 5,
+    "translation": "vidrio/vaso"
   },
   {
     "word": "idea",
-    "value": 5
+    "value": 5,
+    "translation": "idea"
   },
   {
     "word": "name",
-    "value": 5
+    "value": 5,
+    "translation": "nombre"
   },
   {
     "word": "sidewalk",
-    "value": 5
+    "value": 5,
+    "translation": "acera"
   },
   {
     "word": "eye",
-    "value": 5
+    "value": 5,
+    "translation": "ojo"
   },
   {
     "word": "ground",
-    "value": 5
+    "value": 5,
+    "translation": "suelo/tierra"
   },
   {
     "word": "classmate",
-    "value": 5
+    "value": 5,
+    "translation": "compa\u00f1ero de clase"
   },
   {
     "word": "money",
-    "value": 5
+    "value": 5,
+    "translation": "dinero"
   },
   {
     "word": "fortune",
-    "value": 5
+    "value": 5,
+    "translation": "fortuna"
   },
   {
     "word": "trouser",
-    "value": 5
+    "value": 5,
+    "translation": "pantal\u00f3n"
   },
   {
     "word": "house",
-    "value": 4
+    "value": 4,
+    "translation": "casa"
   },
   {
     "word": "story",
-    "value": 4
+    "value": 4,
+    "translation": "historia/piso"
   },
   {
     "word": "family",
-    "value": 4
+    "value": 4,
+    "translation": "familia"
   },
   {
     "word": "hair",
-    "value": 4
+    "value": 4,
+    "translation": "cabello/pelo"
   },
   {
     "word": "chance",
-    "value": 4
+    "value": 4,
+    "translation": "oportunidad"
   },
   {
     "word": "shop",
-    "value": 4
+    "value": 4,
+    "translation": "tienda"
   },
   {
     "word": "circle",
-    "value": 4
+    "value": 4,
+    "translation": "c\u00edrculo"
   },
   {
     "word": "foot",
-    "value": 4
+    "value": 4,
+    "translation": "pie"
   },
   {
     "word": "shoulder",
-    "value": 4
+    "value": 4,
+    "translation": "hombro"
   },
   {
     "word": "battle",
-    "value": 4
+    "value": 4,
+    "translation": "batalla"
   },
   {
     "word": "superstition",
-    "value": 4
+    "value": 4,
+    "translation": "superstici\u00f3n"
   },
   {
     "word": "mom",
-    "value": 4
+    "value": 4,
+    "translation": "mam\u00e1"
   },
   {
     "word": "newspaper",
-    "value": 4
+    "value": 4,
+    "translation": "peri\u00f3dico"
   },
   {
     "word": "one",
-    "value": 4
+    "value": 4,
+    "translation": "uno"
   },
   {
     "word": "bus",
-    "value": 4
+    "value": 4,
+    "translation": "autob\u00fas"
   },
   {
     "word": "cream",
-    "value": 4
+    "value": 4,
+    "translation": "crema"
   },
   {
     "word": "umbrella",
-    "value": 4
+    "value": 4,
+    "translation": "paraguas"
   },
   {
     "word": "afternoon",
-    "value": 3
+    "value": 3,
+    "translation": "tarde"
   },
   {
     "word": "picture",
-    "value": 3
+    "value": 3,
+    "translation": "imagen/foto"
   },
   {
     "word": "friend",
-    "value": 3
+    "value": 3,
+    "translation": "amigo"
   }
 ]

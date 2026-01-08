@@ -1,202 +1,252 @@
 [
   {
     "word": "ship",
-    "value": 56
+    "value": 56,
+    "translation": "barco"
   },
   {
     "word": "passenger",
-    "value": 26
+    "value": 26,
+    "translation": "pasajero"
   },
   {
     "word": "deck",
-    "value": 25
+    "value": 25,
+    "translation": "cubierta"
   },
   {
     "word": "room",
-    "value": 25
+    "value": 25,
+    "translation": "habitación"
   },
   {
     "word": "water",
-    "value": 21
+    "value": 21,
+    "translation": "agua"
   },
   {
     "word": "class",
-    "value": 19
+    "value": 19,
+    "translation": "clase"
   },
   {
     "word": "radio",
-    "value": 19
+    "value": 19,
+    "translation": "radio"
   },
   {
     "word": "lifeboat",
-    "value": 15
+    "value": 15,
+    "translation": "bote salvavidas"
   },
   {
     "word": "people",
-    "value": 14
+    "value": 14,
+    "translation": "gente"
   },
   {
     "word": "boat",
-    "value": 14
+    "value": 14,
+    "translation": "bote"
   },
   {
     "word": "iceberg",
-    "value": 13
+    "value": 13,
+    "translation": "iceberg"
   },
   {
     "word": "call",
-    "value": 12
+    "value": 12,
+    "translation": "llamada"
   },
   {
     "word": "ice",
-    "value": 12
+    "value": 12,
+    "translation": "hielo"
   },
   {
     "word": "captain",
-    "value": 11
+    "value": 11,
+    "translation": "capitán"
   },
   {
     "word": "message",
-    "value": 11
+    "value": 11,
+    "translation": "mensaje"
   },
   {
     "word": "man",
-    "value": 10
+    "value": 10,
+    "translation": "hombre"
   },
   {
     "word": "mother",
-    "value": 9
+    "value": 9,
+    "translation": "madre"
   },
   {
     "word": "cabin",
-    "value": 9
+    "value": 9,
+    "translation": "cabina"
   },
   {
     "word": "bridge",
-    "value": 8
+    "value": 8,
+    "translation": "puente"
   },
   {
     "word": "sea",
-    "value": 7
+    "value": 7,
+    "translation": "mar"
   },
   {
     "word": "father",
-    "value": 7
+    "value": 7,
+    "translation": "padre"
   },
   {
     "word": "help",
-    "value": 7
+    "value": 7,
+    "translation": "ayuda"
   },
   {
     "word": "bed",
-    "value": 7
+    "value": 7,
+    "translation": "cama"
   },
   {
     "word": "friend",
-    "value": 7
+    "value": 7,
+    "translation": "amigo"
   },
   {
     "word": "compartment",
-    "value": 7
+    "value": 7,
+    "translation": "compartimento"
   },
   {
     "word": "officer",
-    "value": 7
+    "value": 7,
+    "translation": "oficial"
   },
   {
     "word": "time",
-    "value": 7
+    "value": 7,
+    "translation": "tiempo"
   },
   {
     "word": "dinner",
-    "value": 6
+    "value": 6,
+    "translation": "cena"
   },
   {
     "word": "side",
-    "value": 6
+    "value": 6,
+    "translation": "lado"
   },
   {
     "word": "warning",
-    "value": 6
+    "value": 6,
+    "translation": "advertencia"
   },
   {
     "word": "night",
-    "value": 6
+    "value": 6,
+    "translation": "noche"
   },
   {
     "word": "story",
-    "value": 5
+    "value": 5,
+    "translation": "historia"
   },
   {
     "word": "board",
-    "value": 5
+    "value": 5,
+    "translation": "tablero"
   },
   {
     "word": "liner",
-    "value": 5
+    "value": 5,
+    "translation": "transatlántico"
   },
   {
     "word": "word",
-    "value": 5
+    "value": 5,
+    "translation": "palabra"
   },
   {
     "word": "parent",
-    "value": 5
+    "value": 5,
+    "translation": "padre"
   },
   {
     "word": "engine",
-    "value": 5
+    "value": 5,
+    "translation": "motor"
   },
   {
     "word": "operator",
-    "value": 5
+    "value": 5,
+    "translation": "operador"
   },
   {
     "word": "air",
-    "value": 5
+    "value": 5,
+    "translation": "aire"
   },
   {
     "word": "child",
-    "value": 5
+    "value": 5,
+    "translation": "niño"
   },
   {
     "word": "life",
-    "value": 4
+    "value": 4,
+    "translation": "vida"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "party",
-    "value": 4
+    "value": 4,
+    "translation": "fiesta"
   },
   {
     "word": "voyage",
-    "value": 4
+    "value": 4,
+    "translation": "viaje"
   },
   {
     "word": "crowd",
-    "value": 4
+    "value": 4,
+    "translation": "multitud"
   },
   {
     "word": "band",
-    "value": 4
+    "value": 4,
+    "translation": "banda"
   },
   {
     "word": "world",
-    "value": 4
+    "value": 4,
+    "translation": "mundo"
   },
   {
     "word": "safety",
-    "value": 4
+    "value": 4,
+    "translation": "seguridad"
   },
   {
     "word": "family",
-    "value": 4
+    "value": 4,
+    "translation": "familia"
   },
   {
     "word": "hold",
-    "value": 4
+    "value": 4,
+    "translation": "bodega"
   }
 ]

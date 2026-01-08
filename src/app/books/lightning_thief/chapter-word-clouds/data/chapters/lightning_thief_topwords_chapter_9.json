@@ -1,202 +1,252 @@
 [
   {
     "word": "bolt",
-    "value": 17
+    "value": 17,
+    "translation": "rayo"
   },
   {
     "word": "time",
-    "value": 12
+    "value": 12,
+    "translation": "tiempo"
   },
   {
     "word": "god",
-    "value": 10
+    "value": 10,
+    "translation": "dios"
   },
   {
     "word": "table",
-    "value": 9
+    "value": 9,
+    "translation": "mesa"
   },
   {
     "word": "son",
-    "value": 9
+    "value": 9,
+    "translation": "hijo"
   },
   {
     "word": "quest",
-    "value": 9
+    "value": 9,
+    "translation": "búsqueda"
   },
   {
     "word": "card",
-    "value": 8
+    "value": 8,
+    "translation": "carta"
   },
   {
     "word": "master",
-    "value": 8
+    "value": 8,
+    "translation": "amo"
   },
   {
     "word": "war",
-    "value": 8
+    "value": 8,
+    "translation": "guerra"
   },
   {
     "word": "sky",
-    "value": 7
+    "value": 7,
+    "translation": "cielo"
   },
   {
     "word": "storm",
-    "value": 7
+    "value": 7,
+    "translation": "tormenta"
   },
   {
     "word": "mouth",
-    "value": 7
+    "value": 7,
+    "translation": "boca"
   },
   {
     "word": "lightning",
-    "value": 6
+    "value": 6,
+    "translation": "relámpago"
   },
   {
     "word": "hero",
-    "value": 6
+    "value": 6,
+    "translation": "héroe"
   },
   {
     "word": "voice",
-    "value": 6
+    "value": 6,
+    "translation": "voz"
   },
   {
     "word": "mist",
-    "value": 6
+    "value": 6,
+    "translation": "niebla"
   },
   {
     "word": "cabin",
-    "value": 5
+    "value": 5,
+    "translation": "cabaña"
   },
   {
     "word": "camp",
-    "value": 5
+    "value": 5,
+    "translation": "campamento"
   },
   {
     "word": "eye",
-    "value": 5
+    "value": 5,
+    "translation": "ojo"
   },
   {
     "word": "day",
-    "value": 5
+    "value": 5,
+    "translation": "día"
   },
   {
     "word": "part",
-    "value": 5
+    "value": 5,
+    "translation": "parte"
   },
   {
     "word": "year",
-    "value": 5
+    "value": 5,
+    "translation": "año"
   },
   {
     "word": "feeling",
-    "value": 4
+    "value": 4,
+    "translation": "sentimiento"
   },
   {
     "word": "mother",
-    "value": 4
+    "value": 4,
+    "translation": "madre"
   },
   {
     "word": "head",
-    "value": 4
+    "value": 4,
+    "translation": "cabeza"
   },
   {
     "word": "one",
-    "value": 4
+    "value": 4,
+    "translation": "uno"
   },
   {
     "word": "way",
-    "value": 4
+    "value": 4,
+    "translation": "camino"
   },
   {
     "word": "cloud",
-    "value": 4
+    "value": 4,
+    "translation": "nube"
   },
   {
     "word": "satyr",
-    "value": 4
+    "value": 4,
+    "translation": "sátiro"
   },
   {
     "word": "air",
-    "value": 4
+    "value": 4,
+    "translation": "aire"
   },
   {
     "word": "father",
-    "value": 4
+    "value": 4,
+    "translation": "padre"
   },
   {
     "word": "lot",
-    "value": 4
+    "value": 4,
+    "translation": "mucho"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "face",
-    "value": 4
+    "value": 4,
+    "translation": "cara"
   },
   {
     "word": "power",
-    "value": 4
+    "value": 4,
+    "translation": "poder"
   },
   {
     "word": "solstice",
-    "value": 4
+    "value": 4,
+    "translation": "solsticio"
   },
   {
     "word": "brother",
-    "value": 4
+    "value": 4,
+    "translation": "hermano"
   },
   {
     "word": "morning",
-    "value": 3
+    "value": 3,
+    "translation": "mañana"
   },
   {
     "word": "set",
-    "value": 3
+    "value": 3,
+    "translation": "conjunto"
   },
   {
     "word": "kid",
-    "value": 3
+    "value": 3,
+    "translation": "niño"
   },
   {
     "word": "blood",
-    "value": 3
+    "value": 3,
+    "translation": "sangre"
   },
   {
     "word": "foot",
-    "value": 3
+    "value": 3,
+    "translation": "pie"
   },
   {
     "word": "child",
-    "value": 3
+    "value": 3,
+    "translation": "niño"
   },
   {
     "word": "dream",
-    "value": 3
+    "value": 3,
+    "translation": "sueño"
   },
   {
     "word": "beach",
-    "value": 3
+    "value": 3,
+    "translation": "playa"
   },
   {
     "word": "man",
-    "value": 3
+    "value": 3,
+    "translation": "hombre"
   },
   {
     "word": "place",
-    "value": 3
+    "value": 3,
+    "translation": "lugar"
   },
   {
     "word": "thunder",
-    "value": 3
+    "value": 3,
+    "translation": "trueno"
   },
   {
     "word": "door",
-    "value": 3
+    "value": 3,
+    "translation": "puerta"
   },
   {
     "word": "hoof",
-    "value": 3
+    "value": 3,
+    "translation": "pezuña"
   }
 ]

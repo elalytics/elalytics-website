@@ -1,202 +1,252 @@
 [
   {
     "word": "game",
-    "value": 17
+    "value": 17,
+    "translation": "juego"
   },
   {
     "word": "time",
-    "value": 15
+    "value": 15,
+    "translation": "tiempo"
   },
   {
     "word": "animal",
-    "value": 12
+    "value": 12,
+    "translation": "animal"
   },
   {
     "word": "lion",
-    "value": 12
+    "value": 12,
+    "translation": "león"
   },
   {
     "word": "zebra",
-    "value": 11
+    "value": 11,
+    "translation": "cebra"
   },
   {
     "word": "thing",
-    "value": 10
+    "value": 10,
+    "translation": "cosa"
   },
   {
     "word": "voice",
-    "value": 10
+    "value": 10,
+    "translation": "voz"
   },
   {
     "word": "one",
-    "value": 9
+    "value": 9,
+    "translation": "uno"
   },
   {
     "word": "card",
-    "value": 8
+    "value": 8,
+    "translation": "carta"
   },
   {
     "word": "kid",
-    "value": 7
+    "value": 7,
+    "translation": "niño"
   },
   {
     "word": "truck",
-    "value": 7
+    "value": 7,
+    "translation": "camión"
   },
   {
     "word": "god",
-    "value": 7
+    "value": 7,
+    "translation": "dios"
   },
   {
     "word": "year",
-    "value": 7
+    "value": 7,
+    "translation": "año"
   },
   {
     "word": "guy",
-    "value": 7
+    "value": 7,
+    "translation": "tipo"
   },
   {
     "word": "trailer",
-    "value": 7
+    "value": 7,
+    "translation": "remolque"
   },
   {
     "word": "antelope",
-    "value": 7
+    "value": 7,
+    "translation": "antílope"
   },
   {
     "word": "turnip",
-    "value": 7
+    "value": 7,
+    "translation": "nabo"
   },
   {
     "word": "blood",
-    "value": 7
+    "value": 7,
+    "translation": "sangre"
   },
   {
     "word": "place",
-    "value": 7
+    "value": 7,
+    "translation": "lugar"
   },
   {
     "word": "room",
-    "value": 7
+    "value": 7,
+    "translation": "habitación"
   },
   {
     "word": "back",
-    "value": 6
+    "value": 6,
+    "translation": "espalda"
   },
   {
     "word": "door",
-    "value": 6
+    "value": 6,
+    "translation": "puerta"
   },
   {
     "word": "sack",
-    "value": 6
+    "value": 6,
+    "translation": "saco"
   },
   {
     "word": "eye",
-    "value": 6
+    "value": 6,
+    "translation": "ojo"
   },
   {
     "word": "hand",
-    "value": 6
+    "value": 6,
+    "translation": "mano"
   },
   {
-    "word": "\u201dWe",
-    "value": 6
+    "word": "\"We",
+    "value": 6,
+    "translation": "\"We"
   },
   {
     "word": "day",
-    "value": 6
+    "value": 6,
+    "translation": "día"
   },
   {
     "word": "backpack",
-    "value": 5
+    "value": 5,
+    "translation": "mochila"
   },
   {
     "word": "clothe",
-    "value": 5
+    "value": 5,
+    "translation": "ropa"
   },
   {
     "word": "heat",
-    "value": 5
+    "value": 5,
+    "translation": "calor"
   },
   {
     "word": "cage",
-    "value": 5
+    "value": 5,
+    "translation": "jaula"
   },
   {
     "word": "food",
-    "value": 5
+    "value": 5,
+    "translation": "comida"
   },
   {
     "word": "monster",
-    "value": 5
+    "value": 5,
+    "translation": "monstruo"
   },
   {
     "word": "week",
-    "value": 5
+    "value": 5,
+    "translation": "semana"
   },
   {
     "word": "diner",
-    "value": 4
+    "value": 4,
+    "translation": "restaurante"
   },
   {
     "word": "street",
-    "value": 4
+    "value": 4,
+    "translation": "calle"
   },
   {
     "word": "bag",
-    "value": 4
+    "value": 4,
+    "translation": "bolsa"
   },
   {
     "word": "shoulder",
-    "value": 4
+    "value": 4,
+    "translation": "hombro"
   },
   {
     "word": "man",
-    "value": 4
+    "value": 4,
+    "translation": "hombre"
   },
   {
     "word": "name",
-    "value": 4
+    "value": 4,
+    "translation": "nombre"
   },
   {
     "word": "water",
-    "value": 4
+    "value": 4,
+    "translation": "agua"
   },
   {
     "word": "floor",
-    "value": 4
+    "value": 4,
+    "translation": "piso"
   },
   {
     "word": "desert",
-    "value": 4
+    "value": 4,
+    "translation": "desierto"
   },
   {
     "word": "screen",
-    "value": 4
+    "value": 4,
+    "translation": "pantalla"
   },
   {
     "word": "lot",
-    "value": 3
+    "value": 3,
+    "translation": "mucho"
   },
   {
     "word": "jerk",
-    "value": 3
+    "value": 3,
+    "translation": "idiota"
   },
   {
     "word": "punk",
-    "value": 3
+    "value": 3,
+    "translation": "punk"
   },
   {
     "word": "mother",
-    "value": 3
+    "value": 3,
+    "translation": "madre"
   },
   {
     "word": "hair",
-    "value": 3
+    "value": 3,
+    "translation": "cabello"
   },
   {
     "word": "zoo",
-    "value": 3
+    "value": 3,
+    "translation": "zoológico"
   }
 ]

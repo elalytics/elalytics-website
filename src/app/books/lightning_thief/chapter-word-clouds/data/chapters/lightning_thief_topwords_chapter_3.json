@@ -1,202 +1,252 @@
 [
   {
     "word": "mom",
-    "value": 31
+    "value": 31,
+    "translation": "mamá"
   },
   {
     "word": "eye",
-    "value": 16
+    "value": 16,
+    "translation": "ojo"
   },
   {
     "word": "money",
-    "value": 7
+    "value": 7,
+    "translation": "dinero"
   },
   {
     "word": "way",
-    "value": 6
+    "value": 6,
+    "translation": "camino"
   },
   {
     "word": "hair",
-    "value": 6
+    "value": 6,
+    "translation": "cabello"
   },
   {
     "word": "beach",
-    "value": 6
+    "value": 6,
+    "translation": "playa"
   },
   {
     "word": "time",
-    "value": 5
+    "value": 5,
+    "translation": "tiempo"
   },
   {
     "word": "bus",
-    "value": 5
+    "value": 5,
+    "translation": "autobús"
   },
   {
     "word": "mother",
-    "value": 5
+    "value": 5,
+    "translation": "madre"
   },
   {
     "word": "school",
-    "value": 5
+    "value": 5,
+    "translation": "escuela"
   },
   {
     "word": "year",
-    "value": 5
+    "value": 5,
+    "translation": "año"
   },
   {
     "word": "night",
-    "value": 5
+    "value": 5,
+    "translation": "noche"
   },
   {
     "word": "room",
-    "value": 5
+    "value": 5,
+    "translation": "habitación"
   },
   {
     "word": "voice",
-    "value": 5
+    "value": 5,
+    "translation": "voz"
   },
   {
     "word": "trip",
-    "value": 5
+    "value": 5,
+    "translation": "viaje"
   },
   {
     "word": "cabin",
-    "value": 5
+    "value": 5,
+    "translation": "cabaña"
   },
   {
     "word": "dip",
-    "value": 5
+    "value": 5,
+    "translation": "chapuzón"
   },
   {
     "word": "thing",
-    "value": 5
+    "value": 5,
+    "translation": "cosa"
   },
   {
     "word": "word",
-    "value": 4
+    "value": 4,
+    "translation": "palabra"
   },
   {
     "word": "world",
-    "value": 4
+    "value": 4,
+    "translation": "mundo"
   },
   {
     "word": "smile",
-    "value": 4
+    "value": 4,
+    "translation": "sonrisa"
   },
   {
     "word": "kid",
-    "value": 4
+    "value": 4,
+    "translation": "niño"
   },
   {
     "word": "poker",
-    "value": 4
+    "value": 4,
+    "translation": "póker"
   },
   {
     "word": "beer",
-    "value": 4
+    "value": 4,
+    "translation": "cerveza"
   },
   {
     "word": "door",
-    "value": 4
+    "value": 4,
+    "translation": "puerta"
   },
   {
     "word": "car",
-    "value": 4
+    "value": 4,
+    "translation": "coche"
   },
   {
     "word": "lady",
-    "value": 4
+    "value": 4,
+    "translation": "dama"
   },
   {
     "word": "leg",
-    "value": 4
+    "value": 4,
+    "translation": "pierna"
   },
   {
     "word": "hand",
-    "value": 4
+    "value": 4,
+    "translation": "mano"
   },
   {
     "word": "game",
-    "value": 4
+    "value": 4,
+    "translation": "juego"
   },
   {
     "word": "baby",
-    "value": 4
+    "value": 4,
+    "translation": "bebé"
   },
   {
     "word": "father",
-    "value": 4
+    "value": 4,
+    "translation": "padre"
   },
   {
     "word": "summer",
-    "value": 4
+    "value": 4,
+    "translation": "verano"
   },
   {
     "word": "horse",
-    "value": 4
+    "value": 4,
+    "translation": "caballo"
   },
   {
     "word": "man",
-    "value": 3
+    "value": 3,
+    "translation": "hombre"
   },
   {
     "word": "dad",
-    "value": 3
+    "value": 3,
+    "translation": "papá"
   },
   {
     "word": "memory",
-    "value": 3
+    "value": 3,
+    "translation": "memoria"
   },
   {
     "word": "secret",
-    "value": 3
+    "value": 3,
+    "translation": "secreto"
   },
   {
     "word": "sea",
-    "value": 3
+    "value": 3,
+    "translation": "mar"
   },
   {
     "word": "color",
-    "value": 3
+    "value": 3,
+    "translation": "color"
   },
   {
     "word": "apartment",
-    "value": 3
+    "value": 3,
+    "translation": "apartamento"
   },
   {
     "word": "home",
-    "value": 3
+    "value": 3,
+    "translation": "hogar"
   },
   {
     "word": "chip",
-    "value": 3
+    "value": 3,
+    "translation": "ficha"
   },
   {
     "word": "cigar",
-    "value": 3
+    "value": 3,
+    "translation": "cigarro"
   },
   {
     "word": "head",
-    "value": 3
+    "value": 3,
+    "translation": "cabeza"
   },
   {
     "word": "guy",
-    "value": 3
+    "value": 3,
+    "translation": "tipo"
   },
   {
     "word": "brain",
-    "value": 3
+    "value": 3,
+    "translation": "cerebro"
   },
   {
     "word": "boy",
-    "value": 3
+    "value": 3,
+    "translation": "niño"
   },
   {
     "word": "bed",
-    "value": 3
+    "value": 3,
+    "translation": "cama"
   },
   {
     "word": "fruit",
-    "value": 3
+    "value": 3,
+    "translation": "fruta"
   }
 ]

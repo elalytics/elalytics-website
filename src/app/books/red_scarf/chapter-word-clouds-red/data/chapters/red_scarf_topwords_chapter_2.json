@@ -1,22 +1,27 @@
 [
   {
     "word": "scarf",
-    "value": 2
+    "value": 2,
+    "translation": "bufanda"
   },
   {
     "word": "ribbon",
-    "value": 1
+    "value": 1,
+    "translation": "cinta"
   },
   {
     "word": "stripe",
-    "value": 1
+    "value": 1,
+    "translation": "raya/franja"
   },
   {
     "word": "character",
-    "value": 1
+    "value": 1,
+    "translation": "personaje/car\u00e1cter"
   },
   {
     "word": "dowry",
-    "value": 1
+    "value": 1,
+    "translation": "dote"
   }
 ]

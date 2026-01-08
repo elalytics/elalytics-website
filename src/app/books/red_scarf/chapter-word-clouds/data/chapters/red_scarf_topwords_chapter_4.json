@@ -1,202 +1,252 @@
 [
   {
     "word": "zi",
-    "value": 18
+    "value": 18,
+    "translation": "zi"
   },
   {
     "word": "teacher",
-    "value": 17
+    "value": 17,
+    "translation": "maestro/profesor"
   },
   {
     "word": "school",
-    "value": 16
+    "value": 16,
+    "translation": "escuela"
   },
   {
     "word": "student",
-    "value": 16
+    "value": 16,
+    "translation": "estudiante"
   },
   {
     "word": "class",
-    "value": 10
+    "value": 10,
+    "translation": "clase"
   },
   {
     "word": "door",
-    "value": 8
+    "value": 8,
+    "translation": "puerta"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "yard",
-    "value": 7
+    "value": 7,
+    "translation": "patio"
   },
   {
     "word": "name",
-    "value": 7
+    "value": 7,
+    "translation": "nombre"
   },
   {
     "word": "time",
-    "value": 7
+    "value": 7,
+    "translation": "tiempo"
   },
   {
     "word": "relationship",
-    "value": 7
+    "value": 7,
+    "translation": "relaci\u00f3n"
   },
   {
     "word": "head",
-    "value": 6
+    "value": 6,
+    "translation": "cabeza"
   },
   {
     "word": "group",
-    "value": 6
+    "value": 6,
+    "translation": "grupo"
   },
   {
     "word": "system",
-    "value": 5
+    "value": 5,
+    "translation": "sistema"
   },
   {
     "word": "paper",
-    "value": 5
+    "value": 5,
+    "translation": "papel"
   },
   {
     "word": "word",
-    "value": 5
+    "value": 5,
+    "translation": "palabra"
   },
   {
     "word": "voice",
-    "value": 5
+    "value": 5,
+    "translation": "voz"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "newspaper",
-    "value": 4
+    "value": 4,
+    "translation": "peri\u00f3dico"
   },
   {
     "word": "brush",
-    "value": 4
+    "value": 4,
+    "translation": "cepillo/pincel"
   },
   {
     "word": "classroom",
-    "value": 4
+    "value": 4,
+    "translation": "aula"
   },
   {
     "word": "sheet",
-    "value": 4
+    "value": 4,
+    "translation": "hoja"
   },
   {
     "word": "shoulder",
-    "value": 4
+    "value": 4,
+    "translation": "hombro"
   },
   {
     "word": "other",
-    "value": 4
+    "value": 4,
+    "translation": "otro"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "d\u00eda"
   },
   {
     "word": "grade",
-    "value": 4
+    "value": 4,
+    "translation": "grado/calificaci\u00f3n"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "lot",
-    "value": 4
+    "value": 4,
+    "translation": "mucho/lote"
   },
   {
     "word": "face",
-    "value": 4
+    "value": 4,
+    "translation": "cara/rostro"
   },
   {
     "word": "shadow",
-    "value": 4
+    "value": 4,
+    "translation": "sombra"
   },
   {
     "word": "year",
-    "value": 3
+    "value": 3,
+    "translation": "a\u00f1o"
   },
   {
     "word": "poster",
-    "value": 3
+    "value": 3,
+    "translation": "p\u00f3ster/cartel"
   },
   {
     "word": "da",
-    "value": 3
+    "value": 3,
+    "translation": "da"
   },
   {
     "word": "wall",
-    "value": 3
+    "value": 3,
+    "translation": "pared/muro"
   },
   {
     "word": "playground",
-    "value": 3
+    "value": 3,
+    "translation": "patio de recreo"
   },
   {
     "word": "front",
-    "value": 3
+    "value": 3,
+    "translation": "frente"
   },
   {
     "word": "knife",
-    "value": 3
+    "value": 3,
+    "translation": "cuchillo"
   },
   {
     "word": "surprise",
-    "value": 3
+    "value": 3,
+    "translation": "sorpresa"
   },
   {
     "word": "one",
-    "value": 3
+    "value": 3,
+    "translation": "uno"
   },
   {
     "word": "family",
-    "value": 3
+    "value": 3,
+    "translation": "familia"
   },
   {
     "word": "article",
-    "value": 3
+    "value": 3,
+    "translation": "art\u00edculo"
   },
   {
     "word": "revolutionary",
-    "value": 3
+    "value": 3,
+    "translation": "revolucionario"
   },
   {
     "word": "mind",
-    "value": 3
+    "value": 3,
+    "translation": "mente"
   },
   {
     "word": "mother",
-    "value": 3
+    "value": 3,
+    "translation": "madre"
   },
   {
     "word": "house",
-    "value": 3
+    "value": 3,
+    "translation": "casa"
   },
   {
     "word": "makeup",
-    "value": 3
+    "value": 3,
+    "translation": "maquillaje"
   },
   {
     "word": "paste",
-    "value": 3
+    "value": 3,
+    "translation": "pasta"
   },
   {
     "word": "today",
-    "value": 3
+    "value": 3,
+    "translation": "hoy"
   },
   {
     "word": "tear",
-    "value": 3
+    "value": 3,
+    "translation": "l\u00e1grima"
   },
   {
     "word": "socialist",
-    "value": 2
+    "value": 2,
+    "translation": "socialista"
   }
 ]

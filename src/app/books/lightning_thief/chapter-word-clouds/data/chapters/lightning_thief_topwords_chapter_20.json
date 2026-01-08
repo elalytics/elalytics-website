@@ -1,202 +1,252 @@
 [
   {
     "word": "kid",
-    "value": 13
+    "value": 13,
+    "translation": "niño"
   },
   {
     "word": "bolt",
-    "value": 12
+    "value": 12,
+    "translation": "rayo"
   },
   {
     "word": "sword",
-    "value": 12
+    "value": 12,
+    "translation": "espada"
   },
   {
     "word": "water",
-    "value": 10
+    "value": 10,
+    "translation": "agua"
   },
   {
     "word": "war",
-    "value": 10
+    "value": 10,
+    "translation": "guerra"
   },
   {
     "word": "foot",
-    "value": 10
+    "value": 10,
+    "translation": "pie"
   },
   {
     "word": "master",
-    "value": 8
+    "value": 8,
+    "translation": "amo"
   },
   {
     "word": "time",
-    "value": 7
+    "value": 7,
+    "translation": "tiempo"
   },
   {
     "word": "blade",
-    "value": 7
+    "value": 7,
+    "translation": "hoja"
   },
   {
     "word": "sand",
-    "value": 6
+    "value": 6,
+    "translation": "arena"
   },
   {
     "word": "face",
-    "value": 6
+    "value": 6,
+    "translation": "cara"
   },
   {
     "word": "head",
-    "value": 5
+    "value": 5,
+    "translation": "cabeza"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "sea",
-    "value": 5
+    "value": 5,
+    "translation": "mar"
   },
   {
     "word": "wave",
-    "value": 5
+    "value": 5,
+    "translation": "ola"
   },
   {
     "word": "tide",
-    "value": 5
+    "value": 5,
+    "translation": "marea"
   },
   {
     "word": "beach",
-    "value": 4
+    "value": 4,
+    "translation": "playa"
   },
   {
     "word": "backpack",
-    "value": 4
+    "value": 4,
+    "translation": "mochila"
   },
   {
     "word": "eye",
-    "value": 4
+    "value": 4,
+    "translation": "ojo"
   },
   {
     "word": "helm",
-    "value": 4
+    "value": 4,
+    "translation": "yelmo"
   },
   {
     "word": "way",
-    "value": 4
+    "value": 4,
+    "translation": "camino"
   },
   {
     "word": "pocket",
-    "value": 4
+    "value": 4,
+    "translation": "bolsillo"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "hero",
-    "value": 4
+    "value": 4,
+    "translation": "héroe"
   },
   {
     "word": "surf",
-    "value": 4
+    "value": 4,
+    "translation": "oleaje"
   },
   {
     "word": "boar",
-    "value": 4
+    "value": 4,
+    "translation": "jabalí"
   },
   {
     "word": "car",
-    "value": 4
+    "value": 4,
+    "translation": "coche"
   },
   {
     "word": "police",
-    "value": 4
+    "value": 4,
+    "translation": "policía"
   },
   {
     "word": "mother",
-    "value": 3
+    "value": 3,
+    "translation": "madre"
   },
   {
     "word": "side",
-    "value": 3
+    "value": 3,
+    "translation": "lado"
   },
   {
     "word": "baseball",
-    "value": 3
+    "value": 3,
+    "translation": "béisbol"
   },
   {
     "word": "bat",
-    "value": 3
+    "value": 3,
+    "translation": "bate"
   },
   {
     "word": "shoulder",
-    "value": 3
+    "value": 3,
+    "translation": "hombro"
   },
   {
     "word": "god",
-    "value": 3
+    "value": 3,
+    "translation": "dios"
   },
   {
     "word": "darkness",
-    "value": 3
+    "value": 3,
+    "translation": "oscuridad"
   },
   {
     "word": "weapon",
-    "value": 3
+    "value": 3,
+    "translation": "arma"
   },
   {
     "word": "moment",
-    "value": 3
+    "value": 3,
+    "translation": "momento"
   },
   {
     "word": "voice",
-    "value": 3
+    "value": 3,
+    "translation": "voz"
   },
   {
     "word": "one",
-    "value": 3
+    "value": 3,
+    "translation": "uno"
   },
   {
-    "word": "\u201dShe",
-    "value": 3
+    "word": "\"She",
+    "value": 3,
+    "translation": "\"She"
   },
   {
     "word": "strength",
-    "value": 3
+    "value": 3,
+    "translation": "fuerza"
   },
   {
     "word": "light",
-    "value": 3
+    "value": 3,
+    "translation": "luz"
   },
   {
     "word": "cop",
-    "value": 3
+    "value": 3,
+    "translation": "policía"
   },
   {
     "word": "battle",
-    "value": 3
+    "value": 3,
+    "translation": "batalla"
   },
   {
     "word": "spectator",
-    "value": 3
+    "value": 3,
+    "translation": "espectador"
   },
   {
     "word": "crowd",
-    "value": 3
+    "value": 3,
+    "translation": "multitud"
   },
   {
     "word": "street",
-    "value": 2
+    "value": 2,
+    "translation": "calle"
   },
   {
     "word": "clothe",
-    "value": 2
+    "value": 2,
+    "translation": "ropa"
   },
   {
     "word": "magic",
-    "value": 2
+    "value": 2,
+    "translation": "magia"
   },
   {
     "word": "land",
-    "value": 2
+    "value": 2,
+    "translation": "tierra"
   }
 ]

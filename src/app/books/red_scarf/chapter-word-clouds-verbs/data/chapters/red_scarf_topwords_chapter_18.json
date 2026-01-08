@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 32
+    "value": 32,
+    "translation": "ser/estar"
   },
   {
     "word": "have",
-    "value": 22
+    "value": 22,
+    "translation": "tener"
   },
   {
     "word": "would",
-    "value": 14
+    "value": 14,
+    "translation": "har\u00eda/ser\u00eda"
   },
   {
     "word": "take",
-    "value": 8
+    "value": 8,
+    "translation": "tomar/llevar"
   },
   {
     "word": "could",
-    "value": 6
+    "value": 6,
+    "translation": "podr\u00eda"
   },
   {
     "word": "worry",
-    "value": 6
+    "value": 6,
+    "translation": "preocuparse"
   },
   {
     "word": "do",
-    "value": 5
+    "value": 5,
+    "translation": "hacer"
   },
   {
     "word": "promise",
-    "value": 5
+    "value": 5,
+    "translation": "[traducci\u00f3n de 'promise']"
   },
   {
     "word": "watch",
-    "value": 4
+    "value": 4,
+    "translation": "mirar/observar"
   },
   {
     "word": "hide",
-    "value": 4
+    "value": 4,
+    "translation": "esconder(se)"
   },
   {
     "word": "know",
-    "value": 3
+    "value": 3,
+    "translation": "saber/conocer"
   },
   {
     "word": "happen",
-    "value": 3
+    "value": 3,
+    "translation": "suceder/pasar"
   },
   {
     "word": "turn",
-    "value": 3
+    "value": 3,
+    "translation": "girar/voltear"
   },
   {
     "word": "say",
-    "value": 3
+    "value": 3,
+    "translation": "decir"
   },
   {
     "word": "will",
-    "value": 3
+    "value": 3,
+    "translation": "har\u00e1/ser\u00e1"
   },
   {
     "word": "sweep",
-    "value": 2
+    "value": 2,
+    "translation": "barrer"
   },
   {
     "word": "bear",
-    "value": 2
+    "value": 2,
+    "translation": "soportar/dar a luz"
   },
   {
     "word": "see",
-    "value": 2
+    "value": 2,
+    "translation": "ver"
   },
   {
     "word": "become",
-    "value": 2
+    "value": 2,
+    "translation": "convertirse/volverse"
   },
   {
     "word": "come",
-    "value": 2
+    "value": 2,
+    "translation": "venir"
   },
   {
     "word": "help",
-    "value": 2
+    "value": 2,
+    "translation": "ayudar"
   },
   {
     "word": "think",
-    "value": 2
+    "value": 2,
+    "translation": "pensar"
   },
   {
     "word": "make",
-    "value": 2
+    "value": 2,
+    "translation": "hacer"
   },
   {
     "word": "define",
-    "value": 2
+    "value": 2,
+    "translation": "definir"
   },
   {
     "word": "kneel",
-    "value": 1
+    "value": 1,
+    "translation": "arrodillarse"
   },
   {
     "word": "peek",
-    "value": 1
+    "value": 1,
+    "translation": "espiar/mirar"
   },
   {
     "word": "rain",
-    "value": 1
+    "value": 1,
+    "translation": "llover"
   },
   {
     "word": "stick",
-    "value": 1
+    "value": 1,
+    "translation": "pegar/quedarse"
   },
   {
     "word": "hold",
-    "value": 1
+    "value": 1,
+    "translation": "sostener"
   },
   {
     "word": "handle",
-    "value": 1
+    "value": 1,
+    "translation": "manejar"
   },
   {
     "word": "sway",
-    "value": 1
+    "value": 1,
+    "translation": "balancear(se)"
   },
   {
     "word": "struggle",
-    "value": 1
+    "value": 1,
+    "translation": "luchar"
   },
   {
     "word": "clean",
-    "value": 1
+    "value": 1,
+    "translation": "limpiar"
   },
   {
     "word": "wish",
-    "value": 1
+    "value": 1,
+    "translation": "desear"
   },
   {
     "word": "hear",
-    "value": 1
+    "value": 1,
+    "translation": "o\u00edr/escuchar"
   },
   {
     "word": "lie",
-    "value": 1
+    "value": 1,
+    "translation": "mentir/yacer"
   },
   {
     "word": "faint",
-    "value": 1
+    "value": 1,
+    "translation": "desmayarse"
   },
   {
     "word": "recognize",
-    "value": 1
+    "value": 1,
+    "translation": "reconocer"
   },
   {
     "word": "find",
-    "value": 1
+    "value": 1,
+    "translation": "encontrar"
   },
   {
     "word": "lay",
-    "value": 1
+    "value": 1,
+    "translation": "poner/acostar"
   },
   {
     "word": "lean",
-    "value": 1
+    "value": 1,
+    "translation": "apoyarse/inclinarse"
   },
   {
     "word": "scrape",
-    "value": 1
+    "value": 1,
+    "translation": "raspar"
   },
   {
     "word": "wince",
-    "value": 1
+    "value": 1,
+    "translation": "hacer una mueca"
   },
   {
     "word": "bend",
-    "value": 1
+    "value": 1,
+    "translation": "doblar(se)"
   },
   {
     "word": "straighten",
-    "value": 1
+    "value": 1,
+    "translation": "enderezar"
   },
   {
     "word": "breathe",
-    "value": 1
+    "value": 1,
+    "translation": "respirar"
   },
   {
     "word": "need",
-    "value": 1
+    "value": 1,
+    "translation": "necesitar"
   },
   {
     "word": "manage",
-    "value": 1
+    "value": 1,
+    "translation": "lograr/manejar"
   },
   {
     "word": "attend",
-    "value": 1
+    "value": 1,
+    "translation": "asistir"
   },
   {
     "word": "haunt",
-    "value": 1
+    "value": 1,
+    "translation": "perseguir/atormentar"
   }
 ]

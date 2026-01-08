@@ -1,10 +1,12 @@
 [
   {
     "word": "cheek",
-    "value": 1
+    "value": 1,
+    "translation": "mejilla"
   },
   {
     "word": "book",
-    "value": 1
+    "value": 1,
+    "translation": "libro"
   }
 ]

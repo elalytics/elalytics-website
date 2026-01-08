@@ -1,202 +1,252 @@
 [
   {
     "word": "father",
-    "value": 357
+    "value": 357,
+    "translation": "padre"
   },
   {
     "word": "mother",
-    "value": 276
+    "value": 276,
+    "translation": "madre"
   },
   {
     "word": "boat",
-    "value": 236
+    "value": 236,
+    "translation": "bote"
   },
   {
     "word": "man",
-    "value": 211
+    "value": 211,
+    "translation": "hombre"
   },
   {
     "word": "water",
-    "value": 158
+    "value": 158,
+    "translation": "agua"
   },
   {
     "word": "family",
-    "value": 151
+    "value": 151,
+    "translation": "familia"
   },
   {
     "word": "ship",
-    "value": 148
+    "value": 148,
+    "translation": "barco"
   },
   {
     "word": "refugee",
-    "value": 135
+    "value": 135,
+    "translation": "refugiado"
   },
   {
     "word": "hand",
-    "value": 126
+    "value": 126,
+    "translation": "mano"
   },
   {
     "word": "time",
-    "value": 119
+    "value": 119,
+    "translation": "tiempo"
   },
   {
     "word": "people",
-    "value": 115
+    "value": 115,
+    "translation": "gente"
   },
   {
     "word": "way",
-    "value": 103
+    "value": 103,
+    "translation": "camino"
   },
   {
     "word": "eye",
-    "value": 98
+    "value": 98,
+    "translation": "ojo"
   },
   {
     "word": "arm",
-    "value": 96
+    "value": 96,
+    "translation": "brazo"
   },
   {
     "word": "passenger",
-    "value": 96
+    "value": 96,
+    "translation": "pasajero"
   },
   {
     "word": "side",
-    "value": 89
+    "value": 89,
+    "translation": "lado"
   },
   {
     "word": "head",
-    "value": 79
+    "value": 79,
+    "translation": "cabeza"
   },
   {
     "word": "car",
-    "value": 76
+    "value": 76,
+    "translation": "coche"
   },
   {
     "word": "room",
-    "value": 75
+    "value": 75,
+    "translation": "habitación"
   },
   {
     "word": "thing",
-    "value": 75
+    "value": 75,
+    "translation": "cosa"
   },
   {
     "word": "door",
-    "value": 69
+    "value": 69,
+    "translation": "puerta"
   },
   {
     "word": "face",
-    "value": 68
+    "value": 68,
+    "translation": "cara"
   },
   {
     "word": "life",
-    "value": 67
+    "value": 67,
+    "translation": "vida"
   },
   {
     "word": "wave",
-    "value": 66
+    "value": 66,
+    "translation": "ola"
   },
   {
     "word": "soldier",
-    "value": 65
+    "value": 65,
+    "translation": "soldado"
   },
   {
     "word": "brother",
-    "value": 65
+    "value": 65,
+    "translation": "hermano"
   },
   {
     "word": "sea",
-    "value": 64
+    "value": 64,
+    "translation": "mar"
   },
   {
     "word": "policeman",
-    "value": 64
+    "value": 64,
+    "translation": "policía"
   },
   {
     "word": "engine",
-    "value": 63
+    "value": 63,
+    "translation": "motor"
   },
   {
     "word": "boy",
-    "value": 61
+    "value": 61,
+    "translation": "niño"
   },
   {
     "word": "place",
-    "value": 55
+    "value": 55,
+    "translation": "lugar"
   },
   {
     "word": "baby",
-    "value": 54
+    "value": 54,
+    "translation": "bebé"
   },
   {
     "word": "woman",
-    "value": 52
+    "value": 52,
+    "translation": "mujer"
   },
   {
     "word": "country",
-    "value": 50
+    "value": 50,
+    "translation": "país"
   },
   {
     "word": "one",
-    "value": 48
+    "value": 48,
+    "translation": "uno"
   },
   {
     "word": "sister",
-    "value": 47
+    "value": 47,
+    "translation": "hermana"
   },
   {
     "word": "foot",
-    "value": 47
+    "value": 47,
+    "translation": "pie"
   },
   {
     "word": "child",
-    "value": 46
+    "value": 46,
+    "translation": "niño"
   },
   {
     "word": "grandfather",
-    "value": 44
+    "value": 44,
+    "translation": "abuelo"
   },
   {
     "word": "deck",
-    "value": 43
+    "value": 43,
+    "translation": "cubierta"
   },
   {
     "word": "police",
-    "value": 42
+    "value": 42,
+    "translation": "policía"
   },
   {
     "word": "light",
-    "value": 40
+    "value": 40,
+    "translation": "luz"
   },
   {
     "word": "home",
-    "value": 40
+    "value": 40,
+    "translation": "hogar"
   },
   {
     "word": "street",
-    "value": 39
+    "value": 39,
+    "translation": "calle"
   },
   {
     "word": "wall",
-    "value": 38
+    "value": 38,
+    "translation": "pared"
   },
   {
     "word": "camp",
-    "value": 36
+    "value": 36,
+    "translation": "campamento"
   },
   {
     "word": "front",
-    "value": 36
+    "value": 36,
+    "translation": "frente"
   },
   {
     "word": "floor",
-    "value": 35
+    "value": 35,
+    "translation": "piso"
   },
   {
     "word": "back",
-    "value": 35
+    "value": 35,
+    "translation": "espalda"
   },
   {
     "word": "heart",
-    "value": 34
+    "value": 34,
+    "translation": "corazón"
   }
 ]

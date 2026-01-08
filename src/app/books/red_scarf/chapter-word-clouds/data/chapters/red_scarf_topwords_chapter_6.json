@@ -1,202 +1,252 @@
 [
   {
     "word": "school",
-    "value": 18
+    "value": 18,
+    "translation": "escuela"
   },
   {
     "word": "teacher",
-    "value": 11
+    "value": 11,
+    "translation": "maestro/profesor"
   },
   {
     "word": "student",
-    "value": 6
+    "value": 6,
+    "translation": "estudiante"
   },
   {
     "word": "box",
-    "value": 6
+    "value": 6,
+    "translation": "caja"
   },
   {
     "word": "entrance",
-    "value": 5
+    "value": 5,
+    "translation": "entrada"
   },
   {
     "word": "exam",
-    "value": 5
+    "value": 5,
+    "translation": "examen"
   },
   {
     "word": "lunch",
-    "value": 5
+    "value": 5,
+    "translation": "almuerzo"
   },
   {
     "word": "summer",
-    "value": 4
+    "value": 4,
+    "translation": "verano"
   },
   {
     "word": "news",
-    "value": 4
+    "value": 4,
+    "translation": "noticias"
   },
   {
     "word": "week",
-    "value": 4
+    "value": 4,
+    "translation": "semana"
   },
   {
     "word": "eye",
-    "value": 4
+    "value": 4,
+    "translation": "ojo"
   },
   {
     "word": "office",
-    "value": 4
+    "value": 4,
+    "translation": "oficina"
   },
   {
     "word": "year",
-    "value": 3
+    "value": 3,
+    "translation": "a\u00f1o"
   },
   {
     "word": "other",
-    "value": 3
+    "value": 3,
+    "translation": "otro"
   },
   {
     "word": "hallway",
-    "value": 3
+    "value": 3,
+    "translation": "pasillo"
   },
   {
     "word": "voice",
-    "value": 3
+    "value": 3,
+    "translation": "voz"
   },
   {
     "word": "time",
-    "value": 3
+    "value": 3,
+    "translation": "tiempo"
   },
   {
     "word": "day",
-    "value": 3
+    "value": 3,
+    "translation": "d\u00eda"
   },
   {
     "word": "examination",
-    "value": 2
+    "value": 2,
+    "translation": "examen"
   },
   {
     "word": "desk",
-    "value": 2
+    "value": 2,
+    "translation": "escritorio"
   },
   {
     "word": "grade",
-    "value": 2
+    "value": 2,
+    "translation": "grado/calificaci\u00f3n"
   },
   {
     "word": "one",
-    "value": 2
+    "value": 2,
+    "translation": "uno"
   },
   {
     "word": "classmate",
-    "value": 2
+    "value": 2,
+    "translation": "compa\u00f1ero de clase"
   },
   {
     "word": "dream",
-    "value": 2
+    "value": 2,
+    "translation": "sue\u00f1o"
   },
   {
     "word": "badge",
-    "value": 2
+    "value": 2,
+    "translation": "insignia"
   },
   {
     "word": "way",
-    "value": 2
+    "value": 2,
+    "translation": "camino/manera"
   },
   {
     "word": "thing",
-    "value": 2
+    "value": 2,
+    "translation": "cosa"
   },
   {
     "word": "book",
-    "value": 2
+    "value": 2,
+    "translation": "libro"
   },
   {
     "word": "city",
-    "value": 2
+    "value": 2,
+    "translation": "ciudad"
   },
   {
     "word": "vacation",
-    "value": 2
+    "value": 2,
+    "translation": "vacaciones"
   },
   {
     "word": "assignment",
-    "value": 2
+    "value": 2,
+    "translation": "tarea"
   },
   {
     "word": "door",
-    "value": 2
+    "value": 2,
+    "translation": "puerta"
   },
   {
     "word": "neighborhood",
-    "value": 2
+    "value": 2,
+    "translation": "vecindario"
   },
   {
     "word": "character",
-    "value": 2
+    "value": 2,
+    "translation": "personaje/car\u00e1cter"
   },
   {
     "word": "room",
-    "value": 2
+    "value": 2,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "reform",
-    "value": 1
+    "value": 1,
+    "translation": "reforma"
   },
   {
     "word": "system",
-    "value": 1
+    "value": 1,
+    "translation": "sistema"
   },
   {
     "word": "seat",
-    "value": 1
+    "value": 1,
+    "translation": "asiento"
   },
   {
     "word": "relief",
-    "value": 1
+    "value": 1,
+    "translation": "alivio"
   },
   {
     "word": "laughter",
-    "value": 1
+    "value": 1,
+    "translation": "risa"
   },
   {
     "word": "elation",
-    "value": 1
+    "value": 1,
+    "translation": "j\u00fabilo"
   },
   {
     "word": "university",
-    "value": 1
+    "value": 1,
+    "translation": "universidad"
   },
   {
     "word": "family",
-    "value": 1
+    "value": 1,
+    "translation": "familia"
   },
   {
     "word": "delight",
-    "value": 1
+    "value": 1,
+    "translation": "deleite"
   },
   {
     "word": "asthma",
-    "value": 1
+    "value": 1,
+    "translation": "asma"
   },
   {
     "word": "attack",
-    "value": 1
+    "value": 1,
+    "translation": "ataque"
   },
   {
     "word": "rest",
-    "value": 1
+    "value": 1,
+    "translation": "descanso"
   },
   {
     "word": "morning",
-    "value": 1
+    "value": 1,
+    "translation": "ma\u00f1ana"
   },
   {
     "word": "greeting",
-    "value": 1
+    "value": 1,
+    "translation": "saludo"
   },
   {
     "word": "minute",
-    "value": 1
+    "value": 1,
+    "translation": "minuto"
   }
 ]

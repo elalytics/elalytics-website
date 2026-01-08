@@ -1,202 +1,252 @@
 [
   {
     "word": "family",
-    "value": 12
+    "value": 12,
+    "translation": "familia"
   },
   {
     "word": "name",
-    "value": 10
+    "value": 10,
+    "translation": "nombre"
   },
   {
     "word": "time",
-    "value": 8
+    "value": 8,
+    "translation": "tiempo"
   },
   {
     "word": "stair",
-    "value": 8
+    "value": 8,
+    "translation": "escalera"
   },
   {
     "word": "people",
-    "value": 7
+    "value": 7,
+    "translation": "gente/personas"
   },
   {
     "word": "man",
-    "value": 7
+    "value": 7,
+    "translation": "hombre"
   },
   {
     "word": "eye",
-    "value": 6
+    "value": 6,
+    "translation": "ojo"
   },
   {
     "word": "mom",
-    "value": 5
+    "value": 5,
+    "translation": "mam\u00e1"
   },
   {
     "word": "door",
-    "value": 5
+    "value": 5,
+    "translation": "puerta"
   },
   {
     "word": "table",
-    "value": 5
+    "value": 5,
+    "translation": "mesa"
   },
   {
     "word": "room",
-    "value": 5
+    "value": 5,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "landlord",
-    "value": 5
+    "value": 5,
+    "translation": "terrateniente"
   },
   {
     "word": "radio",
-    "value": 4
+    "value": 4,
+    "translation": "radio"
   },
   {
     "word": "tear",
-    "value": 4
+    "value": 4,
+    "translation": "l\u00e1grima"
   },
   {
     "word": "life",
-    "value": 4
+    "value": 4,
+    "translation": "[traducci\u00f3n de 'life']"
   },
   {
     "word": "window",
-    "value": 4
+    "value": 4,
+    "translation": "ventana"
   },
   {
     "word": "clothe",
-    "value": 4
+    "value": 4,
+    "translation": "ropa"
   },
   {
     "word": "front",
-    "value": 4
+    "value": 4,
+    "translation": "frente"
   },
   {
     "word": "bag",
-    "value": 4
+    "value": 4,
+    "translation": "bolsa"
   },
   {
     "word": "alley",
-    "value": 4
+    "value": 4,
+    "translation": "callej\u00f3n"
   },
   {
     "word": "chair",
-    "value": 4
+    "value": 4,
+    "translation": "silla"
   },
   {
     "word": "office",
-    "value": 4
+    "value": 4,
+    "translation": "oficina"
   },
   {
     "word": "story",
-    "value": 3
+    "value": 3,
+    "translation": "historia/piso"
   },
   {
     "word": "theater",
-    "value": 3
+    "value": 3,
+    "translation": "teatro"
   },
   {
     "word": "face",
-    "value": 3
+    "value": 3,
+    "translation": "cara/rostro"
   },
   {
     "word": "head",
-    "value": 3
+    "value": 3,
+    "translation": "cabeza"
   },
   {
     "word": "hand",
-    "value": 3
+    "value": 3,
+    "translation": "mano"
   },
   {
     "word": "one",
-    "value": 3
+    "value": 3,
+    "translation": "uno"
   },
   {
     "word": "teacup",
-    "value": 3
+    "value": 3,
+    "translation": "taza de t\u00e9"
   },
   {
     "word": "article",
-    "value": 3
+    "value": 3,
+    "translation": "art\u00edculo"
   },
   {
     "word": "acre",
-    "value": 3
+    "value": 3,
+    "translation": "acre"
   },
   {
     "word": "land",
-    "value": 3
+    "value": 3,
+    "translation": "tierra"
   },
   {
     "word": "voice",
-    "value": 3
+    "value": 3,
+    "translation": "voz"
   },
   {
     "word": "class",
-    "value": 3
+    "value": 3,
+    "translation": "clase"
   },
   {
     "word": "news",
-    "value": 2
+    "value": 2,
+    "translation": "noticias"
   },
   {
     "word": "charge",
-    "value": 2
+    "value": 2,
+    "translation": "cargo"
   },
   {
     "word": "courtyard",
-    "value": 2
+    "value": 2,
+    "translation": "patio"
   },
   {
     "word": "traitor",
-    "value": 2
+    "value": 2,
+    "translation": "traidor"
   },
   {
     "word": "shrimp",
-    "value": 2
+    "value": 2,
+    "translation": "camar\u00f3n"
   },
   {
     "word": "vegetable",
-    "value": 2
+    "value": 2,
+    "translation": "verdura"
   },
   {
     "word": "shoulder",
-    "value": 2
+    "value": 2,
+    "translation": "hombro"
   },
   {
     "word": "escort",
-    "value": 2
+    "value": 2,
+    "translation": "escolta"
   },
   {
     "word": "mouth",
-    "value": 2
+    "value": 2,
+    "translation": "boca"
   },
   {
     "word": "rest",
-    "value": 2
+    "value": 2,
+    "translation": "descanso"
   },
   {
     "word": "apartment",
-    "value": 2
+    "value": 2,
+    "translation": "apartamento"
   },
   {
     "word": "back",
-    "value": 2
+    "value": 2,
+    "translation": "espalda/atr\u00e1s"
   },
   {
     "word": "mother",
-    "value": 2
+    "value": 2,
+    "translation": "madre"
   },
   {
     "word": "care",
-    "value": 2
+    "value": 2,
+    "translation": "importarle/cuidar"
   },
   {
     "word": "corner",
-    "value": 2
+    "value": 2,
+    "translation": "esquina"
   },
   {
     "word": "school",
-    "value": 2
+    "value": 2,
+    "translation": "escuela"
   }
 ]

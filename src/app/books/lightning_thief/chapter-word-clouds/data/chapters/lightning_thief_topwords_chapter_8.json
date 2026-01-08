@@ -1,202 +1,252 @@
 [
   {
     "word": "sword",
-    "value": 21
+    "value": 21,
+    "translation": "espada"
   },
   {
     "word": "cabin",
-    "value": 14
+    "value": 14,
+    "translation": "cabaña"
   },
   {
     "word": "creek",
-    "value": 13
+    "value": 13,
+    "translation": "arroyo"
   },
   {
     "word": "kid",
-    "value": 12
+    "value": 12,
+    "translation": "niño"
   },
   {
     "word": "time",
-    "value": 11
+    "value": 11,
+    "translation": "tiempo"
   },
   {
     "word": "god",
-    "value": 9
+    "value": 9,
+    "translation": "dios"
   },
   {
     "word": "camper",
-    "value": 8
+    "value": 8,
+    "translation": "campista"
   },
   {
     "word": "hand",
-    "value": 8
+    "value": 8,
+    "translation": "mano"
   },
   {
     "word": "shield",
-    "value": 8
+    "value": 8,
+    "translation": "escudo"
   },
   {
     "word": "spear",
-    "value": 8
+    "value": 8,
+    "translation": "lanza"
   },
   {
     "word": "child",
-    "value": 7
+    "value": 7,
+    "translation": "niño"
   },
   {
     "word": "blood",
-    "value": 7
+    "value": 7,
+    "translation": "sangre"
   },
   {
     "word": "arm",
-    "value": 7
+    "value": 7,
+    "translation": "brazo"
   },
   {
     "word": "guy",
-    "value": 7
+    "value": 7,
+    "translation": "tipo"
   },
   {
     "word": "side",
-    "value": 7
+    "value": 7,
+    "translation": "lado"
   },
   {
     "word": "team",
-    "value": 7
+    "value": 7,
+    "translation": "equipo"
   },
   {
     "word": "foot",
-    "value": 6
+    "value": 6,
+    "translation": "pie"
   },
   {
     "word": "wood",
-    "value": 6
+    "value": 6,
+    "translation": "madera"
   },
   {
     "word": "monster",
-    "value": 6
+    "value": 6,
+    "translation": "monstruo"
   },
   {
     "word": "way",
-    "value": 6
+    "value": 6,
+    "translation": "camino"
   },
   {
     "word": "blade",
-    "value": 6
+    "value": 6,
+    "translation": "hoja"
   },
   {
     "word": "water",
-    "value": 6
+    "value": 6,
+    "translation": "agua"
   },
   {
     "word": "face",
-    "value": 6
+    "value": 6,
+    "translation": "cara"
   },
   {
     "word": "banner",
-    "value": 6
+    "value": 6,
+    "translation": "bandera"
   },
   {
     "word": "helmet",
-    "value": 6
+    "value": 6,
+    "translation": "casco"
   },
   {
     "word": "tree",
-    "value": 5
+    "value": 5,
+    "translation": "árbol"
   },
   {
     "word": "thing",
-    "value": 5
+    "value": 5,
+    "translation": "cosa"
   },
   {
     "word": "head",
-    "value": 5
+    "value": 5,
+    "translation": "cabeza"
   },
   {
     "word": "plan",
-    "value": 5
+    "value": 5,
+    "translation": "plan"
   },
   {
     "word": "course",
-    "value": 5
+    "value": 5,
+    "translation": "curso"
   },
   {
     "word": "satyr",
-    "value": 4
+    "value": 4,
+    "translation": "sátiro"
   },
   {
     "word": "skill",
-    "value": 4
+    "value": 4,
+    "translation": "habilidad"
   },
   {
     "word": "dad",
-    "value": 4
+    "value": 4,
+    "translation": "papá"
   },
   {
     "word": "year",
-    "value": 4
+    "value": 4,
+    "translation": "año"
   },
   {
     "word": "idea",
-    "value": 4
+    "value": 4,
+    "translation": "idea"
   },
   {
     "word": "eye",
-    "value": 4
+    "value": 4,
+    "translation": "ojo"
   },
   {
     "word": "chest",
-    "value": 4
+    "value": 4,
+    "translation": "pecho"
   },
   {
     "word": "hair",
-    "value": 4
+    "value": 4,
+    "translation": "cabello"
   },
   {
     "word": "lot",
-    "value": 4
+    "value": 4,
+    "translation": "mucho"
   },
   {
     "word": "son",
-    "value": 4
+    "value": 4,
+    "translation": "hijo"
   },
   {
     "word": "hero",
-    "value": 4
+    "value": 4,
+    "translation": "héroe"
   },
   {
     "word": "girl",
-    "value": 4
+    "value": 4,
+    "translation": "niña"
   },
   {
     "word": "flag",
-    "value": 4
+    "value": 4,
+    "translation": "bandera"
   },
   {
     "word": "help",
-    "value": 4
+    "value": 4,
+    "translation": "ayuda"
   },
   {
     "word": "metal",
-    "value": 4
+    "value": 4,
+    "translation": "metal"
   },
   {
     "word": "cut",
-    "value": 4
+    "value": 4,
+    "translation": "corte"
   },
   {
     "word": "day",
-    "value": 3
+    "value": 3,
+    "translation": "día"
   },
   {
     "word": "rest",
-    "value": 3
+    "value": 3,
+    "translation": "descanso"
   },
   {
     "word": "activity",
-    "value": 3
+    "value": 3,
+    "translation": "actividad"
   },
   {
     "word": "arrow",
-    "value": 3
+    "value": 3,
+    "translation": "flecha"
   }
 ]

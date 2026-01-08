@@ -1,202 +1,252 @@
 [
   {
     "word": "voice",
-    "value": 7
+    "value": 7,
+    "translation": "voz"
   },
   {
     "word": "poodle",
-    "value": 7
+    "value": 7,
+    "translation": "caniche"
   },
   {
     "word": "sky",
-    "value": 5
+    "value": 5,
+    "translation": "cielo"
   },
   {
     "word": "eye",
-    "value": 5
+    "value": 5,
+    "translation": "ojo"
   },
   {
     "word": "searcher",
-    "value": 5
+    "value": 5,
+    "translation": "buscador"
   },
   {
     "word": "dream",
-    "value": 5
+    "value": 5,
+    "translation": "sueño"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "life",
-    "value": 4
+    "value": 4,
+    "translation": "vida"
   },
   {
     "word": "mother",
-    "value": 4
+    "value": 4,
+    "translation": "madre"
   },
   {
     "word": "pit",
-    "value": 4
+    "value": 4,
+    "translation": "foso"
   },
   {
     "word": "night",
-    "value": 3
+    "value": 3,
+    "translation": "noche"
   },
   {
     "word": "wood",
-    "value": 3
+    "value": 3,
+    "translation": "madera"
   },
   {
     "word": "blanket",
-    "value": 3
+    "value": 3,
+    "translation": "manta"
   },
   {
     "word": "satyr",
-    "value": 3
+    "value": 3,
+    "translation": "sátiro"
   },
   {
     "word": "human",
-    "value": 3
+    "value": 3,
+    "translation": "humano"
   },
   {
     "word": "year",
-    "value": 3
+    "value": 3,
+    "translation": "año"
   },
   {
     "word": "master",
-    "value": 3
+    "value": 3,
+    "translation": "amo"
   },
   {
     "word": "dad",
-    "value": 3
+    "value": 3,
+    "translation": "papá"
   },
   {
     "word": "pipe",
-    "value": 3
+    "value": 3,
+    "translation": "flauta"
   },
   {
     "word": "bolt",
-    "value": 3
+    "value": 3,
+    "translation": "rayo"
   },
   {
     "word": "chasm",
-    "value": 3
+    "value": 3,
+    "translation": "abismo"
   },
   {
     "word": "clearing",
-    "value": 2
+    "value": 2,
+    "translation": "claro"
   },
   {
     "word": "food",
-    "value": 2
+    "value": 2,
+    "translation": "comida"
   },
   {
     "word": "clothe",
-    "value": 2
+    "value": 2,
+    "translation": "ropa"
   },
   {
     "word": "day",
-    "value": 2
+    "value": 2,
+    "translation": "día"
   },
   {
     "word": "watch",
-    "value": 2
+    "value": 2,
+    "translation": "reloj"
   },
   {
     "word": "ground",
-    "value": 2
+    "value": 2,
+    "translation": "suelo"
   },
   {
     "word": "trouble",
-    "value": 2
+    "value": 2,
+    "translation": "problema"
   },
   {
     "word": "world",
-    "value": 2
+    "value": 2,
+    "translation": "mundo"
   },
   {
     "word": "god",
-    "value": 2
+    "value": 2,
+    "translation": "dios"
   },
   {
     "word": "place",
-    "value": 2
+    "value": 2,
+    "translation": "lugar"
   },
   {
     "word": "earth",
-    "value": 2
+    "value": 2,
+    "translation": "tierra"
   },
   {
     "word": "sleep",
-    "value": 2
+    "value": 2,
+    "translation": "sueño"
   },
   {
     "word": "father",
-    "value": 2
+    "value": 2,
+    "translation": "padre"
   },
   {
     "word": "head",
-    "value": 2
+    "value": 2,
+    "translation": "cabeza"
   },
   {
     "word": "note",
-    "value": 2
+    "value": 2,
+    "translation": "nota"
   },
   {
     "word": "quest",
-    "value": 2
+    "value": 2,
+    "translation": "búsqueda"
   },
   {
     "word": "bus",
-    "value": 2
+    "value": 2,
+    "translation": "autobús"
   },
   {
     "word": "feeling",
-    "value": 2
+    "value": 2,
+    "translation": "sentimiento"
   },
   {
     "word": "branch",
-    "value": 2
+    "value": 2,
+    "translation": "rama"
   },
   {
     "word": "money",
-    "value": 2
+    "value": 2,
+    "translation": "dinero"
   },
   {
     "word": "way",
-    "value": 2
+    "value": 2,
+    "translation": "camino"
   },
   {
     "word": "bar",
-    "value": 2
+    "value": 2,
+    "translation": "barra"
   },
   {
     "word": ".",
-    "value": 2
+    "value": 2,
+    "translation": "."
   },
   {
     "word": "spirit",
-    "value": 2
+    "value": 2,
+    "translation": "espíritu"
   },
   {
     "word": "image",
-    "value": 2
+    "value": 2,
+    "translation": "imagen"
   },
   {
     "word": "gold",
-    "value": 2
+    "value": 2,
+    "translation": "oro"
   },
   {
     "word": "face",
-    "value": 2
+    "value": 2,
+    "translation": "cara"
   },
   {
     "word": "grip",
-    "value": 2
+    "value": 2,
+    "translation": "agarre"
   },
   {
     "word": "animal",
-    "value": 2
+    "value": 2,
+    "translation": "animal"
   }
 ]

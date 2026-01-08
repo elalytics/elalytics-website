@@ -1,202 +1,252 @@
 [
   {
     "word": "mother",
-    "value": 13
+    "value": 13,
+    "translation": "madre"
   },
   {
     "word": "eye",
-    "value": 12
+    "value": 12,
+    "translation": "ojo"
   },
   {
     "word": "hand",
-    "value": 9
+    "value": 9,
+    "translation": "mano"
   },
   {
     "word": "throne",
-    "value": 9
+    "value": 9,
+    "translation": "trono"
   },
   {
     "word": "room",
-    "value": 9
+    "value": 9,
+    "translation": "habitación"
   },
   {
     "word": "thing",
-    "value": 8
+    "value": 8,
+    "translation": "cosa"
   },
   {
     "word": "time",
-    "value": 8
+    "value": 8,
+    "translation": "tiempo"
   },
   {
     "word": "god",
-    "value": 8
+    "value": 8,
+    "translation": "dios"
   },
   {
     "word": "\u201dShe",
-    "value": 8
+    "value": 8,
+    "translation": "\u201dShe"
   },
   {
     "word": "face",
-    "value": 7
+    "value": 7,
+    "translation": "cara"
   },
   {
     "word": "hero",
-    "value": 7
+    "value": 7,
+    "translation": "héroe"
   },
   {
     "word": "man",
-    "value": 6
+    "value": 6,
+    "translation": "hombre"
   },
   {
     "word": "palace",
-    "value": 6
+    "value": 6,
+    "translation": "palacio"
   },
   {
     "word": "police",
-    "value": 5
+    "value": 5,
+    "translation": "policía"
   },
   {
     "word": "friend",
-    "value": 5
+    "value": 5,
+    "translation": "amigo"
   },
   {
     "word": "story",
-    "value": 5
+    "value": 5,
+    "translation": "historia"
   },
   {
     "word": "punk",
-    "value": 5
+    "value": 5,
+    "translation": "punk"
   },
   {
     "word": "air",
-    "value": 5
+    "value": 5,
+    "translation": "aire"
   },
   {
     "word": "year",
-    "value": 5
+    "value": 5,
+    "translation": "año"
   },
   {
     "word": "boy",
-    "value": 5
+    "value": 5,
+    "translation": "niño"
   },
   {
     "word": "mom",
-    "value": 5
+    "value": 5,
+    "translation": "mamá"
   },
   {
     "word": "package",
-    "value": 5
+    "value": 5,
+    "translation": "paquete"
   },
   {
     "word": "beach",
-    "value": 4
+    "value": 4,
+    "translation": "playa"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "día"
   },
   {
     "word": "kid",
-    "value": 4
+    "value": 4,
+    "translation": "niño"
   },
   {
     "word": "city",
-    "value": 4
+    "value": 4,
+    "translation": "ciudad"
   },
   {
     "word": "door",
-    "value": 4
+    "value": 4,
+    "translation": "puerta"
   },
   {
     "word": "one",
-    "value": 4
+    "value": 4,
+    "translation": "uno"
   },
   {
     "word": "head",
-    "value": 4
+    "value": 4,
+    "translation": "cabeza"
   },
   {
     "word": "mountain",
-    "value": 4
+    "value": 4,
+    "translation": "montaña"
   },
   {
     "word": "garden",
-    "value": 4
+    "value": 4,
+    "translation": "jardín"
   },
   {
     "word": "pit",
-    "value": 4
+    "value": 4,
+    "translation": "foso"
   },
   {
     "word": "look",
-    "value": 4
+    "value": 4,
+    "translation": "mirada"
   },
   {
     "word": "sea",
-    "value": 4
+    "value": 4,
+    "translation": "mar"
   },
   {
     "word": "voice",
-    "value": 4
+    "value": 4,
+    "translation": "voz"
   },
   {
     "word": "bolt",
-    "value": 4
+    "value": 4,
+    "translation": "rayo"
   },
   {
     "word": "feeling",
-    "value": 4
+    "value": 4,
+    "translation": "sentimiento"
   },
   {
     "word": "son",
-    "value": 4
+    "value": 4,
+    "translation": "hijo"
   },
   {
     "word": "apartment",
-    "value": 4
+    "value": 4,
+    "translation": "apartamento"
   },
   {
     "word": "meat",
-    "value": 4
+    "value": 4,
+    "translation": "carne"
   },
   {
     "word": "poker",
-    "value": 4
+    "value": 4,
+    "translation": "póker"
   },
   {
     "word": "mind",
-    "value": 3
+    "value": 3,
+    "translation": "mente"
   },
   {
     "word": "explosion",
-    "value": 3
+    "value": 3,
+    "translation": "explosión"
   },
   {
     "word": "car",
-    "value": 3
+    "value": 3,
+    "translation": "coche"
   },
   {
     "word": "captor",
-    "value": 3
+    "value": 3,
+    "translation": "captor"
   },
   {
     "word": "phone",
-    "value": 3
+    "value": 3,
+    "translation": "teléfono"
   },
   {
     "word": "taxi",
-    "value": 3
+    "value": 3,
+    "translation": "taxi"
   },
   {
     "word": "quest",
-    "value": 3
+    "value": 3,
+    "translation": "búsqueda"
   },
   {
     "word": "minute",
-    "value": 3
+    "value": 3,
+    "translation": "minuto"
   },
   {
     "word": "smile",
-    "value": 3
+    "value": 3,
+    "translation": "sonrisa"
   }
 ]

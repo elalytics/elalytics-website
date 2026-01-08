@@ -1,202 +1,252 @@
 [
   {
     "word": "brain",
-    "value": 155
+    "value": 155,
+    "translation": "cerebro"
   },
   {
     "word": "iron",
-    "value": 70
+    "value": 70,
+    "translation": "hierro"
   },
   {
     "word": "doctor",
-    "value": 61
+    "value": 61,
+    "translation": "médico"
   },
   {
     "word": "head",
-    "value": 45
+    "value": 45,
+    "translation": "cabeza"
   },
   {
     "word": "cortex",
-    "value": 42
+    "value": 42,
+    "translation": "corteza"
   },
   {
     "word": "skull",
-    "value": 40
+    "value": 40,
+    "translation": "cráneo"
   },
   {
     "word": "time",
-    "value": 34
+    "value": 34,
+    "translation": "tiempo"
   },
   {
     "word": "cell",
-    "value": 34
+    "value": 34,
+    "translation": "célula"
   },
   {
     "word": "man",
-    "value": 29
+    "value": 29,
+    "translation": "hombre"
   },
   {
     "word": "accident",
-    "value": 25
+    "value": 25,
+    "translation": "accidente"
   },
   {
     "word": "year",
-    "value": 25
+    "value": 25,
+    "translation": "año"
   },
   {
     "word": "case",
-    "value": 25
+    "value": 25,
+    "translation": "caso"
   },
   {
     "word": "blood",
-    "value": 24
+    "value": 24,
+    "translation": "sangre"
   },
   {
     "word": "lobe",
-    "value": 23
+    "value": 23,
+    "translation": "lóbulo"
   },
   {
     "word": "neuron",
-    "value": 23
+    "value": 23,
+    "translation": "neurona"
   },
   {
     "word": "area",
-    "value": 23
+    "value": 23,
+    "translation": "área"
   },
   {
     "word": "way",
-    "value": 22
+    "value": 22,
+    "translation": "camino"
   },
   {
     "word": "patient",
-    "value": 22
+    "value": 22,
+    "translation": "paciente"
   },
   {
     "word": "hand",
-    "value": 21
+    "value": 21,
+    "translation": "mano"
   },
   {
     "word": "hole",
-    "value": 21
+    "value": 21,
+    "translation": "agujero"
   },
   {
     "word": "life",
-    "value": 20
+    "value": 20,
+    "translation": "vida"
   },
   {
     "word": "day",
-    "value": 18
+    "value": 18,
+    "translation": "día"
   },
   {
     "word": "seizure",
-    "value": 18
+    "value": 18,
+    "translation": "convulsión"
   },
   {
     "word": "end",
-    "value": 17
+    "value": 17,
+    "translation": "fin"
   },
   {
     "word": "top",
-    "value": 17
+    "value": 17,
+    "translation": "cima"
   },
   {
     "word": "organ",
-    "value": 17
+    "value": 17,
+    "translation": "órgano"
   },
   {
     "word": "town",
-    "value": 16
+    "value": 16,
+    "translation": "pueblo"
   },
   {
     "word": "injury",
-    "value": 16
+    "value": 16,
+    "translation": "lesión"
   },
   {
     "word": "horse",
-    "value": 16
+    "value": 16,
+    "translation": "caballo"
   },
   {
     "word": "hemisphere",
-    "value": 16
+    "value": 16,
+    "translation": "hemisferio"
   },
   {
     "word": "damage",
-    "value": 16
+    "value": 16,
+    "translation": "daño"
   },
   {
     "word": "infection",
-    "value": 16
+    "value": 16,
+    "translation": "infección"
   },
   {
     "word": "mother",
-    "value": 16
+    "value": 16,
+    "translation": "madre"
   },
   {
     "word": "bacteria",
-    "value": 16
+    "value": 16,
+    "translation": "bacteria"
   },
   {
     "word": "tamping",
-    "value": 15
+    "value": 15,
+    "translation": "apisonamiento"
   },
   {
     "word": "forehead",
-    "value": 15
+    "value": 15,
+    "translation": "frente"
   },
   {
     "word": "part",
-    "value": 15
+    "value": 15,
+    "translation": "parte"
   },
   {
     "word": "eye",
-    "value": 14
+    "value": 14,
+    "translation": "ojo"
   },
   {
     "word": "photograph",
-    "value": 14
+    "value": 14,
+    "translation": "fotografía"
   },
   {
     "word": "body",
-    "value": 14
+    "value": 14,
+    "translation": "cuerpo"
   },
   {
     "word": "microscope",
-    "value": 14
+    "value": 14,
+    "translation": "microscopio"
   },
   {
     "word": "work",
-    "value": 13
+    "value": 13,
+    "translation": "trabajo"
   },
   {
     "word": "skin",
-    "value": 13
+    "value": 13,
+    "translation": "piel"
   },
   {
     "word": "side",
-    "value": 13
+    "value": 13,
+    "translation": "lado"
   },
   {
     "word": "function",
-    "value": 13
+    "value": 13,
+    "translation": "función"
   },
   {
     "word": "behavior",
-    "value": 13
+    "value": 13,
+    "translation": "comportamiento"
   },
   {
     "word": "wound",
-    "value": 12
+    "value": 12,
+    "translation": "herida"
   },
   {
     "word": "theory",
-    "value": 12
+    "value": 12,
+    "translation": "teoría"
   },
   {
     "word": "ability",
-    "value": 12
+    "value": 12,
+    "translation": "habilidad"
   },
   {
     "word": "world",
-    "value": 11
+    "value": 11,
+    "translation": "mundo"
   }
 ]

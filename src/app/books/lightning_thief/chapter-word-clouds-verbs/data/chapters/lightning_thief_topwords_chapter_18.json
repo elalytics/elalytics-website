@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 84
+    "value": 84,
+    "translation": "ser/estar"
   },
   {
     "word": "say",
-    "value": 44
+    "value": 44,
+    "translation": "decir"
   },
   {
     "word": "do",
-    "value": 29
+    "value": 29,
+    "translation": "hacer"
   },
   {
     "word": "have",
-    "value": 21
+    "value": 21,
+    "translation": "tener"
   },
   {
     "word": "look",
-    "value": 19
+    "value": 19,
+    "translation": "mirar"
   },
   {
     "word": "see",
-    "value": 16
+    "value": 16,
+    "translation": "ver"
   },
   {
     "word": "get",
-    "value": 14
+    "value": 14,
+    "translation": "obtener/conseguir"
   },
   {
     "word": "\u2019",
-    "value": 14
+    "value": 14,
+    "translation": "es/est\u00e1"
   },
   {
     "word": "could",
-    "value": 13
+    "value": 13,
+    "translation": "podr\u00eda"
   },
   {
     "word": "start",
-    "value": 13
+    "value": 13,
+    "translation": "empezar/comenzar"
   },
   {
     "word": "go",
-    "value": 12
+    "value": 12,
+    "translation": "ir"
   },
   {
     "word": "make",
-    "value": 12
+    "value": 12,
+    "translation": "hacer"
   },
   {
     "word": "come",
-    "value": 11
+    "value": 11,
+    "translation": "venir"
   },
   {
     "word": "\u2019re",
-    "value": 10
+    "value": 10,
+    "translation": "eres/est\u00e1s/son/est\u00e1n"
   },
   {
     "word": "\u2019d",
-    "value": 10
+    "value": 10,
+    "translation": "habr\u00eda/tendr\u00eda"
   },
   {
     "word": "think",
-    "value": 9
+    "value": 9,
+    "translation": "pensar"
   },
   {
     "word": "ask",
-    "value": 9
+    "value": 9,
+    "translation": "preguntar"
   },
   {
     "word": "turn",
-    "value": 8
+    "value": 8,
+    "translation": "girar/voltear"
   },
   {
     "word": "take",
-    "value": 8
+    "value": 8,
+    "translation": "tomar/llevar"
   },
   {
     "word": "\u2019m",
-    "value": 8
+    "value": 8,
+    "translation": "soy/estoy"
   },
   {
     "word": "\u2019ll",
-    "value": 7
+    "value": 7,
+    "translation": "har\u00e1/ser\u00e1"
   },
   {
     "word": "try",
-    "value": 7
+    "value": 7,
+    "translation": "intentar"
   },
   {
     "word": "let",
-    "value": 7
+    "value": 7,
+    "translation": "dejar/permitir"
   },
   {
     "word": "sit",
-    "value": 6
+    "value": 6,
+    "translation": "sentar(se)"
   },
   {
     "word": "want",
-    "value": 6
+    "value": 6,
+    "translation": "querer"
   },
   {
     "word": "feel",
-    "value": 5
+    "value": 5,
+    "translation": "sentir"
   },
   {
     "word": "walk",
-    "value": 5
+    "value": 5,
+    "translation": "caminar"
   },
   {
     "word": "wait",
-    "value": 5
+    "value": 5,
+    "translation": "esperar"
   },
   {
     "word": "move",
-    "value": 5
+    "value": 5,
+    "translation": "mover(se)"
   },
   {
     "word": "can",
-    "value": 5
+    "value": 5,
+    "translation": "poder"
   },
   {
     "word": "die",
-    "value": 5
+    "value": 5,
+    "translation": "morir"
   },
   {
     "word": "hold",
-    "value": 5
+    "value": 5,
+    "translation": "sostener"
   },
   {
     "word": "stand",
-    "value": 4
+    "value": 4,
+    "translation": "estar de pie/pararse"
   },
   {
     "word": "raise",
-    "value": 4
+    "value": 4,
+    "translation": "levantar/criar"
   },
   {
     "word": "tell",
-    "value": 4
+    "value": 4,
+    "translation": "decir/contar"
   },
   {
     "word": "sound",
-    "value": 4
+    "value": 4,
+    "translation": "sonar"
   },
   {
     "word": "know",
-    "value": 4
+    "value": 4,
+    "translation": "saber/conocer"
   },
   {
     "word": "mutter",
-    "value": 4
+    "value": 4,
+    "translation": "murmurar"
   },
   {
     "word": "pass",
-    "value": 4
+    "value": 4,
+    "translation": "pasar"
   },
   {
     "word": "remember",
-    "value": 3
+    "value": 3,
+    "translation": "recordar"
   },
   {
     "word": "find",
-    "value": 3
+    "value": 3,
+    "translation": "encontrar"
   },
   {
     "word": "learn",
-    "value": 3
+    "value": 3,
+    "translation": "aprender"
   },
   {
     "word": "add",
-    "value": 3
+    "value": 3,
+    "translation": "a\u00f1adir/agregar"
   },
   {
     "word": "run",
-    "value": 3
+    "value": 3,
+    "translation": "correr"
   },
   {
     "word": "catch",
-    "value": 3
+    "value": 3,
+    "translation": "atrapar/coger"
   },
   {
     "word": "must",
-    "value": 3
+    "value": 3,
+    "translation": "deber"
   },
   {
     "word": "set",
-    "value": 3
+    "value": 3,
+    "translation": "poner/establecer"
   },
   {
     "word": "growl",
-    "value": 3
+    "value": 3,
+    "translation": "gru\u00f1ir"
   },
   {
     "word": "would",
-    "value": 3
+    "value": 3,
+    "translation": "har\u00eda/ser\u00eda"
   },
   {
     "word": "imagine",
-    "value": 3
+    "value": 3,
+    "translation": "imaginar"
   }
 ]

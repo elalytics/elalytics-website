@@ -1,202 +1,252 @@
 [
   {
     "word": "mother",
-    "value": 7
+    "value": 7,
+    "translation": "madre"
   },
   {
     "word": "boy",
-    "value": 7
+    "value": 7,
+    "translation": "niño"
   },
   {
     "word": "woman",
-    "value": 6
+    "value": 6,
+    "translation": "mujer"
   },
   {
     "word": "water",
-    "value": 5
+    "value": 5,
+    "translation": "agua"
   },
   {
     "word": "voice",
-    "value": 5
+    "value": 5,
+    "translation": "voz"
   },
   {
     "word": "river",
-    "value": 4
+    "value": 4,
+    "translation": "río"
   },
   {
     "word": "sword",
-    "value": 4
+    "value": 4,
+    "translation": "espada"
   },
   {
     "word": "crowd",
-    "value": 4
+    "value": 4,
+    "translation": "multitud"
   },
   {
     "word": "mud",
-    "value": 3
+    "value": 3,
+    "translation": "barro"
   },
   {
     "word": "catfish",
-    "value": 3
+    "value": 3,
+    "translation": "bagre"
   },
   {
     "word": "garbage",
-    "value": 3
+    "value": 3,
+    "translation": "basura"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "fump",
-    "value": 3
+    "value": 3,
+    "translation": "fump"
   },
   {
     "word": "police",
-    "value": 3
+    "value": 3,
+    "translation": "policía"
   },
   {
     "word": "news",
-    "value": 3
+    "value": 3,
+    "translation": "noticias"
   },
   {
     "word": "reporter",
-    "value": 3
+    "value": 3,
+    "translation": "reportero"
   },
   {
     "word": "way",
-    "value": 2
+    "value": 2,
+    "translation": "camino"
   },
   {
     "word": "face",
-    "value": 2
+    "value": 2,
+    "translation": "cara"
   },
   {
     "word": "thought",
-    "value": 2
+    "value": 2,
+    "translation": "pensamiento"
   },
   {
     "word": "vision",
-    "value": 2
+    "value": 2,
+    "translation": "visión"
   },
   {
     "word": "foot",
-    "value": 2
+    "value": 2,
+    "translation": "pie"
   },
   {
     "word": "gloom",
-    "value": 2
+    "value": 2,
+    "translation": "penumbra"
   },
   {
     "word": "silt",
-    "value": 2
+    "value": 2,
+    "translation": "limo"
   },
   {
     "word": "fire",
-    "value": 2
+    "value": 2,
+    "translation": "fuego"
   },
   {
     "word": "wrapper",
-    "value": 2
+    "value": 2,
+    "translation": "envoltorio"
   },
   {
     "word": "problem",
-    "value": 2
+    "value": 2,
+    "translation": "problema"
   },
   {
     "word": "surface",
-    "value": 2
+    "value": 2,
+    "translation": "superficie"
   },
   {
     "word": "color",
-    "value": 2
+    "value": 2,
+    "translation": "color"
   },
   {
     "word": "time",
-    "value": 2
+    "value": 2,
+    "translation": "tiempo"
   },
   {
     "word": "head",
-    "value": 2
+    "value": 2,
+    "translation": "cabeza"
   },
   {
     "word": "word",
-    "value": 2
+    "value": 2,
+    "translation": "palabra"
   },
   {
     "word": "throat",
-    "value": 2
+    "value": 2,
+    "translation": "garganta"
   },
   {
     "word": "father",
-    "value": 2
+    "value": 2,
+    "translation": "padre"
   },
   {
     "word": "hole",
-    "value": 2
+    "value": 2,
+    "translation": "agujero"
   },
   {
     "word": "lady",
-    "value": 2
+    "value": 2,
+    "translation": "dama"
   },
   {
     "word": "camera",
-    "value": 2
+    "value": 2,
+    "translation": "cámara"
   },
   {
     "word": "explosion",
-    "value": 2
+    "value": 2,
+    "translation": "explosión"
   },
   {
     "word": "revelation",
-    "value": 1
+    "value": 1,
+    "translation": "revelación"
   },
   {
     "word": "term",
-    "value": 1
+    "value": 1,
+    "translation": "término"
   },
   {
     "word": "mortality",
-    "value": 1
+    "value": 1,
+    "translation": "mortalidad"
   },
   {
     "word": "death",
-    "value": 1
+    "value": 1,
+    "translation": "muerte"
   },
   {
     "word": "et",
-    "value": 1
+    "value": 1,
+    "translation": "et"
   },
   {
     "word": "cetera",
-    "value": 1
+    "value": 1,
+    "translation": "cétera"
   },
   {
     "word": "truth",
-    "value": 1
+    "value": 1,
+    "translation": "verdad"
   },
   {
     "word": "speed",
-    "value": 1
+    "value": 1,
+    "translation": "velocidad"
   },
   {
     "word": "truck",
-    "value": 1
+    "value": 1,
+    "translation": "camión"
   },
   {
     "word": "wind",
-    "value": 1
+    "value": 1,
+    "translation": "viento"
   },
   {
     "word": "lung",
-    "value": 1
+    "value": 1,
+    "translation": "pulmón"
   },
   {
     "word": "steeple",
-    "value": 1
+    "value": 1,
+    "translation": "campanario"
   },
   {
     "word": "skyscraper",
-    "value": 1
+    "value": 1,
+    "translation": "rascacielos"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 50
+    "value": 50,
+    "translation": "ser"
   },
   {
     "word": "have",
-    "value": 23
+    "value": 23,
+    "translation": "tener"
   },
   {
     "word": "do",
-    "value": 17
+    "value": 17,
+    "translation": "hacer"
   },
   {
     "word": "will",
-    "value": 15
+    "value": 15,
+    "translation": "voluntad"
   },
   {
     "word": "come",
-    "value": 11
+    "value": 11,
+    "translation": "venir"
   },
   {
     "word": "hear",
-    "value": 9
+    "value": 9,
+    "translation": "oír"
   },
   {
     "word": "shall",
-    "value": 8
+    "value": 8,
+    "translation": "deber"
   },
   {
     "word": "see",
-    "value": 6
+    "value": 6,
+    "translation": "ver"
   },
   {
     "word": "\u2019",
-    "value": 5
+    "value": 5,
+    "translation": "\u2019"
   },
   {
     "word": "let",
-    "value": 5
+    "value": 5,
+    "translation": "dejar"
   },
   {
     "word": "say",
-    "value": 5
+    "value": 5,
+    "translation": "decir"
   },
   {
     "word": "would",
-    "value": 4
+    "value": 4,
+    "translation": "haría"
   },
   {
     "word": "hath",
-    "value": 4
+    "value": 4,
+    "translation": "tiene"
   },
   {
     "word": "sleep",
-    "value": 4
+    "value": 4,
+    "translation": "dormir"
   },
   {
     "word": "find",
-    "value": 4
+    "value": 4,
+    "translation": "encontrar"
   },
   {
     "word": "go",
-    "value": 4
+    "value": 4,
+    "translation": "ir"
   },
   {
     "word": "follow",
-    "value": 4
+    "value": 4,
+    "translation": "seguir"
   },
   {
     "word": "seem",
-    "value": 4
+    "value": 4,
+    "translation": "parecer"
   },
   {
     "word": "give",
-    "value": 3
+    "value": 3,
+    "translation": "dar"
   },
   {
     "word": "pray",
-    "value": 3
+    "value": 3,
+    "translation": "rezar"
   },
   {
     "word": "take",
-    "value": 3
+    "value": 3,
+    "translation": "tomar"
   },
   {
     "word": "wake",
-    "value": 3
+    "value": 3,
+    "translation": "despertar"
   },
   {
     "word": "can",
-    "value": 3
+    "value": 3,
+    "translation": "poder"
   },
   {
     "word": "tell",
-    "value": 3
+    "value": 3,
+    "translation": "contar"
   },
   {
     "word": "bid",
-    "value": 3
+    "value": 3,
+    "translation": "ordenar"
   },
   {
     "word": "get",
-    "value": 2
+    "value": 2,
+    "translation": "obtener"
   },
   {
     "word": "leave",
-    "value": 2
+    "value": 2,
+    "translation": "dejar"
   },
   {
     "word": "scratch",
-    "value": 2
+    "value": 2,
+    "translation": "rascar"
   },
   {
     "word": "must",
-    "value": 2
+    "value": 2,
+    "translation": "deber"
   },
   {
     "word": "thou",
-    "value": 2
+    "value": 2,
+    "translation": "tú"
   },
   {
     "word": "seek",
-    "value": 2
+    "value": 2,
+    "translation": "buscar"
   },
   {
     "word": "wind",
-    "value": 2
+    "value": 2,
+    "translation": "enrollar"
   },
   {
     "word": "love",
-    "value": 2
+    "value": 2,
+    "translation": "amar"
   },
   {
     "word": "dote",
-    "value": 2
+    "value": 2,
+    "translation": "adorar"
   },
   {
     "word": "begin",
-    "value": 2
+    "value": 2,
+    "translation": "comenzar"
   },
   {
     "word": "meet",
-    "value": 2
+    "value": 2,
+    "translation": "encontrar"
   },
   {
     "word": "awake",
-    "value": 2
+    "value": 2,
+    "translation": "despertar"
   },
   {
     "word": "think",
-    "value": 2
+    "value": 2,
+    "translation": "pensar"
   },
   {
     "word": "loathe",
-    "value": 2
+    "value": 2,
+    "translation": "detestar"
   },
   {
     "word": "speak",
-    "value": 2
+    "value": 2,
+    "translation": "hablar"
   },
   {
     "word": "should",
-    "value": 2
+    "value": 2,
+    "translation": "debería"
   },
   {
     "word": "steal",
-    "value": 2
+    "value": 2,
+    "translation": "robar"
   },
   {
     "word": "methink",
-    "value": 2
+    "value": 2,
+    "translation": "me parece"
   },
   {
     "word": "call",
-    "value": 2
+    "value": 2,
+    "translation": "llamar"
   },
   {
     "word": "sing",
-    "value": 2
+    "value": 2,
+    "translation": "cantar"
   },
   {
     "word": "sit",
-    "value": 1
+    "value": 1,
+    "translation": "sentarse"
   },
   {
     "word": "thy",
-    "value": 1
+    "value": 1,
+    "translation": "tu"
   },
   {
     "word": "stick",
-    "value": 1
+    "value": 1,
+    "translation": "pegar"
   },
   {
     "word": "kiss",
-    "value": 1
+    "value": 1,
+    "translation": "besar"
   },
   {
     "word": "kill",
-    "value": 1
+    "value": 1,
+    "translation": "matar"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "school",
-    "value": 11
+    "value": 11,
+    "translation": "escuela"
   },
   {
     "word": "teacher",
-    "value": 11
+    "value": 11,
+    "translation": "maestro"
   },
   {
     "word": "thing",
-    "value": 9
+    "value": 9,
+    "translation": "cosa"
   },
   {
     "word": "time",
-    "value": 7
+    "value": 7,
+    "translation": "tiempo"
   },
   {
     "word": "kid",
-    "value": 7
+    "value": 7,
+    "translation": "niño"
   },
   {
     "word": "trip",
-    "value": 7
+    "value": 7,
+    "translation": "viaje"
   },
   {
     "word": "museum",
-    "value": 7
+    "value": 7,
+    "translation": "museo"
   },
   {
     "word": "eye",
-    "value": 7
+    "value": 7,
+    "translation": "ojo"
   },
   {
     "word": "life",
-    "value": 6
+    "value": 6,
+    "translation": "vida"
   },
   {
     "word": "year",
-    "value": 6
+    "value": 6,
+    "translation": "año"
   },
   {
     "word": "class",
-    "value": 6
+    "value": 6,
+    "translation": "clase"
   },
   {
     "word": "pen",
-    "value": 6
+    "value": 6,
+    "translation": "bolígrafo"
   },
   {
     "word": "way",
-    "value": 5
+    "value": 5,
+    "translation": "camino"
   },
   {
     "word": "grade",
-    "value": 5
+    "value": 5,
+    "translation": "grado"
   },
   {
     "word": "guy",
-    "value": 5
+    "value": 5,
+    "translation": "tipo"
   },
   {
     "word": "lunch",
-    "value": 5
+    "value": 5,
+    "translation": "almuerzo"
   },
   {
     "word": "god",
-    "value": 5
+    "value": 5,
+    "translation": "dios"
   },
   {
     "word": "look",
-    "value": 5
+    "value": 5,
+    "translation": "mirada"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "jacket",
-    "value": 4
+    "value": 4,
+    "translation": "chaqueta"
   },
   {
     "word": "girl",
-    "value": 4
+    "value": 4,
+    "translation": "niña"
   },
   {
     "word": "friend",
-    "value": 4
+    "value": 4,
+    "translation": "amigo"
   },
   {
     "word": "step",
-    "value": 4
+    "value": 4,
+    "translation": "paso"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "día"
   },
   {
     "word": "sword",
-    "value": 4
+    "value": 4,
+    "translation": "espada"
   },
   {
     "word": "fountain",
-    "value": 4
+    "value": 4,
+    "translation": "fuente"
   },
   {
     "word": "air",
-    "value": 4
+    "value": 4,
+    "translation": "aire"
   },
   {
     "word": "book",
-    "value": 3
+    "value": 3,
+    "translation": "libro"
   },
   {
     "word": "field",
-    "value": 3
+    "value": 3,
+    "translation": "campo"
   },
   {
     "word": "wheelchair",
-    "value": 3
+    "value": 3,
+    "translation": "silla de ruedas"
   },
   {
     "word": "hair",
-    "value": 3
+    "value": 3,
+    "translation": "cabello"
   },
   {
     "word": "sandwich",
-    "value": 3
+    "value": 3,
+    "translation": "sándwich"
   },
   {
     "word": "piece",
-    "value": 3
+    "value": 3,
+    "translation": "pieza"
   },
   {
     "word": "stele",
-    "value": 3
+    "value": 3,
+    "translation": "estela"
   },
   {
     "word": "math",
-    "value": 3
+    "value": 3,
+    "translation": "matemáticas"
   },
   {
     "word": "face",
-    "value": 3
+    "value": 3,
+    "translation": "cara"
   },
   {
     "word": "brain",
-    "value": 3
+    "value": 3,
+    "translation": "cerebro"
   },
   {
     "word": "question",
-    "value": 3
+    "value": 3,
+    "translation": "pregunta"
   },
   {
     "word": "ear",
-    "value": 3
+    "value": 3,
+    "translation": "oreja"
   },
   {
     "word": "blood",
-    "value": 2
+    "value": 2,
+    "translation": "sangre"
   },
   {
     "word": "mom",
-    "value": 2
+    "value": 2,
+    "translation": "mamá"
   },
   {
     "word": "matter",
-    "value": 2
+    "value": 2,
+    "translation": "asunto"
   },
   {
     "word": "name",
-    "value": 2
+    "value": 2,
+    "translation": "nombre"
   },
   {
     "word": "month",
-    "value": 2
+    "value": 2,
+    "translation": "mes"
   },
   {
     "word": "point",
-    "value": 2
+    "value": 2,
+    "translation": "punto"
   },
   {
     "word": "case",
-    "value": 2
+    "value": 2,
+    "translation": "caso"
   },
   {
     "word": "bus",
-    "value": 2
+    "value": 2,
+    "translation": "autobús"
   },
   {
     "word": "stuff",
-    "value": 2
+    "value": 2,
+    "translation": "cosas"
   },
   {
     "word": "beard",
-    "value": 2
+    "value": 2,
+    "translation": "barba"
   },
   {
     "word": "story",
-    "value": 2
+    "value": 2,
+    "translation": "historia"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "man",
-    "value": 7
+    "value": 7,
+    "translation": "hombre"
   },
   {
     "word": "part",
-    "value": 6
+    "value": 6,
+    "translation": "parte"
   },
   {
     "word": "beard",
-    "value": 6
+    "value": 6,
+    "translation": "barba"
   },
   {
     "word": "play",
-    "value": 4
+    "value": 4,
+    "translation": "obra"
   },
   {
     "word": "lover",
-    "value": 4
+    "value": 4,
+    "translation": "amante"
   },
   {
     "word": "lady",
-    "value": 4
+    "value": 4,
+    "translation": "dama"
   },
   {
     "word": "duke",
-    "value": 3
+    "value": 3,
+    "translation": "duque"
   },
   {
     "word": "tyrant",
-    "value": 3
+    "value": 3,
+    "translation": "tirano"
   },
   {
     "word": "lion",
-    "value": 3
+    "value": 3,
+    "translation": "león"
   },
   {
     "word": "company",
-    "value": 2
+    "value": 2,
+    "translation": "compañía"
   },
   {
     "word": "scroll",
-    "value": 2
+    "value": 2,
+    "translation": "pergamino"
   },
   {
     "word": "name",
-    "value": 2
+    "value": 2,
+    "translation": "nombre"
   },
   {
     "word": "duchess",
-    "value": 2
+    "value": 2,
+    "translation": "duquesa"
   },
   {
     "word": "day",
-    "value": 2
+    "value": 2,
+    "translation": "día"
   },
   {
     "word": "night",
-    "value": 2
+    "value": 2,
+    "translation": "noche"
   },
   {
     "word": "actor",
-    "value": 2
+    "value": 2,
+    "translation": "actor"
   },
   {
     "word": "master",
-    "value": 2
+    "value": 2,
+    "translation": "maestro"
   },
   {
     "word": "rest",
-    "value": 2
+    "value": 2,
+    "translation": "descanso"
   },
   {
     "word": "vein",
-    "value": 2
+    "value": 2,
+    "translation": "vena"
   },
   {
     "word": "flute",
-    "value": 2
+    "value": 2,
+    "translation": "flauta"
   },
   {
     "word": "voice",
-    "value": 2
+    "value": 2,
+    "translation": "voz"
   },
   {
     "word": "mother",
-    "value": 2
+    "value": 2,
+    "translation": "madre"
   },
   {
     "word": "father",
-    "value": 2
+    "value": 2,
+    "translation": "padre"
   },
   {
     "word": "colour",
-    "value": 2
+    "value": 2,
+    "translation": "color"
   },
   {
     "word": "crown",
-    "value": 2
+    "value": 2,
+    "translation": "corona"
   },
   {
     "word": "scrip",
-    "value": 1
+    "value": 1,
+    "translation": "cédula"
   },
   {
     "word": "interlude",
-    "value": 1
+    "value": 1,
+    "translation": "interludio"
   },
   {
     "word": "wedding",
-    "value": 1
+    "value": 1,
+    "translation": "boda"
   },
   {
     "word": "point",
-    "value": 1
+    "value": 1,
+    "translation": "punto"
   },
   {
     "word": "comedy",
-    "value": 1
+    "value": 1,
+    "translation": "comedia"
   },
   {
     "word": "death",
-    "value": 1
+    "value": 1,
+    "translation": "muerte"
   },
   {
     "word": "piece",
-    "value": 1
+    "value": 1,
+    "translation": "pieza"
   },
   {
     "word": "work",
-    "value": 1
+    "value": 1,
+    "translation": "trabajo"
   },
   {
     "word": "merry",
-    "value": 1
+    "value": 1,
+    "translation": "alegre"
   },
   {
     "word": "yourself",
-    "value": 1
+    "value": 1,
+    "translation": "tú mismo"
   },
   {
     "word": "weaver",
-    "value": 1
+    "value": 1,
+    "translation": "tejedor"
   },
   {
     "word": "love",
-    "value": 1
+    "value": 1,
+    "translation": "amor"
   },
   {
     "word": "tear",
-    "value": 1
+    "value": 1,
+    "translation": "lágrima"
   },
   {
     "word": "performing",
-    "value": 1
+    "value": 1,
+    "translation": "actuación"
   },
   {
     "word": "audience",
-    "value": 1
+    "value": 1,
+    "translation": "audiencia"
   },
   {
     "word": "eye",
-    "value": 1
+    "value": 1,
+    "translation": "ojo"
   },
   {
     "word": "storm",
-    "value": 1
+    "value": 1,
+    "translation": "tormenta"
   },
   {
     "word": "measure",
-    "value": 1
+    "value": 1,
+    "translation": "medida"
   },
   {
     "word": "humour",
-    "value": 1
+    "value": 1,
+    "translation": "humor"
   },
   {
     "word": "ercle",
-    "value": 1
+    "value": 1,
+    "translation": "Hércules"
   },
   {
     "word": "cat",
-    "value": 1
+    "value": 1,
+    "translation": "gato"
   },
   {
     "word": "split",
-    "value": 1
+    "value": 1,
+    "translation": "división"
   },
   {
     "word": "rock",
-    "value": 1
+    "value": 1,
+    "translation": "roca"
   },
   {
     "word": "shock",
-    "value": 1
+    "value": 1,
+    "translation": "choque"
   },
   {
     "word": "lock",
-    "value": 1
+    "value": 1,
+    "translation": "cerradura"
   }
 ]

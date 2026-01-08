@@ -1,202 +1,252 @@
 [
   {
     "word": "lord",
-    "value": 8
+    "value": 8,
+    "translation": "señor"
   },
   {
     "word": "eye",
-    "value": 7
+    "value": 7,
+    "translation": "ojo"
   },
   {
     "word": "dream",
-    "value": 7
+    "value": 7,
+    "translation": "sueño"
   },
   {
     "word": "man",
-    "value": 7
+    "value": 7,
+    "translation": "hombre"
   },
   {
     "word": "head",
-    "value": 6
+    "value": 6,
+    "translation": "cabeza"
   },
   {
     "word": "music",
-    "value": 6
+    "value": 6,
+    "translation": "música"
   },
   {
     "word": "love",
-    "value": 5
+    "value": 5,
+    "translation": "amor"
   },
   {
     "word": "fairy",
-    "value": 5
+    "value": 5,
+    "translation": "hada"
   },
   {
     "word": "queen",
-    "value": 5
+    "value": 5,
+    "translation": "reina"
   },
   {
     "word": "ear",
-    "value": 4
+    "value": 4,
+    "translation": "oreja"
   },
   {
     "word": "wood",
-    "value": 4
+    "value": 4,
+    "translation": "bosque"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "horn",
-    "value": 4
+    "value": 4,
+    "translation": "cuerno"
   },
   {
     "word": "hound",
-    "value": 4
+    "value": 4,
+    "translation": "sabueso"
   },
   {
     "word": "hand",
-    "value": 3
+    "value": 3,
+    "translation": "mano"
   },
   {
     "word": "honey",
-    "value": 3
+    "value": 3,
+    "translation": "miel"
   },
   {
     "word": "bag",
-    "value": 3
+    "value": 3,
+    "translation": "bolsa"
   },
   {
     "word": "ass",
-    "value": 3
+    "value": 3,
+    "translation": "asno"
   },
   {
     "word": "hay",
-    "value": 3
+    "value": 3,
+    "translation": "heno"
   },
   {
     "word": "sleep",
-    "value": 3
+    "value": 3,
+    "translation": "sueño"
   },
   {
     "word": "fool",
-    "value": 3
+    "value": 3,
+    "translation": "tonto"
   },
   {
     "word": "temple",
-    "value": 3
+    "value": 3,
+    "translation": "templo"
   },
   {
     "word": "night",
-    "value": 3
+    "value": 3,
+    "translation": "noche"
   },
   {
     "word": "power",
-    "value": 3
+    "value": 3,
+    "translation": "poder"
   },
   {
     "word": "morning",
-    "value": 3
+    "value": 3,
+    "translation": "mañana"
   },
   {
     "word": "law",
-    "value": 3
+    "value": 3,
+    "translation": "ley"
   },
   {
     "word": "top",
-    "value": 2
+    "value": 2,
+    "translation": "cima"
   },
   {
     "word": "will",
-    "value": 2
+    "value": 2,
+    "translation": "voluntad"
   },
   {
     "word": "methink",
-    "value": 2
+    "value": 2,
+    "translation": "me parece"
   },
   {
     "word": "way",
-    "value": 2
+    "value": 2,
+    "translation": "camino"
   },
   {
     "word": "flower",
-    "value": 2
+    "value": 2,
+    "translation": "flor"
   },
   {
     "word": "dew",
-    "value": 2
+    "value": 2,
+    "translation": "rocío"
   },
   {
     "word": "pleasure",
-    "value": 2
+    "value": 2,
+    "translation": "placer"
   },
   {
     "word": "wast",
-    "value": 2
+    "value": 2,
+    "translation": "eras"
   },
   {
     "word": "vision",
-    "value": 2
+    "value": 2,
+    "translation": "visión"
   },
   {
     "word": "ground",
-    "value": 2
+    "value": 2,
+    "translation": "suelo"
   },
   {
     "word": "morrow",
-    "value": 2
+    "value": 2,
+    "translation": "mañana"
   },
   {
     "word": "lover",
-    "value": 2
+    "value": 2,
+    "translation": "amante"
   },
   {
     "word": "forester",
-    "value": 2
+    "value": 2,
+    "translation": "guardabosques"
   },
   {
     "word": "day",
-    "value": 2
+    "value": 2,
+    "translation": "día"
   },
   {
     "word": "mountain",
-    "value": 2
+    "value": 2,
+    "translation": "montaña"
   },
   {
     "word": "cry",
-    "value": 2
+    "value": 2,
+    "translation": "llanto"
   },
   {
     "word": "intent",
-    "value": 2
+    "value": 2,
+    "translation": "intención"
   },
   {
     "word": "solemnity",
-    "value": 2
+    "value": 2,
+    "translation": "solemnidad"
   },
   {
     "word": "couple",
-    "value": 2
+    "value": 2,
+    "translation": "pareja"
   },
   {
     "word": "wife",
-    "value": 2
+    "value": 2,
+    "translation": "esposa"
   },
   {
     "word": "consent",
-    "value": 2
+    "value": 2,
+    "translation": "consentimiento"
   },
   {
     "word": "heart",
-    "value": 2
+    "value": 2,
+    "translation": "corazón"
   },
   {
     "word": "duke",
-    "value": 2
+    "value": 2,
+    "translation": "duque"
   },
   {
     "word": "bed",
-    "value": 1
+    "value": 1,
+    "translation": "cama"
   }
 ]

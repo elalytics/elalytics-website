@@ -1,202 +1,252 @@
 [
   {
     "word": "mother",
-    "value": 364
+    "value": 364,
+    "translation": "madre"
   },
   {
     "word": "father",
-    "value": 357
+    "value": 357,
+    "translation": "padre"
   },
   {
     "word": "man",
-    "value": 310
+    "value": 310,
+    "translation": "hombre"
   },
   {
     "word": "time",
-    "value": 198
+    "value": 198,
+    "translation": "tiempo"
   },
   {
     "word": "river",
-    "value": 168
+    "value": 168,
+    "translation": "río"
   },
   {
     "word": "uncle",
-    "value": 167
+    "value": 167,
+    "translation": "tío"
   },
   {
     "word": "water",
-    "value": 166
+    "value": 166,
+    "translation": "agua"
   },
   {
     "word": "eye",
-    "value": 151
+    "value": 151,
+    "translation": "ojo"
   },
   {
     "word": "priest",
-    "value": 139
+    "value": 139,
+    "translation": "sacerdote"
   },
   {
     "word": "house",
-    "value": 122
+    "value": 122,
+    "translation": "casa"
   },
   {
     "word": "people",
-    "value": 115
+    "value": 115,
+    "translation": "gente"
   },
   {
     "word": "night",
-    "value": 115
+    "value": 115,
+    "translation": "noche"
   },
   {
     "word": "town",
-    "value": 114
+    "value": 114,
+    "translation": "pueblo"
   },
   {
     "word": "way",
-    "value": 113
+    "value": 113,
+    "translation": "camino"
   },
   {
     "word": "carp",
-    "value": 112
+    "value": 112,
+    "translation": "carpa"
   },
   {
     "word": "hand",
-    "value": 111
+    "value": 111,
+    "translation": "mano"
   },
   {
     "word": "brother",
-    "value": 111
+    "value": 111,
+    "translation": "hermano"
   },
   {
     "word": "face",
-    "value": 108
+    "value": 108,
+    "translation": "cara"
   },
   {
     "word": "blood",
-    "value": 107
+    "value": 107,
+    "translation": "sangre"
   },
   {
     "word": "bridge",
-    "value": 107
+    "value": 107,
+    "translation": "puente"
   },
   {
     "word": "school",
-    "value": 98
+    "value": 98,
+    "translation": "escuela"
   },
   {
     "word": "head",
-    "value": 98
+    "value": 98,
+    "translation": "cabeza"
   },
   {
     "word": "day",
-    "value": 96
+    "value": 96,
+    "translation": "día"
   },
   {
     "word": "wind",
-    "value": 94
+    "value": 94,
+    "translation": "viento"
   },
   {
     "word": "door",
-    "value": 93
+    "value": 93,
+    "translation": "puerta"
   },
   {
     "word": "bone",
-    "value": 93
+    "value": 93,
+    "translation": "hueso"
   },
   {
     "word": "dream",
-    "value": 90
+    "value": 90,
+    "translation": "sueño"
   },
   {
     "word": "woman",
-    "value": 89
+    "value": 89,
+    "translation": "mujer"
   },
   {
     "word": "hill",
-    "value": 89
+    "value": 89,
+    "translation": "colina"
   },
   {
     "word": "life",
-    "value": 86
+    "value": 86,
+    "translation": "vida"
   },
   {
     "word": "church",
-    "value": 86
+    "value": 86,
+    "translation": "iglesia"
   },
   {
     "word": "thing",
-    "value": 85
+    "value": 85,
+    "translation": "cosa"
   },
   {
     "word": "owl",
-    "value": 79
+    "value": 79,
+    "translation": "búho"
   },
   {
     "word": "body",
-    "value": 73
+    "value": 73,
+    "translation": "cuerpo"
   },
   {
     "word": "earth",
-    "value": 72
+    "value": 72,
+    "translation": "tierra"
   },
   {
     "word": "voice",
-    "value": 71
+    "value": 71,
+    "translation": "voz"
   },
   {
     "word": "sin",
-    "value": 69
+    "value": 69,
+    "translation": "pecado"
   },
   {
     "word": "boy",
-    "value": 68
+    "value": 68,
+    "translation": "niño"
   },
   {
     "word": "soul",
-    "value": 68
+    "value": 68,
+    "translation": "alma"
   },
   {
     "word": "one",
-    "value": 68
+    "value": 68,
+    "translation": "uno"
   },
   {
     "word": "girl",
-    "value": 67
+    "value": 67,
+    "translation": "niña"
   },
   {
     "word": "room",
-    "value": 66
+    "value": 66,
+    "translation": "habitación"
   },
   {
     "word": "horse",
-    "value": 64
+    "value": 64,
+    "translation": "caballo"
   },
   {
     "word": "sun",
-    "value": 63
+    "value": 63,
+    "translation": "sol"
   },
   {
     "word": "light",
-    "value": 63
+    "value": 63,
+    "translation": "luz"
   },
   {
     "word": "air",
-    "value": 63
+    "value": 63,
+    "translation": "aire"
   },
   {
     "word": "story",
-    "value": 62
+    "value": 62,
+    "translation": "historia"
   },
   {
     "word": "tree",
-    "value": 62
+    "value": 62,
+    "translation": "árbol"
   },
   {
     "word": "side",
-    "value": 61
+    "value": 61,
+    "translation": "lado"
   },
   {
     "word": "son",
-    "value": 58
+    "value": 58,
+    "translation": "hijo"
   }
 ]

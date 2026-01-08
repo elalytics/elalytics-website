@@ -1,78 +1,97 @@
 [
   {
     "word": "be",
-    "value": 14
+    "value": 14,
+    "translation": "ser/estar"
   },
   {
     "word": "bear",
-    "value": 1
+    "value": 1,
+    "translation": "soportar/dar a luz"
   },
   {
     "word": "choose",
-    "value": 1
+    "value": 1,
+    "translation": "elegir/escoger"
   },
   {
     "word": "mean",
-    "value": 1
+    "value": 1,
+    "translation": "significar/querer decir"
   },
   {
     "word": "hope",
-    "value": 1
+    "value": 1,
+    "translation": "esperar"
   },
   {
     "word": "would",
-    "value": 1
+    "value": 1,
+    "translation": "har\u00eda/ser\u00eda"
   },
   {
     "word": "love",
-    "value": 1
+    "value": 1,
+    "translation": "amar"
   },
   {
     "word": "respect",
-    "value": 1
+    "value": 1,
+    "translation": "respetar"
   },
   {
     "word": "excel",
-    "value": 1
+    "value": 1,
+    "translation": "sobresalir"
   },
   {
     "word": "expect",
-    "value": 1
+    "value": 1,
+    "translation": "esperar"
   },
   {
     "word": "succeed",
-    "value": 1
+    "value": 1,
+    "translation": "tener \u00e9xito"
   },
   {
     "word": "trust",
-    "value": 1
+    "value": 1,
+    "translation": "confiar"
   },
   {
     "word": "doubt",
-    "value": 1
+    "value": 1,
+    "translation": "dudar"
   },
   {
     "word": "tell",
-    "value": 1
+    "value": 1,
+    "translation": "decir/contar"
   },
   {
     "word": "tie",
-    "value": 1
+    "value": 1,
+    "translation": "atar"
   },
   {
     "word": "burst",
-    "value": 1
+    "value": 1,
+    "translation": "estallar"
   },
   {
     "word": "achieve",
-    "value": 1
+    "value": 1,
+    "translation": "lograr"
   },
   {
     "word": "grow",
-    "value": 1
+    "value": 1,
+    "translation": "crecer"
   },
   {
     "word": "start",
-    "value": 1
+    "value": 1,
+    "translation": "empezar/comenzar"
   }
 ]

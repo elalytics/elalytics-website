@@ -1,14 +1,17 @@
 [
   {
     "word": "armband",
-    "value": 3
+    "value": 3,
+    "translation": "brazalete"
   },
   {
     "word": "banner",
-    "value": 1
+    "value": 1,
+    "translation": "bandera/pancarta"
   },
   {
     "word": "band",
-    "value": 1
+    "value": 1,
+    "translation": "banda"
   }
 ]

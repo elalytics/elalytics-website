@@ -1,18 +1,22 @@
 [
   {
     "word": "popsicle",
-    "value": 1
+    "value": 1,
+    "translation": "paleta helada"
   },
   {
     "word": "banner",
-    "value": 1
+    "value": 1,
+    "translation": "bandera/pancarta"
   },
   {
     "word": "light",
-    "value": 1
+    "value": 1,
+    "translation": "luz"
   },
   {
     "word": "leather",
-    "value": 2
+    "value": 2,
+    "translation": "cuero"
   }
 ]

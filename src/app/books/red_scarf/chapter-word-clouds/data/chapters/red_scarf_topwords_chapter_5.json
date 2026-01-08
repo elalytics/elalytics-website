@@ -1,202 +1,252 @@
 [
   {
     "word": "class",
-    "value": 34
+    "value": 34,
+    "translation": "clase"
   },
   {
     "word": "school",
-    "value": 23
+    "value": 23,
+    "translation": "escuela"
   },
   {
     "word": "landlord",
-    "value": 15
+    "value": 15,
+    "translation": "terrateniente"
   },
   {
     "word": "father",
-    "value": 14
+    "value": 14,
+    "translation": "padre"
   },
   {
     "word": "grandfather",
-    "value": 10
+    "value": 10,
+    "translation": "abuelo"
   },
   {
     "word": "family",
-    "value": 10
+    "value": 10,
+    "translation": "familia"
   },
   {
     "word": "people",
-    "value": 9
+    "value": 9,
+    "translation": "gente/personas"
   },
   {
     "word": "day",
-    "value": 8
+    "value": 8,
+    "translation": "d\u00eda"
   },
   {
     "word": "time",
-    "value": 8
+    "value": 8,
+    "translation": "tiempo"
   },
   {
     "word": "hand",
-    "value": 8
+    "value": 8,
+    "translation": "mano"
   },
   {
     "word": "head",
-    "value": 8
+    "value": 8,
+    "translation": "cabeza"
   },
   {
     "word": "status",
-    "value": 8
+    "value": 8,
+    "translation": "estatus/estado"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "classroom",
-    "value": 7
+    "value": 7,
+    "translation": "aula"
   },
   {
     "word": "zi",
-    "value": 6
+    "value": 6,
+    "translation": "zi"
   },
   {
     "word": "student",
-    "value": 6
+    "value": 6,
+    "translation": "estudiante"
   },
   {
     "word": "window",
-    "value": 6
+    "value": 6,
+    "translation": "ventana"
   },
   {
     "word": "face",
-    "value": 6
+    "value": 6,
+    "translation": "cara/rostro"
   },
   {
     "word": "rightist",
-    "value": 6
+    "value": 6,
+    "translation": "derechista"
   },
   {
     "word": "name",
-    "value": 5
+    "value": 5,
+    "translation": "nombre"
   },
   {
     "word": "problem",
-    "value": 5
+    "value": 5,
+    "translation": "problema"
   },
   {
     "word": "classmate",
-    "value": 4
+    "value": 4,
+    "translation": "compa\u00f1ero de clase"
   },
   {
     "word": "election",
-    "value": 4
+    "value": 4,
+    "translation": "elecci\u00f3n"
   },
   {
     "word": "arm",
-    "value": 4
+    "value": 4,
+    "translation": "brazo"
   },
   {
     "word": "teacher",
-    "value": 4
+    "value": 4,
+    "translation": "maestro/profesor"
   },
   {
     "word": "mother",
-    "value": 4
+    "value": 4,
+    "translation": "madre"
   },
   {
     "word": "voice",
-    "value": 4
+    "value": 4,
+    "translation": "voz"
   },
   {
     "word": "year",
-    "value": 4
+    "value": 4,
+    "translation": "a\u00f1o"
   },
   {
     "word": "front",
-    "value": 4
+    "value": 4,
+    "translation": "frente"
   },
   {
     "word": "fault",
-    "value": 4
+    "value": 4,
+    "translation": "culpa/falta"
   },
   {
     "word": "week",
-    "value": 4
+    "value": 4,
+    "translation": "semana"
   },
   {
     "word": "standing",
-    "value": 4
+    "value": 4,
+    "translation": "posici\u00f3n/estatus"
   },
   {
     "word": "word",
-    "value": 4
+    "value": 4,
+    "translation": "palabra"
   },
   {
     "word": "bed",
-    "value": 3
+    "value": 3,
+    "translation": "cama"
   },
   {
     "word": "work",
-    "value": 3
+    "value": 3,
+    "translation": "trabajar/funcionar"
   },
   {
     "word": "grandmother",
-    "value": 3
+    "value": 3,
+    "translation": "abuela"
   },
   {
     "word": "office",
-    "value": 3
+    "value": 3,
+    "translation": "oficina"
   },
   {
     "word": "yard",
-    "value": 3
+    "value": 3,
+    "translation": "patio"
   },
   {
     "word": "paper",
-    "value": 3
+    "value": 3,
+    "translation": "papel"
   },
   {
     "word": "wall",
-    "value": 3
+    "value": 3,
+    "translation": "pared/muro"
   },
   {
     "word": "background",
-    "value": 3
+    "value": 3,
+    "translation": "antecedentes/fondo"
   },
   {
     "word": "worker",
-    "value": 3
+    "value": 3,
+    "translation": "trabajador"
   },
   {
     "word": "kind",
-    "value": 3
+    "value": 3,
+    "translation": "tipo/clase"
   },
   {
     "word": "member",
-    "value": 3
+    "value": 3,
+    "translation": "miembro"
   },
   {
     "word": "mind",
-    "value": 3
+    "value": 3,
+    "translation": "mente"
   },
   {
     "word": "tear",
-    "value": 3
+    "value": 3,
+    "translation": "l\u00e1grima"
   },
   {
     "word": "money",
-    "value": 3
+    "value": 3,
+    "translation": "dinero"
   },
   {
     "word": "nickname",
-    "value": 3
+    "value": 3,
+    "translation": "apodo"
   },
   {
     "word": "doorway",
-    "value": 3
+    "value": 3,
+    "translation": "entrada"
   },
   {
     "word": "fever",
-    "value": 2
+    "value": 2,
+    "translation": "fiebre"
   }
 ]

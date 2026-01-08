@@ -1,7 +1,6 @@
 "use client";
-
 import TopWordsBarChart from "./component/TopWordsBarChart";
-import dataTemp from "./data/topwordsPOS.json";
+import dataTemp from "./data/top_words.json";
 
 function getTop15Words(words) {
   // Group words by category.
@@ -12,7 +11,7 @@ function getTop15Words(words) {
     }
     categories[words[i].category].push(words[i]);
   }
-
+  
   // Sort words in each category and trim to top 15.
   for (let category in categories) {
     categories[category].sort((a, b) => b.value - a.value);
@@ -20,7 +19,7 @@ function getTop15Words(words) {
       categories[category] = categories[category].slice(0, 15);
     }
   }
-
+  
   // Return result.
   let result = [];
   for (let category in categories) {
@@ -42,8 +41,10 @@ const data = getTop15Words(dataTemp);
 export default function Home() {
   const wordsToRemove = [];
   const categoriesToRemove = ["PUNCT", "DET", "PART", "AUX", "NUM"];
+  
   return (
-    <div className="h-full m-auto max-w-4xl">
+    <div className="h-full m-auto max-w-4xl p-4">
+      <h1 className="text-2xl font-bold text-center mb-6">Top Words by Part of Speech</h1>
       <TopWordsBarChart
         data={filterData(data, wordsToRemove, categoriesToRemove)}
       />

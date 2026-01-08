@@ -1,202 +1,252 @@
 [
   {
     "word": "cabin",
-    "value": 22
+    "value": 22,
+    "translation": "cabaña"
   },
   {
     "word": "girl",
-    "value": 13
+    "value": 13,
+    "translation": "niña"
   },
   {
     "word": "camper",
-    "value": 11
+    "value": 11,
+    "translation": "campista"
   },
   {
     "word": "kid",
-    "value": 7
+    "value": 7,
+    "translation": "niño"
   },
   {
     "word": "toilet",
-    "value": 7
+    "value": 7,
+    "translation": "inodoro"
   },
   {
     "word": "friend",
-    "value": 6
+    "value": 6,
+    "translation": "amigo"
   },
   {
     "word": "head",
-    "value": 6
+    "value": 6,
+    "translation": "cabeza"
   },
   {
     "word": "door",
-    "value": 6
+    "value": 6,
+    "translation": "puerta"
   },
   {
     "word": "bathroom",
-    "value": 6
+    "value": 6,
+    "translation": "baño"
   },
   {
     "word": "teacher",
-    "value": 5
+    "value": 5,
+    "translation": "maestro"
   },
   {
     "word": "thing",
-    "value": 5
+    "value": 5,
+    "translation": "cosa"
   },
   {
     "word": "year",
-    "value": 5
+    "value": 5,
+    "translation": "año"
   },
   {
     "word": "wall",
-    "value": 5
+    "value": 5,
+    "translation": "pared"
   },
   {
     "word": "number",
-    "value": 5
+    "value": 5,
+    "translation": "número"
   },
   {
     "word": "doorway",
-    "value": 5
+    "value": 5,
+    "translation": "entrada"
   },
   {
     "word": "hair",
-    "value": 5
+    "value": 5,
+    "translation": "cabello"
   },
   {
     "word": "time",
-    "value": 4
+    "value": 4,
+    "translation": "tiempo"
   },
   {
     "word": "camp",
-    "value": 4
+    "value": 4,
+    "translation": "campamento"
   },
   {
     "word": "blood",
-    "value": 4
+    "value": 4,
+    "translation": "sangre"
   },
   {
     "word": "strawberry",
-    "value": 4
+    "value": 4,
+    "translation": "fresa"
   },
   {
     "word": "field",
-    "value": 4
+    "value": 4,
+    "translation": "campo"
   },
   {
     "word": "pipe",
-    "value": 4
+    "value": 4,
+    "translation": "tubería"
   },
   {
     "word": "line",
-    "value": 4
+    "value": 4,
+    "translation": "línea"
   },
   {
     "word": "fire",
-    "value": 4
+    "value": 4,
+    "translation": "fuego"
   },
   {
     "word": "jacket",
-    "value": 4
+    "value": 4,
+    "translation": "chaqueta"
   },
   {
     "word": "place",
-    "value": 4
+    "value": 4,
+    "translation": "lugar"
   },
   {
     "word": "chance",
-    "value": 4
+    "value": 4,
+    "translation": "oportunidad"
   },
   {
     "word": "god",
-    "value": 4
+    "value": 4,
+    "translation": "dios"
   },
   {
     "word": "fight",
-    "value": 4
+    "value": 4,
+    "translation": "pelea"
   },
   {
     "word": "eye",
-    "value": 4
+    "value": 4,
+    "translation": "ojo"
   },
   {
     "word": "floor",
-    "value": 4
+    "value": 4,
+    "translation": "piso"
   },
   {
     "word": "water",
-    "value": 4
+    "value": 4,
+    "translation": "agua"
   },
   {
     "word": "way",
-    "value": 3
+    "value": 3,
+    "translation": "camino"
   },
   {
     "word": "front",
-    "value": 3
+    "value": 3,
+    "translation": "frente"
   },
   {
     "word": "horn",
-    "value": 3
+    "value": 3,
+    "translation": "cuerno"
   },
   {
     "word": "satyr",
-    "value": 3
+    "value": 3,
+    "translation": "sátiro"
   },
   {
     "word": "lot",
-    "value": 3
+    "value": 3,
+    "translation": "mucho"
   },
   {
     "word": "music",
-    "value": 3
+    "value": 3,
+    "translation": "música"
   },
   {
     "word": "kind",
-    "value": 3
+    "value": 3,
+    "translation": "tipo"
   },
   {
     "word": "school",
-    "value": 3
+    "value": 3,
+    "translation": "escuela"
   },
   {
     "word": "mind",
-    "value": 3
+    "value": 3,
+    "translation": "mente"
   },
   {
     "word": "wood",
-    "value": 3
+    "value": 3,
+    "translation": "madera"
   },
   {
     "word": "size",
-    "value": 3
+    "value": 3,
+    "translation": "tamaño"
   },
   {
     "word": "spear",
-    "value": 3
+    "value": 3,
+    "translation": "lanza"
   },
   {
     "word": "stone",
-    "value": 3
+    "value": 3,
+    "translation": "piedra"
   },
   {
     "word": "side",
-    "value": 3
+    "value": 3,
+    "translation": "lado"
   },
   {
     "word": "bed",
-    "value": 3
+    "value": 3,
+    "translation": "cama"
   },
   {
     "word": "column",
-    "value": 3
+    "value": 3,
+    "translation": "columna"
   },
   {
     "word": "bunk",
-    "value": 3
+    "value": 3,
+    "translation": "litera"
   },
   {
     "word": "question",
-    "value": 3
+    "value": 3,
+    "translation": "pregunta"
   }
 ]

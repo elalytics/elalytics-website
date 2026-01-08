@@ -1,202 +1,252 @@
 [
   {
     "word": "man",
-    "value": 88
+    "value": 88,
+    "translation": "hombre"
   },
   {
     "word": "day",
-    "value": 86
+    "value": 86,
+    "translation": "día"
   },
   {
     "word": "life",
-    "value": 76
+    "value": 76,
+    "translation": "vida"
   },
   {
     "word": "death",
-    "value": 75
+    "value": 75,
+    "translation": "muerte"
   },
   {
     "word": "friend",
-    "value": 73
+    "value": 73,
+    "translation": "amigo"
   },
   {
     "word": "father",
-    "value": 68
+    "value": 68,
+    "translation": "padre"
   },
   {
     "word": "time",
-    "value": 57
+    "value": 57,
+    "translation": "tiempo"
   },
   {
     "word": "eye",
-    "value": 57
+    "value": 57,
+    "translation": "ojo"
   },
   {
     "word": "feeling",
-    "value": 54
+    "value": 54,
+    "translation": "sentimiento"
   },
   {
     "word": "night",
-    "value": 54
+    "value": 54,
+    "translation": "noche"
   },
   {
     "word": "mind",
-    "value": 51
+    "value": 51,
+    "translation": "mente"
   },
   {
     "word": "heart",
-    "value": 47
+    "value": 47,
+    "translation": "corazón"
   },
   {
     "word": "ice",
-    "value": 47
+    "value": 47,
+    "translation": "hielo"
   },
   {
     "word": "year",
-    "value": 46
+    "value": 46,
+    "translation": "año"
   },
   {
     "word": "hope",
-    "value": 46
+    "value": 46,
+    "translation": "esperanza"
   },
   {
     "word": "creature",
-    "value": 44
+    "value": 44,
+    "translation": "criatura"
   },
   {
     "word": "spirit",
-    "value": 42
+    "value": 42,
+    "translation": "espíritu"
   },
   {
     "word": "world",
-    "value": 42
+    "value": 42,
+    "translation": "mundo"
   },
   {
     "word": "happiness",
-    "value": 38
+    "value": 38,
+    "translation": "felicidad"
   },
   {
     "word": "misery",
-    "value": 37
+    "value": 37,
+    "translation": "miseria"
   },
   {
     "word": "being",
-    "value": 37
+    "value": 37,
+    "translation": "ser"
   },
   {
     "word": "month",
-    "value": 35
+    "value": 35,
+    "translation": "mes"
   },
   {
     "word": "nature",
-    "value": 34
+    "value": 34,
+    "translation": "naturaleza"
   },
   {
     "word": "fear",
-    "value": 31
+    "value": 31,
+    "translation": "miedo"
   },
   {
     "word": "place",
-    "value": 30
+    "value": 30,
+    "translation": "lugar"
   },
   {
     "word": "power",
-    "value": 30
+    "value": 30,
+    "translation": "poder"
   },
   {
     "word": "health",
-    "value": 29
+    "value": 29,
+    "translation": "salud"
   },
   {
     "word": "hour",
-    "value": 29
+    "value": 29,
+    "translation": "hora"
   },
   {
     "word": "sea",
-    "value": 28
+    "value": 28,
+    "translation": "mar"
   },
   {
     "word": "work",
-    "value": 27
+    "value": 27,
+    "translation": "trabajo"
   },
   {
     "word": "despair",
-    "value": 27
+    "value": 27,
+    "translation": "desesperación"
   },
   {
     "word": "hand",
-    "value": 27
+    "value": 27,
+    "translation": "mano"
   },
   {
     "word": "light",
-    "value": 27
+    "value": 27,
+    "translation": "luz"
   },
   {
     "word": "house",
-    "value": 27
+    "value": 27,
+    "translation": "casa"
   },
   {
     "word": "brother",
-    "value": 27
+    "value": 27,
+    "translation": "hermano"
   },
   {
     "word": "cousin",
-    "value": 26
+    "value": 26,
+    "translation": "primo"
   },
   {
     "word": "monster",
-    "value": 26
+    "value": 26,
+    "translation": "monstruo"
   },
   {
     "word": "tale",
-    "value": 26
+    "value": 26,
+    "translation": "cuento"
   },
   {
     "word": "country",
-    "value": 25
+    "value": 25,
+    "translation": "país"
   },
   {
     "word": "letter",
-    "value": 25
+    "value": 25,
+    "translation": "carta"
   },
   {
     "word": "mother",
-    "value": 25
+    "value": 25,
+    "translation": "madre"
   },
   {
     "word": "event",
-    "value": 24
+    "value": 24,
+    "translation": "evento"
   },
   {
     "word": "sun",
-    "value": 24
+    "value": 24,
+    "translation": "sol"
   },
   {
     "word": "affection",
-    "value": 24
+    "value": 24,
+    "translation": "afecto"
   },
   {
     "word": "child",
-    "value": 24
+    "value": 24,
+    "translation": "niño"
   },
   {
     "word": "murderer",
-    "value": 24
+    "value": 24,
+    "translation": "asesino"
   },
   {
     "word": "discovery",
-    "value": 23
+    "value": 23,
+    "translation": "descubrimiento"
   },
   {
     "word": "moment",
-    "value": 23
+    "value": 23,
+    "translation": "momento"
   },
   {
     "word": "horror",
-    "value": 23
+    "value": 23,
+    "translation": "horror"
   },
   {
     "word": "scene",
-    "value": 23
+    "value": 23,
+    "translation": "escena"
   }
 ]

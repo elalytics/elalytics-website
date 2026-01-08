@@ -1,202 +1,252 @@
 [
   {
     "word": "have",
-    "value": 459
+    "value": 459,
+    "translation": "tener"
   },
   {
     "word": "do",
-    "value": 209
+    "value": 209,
+    "translation": "hacer"
   },
   {
     "word": "would",
-    "value": 181
+    "value": 181,
+    "translation": "haría"
   },
   {
     "word": "go",
-    "value": 137
+    "value": 137,
+    "translation": "ir"
   },
   {
     "word": "make",
-    "value": 122
+    "value": 122,
+    "translation": "hacer"
   },
   {
     "word": "get",
-    "value": 113
+    "value": 113,
+    "translation": "obtener"
   },
   {
     "word": "give",
-    "value": 111
+    "value": 111,
+    "translation": "dar"
   },
   {
     "word": "could",
-    "value": 96
+    "value": 96,
+    "translation": "podría"
   },
   {
     "word": "say",
-    "value": 95
+    "value": 95,
+    "translation": "decir"
   },
   {
     "word": "take",
-    "value": 92
+    "value": 92,
+    "translation": "tomar"
   },
   {
     "word": "come",
-    "value": 90
+    "value": 90,
+    "translation": "venir"
   },
   {
     "word": "see",
-    "value": 85
+    "value": 85,
+    "translation": "ver"
   },
   {
     "word": "find",
-    "value": 74
+    "value": 74,
+    "translation": "encontrar"
   },
   {
     "word": "know",
-    "value": 71
+    "value": 71,
+    "translation": "saber"
   },
   {
     "word": "live",
-    "value": 65
+    "value": 65,
+    "translation": "vivir"
   },
   {
     "word": "leave",
-    "value": 63
+    "value": 63,
+    "translation": "salir"
   },
   {
     "word": "tell",
-    "value": 62
+    "value": 62,
+    "translation": "contar"
   },
   {
     "word": "should",
-    "value": 54
+    "value": 54,
+    "translation": "debería"
   },
   {
     "word": "whip",
-    "value": 54
+    "value": 54,
+    "translation": "azotar"
   },
   {
     "word": "think",
-    "value": 53
+    "value": 53,
+    "translation": "pensar"
   },
   {
     "word": "feel",
-    "value": 45
+    "value": 45,
+    "translation": "sentir"
   },
   {
     "word": "call",
-    "value": 45
+    "value": 45,
+    "translation": "llamar"
   },
   {
     "word": "must",
-    "value": 45
+    "value": 45,
+    "translation": "deber"
   },
   {
     "word": "will",
-    "value": 44
+    "value": 44,
+    "translation": "voluntad"
   },
   {
     "word": "seem",
-    "value": 42
+    "value": 42,
+    "translation": "parecer"
   },
   {
     "word": "might",
-    "value": 41
+    "value": 41,
+    "translation": "podría"
   },
   {
     "word": "can",
-    "value": 39
+    "value": 39,
+    "translation": "poder"
   },
   {
     "word": "run",
-    "value": 37
+    "value": 37,
+    "translation": "correr"
   },
   {
     "word": "read",
-    "value": 37
+    "value": 37,
+    "translation": "leer"
   },
   {
     "word": "learn",
-    "value": 36
+    "value": 36,
+    "translation": "aprender"
   },
   {
     "word": "use",
-    "value": 36
+    "value": 36,
+    "translation": "usar"
   },
   {
     "word": "may",
-    "value": 34
+    "value": 34,
+    "translation": "poder"
   },
   {
     "word": "hear",
-    "value": 33
+    "value": 33,
+    "translation": "oír"
   },
   {
     "word": "stand",
-    "value": 33
+    "value": 33,
+    "translation": "estar de pie"
   },
   {
     "word": "let",
-    "value": 31
+    "value": 31,
+    "translation": "dejar"
   },
   {
     "word": "keep",
-    "value": 31
+    "value": 31,
+    "translation": "mantener"
   },
   {
     "word": "look",
-    "value": 31
+    "value": 31,
+    "translation": "mirar"
   },
   {
     "word": "hold",
-    "value": 28
+    "value": 28,
+    "translation": "sostener"
   },
   {
     "word": "speak",
-    "value": 28
+    "value": 28,
+    "translation": "hablar"
   },
   {
     "word": "write",
-    "value": 27
+    "value": 27,
+    "translation": "escribir"
   },
   {
     "word": "escape",
-    "value": 27
+    "value": 27,
+    "translation": "escapar"
   },
   {
     "word": "meet",
-    "value": 24
+    "value": 24,
+    "translation": "conocer"
   },
   {
     "word": "work",
-    "value": 24
+    "value": 24,
+    "translation": "trabajar"
   },
   {
     "word": "succeed",
-    "value": 24
+    "value": 24,
+    "translation": "tener éxito"
   },
   {
     "word": "bring",
-    "value": 23
+    "value": 23,
+    "translation": "traer"
   },
   {
     "word": "kill",
-    "value": 23
+    "value": 23,
+    "translation": "matar"
   },
   {
     "word": "receive",
-    "value": 22
+    "value": 22,
+    "translation": "recibir"
   },
   {
     "word": "die",
-    "value": 22
+    "value": 22,
+    "translation": "morir"
   },
   {
     "word": "remain",
-    "value": 21
+    "value": 21,
+    "translation": "permanecer"
   },
   {
     "word": "tie",
-    "value": 21
+    "value": 21,
+    "translation": "atar"
   }
 ]

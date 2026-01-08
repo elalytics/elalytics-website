@@ -1,202 +1,252 @@
 [
   {
     "word": "mom",
-    "value": 17
+    "value": 17,
+    "translation": "mam\u00e1"
   },
   {
     "word": "voice",
-    "value": 16
+    "value": 16,
+    "translation": "voz"
   },
   {
     "word": "door",
-    "value": 13
+    "value": 13,
+    "translation": "puerta"
   },
   {
     "word": "face",
-    "value": 11
+    "value": 11,
+    "translation": "cara/rostro"
   },
   {
     "word": "bed",
-    "value": 9
+    "value": 9,
+    "translation": "cama"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "radio",
-    "value": 8
+    "value": 8,
+    "translation": "radio"
   },
   {
     "word": "bathroom",
-    "value": 7
+    "value": 7,
+    "translation": "ba\u00f1o"
   },
   {
     "word": "head",
-    "value": 7
+    "value": 7,
+    "translation": "cabeza"
   },
   {
     "word": "man",
-    "value": 7
+    "value": 7,
+    "translation": "hombre"
   },
   {
     "word": "theater",
-    "value": 6
+    "value": 6,
+    "translation": "teatro"
   },
   {
     "word": "hand",
-    "value": 6
+    "value": 6,
+    "translation": "mano"
   },
   {
     "word": "father",
-    "value": 6
+    "value": 6,
+    "translation": "padre"
   },
   {
     "word": "street",
-    "value": 6
+    "value": 6,
+    "translation": "calle"
   },
   {
     "word": "window",
-    "value": 6
+    "value": 6,
+    "translation": "ventana"
   },
   {
     "word": "tear",
-    "value": 5
+    "value": 5,
+    "translation": "l\u00e1grima"
   },
   {
     "word": "room",
-    "value": 5
+    "value": 5,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "quilt",
-    "value": 5
+    "value": 5,
+    "translation": "colcha"
   },
   {
     "word": "year",
-    "value": 5
+    "value": 5,
+    "translation": "a\u00f1o"
   },
   {
     "word": "child",
-    "value": 4
+    "value": 4,
+    "translation": "ni\u00f1o/hijo"
   },
   {
     "word": "friend",
-    "value": 4
+    "value": 4,
+    "translation": "amigo"
   },
   {
     "word": "day",
-    "value": 4
+    "value": 4,
+    "translation": "d\u00eda"
   },
   {
     "word": "office",
-    "value": 4
+    "value": 4,
+    "translation": "oficina"
   },
   {
     "word": "husband",
-    "value": 4
+    "value": 4,
+    "translation": "esposo"
   },
   {
     "word": "desk",
-    "value": 4
+    "value": 4,
+    "translation": "escritorio"
   },
   {
     "word": "home",
-    "value": 3
+    "value": 3,
+    "translation": "hogar/casa"
   },
   {
     "word": "building",
-    "value": 3
+    "value": 3,
+    "translation": "edificio"
   },
   {
     "word": "neighbor",
-    "value": 3
+    "value": 3,
+    "translation": "vecino"
   },
   {
     "word": "sleep",
-    "value": 3
+    "value": 3,
+    "translation": "dormir"
   },
   {
     "word": "light",
-    "value": 3
+    "value": 3,
+    "translation": "luz"
   },
   {
     "word": "pressure",
-    "value": 3
+    "value": 3,
+    "translation": "presi\u00f3n"
   },
   {
     "word": "broadcast",
-    "value": 3
+    "value": 3,
+    "translation": "transmisi\u00f3n"
   },
   {
     "word": "leniency",
-    "value": 3
+    "value": 3,
+    "translation": "indulgencia"
   },
   {
     "word": "house",
-    "value": 3
+    "value": 3,
+    "translation": "casa"
   },
   {
     "word": "kitchen",
-    "value": 3
+    "value": 3,
+    "translation": "cocina"
   },
   {
     "word": "sweater",
-    "value": 3
+    "value": 3,
+    "translation": "su\u00e9ter"
   },
   {
     "word": "paper",
-    "value": 3
+    "value": 3,
+    "translation": "papel"
   },
   {
     "word": "today",
-    "value": 3
+    "value": 3,
+    "translation": "hoy"
   },
   {
     "word": "meeting",
-    "value": 3
+    "value": 3,
+    "translation": "reuni\u00f3n"
   },
   {
     "word": "idea",
-    "value": 3
+    "value": 3,
+    "translation": "idea"
   },
   {
     "word": "tie",
-    "value": 3
+    "value": 3,
+    "translation": "corbata"
   },
   {
     "word": "morning",
-    "value": 3
+    "value": 3,
+    "translation": "ma\u00f1ana"
   },
   {
     "word": "dad",
-    "value": 3
+    "value": 3,
+    "translation": "pap\u00e1"
   },
   {
     "word": "pillow",
-    "value": 3
+    "value": 3,
+    "translation": "almohada"
   },
   {
     "word": "people",
-    "value": 3
+    "value": 3,
+    "translation": "gente/personas"
   },
   {
     "word": "kiosk",
-    "value": 3
+    "value": 3,
+    "translation": "quiosco"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "birthday",
-    "value": 3
+    "value": 3,
+    "translation": "cumplea\u00f1os"
   },
   {
     "word": "clothe",
-    "value": 3
+    "value": 3,
+    "translation": "ropa"
   },
   {
     "word": "table",
-    "value": 3
+    "value": 3,
+    "translation": "mesa"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 42
+    "value": 42,
+    "translation": "ser/estar"
   },
   {
     "word": "have",
-    "value": 14
+    "value": 14,
+    "translation": "tener"
   },
   {
     "word": "say",
-    "value": 12
+    "value": 12,
+    "translation": "decir"
   },
   {
     "word": "go",
-    "value": 10
+    "value": 10,
+    "translation": "ir"
   },
   {
     "word": "feel",
-    "value": 8
+    "value": 8,
+    "translation": "sentir"
   },
   {
     "word": "get",
-    "value": 8
+    "value": 8,
+    "translation": "obtener/conseguir"
   },
   {
     "word": "\u2019",
-    "value": 6
+    "value": 6,
+    "translation": "es/est\u00e1"
   },
   {
     "word": "\u2019d",
-    "value": 5
+    "value": 5,
+    "translation": "habr\u00eda/tendr\u00eda"
   },
   {
     "word": "could",
-    "value": 5
+    "value": 5,
+    "translation": "podr\u00eda"
   },
   {
     "word": "see",
-    "value": 5
+    "value": 5,
+    "translation": "ver"
   },
   {
     "word": "do",
-    "value": 5
+    "value": 5,
+    "translation": "hacer"
   },
   {
     "word": "try",
-    "value": 5
+    "value": 5,
+    "translation": "intentar"
   },
   {
     "word": "tell",
-    "value": 4
+    "value": 4,
+    "translation": "decir/contar"
   },
   {
     "word": "fall",
-    "value": 4
+    "value": 4,
+    "translation": "caer"
   },
   {
     "word": "turn",
-    "value": 4
+    "value": 4,
+    "translation": "girar/voltear"
   },
   {
     "word": "believe",
-    "value": 4
+    "value": 4,
+    "translation": "creer"
   },
   {
     "word": "lose",
-    "value": 3
+    "value": 3,
+    "translation": "perder"
   },
   {
     "word": "float",
-    "value": 3
+    "value": 3,
+    "translation": "flotar"
   },
   {
     "word": "stand",
-    "value": 3
+    "value": 3,
+    "translation": "estar de pie/pararse"
   },
   {
     "word": "can",
-    "value": 3
+    "value": 3,
+    "translation": "poder"
   },
   {
     "word": "talk",
-    "value": 3
+    "value": 3,
+    "translation": "hablar"
   },
   {
     "word": "look",
-    "value": 2
+    "value": 2,
+    "translation": "mirar"
   },
   {
     "word": "think",
-    "value": 2
+    "value": 2,
+    "translation": "pensar"
   },
   {
     "word": "grab",
-    "value": 2
+    "value": 2,
+    "translation": "agarrar"
   },
   {
     "word": "breathe",
-    "value": 2
+    "value": 2,
+    "translation": "respirar"
   },
   {
     "word": "seem",
-    "value": 2
+    "value": 2,
+    "translation": "parecer"
   },
   {
     "word": "sound",
-    "value": 2
+    "value": 2,
+    "translation": "sonar"
   },
   {
     "word": "thank",
-    "value": 2
+    "value": 2,
+    "translation": "agradecer"
   },
   {
     "word": "hear",
-    "value": 2
+    "value": 2,
+    "translation": "o\u00edr/escuchar"
   },
   {
     "word": "come",
-    "value": 2
+    "value": 2,
+    "translation": "venir"
   },
   {
     "word": "call",
-    "value": 2
+    "value": 2,
+    "translation": "llamar"
   },
   {
     "word": "stay",
-    "value": 2
+    "value": 2,
+    "translation": "quedarse"
   },
   {
     "word": "want",
-    "value": 2
+    "value": 2,
+    "translation": "querer"
   },
   {
     "word": "ask",
-    "value": 2
+    "value": 2,
+    "translation": "preguntar"
   },
   {
     "word": "make",
-    "value": 2
+    "value": 2,
+    "translation": "hacer"
   },
   {
     "word": "find",
-    "value": 2
+    "value": 2,
+    "translation": "encontrar"
   },
   {
     "word": "kick",
-    "value": 2
+    "value": 2,
+    "translation": "patear"
   },
   {
     "word": "\u2019re",
-    "value": 2
+    "value": 2,
+    "translation": "eres/est\u00e1s/son/est\u00e1n"
   },
   {
     "word": "pull",
-    "value": 2
+    "value": 2,
+    "translation": "jalar/tirar"
   },
   {
     "word": "\u2019ve",
-    "value": 2
+    "value": 2,
+    "translation": "he/ha"
   },
   {
     "word": "love",
-    "value": 1
+    "value": 1,
+    "translation": "amar"
   },
   {
     "word": "cameto",
-    "value": 1
+    "value": 1,
+    "translation": "vino a"
   },
   {
     "word": "laugh",
-    "value": 1
+    "value": 1,
+    "translation": "re\u00edr"
   },
   {
     "word": "race",
-    "value": 1
+    "value": 1,
+    "translation": "correr/competir"
   },
   {
     "word": "rip",
-    "value": 1
+    "value": 1,
+    "translation": "rasgar/desgarrar"
   },
   {
     "word": "tumble",
-    "value": 1
+    "value": 1,
+    "translation": "caer/rodar"
   },
   {
     "word": "sink",
-    "value": 1
+    "value": 1,
+    "translation": "hundirse"
   },
   {
     "word": "embed",
-    "value": 1
+    "value": 1,
+    "translation": "incrustar"
   },
   {
     "word": "hurt",
-    "value": 1
+    "value": 1,
+    "translation": "doler/lastimar"
   },
   {
     "word": "bubble",
-    "value": 1
+    "value": 1,
+    "translation": "burbujear"
   }
 ]

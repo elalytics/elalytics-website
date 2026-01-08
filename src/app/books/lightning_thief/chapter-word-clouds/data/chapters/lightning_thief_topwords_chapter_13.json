@@ -1,202 +1,252 @@
 [
   {
     "word": "lady",
-    "value": 10
+    "value": 10,
+    "translation": "dama"
   },
   {
     "word": "time",
-    "value": 9
+    "value": 9,
+    "translation": "tiempo"
   },
   {
     "word": "day",
-    "value": 8
+    "value": 8,
+    "translation": "día"
   },
   {
     "word": "eye",
-    "value": 6
+    "value": 6,
+    "translation": "ojo"
   },
   {
     "word": "sword",
-    "value": 6
+    "value": 6,
+    "translation": "espada"
   },
   {
     "word": "lion",
-    "value": 6
+    "value": 6,
+    "translation": "león"
   },
   {
     "word": "monster",
-    "value": 6
+    "value": 6,
+    "translation": "monstruo"
   },
   {
     "word": "god",
-    "value": 6
+    "value": 6,
+    "translation": "dios"
   },
   {
     "word": "park",
-    "value": 6
+    "value": 6,
+    "translation": "parque"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "boy",
-    "value": 5
+    "value": 5,
+    "translation": "niño"
   },
   {
     "word": "window",
-    "value": 5
+    "value": 5,
+    "translation": "ventana"
   },
   {
     "word": "family",
-    "value": 5
+    "value": 5,
+    "translation": "familia"
   },
   {
     "word": "car",
-    "value": 5
+    "value": 5,
+    "translation": "coche"
   },
   {
     "word": "people",
-    "value": 5
+    "value": 5,
+    "translation": "gente"
   },
   {
     "word": "dog",
-    "value": 5
+    "value": 5,
+    "translation": "perro"
   },
   {
     "word": "tooth",
-    "value": 5
+    "value": 5,
+    "translation": "diente"
   },
   {
     "word": "ranger",
-    "value": 5
+    "value": 5,
+    "translation": "guardabosques"
   },
   {
     "word": "train",
-    "value": 4
+    "value": 4,
+    "translation": "tren"
   },
   {
     "word": "neck",
-    "value": 4
+    "value": 4,
+    "translation": "cuello"
   },
   {
     "word": "foot",
-    "value": 4
+    "value": 4,
+    "translation": "pie"
   },
   {
     "word": "dad",
-    "value": 4
+    "value": 4,
+    "translation": "papá"
   },
   {
     "word": "water",
-    "value": 4
+    "value": 4,
+    "translation": "agua"
   },
   {
     "word": "parent",
-    "value": 4
+    "value": 4,
+    "translation": "padre"
   },
   {
     "word": "deck",
-    "value": 4
+    "value": 4,
+    "translation": "cubierta"
   },
   {
     "word": "son",
-    "value": 4
+    "value": 4,
+    "translation": "hijo"
   },
   {
     "word": "mouth",
-    "value": 4
+    "value": 4,
+    "translation": "boca"
   },
   {
     "word": "hole",
-    "value": 4
+    "value": 4,
+    "translation": "agujero"
   },
   {
     "word": "fire",
-    "value": 4
+    "value": 4,
+    "translation": "fuego"
   },
   {
     "word": "picture",
-    "value": 3
+    "value": 3,
+    "translation": "imagen"
   },
   {
     "word": "bus",
-    "value": 3
+    "value": 3,
+    "translation": "autobús"
   },
   {
     "word": "year",
-    "value": 3
+    "value": 3,
+    "translation": "año"
   },
   {
     "word": "mother",
-    "value": 3
+    "value": 3,
+    "translation": "madre"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "head",
-    "value": 3
+    "value": 3,
+    "translation": "cabeza"
   },
   {
     "word": "mom",
-    "value": 3
+    "value": 3,
+    "translation": "mamá"
   },
   {
     "word": "hero",
-    "value": 3
+    "value": 3,
+    "translation": "héroe"
   },
   {
     "word": "father",
-    "value": 3
+    "value": 3,
+    "translation": "padre"
   },
   {
     "word": "way",
-    "value": 3
+    "value": 3,
+    "translation": "camino"
   },
   {
     "word": "city",
-    "value": 3
+    "value": 3,
+    "translation": "ciudad"
   },
   {
     "word": "top",
-    "value": 3
+    "value": 3,
+    "translation": "cima"
   },
   {
     "word": "observation",
-    "value": 3
+    "value": 3,
+    "translation": "observación"
   },
   {
     "word": "river",
-    "value": 3
+    "value": 3,
+    "translation": "río"
   },
   {
     "word": "exit",
-    "value": 3
+    "value": 3,
+    "translation": "salida"
   },
   {
     "word": "blade",
-    "value": 3
+    "value": 3,
+    "translation": "hoja"
   },
   {
     "word": "poison",
-    "value": 3
+    "value": 3,
+    "translation": "veneno"
   },
   {
     "word": "hill",
-    "value": 2
+    "value": 2,
+    "translation": "colina"
   },
   {
     "word": "wave",
-    "value": 2
+    "value": 2,
+    "translation": "ola"
   },
   {
     "word": "tourist",
-    "value": 2
+    "value": 2,
+    "translation": "turista"
   },
   {
     "word": "passenger",
-    "value": 2
+    "value": 2,
+    "translation": "pasajero"
   }
 ]

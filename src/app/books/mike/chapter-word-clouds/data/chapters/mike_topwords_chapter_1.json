@@ -1,152 +1,152 @@
 [
   {
-    "word": "shu",
-    "category": "PROPN",
-    "value": 8,
-    "translation": "shu"
-  },
-  {
-    "word": "eloy",
-    "category": "PROPN",
-    "value": 7,
-    "translation": "eloy"
-  },
-  {
-    "word": "fiji",
-    "category": "PROPN",
-    "value": 6,
-    "translation": "fiji"
-  },
-  {
-    "word": "us",
-    "category": "PROPN",
-    "value": 3,
-    "translation": "us"
-  },
-  {
-    "word": "mike",
-    "category": "PROPN",
-    "value": 2,
-    "translation": "mike"
-  },
-  {
-    "word": "get",
+    "word": "tell",
     "category": "VERB",
-    "value": 20,
-    "translation": "obtener"
-  },
-  {
-    "word": "know",
-    "category": "VERB",
-    "value": 17,
-    "translation": "saber"
+    "value": 9,
+    "translation": "contar"
   },
   {
     "word": "think",
     "category": "VERB",
-    "value": 15,
+    "value": 9,
     "translation": "pensar"
   },
   {
     "word": "go",
     "category": "VERB",
-    "value": 14,
+    "value": 8,
     "translation": "ir"
   },
   {
-    "word": "come",
+    "word": "want",
     "category": "VERB",
-    "value": 13,
-    "translation": "venir"
+    "value": 7,
+    "translation": "querer"
   },
   {
-    "word": "life",
-    "category": "NOUN",
-    "value": 12,
-    "translation": "vida"
+    "word": "live",
+    "category": "VERB",
+    "value": 6,
+    "translation": "vivir"
   },
   {
-    "word": "people",
-    "category": "NOUN",
-    "value": 12,
-    "translation": "gente"
-  },
-  {
-    "word": "shit",
-    "category": "NOUN",
-    "value": 11,
-    "translation": "mierda"
-  },
-  {
-    "word": "time",
-    "category": "NOUN",
-    "value": 10,
-    "translation": "tiempo"
-  },
-  {
-    "word": "kid",
-    "category": "NOUN",
-    "value": 9,
-    "translation": "niño"
+    "word": "personally",
+    "category": "ADV",
+    "value": 2,
+    "translation": "personalmente"
   },
   {
     "word": "right",
-    "category": "ADJ",
-    "value": 6,
-    "translation": "correcto"
+    "category": "ADV",
+    "value": 2,
+    "translation": "bien"
   },
   {
-    "word": "high",
-    "category": "ADJ",
-    "value": 6,
-    "translation": "alto"
+    "word": "honestly",
+    "category": "ADV",
+    "value": 2,
+    "translation": "honestamente"
+  },
+  {
+    "word": "differently",
+    "category": "ADV",
+    "value": 2,
+    "translation": "diferentemente"
+  },
+  {
+    "word": "super",
+    "category": "ADV",
+    "value": 1,
+    "translation": "súper"
   },
   {
     "word": "good",
     "category": "ADJ",
-    "value": 6,
+    "value": 7,
     "translation": "bueno"
   },
   {
-    "word": "bad",
+    "word": "little",
+    "category": "ADJ",
+    "value": 6,
+    "translation": "pequeño"
+  },
+  {
+    "word": "high",
     "category": "ADJ",
     "value": 5,
-    "translation": "malo"
+    "translation": "alto"
   },
   {
-    "word": "cool",
+    "word": "new",
     "category": "ADJ",
     "value": 4,
-    "translation": "genial"
+    "translation": "nuevo"
   },
   {
-    "word": "instead",
-    "category": "ADV",
+    "word": "sad",
+    "category": "ADJ",
+    "value": 4,
+    "translation": "triste"
+  },
+  {
+    "word": "school",
+    "category": "NOUN",
+    "value": 11,
+    "translation": "escuela"
+  },
+  {
+    "word": "education",
+    "category": "NOUN",
+    "value": 8,
+    "translation": "educación"
+  },
+  {
+    "word": "thing",
+    "category": "NOUN",
+    "value": 7,
+    "translation": "cosa"
+  },
+  {
+    "word": "parent",
+    "category": "NOUN",
+    "value": 6,
+    "translation": "padre"
+  },
+  {
+    "word": "system",
+    "category": "NOUN",
+    "value": 6,
+    "translation": "sistema"
+  },
+  {
+    "word": "english",
+    "category": "PROPN",
+    "value": 10,
+    "translation": "inglés"
+  },
+  {
+    "word": "mexico",
+    "category": "PROPN",
+    "value": 5,
+    "translation": "México"
+  },
+  {
+    "word": "tijuana",
+    "category": "PROPN",
+    "value": 4,
+    "translation": "Tijuana"
+  },
+  {
+    "word": "pescadero",
+    "category": "PROPN",
     "value": 3,
-    "translation": "en cambio"
+    "translation": "Pescadero"
   },
   {
-    "word": "soon",
-    "category": "ADV",
+    "word": "the united states",
+    "category": "PROPN",
     "value": 3,
-    "translation": "pronto"
-  },
-  {
-    "word": "actually",
-    "category": "ADV",
-    "value": 3,
-    "translation": "en realidad"
-  },
-  {
-    "word": "well",
-    "category": "ADV",
-    "value": 2,
-    "translation": "bueno"
-  },
-  {
-    "word": "long",
-    "category": "ADV",
-    "value": 2,
-    "translation": "largo"
+    "translation": "los Estados Unidos"
   }
 ]

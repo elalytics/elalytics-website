@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 40
+    "value": 40,
+    "translation": "ser"
   },
   {
     "word": "have",
-    "value": 31
+    "value": 31,
+    "translation": "tener"
   },
   {
     "word": "could",
-    "value": 13
+    "value": 13,
+    "translation": "podría"
   },
   {
     "word": "run",
-    "value": 11
+    "value": 11,
+    "translation": "correr"
   },
   {
     "word": "get",
-    "value": 9
+    "value": 9,
+    "translation": "obtener"
   },
   {
     "word": "would",
-    "value": 8
+    "value": 8,
+    "translation": "haría"
   },
   {
     "word": "do",
-    "value": 7
+    "value": 7,
+    "translation": "hacer"
   },
   {
     "word": "know",
-    "value": 7
+    "value": 7,
+    "translation": "saber"
   },
   {
     "word": "chase",
-    "value": 7
+    "value": 7,
+    "translation": "perseguir"
   },
   {
     "word": "throw",
-    "value": 4
+    "value": 4,
+    "translation": "lanzar"
   },
   {
     "word": "come",
-    "value": 4
+    "value": 4,
+    "translation": "venir"
   },
   {
     "word": "keep",
-    "value": 4
+    "value": 4,
+    "translation": "mantener"
   },
   {
     "word": "go",
-    "value": 3
+    "value": 3,
+    "translation": "ir"
   },
   {
     "word": "hit",
-    "value": 3
+    "value": 3,
+    "translation": "golpear"
   },
   {
     "word": "stop",
-    "value": 3
+    "value": 3,
+    "translation": "parar"
   },
   {
     "word": "look",
-    "value": 3
+    "value": 3,
+    "translation": "mirar"
   },
   {
     "word": "find",
-    "value": 3
+    "value": 3,
+    "translation": "encontrar"
   },
   {
     "word": "make",
-    "value": 3
+    "value": 3,
+    "translation": "hacer"
   },
   {
     "word": "catch",
-    "value": 3
+    "value": 3,
+    "translation": "atrapar"
   },
   {
     "word": "play",
-    "value": 2
+    "value": 2,
+    "translation": "jugar"
   },
   {
     "word": "think",
-    "value": 2
+    "value": 2,
+    "translation": "pensar"
   },
   {
     "word": "miss",
-    "value": 2
+    "value": 2,
+    "translation": "fallar"
   },
   {
     "word": "hurt",
-    "value": 2
+    "value": 2,
+    "translation": "doler"
   },
   {
     "word": "take",
-    "value": 2
+    "value": 2,
+    "translation": "tomar"
   },
   {
     "word": "fling",
-    "value": 2
+    "value": 2,
+    "translation": "arrojar"
   },
   {
     "word": "point",
-    "value": 2
+    "value": 2,
+    "translation": "señalar"
   },
   {
     "word": "dive",
-    "value": 2
+    "value": 2,
+    "translation": "zambullirse"
   },
   {
     "word": "stand",
-    "value": 2
+    "value": 2,
+    "translation": "estar de pie"
   },
   {
     "word": "grow",
-    "value": 2
+    "value": 2,
+    "translation": "crecer"
   },
   {
     "word": "wish",
-    "value": 2
+    "value": 2,
+    "translation": "desear"
   },
   {
     "word": "consider",
-    "value": 2
+    "value": 2,
+    "translation": "considerar"
   },
   {
     "word": "smash",
-    "value": 2
+    "value": 2,
+    "translation": "aplastar"
   },
   {
     "word": "pull",
-    "value": 2
+    "value": 2,
+    "translation": "tirar"
   },
   {
     "word": "quit",
-    "value": 2
+    "value": 2,
+    "translation": "renunciar"
   },
   {
     "word": "lose",
-    "value": 2
+    "value": 2,
+    "translation": "perder"
   },
   {
     "word": "follow",
-    "value": 2
+    "value": 2,
+    "translation": "seguir"
   },
   {
     "word": "slide",
-    "value": 2
+    "value": 2,
+    "translation": "deslizar"
   },
   {
     "word": "give",
-    "value": 2
+    "value": 2,
+    "translation": "dar"
   },
   {
     "word": "cough",
-    "value": 2
+    "value": 2,
+    "translation": "toser"
   },
   {
     "word": "begin",
-    "value": 2
+    "value": 2,
+    "translation": "comenzar"
   },
   {
     "word": "listen",
-    "value": 2
+    "value": 2,
+    "translation": "escuchar"
   },
   {
     "word": "want",
-    "value": 2
+    "value": 2,
+    "translation": "querer"
   },
   {
     "word": "last",
-    "value": 2
+    "value": 2,
+    "translation": "durar"
   },
   {
     "word": "teach",
-    "value": 1
+    "value": 1,
+    "translation": "enseñar"
   },
   {
     "word": "whisper",
-    "value": 1
+    "value": 1,
+    "translation": "susurrar"
   },
   {
     "word": "fool",
-    "value": 1
+    "value": 1,
+    "translation": "engañar"
   },
   {
     "word": "bring",
-    "value": 1
+    "value": 1,
+    "translation": "traer"
   },
   {
     "word": "hesitate",
-    "value": 1
+    "value": 1,
+    "translation": "dudar"
   },
   {
     "word": "kick",
-    "value": 1
+    "value": 1,
+    "translation": "patear"
   },
   {
     "word": "gather",
-    "value": 1
+    "value": 1,
+    "translation": "reunir"
   }
 ]

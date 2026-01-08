@@ -1,202 +1,252 @@
 [
   {
     "word": "school",
-    "value": 13
+    "value": 13,
+    "translation": "escuela"
   },
   {
     "word": "time",
-    "value": 10
+    "value": 10,
+    "translation": "tiempo"
   },
   {
     "word": "meeting",
-    "value": 10
+    "value": 10,
+    "translation": "reuni\u00f3n"
   },
   {
     "word": "table",
-    "value": 9
+    "value": 9,
+    "translation": "mesa"
   },
   {
     "word": "eye",
-    "value": 8
+    "value": 8,
+    "translation": "ojo"
   },
   {
     "word": "class",
-    "value": 7
+    "value": 7,
+    "translation": "clase"
   },
   {
     "word": "day",
-    "value": 6
+    "value": 6,
+    "translation": "d\u00eda"
   },
   {
     "word": "family",
-    "value": 6
+    "value": 6,
+    "translation": "familia"
   },
   {
     "word": "exhibition",
-    "value": 6
+    "value": 6,
+    "translation": "exposici\u00f3n"
   },
   {
     "word": "teacher",
-    "value": 5
+    "value": 5,
+    "translation": "maestro/profesor"
   },
   {
     "word": "hand",
-    "value": 5
+    "value": 5,
+    "translation": "mano"
   },
   {
     "word": "member",
-    "value": 5
+    "value": 5,
+    "translation": "miembro"
   },
   {
     "word": "boy",
-    "value": 5
+    "value": 5,
+    "translation": "ni\u00f1o/muchacho"
   },
   {
     "word": "millet",
-    "value": 5
+    "value": 5,
+    "translation": "mijo"
   },
   {
     "word": "painting",
-    "value": 5
+    "value": 5,
+    "translation": "pintura"
   },
   {
     "word": "head",
-    "value": 4
+    "value": 4,
+    "translation": "cabeza"
   },
   {
     "word": "speech",
-    "value": 4
+    "value": 4,
+    "translation": "discurso"
   },
   {
     "word": "office",
-    "value": 4
+    "value": 4,
+    "translation": "oficina"
   },
   {
     "word": "job",
-    "value": 4
+    "value": 4,
+    "translation": "trabajo"
   },
   {
     "word": "sun",
-    "value": 4
+    "value": 4,
+    "translation": "sol"
   },
   {
     "word": "grain",
-    "value": 4
+    "value": 4,
+    "translation": "grano"
   },
   {
     "word": "tomorrow",
-    "value": 3
+    "value": 3,
+    "translation": "ma\u00f1ana"
   },
   {
     "word": "water",
-    "value": 3
+    "value": 3,
+    "translation": "agua"
   },
   {
     "word": "mom",
-    "value": 3
+    "value": 3,
+    "translation": "mam\u00e1"
   },
   {
     "word": "one",
-    "value": 3
+    "value": 3,
+    "translation": "uno"
   },
   {
     "word": "paper",
-    "value": 3
+    "value": 3,
+    "translation": "papel"
   },
   {
     "word": "mother",
-    "value": 3
+    "value": 3,
+    "translation": "madre"
   },
   {
     "word": "door",
-    "value": 3
+    "value": 3,
+    "translation": "puerta"
   },
   {
     "word": "assignment",
-    "value": 3
+    "value": 3,
+    "translation": "tarea"
   },
   {
     "word": "sheet",
-    "value": 3
+    "value": 3,
+    "translation": "hoja"
   },
   {
     "word": "auditorium",
-    "value": 3
+    "value": 3,
+    "translation": "auditorio"
   },
   {
     "word": "leader",
-    "value": 3
+    "value": 3,
+    "translation": "l\u00edder"
   },
   {
     "word": "propaganda",
-    "value": 3
+    "value": 3,
+    "translation": "propaganda"
   },
   {
     "word": "group",
-    "value": 3
+    "value": 3,
+    "translation": "grupo"
   },
   {
     "word": "student",
-    "value": 3
+    "value": 3,
+    "translation": "estudiante"
   },
   {
     "word": "enthusiasm",
-    "value": 3
+    "value": 3,
+    "translation": "entusiasmo"
   },
   {
     "word": "excellence",
-    "value": 3
+    "value": 3,
+    "translation": "excelencia"
   },
   {
     "word": "classmate",
-    "value": 3
+    "value": 3,
+    "translation": "compa\u00f1ero de clase"
   },
   {
     "word": "background",
-    "value": 3
+    "value": 3,
+    "translation": "antecedentes/fondo"
   },
   {
     "word": "name",
-    "value": 3
+    "value": 3,
+    "translation": "nombre"
   },
   {
     "word": "landlord",
-    "value": 3
+    "value": 3,
+    "translation": "terrateniente"
   },
   {
     "word": "face",
-    "value": 3
+    "value": 3,
+    "translation": "cara/rostro"
   },
   {
     "word": "self",
-    "value": 3
+    "value": 3,
+    "translation": "yo/s\u00ed mismo"
   },
   {
     "word": "difficulty",
-    "value": 3
+    "value": 3,
+    "translation": "dificultad"
   },
   {
     "word": "part",
-    "value": 3
+    "value": 3,
+    "translation": "parte"
   },
   {
     "word": "picture",
-    "value": 3
+    "value": 3,
+    "translation": "imagen/foto"
   },
   {
     "word": "bun",
-    "value": 3
+    "value": 3,
+    "translation": "bollo"
   },
   {
     "word": "tea",
-    "value": 3
+    "value": 3,
+    "translation": "t\u00e9"
   },
   {
     "word": "thing",
-    "value": 3
+    "value": 3,
+    "translation": "cosa"
   },
   {
     "word": "ink",
-    "value": 3
+    "value": 3,
+    "translation": "tinta"
   }
 ]

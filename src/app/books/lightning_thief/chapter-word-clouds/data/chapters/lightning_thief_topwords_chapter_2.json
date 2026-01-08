@@ -1,202 +1,252 @@
 [
   {
     "word": "year",
-    "value": 8
+    "value": 8,
+    "translation": "año"
   },
   {
     "word": "bus",
-    "value": 8
+    "value": 8,
+    "translation": "autobús"
   },
   {
     "word": "summer",
-    "value": 8
+    "value": 8,
+    "translation": "verano"
   },
   {
     "word": "lady",
-    "value": 7
+    "value": 7,
+    "translation": "dama"
   },
   {
     "word": "teacher",
-    "value": 6
+    "value": 6,
+    "translation": "maestro"
   },
   {
     "word": "door",
-    "value": 6
+    "value": 6,
+    "translation": "puerta"
   },
   {
     "word": "time",
-    "value": 5
+    "value": 5,
+    "translation": "tiempo"
   },
   {
     "word": "day",
-    "value": 5
+    "value": 5,
+    "translation": "día"
   },
   {
     "word": "exam",
-    "value": 5
+    "value": 5,
+    "translation": "examen"
   },
   {
     "word": "sock",
-    "value": 5
+    "value": 5,
+    "translation": "calcetín"
   },
   {
     "word": "night",
-    "value": 4
+    "value": 4,
+    "translation": "noche"
   },
   {
     "word": "class",
-    "value": 4
+    "value": 4,
+    "translation": "clase"
   },
   {
     "word": "friend",
-    "value": 4
+    "value": 4,
+    "translation": "amigo"
   },
   {
     "word": "hallway",
-    "value": 4
+    "value": 4,
+    "translation": "pasillo"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "eye",
-    "value": 4
+    "value": 4,
+    "translation": "ojo"
   },
   {
     "word": "yarn",
-    "value": 4
+    "value": 4,
+    "translation": "hilo"
   },
   {
     "word": "school",
-    "value": 3
+    "value": 3,
+    "translation": "escuela"
   },
   {
     "word": "window",
-    "value": 3
+    "value": 3,
+    "translation": "ventana"
   },
   {
     "word": "dorm",
-    "value": 3
+    "value": 3,
+    "translation": "dormitorio"
   },
   {
     "word": "room",
-    "value": 3
+    "value": 3,
+    "translation": "habitación"
   },
   {
     "word": "test",
-    "value": 3
+    "value": 3,
+    "translation": "prueba"
   },
   {
     "word": "shirt",
-    "value": 3
+    "value": 3,
+    "translation": "camisa"
   },
   {
     "word": "expression",
-    "value": 3
+    "value": 3,
+    "translation": "expresión"
   },
   {
     "word": "book",
-    "value": 3
+    "value": 3,
+    "translation": "libro"
   },
   {
     "word": "office",
-    "value": 3
+    "value": 3,
+    "translation": "oficina"
   },
   {
     "word": "voice",
-    "value": 3
+    "value": 3,
+    "translation": "voz"
   },
   {
     "word": "solstice",
-    "value": 3
+    "value": 3,
+    "translation": "solsticio"
   },
   {
     "word": "clop",
-    "value": 3
+    "value": 3,
+    "translation": "casco"
   },
   {
     "word": "driver",
-    "value": 3
+    "value": 3,
+    "translation": "conductor"
   },
   {
     "word": "side",
-    "value": 3
+    "value": 3,
+    "translation": "lado"
   },
   {
     "word": "engine",
-    "value": 3
+    "value": 3,
+    "translation": "motor"
   },
   {
     "word": "fruit",
-    "value": 3
+    "value": 3,
+    "translation": "fruta"
   },
   {
     "word": "student",
-    "value": 2
+    "value": 2,
+    "translation": "estudiante"
   },
   {
     "word": "woman",
-    "value": 2
+    "value": 2,
+    "translation": "mujer"
   },
   {
     "word": "trip",
-    "value": 2
+    "value": 2,
+    "translation": "viaje"
   },
   {
     "word": "name",
-    "value": 2
+    "value": 2,
+    "translation": "nombre"
   },
   {
     "word": "sweat",
-    "value": 2
+    "value": 2,
+    "translation": "sudor"
   },
   {
     "word": "grade",
-    "value": 2
+    "value": 2,
+    "translation": "grado"
   },
   {
     "word": "fight",
-    "value": 2
+    "value": 2,
+    "translation": "pelea"
   },
   {
     "word": "mom",
-    "value": 2
+    "value": 2,
+    "translation": "mamá"
   },
   {
     "word": "letter",
-    "value": 2
+    "value": 2,
+    "translation": "carta"
   },
   {
     "word": "week",
-    "value": 2
+    "value": 2,
+    "translation": "semana"
   },
   {
     "word": "smell",
-    "value": 2
+    "value": 2,
+    "translation": "olor"
   },
   {
     "word": "tree",
-    "value": 2
+    "value": 2,
+    "translation": "árbol"
   },
   {
-    "word": "I\u2019d",
-    "value": 2
+    "word": "I'd",
+    "value": 2,
+    "translation": "I'd"
   },
   {
     "word": "life",
-    "value": 2
+    "value": 2,
+    "translation": "vida"
   },
   {
     "word": "word",
-    "value": 2
+    "value": 2,
+    "translation": "palabra"
   },
   {
     "word": "way",
-    "value": 2
+    "value": 2,
+    "translation": "camino"
   },
   {
     "word": "breath",
-    "value": 2
+    "value": 2,
+    "translation": "aliento"
   }
 ]

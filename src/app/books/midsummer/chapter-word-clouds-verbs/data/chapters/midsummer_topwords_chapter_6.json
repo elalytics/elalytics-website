@@ -1,202 +1,252 @@
 [
   {
     "word": "be",
-    "value": 97
+    "value": 97,
+    "translation": "ser"
   },
   {
     "word": "do",
-    "value": 33
+    "value": 33,
+    "translation": "hacer"
   },
   {
     "word": "have",
-    "value": 25
+    "value": 25,
+    "translation": "tener"
   },
   {
     "word": "will",
-    "value": 24
+    "value": 24,
+    "translation": "voluntad"
   },
   {
     "word": "go",
-    "value": 21
+    "value": 21,
+    "translation": "ir"
   },
   {
     "word": "come",
-    "value": 20
+    "value": 20,
+    "translation": "venir"
   },
   {
     "word": "make",
-    "value": 17
+    "value": 17,
+    "translation": "hacer"
   },
   {
     "word": "love",
-    "value": 16
+    "value": 16,
+    "translation": "amar"
   },
   {
     "word": "shall",
-    "value": 16
+    "value": 16,
+    "translation": "deber"
   },
   {
     "word": "should",
-    "value": 13
+    "value": 13,
+    "translation": "debería"
   },
   {
     "word": "can",
-    "value": 13
+    "value": 13,
+    "translation": "poder"
   },
   {
     "word": "\u2019ll",
-    "value": 11
+    "value": 11,
+    "translation": "\u2019ll"
   },
   {
     "word": "look",
-    "value": 11
+    "value": 11,
+    "translation": "mirar"
   },
   {
     "word": "let",
-    "value": 10
+    "value": 10,
+    "translation": "dejar"
   },
   {
     "word": "know",
-    "value": 9
+    "value": 9,
+    "translation": "saber"
   },
   {
     "word": "must",
-    "value": 8
+    "value": 8,
+    "translation": "deber"
   },
   {
     "word": "would",
-    "value": 8
+    "value": 8,
+    "translation": "haría"
   },
   {
     "word": "take",
-    "value": 7
+    "value": 7,
+    "translation": "tomar"
   },
   {
     "word": "tell",
-    "value": 7
+    "value": 7,
+    "translation": "contar"
   },
   {
     "word": "see",
-    "value": 7
+    "value": 7,
+    "translation": "ver"
   },
   {
     "word": "hate",
-    "value": 7
+    "value": 7,
+    "translation": "odiar"
   },
   {
     "word": "follow",
-    "value": 7
+    "value": 7,
+    "translation": "seguir"
   },
   {
     "word": "doth",
-    "value": 7
+    "value": 7,
+    "translation": "hace"
   },
   {
     "word": "speak",
-    "value": 7
+    "value": 7,
+    "translation": "hablar"
   },
   {
     "word": "leave",
-    "value": 6
+    "value": 6,
+    "translation": "dejar"
   },
   {
     "word": "may",
-    "value": 6
+    "value": 6,
+    "translation": "poder"
   },
   {
     "word": "lead",
-    "value": 5
+    "value": 5,
+    "translation": "guiar"
   },
   {
     "word": "could",
-    "value": 5
+    "value": 5,
+    "translation": "podría"
   },
   {
     "word": "give",
-    "value": 5
+    "value": 5,
+    "translation": "dar"
   },
   {
     "word": "thou",
-    "value": 5
+    "value": 5,
+    "translation": "tú"
   },
   {
     "word": "grow",
-    "value": 5
+    "value": 5,
+    "translation": "crecer"
   },
   {
     "word": "seem",
-    "value": 5
+    "value": 5,
+    "translation": "parecer"
   },
   {
     "word": "scorn",
-    "value": 5
+    "value": 5,
+    "translation": "despreciar"
   },
   {
     "word": "say",
-    "value": 5
+    "value": 5,
+    "translation": "decir"
   },
   {
     "word": "hath",
-    "value": 5
+    "value": 5,
+    "translation": "tiene"
   },
   {
     "word": "kill",
-    "value": 4
+    "value": 4,
+    "translation": "matar"
   },
   {
     "word": "\u2019",
-    "value": 4
+    "value": 4,
+    "translation": "\u2019"
   },
   {
     "word": "hold",
-    "value": 4
+    "value": 4,
+    "translation": "sostener"
   },
   {
     "word": "bear",
-    "value": 4
+    "value": 4,
+    "translation": "soportar"
   },
   {
     "word": "prove",
-    "value": 4
+    "value": 4,
+    "translation": "probar"
   },
   {
     "word": "keep",
-    "value": 4
+    "value": 4,
+    "translation": "mantener"
   },
   {
     "word": "fall",
-    "value": 3
+    "value": 3,
+    "translation": "caer"
   },
   {
     "word": "hast",
-    "value": 3
+    "value": 3,
+    "translation": "tienes"
   },
   {
     "word": "steal",
-    "value": 3
+    "value": 3,
+    "translation": "robar"
   },
   {
     "word": "sleep",
-    "value": 3
+    "value": 3,
+    "translation": "dormir"
   },
   {
     "word": "get",
-    "value": 3
+    "value": 3,
+    "translation": "obtener"
   },
   {
     "word": "mistake",
-    "value": 3
+    "value": 3,
+    "translation": "equivocarse"
   },
   {
     "word": "find",
-    "value": 3
+    "value": 3,
+    "translation": "encontrar"
   },
   {
     "word": "think",
-    "value": 3
+    "value": 3,
+    "translation": "pensar"
   },
   {
     "word": "swear",
-    "value": 3
+    "value": 3,
+    "translation": "jurar"
   }
 ]

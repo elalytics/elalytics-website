@@ -1,202 +1,252 @@
 [
   {
     "word": "trunk",
-    "value": 14
+    "value": 14,
+    "translation": "ba\u00fal/tronco"
   },
   {
     "word": "pedicab",
-    "value": 11
+    "value": 11,
+    "translation": "triciclo"
   },
   {
     "word": "alley",
-    "value": 10
+    "value": 10,
+    "translation": "callej\u00f3n"
   },
   {
     "word": "search",
-    "value": 8
+    "value": 8,
+    "translation": "b\u00fasqueda"
   },
   {
     "word": "people",
-    "value": 8
+    "value": 8,
+    "translation": "gente/personas"
   },
   {
     "word": "gold",
-    "value": 8
+    "value": 8,
+    "translation": "oro"
   },
   {
     "word": "child",
-    "value": 7
+    "value": 7,
+    "translation": "ni\u00f1o/hijo"
   },
   {
     "word": "day",
-    "value": 7
+    "value": 7,
+    "translation": "d\u00eda"
   },
   {
     "word": "house",
-    "value": 7
+    "value": 7,
+    "translation": "casa"
   },
   {
     "word": "front",
-    "value": 7
+    "value": 7,
+    "translation": "frente"
   },
   {
     "word": "mom",
-    "value": 7
+    "value": 7,
+    "translation": "mam\u00e1"
   },
   {
     "word": "popsicle",
-    "value": 6
+    "value": 6,
+    "translation": "paleta helada"
   },
   {
     "word": "hand",
-    "value": 6
+    "value": 6,
+    "translation": "mano"
   },
   {
     "word": "gong",
-    "value": 6
+    "value": 6,
+    "translation": "gong"
   },
   {
     "word": "gate",
-    "value": 6
+    "value": 6,
+    "translation": "puerta/port\u00f3n"
   },
   {
     "word": "way",
-    "value": 6
+    "value": 6,
+    "translation": "camino/manera"
   },
   {
     "word": "part",
-    "value": 6
+    "value": 6,
+    "translation": "parte"
   },
   {
     "word": "time",
-    "value": 6
+    "value": 6,
+    "translation": "tiempo"
   },
   {
     "word": "pearl",
-    "value": 6
+    "value": 6,
+    "translation": "perla"
   },
   {
     "word": "drum",
-    "value": 5
+    "value": 5,
+    "translation": "tambor"
   },
   {
     "word": "zi",
-    "value": 5
+    "value": 5,
+    "translation": "zi"
   },
   {
     "word": "crowd",
-    "value": 5
+    "value": 5,
+    "translation": "multitud"
   },
   {
     "word": "housekeeper",
-    "value": 5
+    "value": 5,
+    "translation": "ama de llaves"
   },
   {
     "word": "bed",
-    "value": 5
+    "value": 5,
+    "translation": "cama"
   },
   {
     "word": "room",
-    "value": 5
+    "value": 5,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "line",
-    "value": 5
+    "value": 5,
+    "translation": "l\u00ednea"
   },
   {
     "word": "egg",
-    "value": 5
+    "value": 5,
+    "translation": "huevo"
   },
   {
     "word": "cover",
-    "value": 5
+    "value": 5,
+    "translation": "cubierta/tapa"
   },
   {
     "word": "light",
-    "value": 5
+    "value": 5,
+    "translation": "luz"
   },
   {
     "word": "silk",
-    "value": 5
+    "value": 5,
+    "translation": "seda"
   },
   {
     "word": "man",
-    "value": 4
+    "value": 4,
+    "translation": "hombre"
   },
   {
     "word": "factory",
-    "value": 4
+    "value": 4,
+    "translation": "f\u00e1brica"
   },
   {
     "word": "truck",
-    "value": 4
+    "value": 4,
+    "translation": "cami\u00f3n"
   },
   {
     "word": "thing",
-    "value": 4
+    "value": 4,
+    "translation": "cosa"
   },
   {
     "word": "head",
-    "value": 4
+    "value": 4,
+    "translation": "cabeza"
   },
   {
     "word": "one",
-    "value": 4
+    "value": 4,
+    "translation": "uno"
   },
   {
     "word": "voice",
-    "value": 4
+    "value": 4,
+    "translation": "voz"
   },
   {
     "word": "family",
-    "value": 4
+    "value": 4,
+    "translation": "familia"
   },
   {
     "word": "hair",
-    "value": 4
+    "value": 4,
+    "translation": "cabello/pelo"
   },
   {
     "word": "lot",
-    "value": 4
+    "value": 4,
+    "translation": "mucho/lote"
   },
   {
     "word": "job",
-    "value": 4
+    "value": 4,
+    "translation": "trabajo"
   },
   {
     "word": "clinic",
-    "value": 4
+    "value": 4,
+    "translation": "cl\u00ednica"
   },
   {
     "word": "dye",
-    "value": 4
+    "value": 4,
+    "translation": "tinte"
   },
   {
     "word": "gown",
-    "value": 4
+    "value": 4,
+    "translation": "bata"
   },
   {
     "word": "floor",
-    "value": 4
+    "value": 4,
+    "translation": "piso/suelo"
   },
   {
     "word": "heat",
-    "value": 3
+    "value": 3,
+    "translation": "calor"
   },
   {
     "word": "summer",
-    "value": 3
+    "value": 3,
+    "translation": "verano"
   },
   {
     "word": "evening",
-    "value": 3
+    "value": 3,
+    "translation": "noche/tarde"
   },
   {
     "word": "sound",
-    "value": 3
+    "value": 3,
+    "translation": "sonar/sonido"
   },
   {
     "word": "news",
-    "value": 3
+    "value": 3,
+    "translation": "noticias"
   }
 ]

@@ -1,202 +1,252 @@
 [
   {
     "word": "backyard",
-    "value": 12
+    "value": 12,
+    "translation": "patio trasero"
   },
   {
     "word": "boy",
-    "value": 10
+    "value": 10,
+    "translation": "niño"
   },
   {
     "word": "snow",
-    "value": 9
+    "value": 9,
+    "translation": "nieve"
   },
   {
     "word": "car",
-    "value": 9
+    "value": 9,
+    "translation": "coche"
   },
   {
     "word": "man",
-    "value": 9
+    "value": 9,
+    "translation": "hombre"
   },
   {
     "word": "kid",
-    "value": 5
+    "value": 5,
+    "translation": "niño"
   },
   {
     "word": "house",
-    "value": 5
+    "value": 5,
+    "translation": "casa"
   },
   {
     "word": "block",
-    "value": 5
+    "value": 5,
+    "translation": "cuadra"
   },
   {
     "word": "snowball",
-    "value": 4
+    "value": 4,
+    "translation": "bola de nieve"
   },
   {
     "word": "street",
-    "value": 4
+    "value": 4,
+    "translation": "calle"
   },
   {
     "word": "iceball",
-    "value": 4
+    "value": 4,
+    "translation": "bola de hielo"
   },
   {
     "word": "driver",
-    "value": 4
+    "value": 4,
+    "translation": "conductor"
   },
   {
     "word": "time",
-    "value": 4
+    "value": 4,
+    "translation": "tiempo"
   },
   {
     "word": "jacket",
-    "value": 4
+    "value": 4,
+    "translation": "chaqueta"
   },
   {
     "word": "football",
-    "value": 3
+    "value": 3,
+    "translation": "fútbol americano"
   },
   {
     "word": "adult",
-    "value": 3
+    "value": 3,
+    "translation": "adulto"
   },
   {
     "word": "point",
-    "value": 3
+    "value": 3,
+    "translation": "punto"
   },
   {
     "word": "tree",
-    "value": 3
+    "value": 3,
+    "translation": "árbol"
   },
   {
     "word": "hedge",
-    "value": 3
+    "value": 3,
+    "translation": "seto"
   },
   {
     "word": "glory",
-    "value": 3
+    "value": 3,
+    "translation": "gloria"
   },
   {
     "word": "leg",
-    "value": 2
+    "value": 2,
+    "translation": "pierna"
   },
   {
     "word": "arm",
-    "value": 2
+    "value": 2,
+    "translation": "brazo"
   },
   {
     "word": "face",
-    "value": 2
+    "value": 2,
+    "translation": "cara"
   },
   {
     "word": "body",
-    "value": 2
+    "value": 2,
+    "translation": "cuerpo"
   },
   {
     "word": "girl",
-    "value": 2
+    "value": 2,
+    "translation": "niña"
   },
   {
     "word": "baseball",
-    "value": 2
+    "value": 2,
+    "translation": "béisbol"
   },
   {
     "word": "winter",
-    "value": 2
+    "value": 2,
+    "translation": "invierno"
   },
   {
     "word": "yard",
-    "value": 2
+    "value": 2,
+    "translation": "patio"
   },
   {
     "word": "target",
-    "value": 2
+    "value": 2,
+    "translation": "objetivo"
   },
   {
     "word": "action",
-    "value": 2
+    "value": 2,
+    "translation": "acción"
   },
   {
     "word": "tire",
-    "value": 2
+    "value": 2,
+    "translation": "neumático"
   },
   {
     "word": "child",
-    "value": 2
+    "value": 2,
+    "translation": "niño"
   },
   {
     "word": "way",
-    "value": 2
+    "value": 2,
+    "translation": "camino"
   },
   {
     "word": "course",
-    "value": 2
+    "value": 2,
+    "translation": "curso"
   },
   {
     "word": "life",
-    "value": 2
+    "value": 2,
+    "translation": "vida"
   },
   {
     "word": "door",
-    "value": 2
+    "value": 2,
+    "translation": "puerta"
   },
   {
     "word": "corner",
-    "value": 2
+    "value": 2,
+    "translation": "esquina"
   },
   {
     "word": "shoe",
-    "value": 2
+    "value": 2,
+    "translation": "zapato"
   },
   {
     "word": "neighborhood",
-    "value": 2
+    "value": 2,
+    "translation": "vecindario"
   },
   {
     "word": "step",
-    "value": 2
+    "value": 2,
+    "translation": "paso"
   },
   {
     "word": "hilltop",
-    "value": 2
+    "value": 2,
+    "translation": "cima"
   },
   {
     "word": "breath",
-    "value": 2
+    "value": 2,
+    "translation": "aliento"
   },
   {
     "word": "head",
-    "value": 2
+    "value": 2,
+    "translation": "cabeza"
   },
   {
     "word": "place",
-    "value": 2
+    "value": 2,
+    "translation": "lugar"
   },
   {
     "word": "speed",
-    "value": 2
+    "value": 2,
+    "translation": "velocidad"
   },
   {
     "word": "lip",
-    "value": 2
+    "value": 2,
+    "translation": "labio"
   },
   {
     "word": "none",
-    "value": 2
+    "value": 2,
+    "translation": "ninguno"
   },
   {
     "word": "sport",
-    "value": 1
+    "value": 1,
+    "translation": "deporte"
   },
   {
     "word": "strategy",
-    "value": 1
+    "value": 1,
+    "translation": "estrategia"
   },
   {
     "word": "play",
-    "value": 1
+    "value": 1,
+    "translation": "juego"
   }
 ]

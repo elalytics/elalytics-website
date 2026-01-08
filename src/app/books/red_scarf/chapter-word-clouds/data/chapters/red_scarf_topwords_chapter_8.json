@@ -1,202 +1,252 @@
 [
   {
     "word": "head",
-    "value": 12
+    "value": 12,
+    "translation": "cabeza"
   },
   {
     "word": "comrade",
-    "value": 11
+    "value": 11,
+    "translation": "camarada"
   },
   {
     "word": "man",
-    "value": 10
+    "value": 10,
+    "translation": "hombre"
   },
   {
     "word": "day",
-    "value": 10
+    "value": 10,
+    "translation": "d\u00eda"
   },
   {
     "word": "wall",
-    "value": 9
+    "value": 9,
+    "translation": "pared/muro"
   },
   {
     "word": "door",
-    "value": 8
+    "value": 8,
+    "translation": "puerta"
   },
   {
     "word": "family",
-    "value": 7
+    "value": 7,
+    "translation": "familia"
   },
   {
     "word": "life",
-    "value": 7
+    "value": 7,
+    "translation": "[traducci\u00f3n de 'life']"
   },
   {
     "word": "eye",
-    "value": 7
+    "value": 7,
+    "translation": "ojo"
   },
   {
     "word": "washboard",
-    "value": 7
+    "value": 7,
+    "translation": "tabla de lavar"
   },
   {
     "word": "cart",
-    "value": 7
+    "value": 7,
+    "translation": "carrito"
   },
   {
     "word": "alley",
-    "value": 6
+    "value": 6,
+    "translation": "callej\u00f3n"
   },
   {
     "word": "picture",
-    "value": 6
+    "value": 6,
+    "translation": "imagen/foto"
   },
   {
     "word": "uniform",
-    "value": 6
+    "value": 6,
+    "translation": "uniforme"
   },
   {
     "word": "face",
-    "value": 6
+    "value": 6,
+    "translation": "cara/rostro"
   },
   {
     "word": "house",
-    "value": 6
+    "value": 6,
+    "translation": "casa"
   },
   {
     "word": "ground",
-    "value": 6
+    "value": 6,
+    "translation": "suelo/tierra"
   },
   {
     "word": "propaganda",
-    "value": 5
+    "value": 5,
+    "translation": "propaganda"
   },
   {
     "word": "painting",
-    "value": 5
+    "value": 5,
+    "translation": "pintura"
   },
   {
     "word": "arm",
-    "value": 5
+    "value": 5,
+    "translation": "brazo"
   },
   {
     "word": "people",
-    "value": 5
+    "value": 5,
+    "translation": "gente/personas"
   },
   {
     "word": "counterrevolutionary",
-    "value": 5
+    "value": 5,
+    "translation": "contrarrevolucionario"
   },
   {
     "word": "front",
-    "value": 5
+    "value": 5,
+    "translation": "frente"
   },
   {
     "word": "finger",
-    "value": 5
+    "value": 5,
+    "translation": "dedo"
   },
   {
     "word": "night",
-    "value": 5
+    "value": 5,
+    "translation": "noche"
   },
   {
     "word": "voice",
-    "value": 5
+    "value": 5,
+    "translation": "voz"
   },
   {
     "word": "window",
-    "value": 5
+    "value": 5,
+    "translation": "ventana"
   },
   {
     "word": "courtyard",
-    "value": 5
+    "value": 5,
+    "translation": "patio"
   },
   {
     "word": "grandmother",
-    "value": 5
+    "value": 5,
+    "translation": "abuela"
   },
   {
     "word": "time",
-    "value": 4
+    "value": 4,
+    "translation": "tiempo"
   },
   {
     "word": "neighborhood",
-    "value": 4
+    "value": 4,
+    "translation": "vecindario"
   },
   {
     "word": "morning",
-    "value": 4
+    "value": 4,
+    "translation": "ma\u00f1ana"
   },
   {
     "word": "air",
-    "value": 4
+    "value": 4,
+    "translation": "aire"
   },
   {
     "word": "group",
-    "value": 4
+    "value": 4,
+    "translation": "grupo"
   },
   {
     "word": "boy",
-    "value": 4
+    "value": 4,
+    "translation": "ni\u00f1o/muchacho"
   },
   {
     "word": "name",
-    "value": 4
+    "value": 4,
+    "translation": "nombre"
   },
   {
     "word": "back",
-    "value": 4
+    "value": 4,
+    "translation": "espalda/atr\u00e1s"
   },
   {
     "word": "floor",
-    "value": 4
+    "value": 4,
+    "translation": "piso/suelo"
   },
   {
     "word": "hour",
-    "value": 4
+    "value": 4,
+    "translation": "hora"
   },
   {
     "word": "square",
-    "value": 4
+    "value": 4,
+    "translation": "plaza/cuadrado"
   },
   {
     "word": "afternoon",
-    "value": 4
+    "value": 4,
+    "translation": "tarde"
   },
   {
     "word": "one",
-    "value": 4
+    "value": 4,
+    "translation": "uno"
   },
   {
     "word": "room",
-    "value": 4
+    "value": 4,
+    "translation": "habitaci\u00f3n/cuarto"
   },
   {
     "word": "hand",
-    "value": 4
+    "value": 4,
+    "translation": "mano"
   },
   {
     "word": "bicycle",
-    "value": 4
+    "value": 4,
+    "translation": "bicicleta"
   },
   {
     "word": "cup",
-    "value": 4
+    "value": 4,
+    "translation": "taza"
   },
   {
     "word": "suicide",
-    "value": 4
+    "value": 4,
+    "translation": "suicidio"
   },
   {
     "word": "corner",
-    "value": 3
+    "value": 3,
+    "translation": "esquina"
   },
   {
     "word": "way",
-    "value": 3
+    "value": 3,
+    "translation": "camino/manera"
   },
   {
     "word": "armband",
-    "value": 3
+    "value": 3,
+    "translation": "brazalete"
   }
 ]

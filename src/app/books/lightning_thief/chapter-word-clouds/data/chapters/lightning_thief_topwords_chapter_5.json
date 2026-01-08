@@ -1,202 +1,252 @@
 [
   {
     "word": "god",
-    "value": 14
+    "value": 14,
+    "translation": "dios"
   },
   {
     "word": "man",
-    "value": 11
+    "value": 11,
+    "translation": "hombre"
   },
   {
     "word": "way",
-    "value": 11
+    "value": 11,
+    "translation": "camino"
   },
   {
     "word": "eye",
-    "value": 10
+    "value": 10,
+    "translation": "ojo"
   },
   {
     "word": "time",
-    "value": 9
+    "value": 9,
+    "translation": "tiempo"
   },
   {
     "word": "year",
-    "value": 7
+    "value": 7,
+    "translation": "año"
   },
   {
     "word": "girl",
-    "value": 6
+    "value": 6,
+    "translation": "niña"
   },
   {
     "word": "hand",
-    "value": 6
+    "value": 6,
+    "translation": "mano"
   },
   {
     "word": "boy",
-    "value": 6
+    "value": 6,
+    "translation": "niño"
   },
   {
     "word": "mom",
-    "value": 6
+    "value": 6,
+    "translation": "mamá"
   },
   {
     "word": "wheelchair",
-    "value": 6
+    "value": 6,
+    "translation": "silla de ruedas"
   },
   {
     "word": "card",
-    "value": 6
+    "value": 6,
+    "translation": "carta"
   },
   {
     "word": "d",
-    "value": 6
+    "value": 6,
+    "translation": "d"
   },
   {
     "word": "hair",
-    "value": 5
+    "value": 5,
+    "translation": "cabello"
   },
   {
     "word": "chair",
-    "value": 5
+    "value": 5,
+    "translation": "silla"
   },
   {
     "word": "porch",
-    "value": 5
+    "value": 5,
+    "translation": "porche"
   },
   {
     "word": "table",
-    "value": 5
+    "value": 5,
+    "translation": "mesa"
   },
   {
     "word": "glass",
-    "value": 5
+    "value": 5,
+    "translation": "vaso"
   },
   {
     "word": "top",
-    "value": 5
+    "value": 5,
+    "translation": "cima"
   },
   {
     "word": "camp",
-    "value": 5
+    "value": 5,
+    "translation": "campamento"
   },
   {
     "word": "horn",
-    "value": 5
+    "value": 5,
+    "translation": "cuerno"
   },
   {
     "word": "mother",
-    "value": 5
+    "value": 5,
+    "translation": "madre"
   },
   {
     "word": "cookie",
-    "value": 5
+    "value": 5,
+    "translation": "galleta"
   },
   {
     "word": "leg",
-    "value": 5
+    "value": 5,
+    "translation": "pierna"
   },
   {
     "word": "thing",
-    "value": 5
+    "value": 5,
+    "translation": "cosa"
   },
   {
     "word": "name",
-    "value": 5
+    "value": 5,
+    "translation": "nombre"
   },
   {
     "word": "box",
-    "value": 4
+    "value": 4,
+    "translation": "caja"
   },
   {
     "word": "shirt",
-    "value": 4
+    "value": 4,
+    "translation": "camisa"
   },
   {
     "word": "blood",
-    "value": 4
+    "value": 4,
+    "translation": "sangre"
   },
   {
     "word": "house",
-    "value": 4
+    "value": 4,
+    "translation": "casa"
   },
   {
     "word": "myth",
-    "value": 4
+    "value": 4,
+    "translation": "mito"
   },
   {
     "word": "satyr",
-    "value": 4
+    "value": 4,
+    "translation": "sátiro"
   },
   {
     "word": "kid",
-    "value": 4
+    "value": 4,
+    "translation": "niño"
   },
   {
     "word": "chip",
-    "value": 4
+    "value": 4,
+    "translation": "ficha"
   },
   {
     "word": "cabin",
-    "value": 4
+    "value": 4,
+    "translation": "cabaña"
   },
   {
     "word": "horse",
-    "value": 4
+    "value": 4,
+    "translation": "caballo"
   },
   {
     "word": "director",
-    "value": 4
+    "value": 4,
+    "translation": "director"
   },
   {
     "word": "class",
-    "value": 4
+    "value": 4,
+    "translation": "clase"
   },
   {
     "word": "course",
-    "value": 4
+    "value": 4,
+    "translation": "curso"
   },
   {
     "word": "game",
-    "value": 4
+    "value": 4,
+    "translation": "juego"
   },
   {
     "word": "father",
-    "value": 4
+    "value": 4,
+    "translation": "padre"
   },
   {
     "word": "force",
-    "value": 4
+    "value": 4,
+    "translation": "fuerza"
   },
   {
     "word": "people",
-    "value": 4
+    "value": 4,
+    "translation": "gente"
   },
   {
     "word": "heart",
-    "value": 4
+    "value": 4,
+    "translation": "corazón"
   },
   {
     "word": "wine",
-    "value": 4
+    "value": 4,
+    "translation": "vino"
   },
   {
     "word": "spoon",
-    "value": 3
+    "value": 3,
+    "translation": "cuchara"
   },
   {
     "word": "hill",
-    "value": 3
+    "value": 3,
+    "translation": "colina"
   },
   {
     "word": "juice",
-    "value": 3
+    "value": 3,
+    "translation": "jugo"
   },
   {
     "word": "shoe",
-    "value": 3
+    "value": 3,
+    "translation": "zapato"
   },
   {
     "word": "reason",
-    "value": 3
+    "value": 3,
+    "translation": "razón"
   }
 ]
