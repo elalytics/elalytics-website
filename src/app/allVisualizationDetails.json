@@ -89,14 +89,14 @@
     "interactivity": false,
     "link": "https://drive.google.com/file/d/12ylMzQsqmKLotS14WZAMgoQNb4gVBwzk/view?usp=drive_link"
   },
-  "https://drive.google.com/file/d/1DRf0E3_934Se3g0KLhSaLBjHgxBdMf1y/view?usp=sharing": {
+  "/books/summer-of-the-mariposas/character-count": {
     "grade": "Grade 7",
     "category": "",
     "title": "15 Most Frequent Words (by character)",
     "textName": "Summer of the Mariposas",
     "description": "<div class=\"space-y-3\"><p>This visualization shows the words associated with the selected characters are counted and the most frequent words are listed in order. </p><p>All words are changed to lowercase first. This visualization doesn&apos;t contain stop words. Stop words are commonly used words such as &quot;the,&quot; &quot;is,&quot; and &quot;at&quot;. These words are often filtered out in text processing and search queries to focus on more descriptive words.</p></div>",
     "interactivity": false,
-    "link": "https://drive.google.com/file/d/1DRf0E3_934Se3g0KLhSaLBjHgxBdMf1y/view?usp=sharing"
+    "link": "/books/summer-of-the-mariposas/character-count"
   },
   "https://drive.google.com/file/d/1lO0k4HZzHM8QHxU_q0qZtdu0FMRcSGtJ/view?usp=sharing": {
     "grade": "Grade 7",
