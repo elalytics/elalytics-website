@@ -162,6 +162,9 @@ export default function Visualizations() {
           <h1 className="text-4xl font-bold text-cardinal-red mb-2">
             Elalytics
           </h1>
+          <Link href="/routines" className="block w-full mb-3 p-2 text-center font-bold text-white bg-cardinal-red rounded hover:opacity-90 transition-opacity">
+            Routines
+          </Link>
           <FilterComponent vizData={dataAsArray} onFilter={handleFilter} />
         </div>
         <div className="p-5 overflow-y-scroll w-[calc(100%-400px)]">
